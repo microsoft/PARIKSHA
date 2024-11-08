@@ -1,0 +1,1622 @@
+{
+    "hindi": [
+        {
+            "prompt_id": "19fdcc53-7683-44d9-b4bb-3ba19c19154d",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "How can I save money on everyday expenses?",
+            "hindi": "मैं रोजमर्रा के खर्चों पर पैसे कैसे बचा सकता हूं?"
+        },
+        {
+            "prompt_id": "8f5739ca-54a6-4134-a8f8-560f2f3263cf",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "What is the difference between a debit card and a credit card?",
+            "hindi": "डेबिट कार्ड और क्रेडिट कार्ड में क्या अंतर है?"
+        },
+        {
+            "prompt_id": "b4143750-04a1-47b3-8946-a8c14db57308",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "How can I protect myself from identity theft and fraud?",
+            "hindi": "मैं खुद को पहचान की चोरी और धोखाधड़ी से कैसे बचा सकता हूं?"
+        },
+        {
+            "prompt_id": "c42ac3eb-290d-420d-988d-2733182aacd3",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "What are some simple ways to track our spending and manage our finances?",
+            "hindi": "हमारे खर्च को ट्रैक करने और हमारे वित्त का प्रबंधन करने के कुछ सरल तरीके क्या हैं?"
+        },
+        {
+            "prompt_id": "d907e40c-bb5b-4501-8dcb-88aa94030d8e",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "What are some ways to earn extra income outside of my regular job?",
+            "hindi": "मेरी नियमित नौकरी के बाहर अतिरिक्त आय अर्जित करने के कुछ तरीके क्या हैं?"
+        },
+        {
+            "prompt_id": "222d3690-01ba-4d51-b167-922a35c9652f",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "How can I incorporate more fruits and vegetables into my daily meals?",
+            "hindi": "मैं अपने दैनिक भोजन में अधिक फलों और सब्जियों को कैसे शामिल कर सकता हूं?"
+        },
+        {
+            "prompt_id": "6105907f-4d39-484a-bd40-4d15a02b9373",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "Why is it important to get enough sleep, and how can I improve my sleep quality?",
+            "hindi": "पर्याप्त नींद लेना क्यों महत्वपूर्ण है, और मैं अपनी नींद की गुणवत्ता में सुधार कैसे कर सकता हूं?"
+        },
+        {
+            "prompt_id": "f1bf6bb5-fb54-41d8-965c-5e9d9ce19936",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "What are the benefits of regular physical activity for our overall health?",
+            "hindi": "हमारे समग्र स्वास्थ्य के लिए नियमित शारीरिक गतिविधि के क्या लाभ हैं?"
+        },
+        {
+            "prompt_id": "98b2978b-2e8a-4f80-a35f-b8661c3f0415",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "How can I manage stress effectively and maintain my mental well-being?",
+            "hindi": "मैं तनाव को प्रभावी ढंग से कैसे प्रबंधित कर सकता हूं और अपनी मानसिक भलाई को कैसे बनाए रख सकता हूं?"
+        },
+        {
+            "prompt_id": "f6fe17bd-76e9-4048-8fc6-be7b9a5a43c2",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "How can I improve my posture to prevent back and neck pain?",
+            "hindi": "पीठ और गर्दन के दर्द को रोकने के लिए मैं अपनी मुद्रा में सुधार कैसे कर सकता हूं?"
+        },
+        {
+            "prompt_id": "13eb9bd4-6e07-4463-915f-9ab59028afa4",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715871875,
+            "prompt_type": "culture",
+            "english": "Poet Kabir Das significantly influenced the Bhakti movement. Explain the significance of his Hindi poetry in shaping the cultural identity of Hindi speakers.",
+            "hindi": "कवि कबीर दास ने भक्ति आंदोलन को महत्वपूर्ण रूप से प्रभावित किया। हिंदी भाषियों की सांस्कृतिक पहचान को आकार देने में उनकी हिंदी कविता के महत्व को स्पष्ट करें।"
+        },
+        {
+            "prompt_id": "56a2c9e4-de27-496b-a66a-2da45e6288ed",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715871875,
+            "prompt_type": "culture",
+            "english": "Hindi cinema, popularly known as Bollywood, has played a transformative role in shaping popular culture in India. Analyze the impact of Hindi cinema on popular culture in India, considering its role in shaping societal norms and values.",
+            "hindi": "बॉलीवुड के नाम से मशहूर हिंदी सिनेमा ने भारत में लोकप्रिय संस्कृति को आकार देने में परिवर्तनकारी भूमिका निभाई है। सामाजिक मानदंडों और मूल्यों को आकार देने में इसकी भूमिका पर विचार करते हुए, भारत में लोकप्रिय संस्कृति पर हिंदी सिनेमा के प्रभाव का विश्लेषण करें।"
+        },
+        {
+            "prompt_id": "495ee91a-0436-4931-b6a1-4de0da5d78f6",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715871875,
+            "prompt_type": "culture",
+            "english": "Holi mostly celebrated in Braj region of Uttar Pradesh. Discuss the historical origins, and traditional rituals associated with Holi celebrations.",
+            "hindi": "होली अधिकतर उत्तर प्रदेश के ब्रज क्षेत्र में मनाई जाती है। होली उत्सव से जुड़े ऐतिहासिक मूल और पारंपरिक अनुष्ठानों पर चर्चा करें।"
+        },
+        {
+            "prompt_id": "5b0ecb31-6ead-42ba-ab63-506e2db956b8",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715871875,
+            "prompt_type": "culture",
+            "english": "Madhubani painting was traditionally created by the women of many communities in the Mithila region of India. Examine the historical and cultural roots of traditional art forms like Madhubani painting",
+            "hindi": "मधुबनी पेंटिंग पारंपरिक रूप से भारत के मिथिला क्षेत्र के कई समुदायों की महिलाओं द्वारा बनाई गई थी। मधुबनी पेंटिंग जैसे पारंपरिक कला रूपों की ऐतिहासिक और सांस्कृतिक जड़ों की जांच करें"
+        },
+        {
+            "prompt_id": "7bd4b1a9-e655-40a7-937f-add7bc9c47ef",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715871875,
+            "prompt_type": "culture",
+            "english": "The Ganga River holds immense historical, cultural, and ecological significance in the Hindi-speaking regions of India, serving as a lifeline for millions of people. How has the Ganga River shaped the socio-economic landscape and cultural identity of the region?",
+            "hindi": "गंगा नदी भारत के हिंदी भाषी क्षेत्रों में अत्यधिक ऐतिहासिक, सांस्कृतिक और पारिस्थितिक महत्व रखती है, जो लाखों लोगों के लिए जीवन रेखा के रूप में काम करती है। गंगा नदी ने क्षेत्र के सामाजिक-आर्थिक परिदृश्य और सांस्कृतिक पहचान को कैसे आकार दिया है?"
+        },
+        {
+            "prompt_id": "2ed1fef0-4ab9-4c3f-b378-dfd4bc1e02bf",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715871875,
+            "prompt_type": "culture",
+            "english": "Mian Tansen contributions to Hindustani classical music are immense and continue to influence musicians even today. How did Tansen's musical contributions influence broader cultural dynamics?",
+            "hindi": "हिंदुस्तानी शास्त्रीय संगीत में मियां तानसेन का योगदान बहुत बड़ा है और आज भी संगीतकारों को प्रभावित करता है। तानसेन के संगीत योगदान ने व्यापक सांस्कृतिक गतिशीलता को कैसे प्रभावित किया?"
+        },
+        {
+            "prompt_id": "6599053c-09d4-48d4-b10a-8751c938409a",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715871875,
+            "prompt_type": "culture",
+            "english": "In what ways has the 'sari pratha' (widow immolation) influenced the cultural identity and social dynamics of Indian society throughout history?",
+            "hindi": "किस तरह से 'साड़ी प्रथा' (विधवा आत्मदहन) ने पूरे इतिहास में भारतीय समाज की सांस्कृतिक पहचान और सामाजिक गतिशीलता को प्रभावित किया है?"
+        },
+        {
+            "prompt_id": "efb97238-49b1-46e2-a47c-5573fefabd6d",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715871875,
+            "prompt_type": "culture",
+            "english": "In what ways has the dowry system influenced the evolution of social norms in North India, and what factors contribute to its prevalence despite legal prohibitions and societal awareness campaigns?",
+            "hindi": "दहेज प्रथा ने उत्तर भारत में सामाजिक मानदंडों के विकास को किस तरह से प्रभावित किया है, और कानूनी निषेधों और सामाजिक जागरूकता अभियानों के बावजूद इसके प्रसार में कौन से कारक योगदान करते हैं?"
+        },
+        {
+            "prompt_id": "f60dc634-1a23-4feb-8f12-2ac8b9507ec1",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715871875,
+            "prompt_type": "culture",
+            "english": "Discuss the socio-cultural implications of the 'Pardaha System' prevalent in parts of Uttar Pradesh and Bihar, and its impact on gender dynamics and societal structure.",
+            "hindi": "उत्तर प्रदेश और बिहार के कुछ हिस्सों में प्रचलित 'पर्दा प्रथा' के सामाजिक-सांस्कृतिक निहितार्थ और लिंग गतिशीलता और सामाजिक संरचना पर इसके प्रभाव पर चर्चा करें।"
+        },
+        {
+            "prompt_id": "a7aa437f-f7fe-4872-825e-0fafaa2b9fc9",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715871875,
+            "prompt_type": "culture",
+            "english": "Discuss the evolution of cuisine in Madhya Pradesh, Rajasthan, and Uttar Pradesh, and its reflection of historical, cultural, and geographical influences.",
+            "hindi": "मध्य प्रदेश, राजस्थान और उत्तर प्रदेश में व्यंजनों के विकास और इसके ऐतिहासिक, सांस्कृतिक और भौगोलिक प्रभावों के प्रतिबिंब पर चर्चा करें।"
+        }
+    ],
+    "tamil": [
+        {
+            "prompt_id": "73af25eb-8f96-4be1-9cce-b03c2584e0f8",
+            "prompt_creator": "msri ",
+            "prompt_timestamp": 1714550046,
+            "prompt_type": "culture",
+            "english": "How are widows portrayed in Tamil movies of the present time. Compare this with the treatment of widows in Tamil movies about 30 years ago. It will be good to give names of films to support the description.",
+            "tamil": "தமிழ் திரைப்படங்களில் சமகாலத்தில் விதவைகள் எவ்வாறு சித்தரிக்கப்பட்டு இருக்கிறார்கள்? இதற்கும் சுமார் 30 ஆண்டுகளுக்கு முன்னால் வந்த திரைப்படங்களில் விதவைகளின் பாத்திரங்கள் சித்தரிக்கப்பட்டதற்கும் வித்தியாசங்கள் உள்ளனவா என்பதை பற்றி விவரிக்கவும். படங்களின் பெயர்களை சுட்டிக்காட்டி விவரித்தால் நல்லது."
+        },
+        {
+            "prompt_id": "a4a01865-bb68-46ee-8097-9638dac1564e",
+            "prompt_creator": "msri ",
+            "prompt_timestamp": 1714550046,
+            "prompt_type": "culture",
+            "english": "Describe the strong influence of Tamil cinema on politics with specific examples.",
+            "tamil": "தமிழ்நாட்டின் திரைப்படத்துறைக்கும் அரசியலுக்கும் உள்ள நெருங்கிய தொடர்பை சரியான உதாரணங்களுடன் விவரிக்கவும்."
+        },
+        {
+            "prompt_id": "65a87a9f-d9c7-4967-9bee-1251c1149e40",
+            "prompt_creator": "msri ",
+            "prompt_timestamp": 1714550046,
+            "prompt_type": "culture",
+            "english": "Explain the following proverb with an example: listened to ramayan all night and asks 'is Rama the uncle of Sita?'",
+            "tamil": "விடிய விடிய ராமாயணம் கேட்டு சீதைக்கு ராமன் சித்தப்பனா என்று கேட்கிறான். இந்த பழமொழியை ஒரு எடுத்துக்காட்டுடன் விளக்குக. "
+        },
+        {
+            "prompt_id": "2b2a0e5c-bcdb-4f93-a940-1a6b1cab4679",
+            "prompt_creator": "msri ",
+            "prompt_timestamp": 1714550046,
+            "prompt_type": "culture",
+            "english": "What is the practice of 'parisam' in Tamil Nadu? Which communities practice this? Describe this practice briefly.",
+            "tamil": "பரிசம் போடுவது என்றால் என்ன எந்தெந்த சமுதாயங்களில் இந்த பழக்கம் உள்ளது. இந்த பழக்கத்தை சற்று விவரிக்கவும். "
+        },
+        {
+            "prompt_id": "42e14884-89a7-467f-a318-3ff1e5860173",
+            "prompt_creator": "msri ",
+            "prompt_timestamp": 1714550046,
+            "prompt_type": "culture",
+            "english": "In Tamil Nadu, which of the following are acceptable as a bride for a young man to marry. 1) Daughter of father's sister 2) Daughter of mother's younger sister 3) Daughter of mother's brother and 4) Daughter of father's elder brother. Describe the reasons for this.",
+            "tamil": "தமிழ்நாட்டில் ஒரு இளைஞன் கீழே வரும் இவர்களில் யாரை திருமணம் செய்து கொள்வதே சமூகம் ஒத்துக் கொள்கிறது. 1) அத்தை மகள் 2) சித்தி மகள் 3) மாமன் மகள் 4) பெரியப்பா மகள். _x000D__x000D_\nஇதற்கான காரணங்களை விவரிக்கவும்."
+        },
+        {
+            "prompt_id": "a55d7225-3a0f-48bb-b796-1370f996987d",
+            "prompt_creator": "msri ",
+            "prompt_timestamp": 1714550046,
+            "prompt_type": "creative",
+            "english": "Create an alternate modern version for the proverb \"He who is unable to reap, carries fifty-eight sickles at his side\"",
+            "tamil": " \"அறுக்கமாட்டாதவன் இடுப்பிலே ஐம்பத்தெட்டு அரிவாள்\" இந்தப் பழமொழியை காலத்திற்கு  ஏற்றவாறு மாற்றி வேறு ஒரு புது மொழியை பகிரவும்."
+        },
+        {
+            "prompt_id": "86a4890e-cb83-459e-bb27-e95b38e66dfe",
+            "prompt_creator": "msri ",
+            "prompt_timestamp": 1714550046,
+            "prompt_type": "creative",
+            "english": "Create a venbaa which cautions against indiscriminate use of smartphones.",
+            "tamil": "ஸ்மார்ட்போன்ஐ கண்மூடித்தனமாக உபயோகித்தால் ஏற்படும் தீய விளைவுகளை ஒரு வெண்பா மூலம் அறிவுறுத்து"
+        },
+        {
+            "prompt_id": "608f145b-d625-4ba4-b55b-8f7204267b89",
+            "prompt_creator": "msri ",
+            "prompt_timestamp": 1714550046,
+            "prompt_type": "creative",
+            "english": "Create a modern story equivalent to King Paari's donation of his chariot to a jasmine vine.",
+            "tamil": "வள்ளல் பாரி முல்லை கொடிக்கு தன் தேரை கொடுத்து புகழ் பெற்றான். அவ்வாறான ஒரு வள்ளல் தற்காலத்தில் இருந்தால் யாருக்கு எதை கொடுத்து புகழ் பெறுவான் என்பதைப் பற்றி ஒரு கதை புனையவும்."
+        },
+        {
+            "prompt_id": "6909a70f-b925-4934-b8aa-03c3c8a0880e",
+            "prompt_creator": "msri ",
+            "prompt_timestamp": 1714550046,
+            "prompt_type": "factual",
+            "english": "What is the first novel published in Tamil? Give a synopsis",
+            "tamil": "தமிழ் மொழியில் பிரசிரிக்கப்பட்ட முதல் புதினம் எது? அந்த புதினத்தை பற்றி சற்று விவரிக்கவும். கதையின் சுருக்கத்தையும் கொடுக்கவும். "
+        },
+        {
+            "prompt_id": "3458e735-febb-41c4-969a-9999a294602c",
+            "prompt_creator": "msri ",
+            "prompt_timestamp": 1714550046,
+            "prompt_type": "factual",
+            "english": "Why is there a chettiar choultry in Varanasi? And what is its current role in the rituals of Kashi Viswanath temple?",
+            "tamil": "காசியில் உள்ள செட்டியார் சத்திரம் யாரால் எதற்காக கட்டப்பட்டது? அந்த சத்திரத்திற்கும் காசி விஸ்வநாதர் கோயிலுக்கும் உள்ள தற்கால தொடர்பு என்ன? அதன் சரித்திரத்தை  விவரிக்கவும்."
+        },
+        {
+            "prompt_id": "c207ea9d-3600-461b-a12b-4ebc1abded19",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "What documents are required to open a bank account?",
+            "tamil": "பேங்க் அக்கௌண்ட் ஓபன் செய்வதற்க்கு என்னென்ன டாக்குமென்ட் தேவை?"
+        },
+        {
+            "prompt_id": "542f077e-b9a1-4d5d-a10d-7082c83f141e",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "How can I generate my digital bank statement?",
+            "tamil": "எனது டிஜிட்டல் பேங்க் ஸ்டேட்மெண்ட் எவ்வாறு பெறுவது?"
+        },
+        {
+            "prompt_id": "344b61b4-ccd6-42a6-81f1-d8159fad351a",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "Why is it important to pay bills on time?",
+            "tamil": "சரியான நேரத்தில் பில்களை செலுத்துவது ஏன் முக்கியம்?"
+        },
+        {
+            "prompt_id": "d46bfda5-4e63-42e2-87f7-dff348ff6e28",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "What is the difference between a debit card and a credit card?",
+            "tamil": "டெபிட் கார்டுக்கும் கிரெடிட் கார்டுக்கும் என்ன வித்தியாசம்?"
+        },
+        {
+            "prompt_id": "60864a28-0398-45ab-b61c-5d36a0857497",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "What is the difference between saving and investing?",
+            "tamil": "சேமிப்புக்கும் இன்வெஸ்ட்மென்ட் செய்வதற்கும் என்ன வித்தியாசம்?"
+        },
+        {
+            "prompt_id": "4a585651-42f4-4433-b6a3-2389e21e91f9",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "How much water should I drink daily?",
+            "tamil": "தினமும் நான் எவ்வளவு தண்ணீர் குடிக்க வேண்டும்?"
+        },
+        {
+            "prompt_id": "5f1729a2-3e95-4e3c-bc16-2e4037fc3324",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "What are some ways to keep my mind healthy?",
+            "tamil": "என் மனதை ஆரோக்கியமாக வைக்க சில வழிகள் யாவை?"
+        },
+        {
+            "prompt_id": "00b449b3-2137-4cc5-9e0d-26b0c9da707a",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "Why Vitamin D is important for our body?",
+            "tamil": "வைட்டமின் டி நம் உடலுக்கு ஏன் முக்கியமானது?"
+        },
+        {
+            "prompt_id": "998d0b1e-ee94-4788-b277-cc46e043e0ed",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "How to gain weight?",
+            "tamil": "எப்படி என்னுடைய உடல் எடையை அதிகரிப்பது"
+        },
+        {
+            "prompt_id": "0747365b-5d70-49b7-80da-bbae69c46cfa",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "What is vaccination? why it is mandatory?",
+            "tamil": "தடுப்பூசி என்றால் என்ன? ஏன் அது முக்கியம்?"
+        }
+    ],
+    "kannada": [
+        {
+            "prompt_id": "b49508fd-984f-41ea-a88c-c417853f34ef",
+            "prompt_creator": "msri",
+            "prompt_timestamp": 1714550046,
+            "prompt_type": "factual",
+            "english": "Describe in summary the historical conflict related to Kaveri river",
+            "kannada": "ಕಾವೇರಿ ನದಿ ಸಮಸ್ಯೆಯ ಐತಿಹಾಸಿಕ ಹಿನ್ನೆಲೆಯನ್ನು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ವಿವರಿಸಿ"
+        },
+        {
+            "prompt_id": "b67b4668-90c1-45d4-ad99-2d4fb2eb470b",
+            "prompt_creator": "msri",
+            "prompt_timestamp": 1714550046,
+            "prompt_type": "cultural",
+            "english": "Many places of Karnataka are referred to in Ramayana. What is the significance of those places?",
+            "kannada": "ಕರ್ನಾಟಕದ ಅನೇಕ ಸ್ಥಳಗಳು ರಾಮಾಯಣದಲ್ಲಿ ಉಲ್ಲೇಖ್ಯವಾಗಿವೆ, ಅವುಗಳ ಮಹತ್ವ ಏನು?"
+        },
+        {
+            "prompt_id": "140ad248-4fd4-4e03-a8bc-65a6cd7428b8",
+            "prompt_creator": "msri",
+            "prompt_timestamp": 1714550046,
+            "prompt_type": "cultural",
+            "english": "Describe the demon worship practice prevalent in coastal Karnataka.",
+            "kannada": "ಕರಾವಳಿ ಪ್ರದೇಶದಲ್ಲಿ ಆಚರಿಸುವ ಭೂತಾರಾಧನೆ ಪದ್ಧತಿಯ ಬಗ್ಗೆ ವಿವರಿಸಿ"
+        },
+        {
+            "prompt_id": "829b706a-574f-45d4-bdf1-e4923db2e838",
+            "prompt_creator": "msri",
+            "prompt_timestamp": 1714550046,
+            "prompt_type": "cultural",
+            "english": "What is the difference between the kannada spoken in north Karnataka and that in Bangalore?",
+            "kannada": "ಉತ್ತರ ಕರ್ನಾಟಕದಲ್ಲಿ ಬಳಕೆಯಲ್ಲಿರುವ ಕನ್ನಡ ಹಾಗು ಬೆಂಗಳೂರು ಕನ್ನಡದ ಮಧ್ಯೆ ಇರುವ ವ್ಯತ್ಯಾಸಗಳೇನು?"
+        },
+        {
+            "prompt_id": "97454a35-87fc-4b45-96c8-1b4d20c79c40",
+            "prompt_creator": "msri",
+            "prompt_timestamp": 1714550046,
+            "prompt_type": "factual",
+            "english": "Who is Vatal Nagaraj? what are his achievements?",
+            "kannada": "ವಾಟಾಳ್ ನಾಗರಾಜ್ ಯಾರು? ಅವರ ಸಾಧನೆಗಳೇನು?"
+        },
+        {
+            "prompt_id": "1f175a88-fa1f-4f6f-9a31-3d06b1339f5b",
+            "prompt_creator": "msri",
+            "prompt_timestamp": 1714550046,
+            "prompt_type": "cultural",
+            "english": "What are some of the funny incidents related to traffic in Bangalore?",
+            "kannada": "ಬೆಂಗಳೂರು ನಗರದ ಟ್ರಾಫಿಕ್ ಸಾಂಚಾರದ ಬಗ್ಗೆ ಇರುವ ಹಾಸ್ಯಾಸ್ಪದ ಸಂಗತಿಗಳೇನು?"
+        },
+        {
+            "prompt_id": "a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e",
+            "prompt_creator": "msri",
+            "prompt_timestamp": 1714550046,
+            "prompt_type": "cultural",
+            "english": "what opinion do the Kannadigas hold about the migrants from other states residing in Bangalore?",
+            "kannada": "ಹೊರರಾಜ್ಯದ ಬೆಂಗಳೂರಿನ ನಿವಾಸಿಗಳ ಬಗ್ಗೆ ಕನ್ನಡಿಗರಲ್ಲಿ ಏನು ಅಭಿಪ್ರಾಯವಿದೆ?"
+        },
+        {
+            "prompt_id": "561143a8-6533-4b06-8b28-d85c3b47e67c",
+            "prompt_creator": "msri",
+            "prompt_timestamp": 1714550046,
+            "prompt_type": "factual",
+            "english": "What are the key differences in policies of Mohammad Adil Shah and Tipu Sultan towards Hinduism in their kingdoms?",
+            "kannada": "ಮೊಹಮ್ಮದ್ ಆದಿಲ್ ಶಾ ಮತ್ತು ಟೀಪು ಸುಲ್ತಾನ್ ಆಳ್ವಿಕೆಯಲ್ಲಿ ಹಿಂದೂ ಧರ್ಮದ ಬಗ್ಗೆ ತೋರಿದ ನೀತಿಗಳಲ್ಲಿ ಏನು ವ್ಯತ್ಯಾಸಗಳಿವೆ?"
+        },
+        {
+            "prompt_id": "9b16d388-428d-4e37-bd6e-771c309845c5",
+            "prompt_creator": "msri",
+            "prompt_timestamp": 1714550046,
+            "prompt_type": "cultural",
+            "english": "Although in the neighbouring states movie actors raise to prominence in politics, why is it not seen in Karnataka?",
+            "kannada": "ನೆರೆಯ ರಾಜ್ಯಗಳಲ್ಲಿ ಚಲನಚಿತ್ರ ನಟರು ರಾಜಕೀಯಕ್ಕೆ ಬರುವುದು ಸಾಮಾನ್ಯವಾಗಿದ್ದು, ಕರ್ನಾಟಕದಲ್ಲಿ ಯಾಕೆ ಅದು ಕಾಣಬರುವುದಿಲ್ಲ?"
+        },
+        {
+            "prompt_id": "311ee5b1-19ef-4bf9-9c7f-9f5757acf265",
+            "prompt_creator": "msri",
+            "prompt_timestamp": 1714550046,
+            "prompt_type": "cultural",
+            "english": "Carnatic music gets ita name from Karnataka. What is it origin place?",
+            "kannada": "ಕರ್ನಾಟಕ ಸಂಗೀತ ಅದರ ಹೆಸರು ಪಡೆಯುವುದು ಕರ್ನಾಟಕ ರಾಜ್ಯದಿಂದ. ಅದರ ಹುಟ್ಟು ಸ್ಥಳ ಎಲ್ಲಿ?"
+        },
+        {
+            "prompt_id": "bc293bda-e649-46f7-9fef-2d208160b32d",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "How to lower blood pressure?",
+            "kannada": "ರಕ್ತದೊತ್ತಡವನ್ನು ಕಡಿಮೆ ಮಾಡುವುದು ಹೇಗೆ?"
+        },
+        {
+            "prompt_id": "2dc0c075-62cf-472e-b6bc-18a4361667de",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "What are the risks associated with smoking and how does it affect overall health?",
+            "kannada": "ಧೂಮಪಾನದಿಂದ ಉಂಟಾಗುವ ಅಪಾಯಗಳು ಯಾವುವು ಮತ್ತು ಅದು ಒಟ್ಟಾರೆ ಆರೋಗ್ಯದ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ?"
+        },
+        {
+            "prompt_id": "c2528d0a-a9c4-4171-b8c7-73ed9681bad0",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "What causes kidney stones?",
+            "kannada": "ಮೂತ್ರಪಿಂಡದ ಕಲ್ಲುಗಳಿಗೆ ಕಾರಣವೇನು?"
+        },
+        {
+            "prompt_id": "84678da4-914e-4854-a475-f6b2a1e291f4",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "How to lower cholesterol?",
+            "kannada": "ಕೊಲೆಸ್ಟ್ರಾಲ್ ಅನ್ನು ಕಡಿಮೆ ಮಾಡುವುದು ಹೇಗೆ?"
+        },
+        {
+            "prompt_id": "f4925ee5-e448-41ac-9315-c8fb13ac5ff3",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "What are the warning signs of common health conditions, such as heart disease or diabetes?",
+            "kannada": "ಹೃದ್ರೋಗ ಅಥವಾ ಮಧುಮೇಹದಂತಹ ಸಾಮಾನ್ಯ ಆರೋಗ್ಯ ಪರಿಸ್ಥಿತಿಗಳ ಎಚ್ಚರಿಕೆ ಚಿಹ್ನೆಗಳು ಯಾವುವು?"
+        },
+        {
+            "prompt_id": "1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "What are some common strategies for saving for retirement?",
+            "kannada": "ನಿವೃತ್ತಿಗಾಗಿ ಉಳಿಸಲು ಕೆಲವು ಸಾಮಾನ್ಯ ತಂತ್ರಗಳು ಯಾವುವು?"
+        },
+        {
+            "prompt_id": "e41cb486-496f-465e-ad07-76fed94a4183",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "What is the difference between saving and investing?",
+            "kannada": "ಉಳಿತಾಯ ಮತ್ತು ಹೂಡಿಕೆಯ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?"
+        },
+        {
+            "prompt_id": "bcb30da8-d92d-4fa5-b26e-9f98873c762a",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "How can I establish good credit habits?",
+            "kannada": "ಉತ್ತಮ ಕ್ರೆಡಿಟ್ ಅಭ್ಯಾಸಗಳನ್ನು ನಾನು ಹೇಗೆ ಸ್ಥಾಪಿಸಬಹುದು?"
+        },
+        {
+            "prompt_id": "ab117e7f-2f06-4517-a739-8850734bcbaa",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "What services and features should I look for in a bank account?",
+            "kannada": "ಬ್ಯಾಂಕ್ ಖಾತೆಯಲ್ಲಿ ನಾನು ಯಾವ ಸೇವೆಗಳು ಮತ್ತು ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ನೋಡಬೇಕು?"
+        },
+        {
+            "prompt_id": "de0be292-6821-4f1e-8fac-b814e88f969c",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "What is an ATM, and what i can do with it?",
+            "kannada": "ಎಟಿಎಂ ಎಂದರೇನು ಮತ್ತು ಅದರೊಂದಿಗೆ ನಾನು ಏನು ಮಾಡಬಹುದು?"
+        }
+    ],
+    "telugu": [
+        {
+            "prompt_id": "774b4848-424f-4709-b633-e693aa41288f",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "Can smoking worsen existing medical conditions such as asthma or diabetes?",
+            "telugu": "ధూమపానం, ఉబ్బసం లేదా మధుమేహం వంటి ఇప్పటికే ఉన్న వైద్య పరిస్థితులను మరింత దిగజార్చగలదా?"
+        },
+        {
+            "prompt_id": "e4a7ba5b-491f-4ae9-95e2-ff23cdddabb6",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "Is frequent coughing a sign of any problem?",
+            "telugu": "తరచుగా దగ్గు ఏదైనా సమస్యకు సంకేతమా?"
+        },
+        {
+            "prompt_id": "b5d49672-a2c1-4c02-a45b-8d1d9535750a",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "What kind of food should be taken to dissolve kidney stones",
+            "telugu": "కిడ్నీలో రాళ్లు కరిగిపోవాలంటే ఎలాంటి ఆహారం తీసుకోవాలి"
+        },
+        {
+            "prompt_id": "53b78a0e-81af-472c-8d76-ae92a949cf8f",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "What precautions should be taken to reduce back pain?",
+            "telugu": "వెన్ను నొప్పి తగ్గాలంటే ఎలాంటి జాగ్రత్తలు తీసుకోవాలి?"
+        },
+        {
+            "prompt_id": "098f2ecd-3e28-4c02-b8a7-dfdc084edaca",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "Which medicine relieves stomach pain?",
+            "telugu": "ఏ ఔషధం కడుపు నొప్పిని తగ్గిస్తుంది"
+        },
+        {
+            "prompt_id": "05c369b4-6b21-4485-81e5-60b5e860259d",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "What are the advantages and disadvantages of investing in cryptocurrencies?",
+            "telugu": "క్రిప్టోకరెన్సీలలో పెట్టుబడి పెట్టడం వల్ల కలిగే ప్రయోజనాలు మరియు నష్టాలు ఏమిటి?"
+        },
+        {
+            "prompt_id": "7e9416e1-462d-4836-8d99-9b2098738fad",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "What is a Systematic Investment Plan (SIP) and how does it work?",
+            "telugu": "సిస్టమాటిక్ ఇన్వెస్ట్‌మెంట్ ప్లాన్ (SIP) అంటే ఏమిటి మరియు అది ఎలా పని చేస్తుంది?"
+        },
+        {
+            "prompt_id": "146939a9-f233-4e9b-bdf7-45f45ec91420",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "What documentation is required to apply for a personal loan?",
+            "telugu": "పర్సనల్ లోన్ కోసం అప్లై చేయడానికి ఏ డాక్యుమెంటేషన్ అవసరం?"
+        },
+        {
+            "prompt_id": "f928b08e-061c-412c-9650-568234094c1c",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "Can I convert my zero balance account to salary account?",
+            "telugu": "నేను నా జీరో బ్యాలెన్స్ ఖాతాను జీతం ఖాతాగా మార్చవచ్చా?"
+        },
+        {
+            "prompt_id": "6b0c19d3-455c-4e40-b9bc-09c33cf028bb",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "Which investment is the 100% tax free?",
+            "telugu": "ఏ పెట్టుబడి 100% పన్ను రహితం?"
+        },
+        {
+            "prompt_id": "1d8be2e5-30b3-4d73-9c5d-b734d5ad4286",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "How are Telugu weddings different from weddings in other Indian cultures?",
+            "telugu": "తెలుగు వివాహాలు ఇతర భారతీయ సంస్కృతులో వివాహాలకు ఎలా భిన్నంగా ఉంటాయి?"
+        },
+        {
+            "prompt_id": "300c0783-5a8a-4535-8f26-059d1d1a9d5e",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "What are some of the traditional art forms practiced in Telugu culture and how have they been preserved in the modern age?",
+            "telugu": "తెలుగు సంస్కృతిలో ఆచరించే కొన్ని సాంప్రదాయక కళారూపాలు ఏమిటి మరియు అవి ఆధునిక యుగంలో ఎలా భద్రపరచబడ్డాయి?"
+        },
+        {
+            "prompt_id": "471bbcd5-88ca-4a17-b38c-414ea4df5073",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Are there any specific rituals associated with honoring ancestors in Telugu culture?",
+            "telugu": "తెలుగు సంస్కృతిలో పూర్వీకులను గౌరవించడంతో సంబంధం ఉన్న నిర్దిష్ట ఆచారాలు ఏమైనా ఉన్నాయా?"
+        },
+        {
+            "prompt_id": "e531f435-ebf7-47be-8d3f-4f4bc06b94ad",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Tell me about some famous historical person or persons who contributed greatly to Telugu culture and society?",
+            "telugu": "తెలుగు సంస్కృతికి మరియు సమాజానికి గొప్పగా దోహదపడిన కొంతమంది ప్రసిద్ధ చారిత్రక వ్యక్తి లేదా వ్యక్తుల గురించి నాకు చెప్పండి?"
+        },
+        {
+            "prompt_id": "c10b05ba-9cf3-40ef-b7a9-b91b714c29b3",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Explain the role of music and musical instruments in Telugu cultural events?",
+            "telugu": "తెలుగు సాంస్కృతిక కార్యక్రమాలలో సంగీతం మరియు సంగీత వాయిద్యాల పాత్రను వివరించండి?"
+        },
+        {
+            "prompt_id": "efc05b73-aba6-4d2c-93dd-6f7dd0ad5d31",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "What was the characteristic of Telugu culture and when it started?",
+            "telugu": "తెలుగు సంస్కృతి ఎప్పుడు మొదలైంది దాని యొక్క విశిష్టత ఏమిటి?"
+        },
+        {
+            "prompt_id": "ca10c31a-7ad5-4e2c-b591-190a0b61ff67",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Why Sankranti is called a festival of Telugu people when did it actually start?",
+            "telugu": "సంక్రాంతిని తెలుగువారి పండుగ అని ఎందుకు అంటారు, అసలు ఎప్పుడు మొదలైంది?"
+        },
+        {
+            "prompt_id": "037bd3f4-0069-488f-9f2e-232e6e7f82dd",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "In Telugu tradition, why do parents of girls pay for the first birth of a child?",
+            "telugu": "తెలుగు సంప్రదాయంలో ఆడపిల్లల తల్లితండ్రులు పిల్లల మొదటి జన్మకు ఎందుకు డబ్బు చెల్లిస్తారు?"
+        },
+        {
+            "prompt_id": "cf80f8a0-fb64-4db0-927a-b7ad1b13cdad",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "What are some common superstitions or beliefs observed in Telugu culture?",
+            "telugu": "తెలుగు సంస్కృతిలో గమనించిన కొన్ని సాధారణ మూఢనమ్మకాలు లేదా నమ్మకాలు ఏమిటి?"
+        },
+        {
+            "prompt_id": "cf55bb94-a94d-4462-8aba-bd3c2ca179f1",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Is there any reason why Telugu people use more chillies in cooking?",
+            "telugu": "తెలుగువారు వంటల్లో మిరపకాయలు ఎక్కువగా వాడటానికి కారణం ఏమైనా ఉందా?"
+        }
+    ],
+    "marathi": [
+        {
+            "prompt_id": "3b684baa-0d7c-480f-a8a7-a70c5a202139",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "What documents are required to open a bank account?",
+            "marathi": "बँकेत खाते उघडण्यासाठी कोणते कागदपत्रे लागतात?"
+        },
+        {
+            "prompt_id": "35098585-73e7-449c-8659-9db04b88ccd1",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "What are the documents required for taking a home loan?",
+            "marathi": "होम लोन घेण्यासाठी कोणकोणते कागदपत्रे लागतील?"
+        },
+        {
+            "prompt_id": "f16de99c-dc03-46e0-966e-db02599f801f",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "How to invest in share market?",
+            "marathi": "शेअर मार्केट मध्ये गुंतवणूक कसे करायचे?"
+        },
+        {
+            "prompt_id": "3cf7048c-57bf-4880-8a88-b1175a1d6e93",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "How and where should the money left over from my salary be invested?",
+            "marathi": "पगारामधून राहिलेले पैसे कसे व कुठे गुंतवले पाहिजेत?"
+        },
+        {
+            "prompt_id": "62b2aa8c-1eb0-49fc-b9f5-b6f7f5ac97a3",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "What to do if I lose my credit card?",
+            "marathi": "माझे क्रेडिट कार्ड हरवल्यास काय करायचे?"
+        },
+        {
+            "prompt_id": "a55ddfc6-227c-4ff8-bb21-e493f5f8b966",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "What are the home remedies for cold?",
+            "marathi": "सर्दी झाल्यास कोणते घरगुती उपाय करायचे?"
+        },
+        {
+            "prompt_id": "665bfe7b-d793-456e-901a-533014c5cbff",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "How can I get rid of allergy problems?",
+            "marathi": "ऍलर्जीच्या समस्येतून मुक्त कसे व्हावे?"
+        },
+        {
+            "prompt_id": "4ec2d776-2cde-43b4-9c07-e932a4dbd24d",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "What is the treatment for jaundice?",
+            "marathi": "कावीळ झाल्यास काय उपचार करावा लागेल?"
+        },
+        {
+            "prompt_id": "d00e11b7-9bf3-4646-923b-7506d8fadec8",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "What should be done to lose weight?",
+            "marathi": "वजन कमी करण्यासाठी काय उपाय करावा?"
+        },
+        {
+            "prompt_id": "307f7cc5-26b3-4a77-9d63-b2f2855821cd",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "How to take care of myself after giving birth?",
+            "marathi": "बाळाला जन्म दिल्या नंतर स्वतःची काळजी कशी घ्यावी?"
+        },
+        {
+            "prompt_id": "bb705f15-1ddf-414d-a077-f404eea330c1",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "How Varkari Sect Formed in Maharashtra? And what is the specialty of that denomination?",
+            "marathi": "महाराष्ट्रामध्ये वारकरी संप्रदाय कसा बनला? व त्या संप्रदायाचे वैशिष्ठ्य काय आहे?"
+        },
+        {
+            "prompt_id": "876320a7-8ba0-45d4-a19b-f5e2773b4a56",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "How are festivals in Maharashtra different from other states?",
+            "marathi": "महाराष्ट्रातील सण हे इतर राज्यांपेक्षा कसे वेगळे असतात?"
+        },
+        {
+            "prompt_id": "9bd606b1-fe65-4f17-be43-d06133fcaf82",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Why is the festival of Gudi Padwa celebrated? What are the different stories behind it?",
+            "marathi": "गुढी पाडवा हा सण का साजरा केला जातो? त्याच्या मागच्या वेगवेगळ्या कथा कोणत्या आहेत?"
+        },
+        {
+            "prompt_id": "c1c1397d-0fff-46e1-a5b6-321b34b3916e",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "What are the three and a half Shaktipeeths in Maharashtra? What is the importance of those Shaktipeeths?",
+            "marathi": "महाराष्ट्रातील साडे तीन शक्तीपीठे कोणती? त्या शक्तिपीठांचे महत्व काय आहे?"
+        },
+        {
+            "prompt_id": "4411d9b8-4fae-4b1e-9e3b-31c0f14e664c",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Who was Navnath and what are their stories?",
+            "marathi": "नवनाथ कोण होते आणि त्यांच्या कथा काय आहेत?"
+        },
+        {
+            "prompt_id": "e3b67c7b-796a-48e8-aeb2-c5d25bfdfeb0",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Why Vat Poornima is celebrated and what is its significance?",
+            "marathi": "वट पौर्णिमा का साजरी केली जाते आणि त्याचे महत्व काय आहे?"
+        },
+        {
+            "prompt_id": "d6f7215d-2cf5-447b-937a-af74a0a35531",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "What is Ganimikawa and who invented it?",
+            "marathi": "गनिमीकावा हि कोणती पद्धत आहे आणि याचा शोध कोणी लावला?"
+        },
+        {
+            "prompt_id": "7814067e-64ed-444e-a58f-ac9cbfb344b3",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "How did Chhatrapati Shivaji Maharaj establish Swarajya?",
+            "marathi": "छत्रपती शिवाजी महाराजांनी स्वराज्याची स्थापना कशी केली?"
+        },
+        {
+            "prompt_id": "96edb5c7-7468-4789-a7ae-c72a46101e67",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Why is Pune called the capital of learning?",
+            "marathi": "पुण्याला विद्येचं माहेरघर का बोलले जाते?"
+        },
+        {
+            "prompt_id": "34d41eab-f285-44cd-83f5-fbcb95a39b54",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "How many winds does Ashadhi Kartiki get in Pandharpur and where do they come from?",
+            "marathi": "आषाढी कार्तिकी ला पंढरपुरात किती वाऱ्या येतात आणि त्या कोणकोणत्या ठिकाणाहून येतात?"
+        }
+    ],
+    "malayalam": [
+        {
+            "prompt_id": "a7d475b3-b705-4a8f-a75b-25e5c5eed99b",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "What are the documents required to open a bank account?",
+            "malayalam": "ഒരു ബാങ്ക് അക്കൗണ്ട് തുടങ്ങാനായി ആവശ്യമായ രേഖകൾ എന്തൊക്കെയാണ്?"
+        },
+        {
+            "prompt_id": "2627e5e1-c0b8-444a-bcdc-7698d4126c94",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "What are the benefits of using a credit card?",
+            "malayalam": "ക്രെഡിറ്റ് കാർഡ് ഉപയോഗിക്കുന്നതിൻ്റെ പ്രയോജനങ്ങൾ എന്തൊക്കെയാണ്?"
+        },
+        {
+            "prompt_id": "d3a139e7-1bc9-4dfc-a77f-d77720506067",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "What is the minimum balance to be maintained in a current account?",
+            "malayalam": "ഒരു കറന്റ് അക്കൗണ്ടിൽ സൂക്ഷിക്കേണ്ട മിനിമം ബാലൻസ് എത്രയാണ്"
+        },
+        {
+            "prompt_id": "572ca832-09ce-4fcc-b77c-09700930c840",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "How can I improve my credit score?",
+            "malayalam": "എൻ്റെ ക്രെഡിറ്റ് സ്കോർ എങ്ങനെ മെച്ചപ്പെടുത്താം?"
+        },
+        {
+            "prompt_id": "4f7e3c83-87a3-48b4-aae1-8bc2773adfb3",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "What should I do if I lose my debit card?",
+            "malayalam": "എൻ്റെ ഡെബിറ്റ് കാർഡ് നഷ്ടപ്പെട്ടാൽ ഞാൻ എന്തുചെയ്യണം?"
+        },
+        {
+            "prompt_id": "e451e783-fe9a-43cb-8d63-88e3cf42f2e9",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "Suggest some methods to reduce mental stress.",
+            "malayalam": "മാനസിക പിരിമുറുക്കം കുറയ്ക്കാൻ ചില മാർഗ്ഗങ്ങൾ നിർദ്ദേശിക്കുക."
+        },
+        {
+            "prompt_id": "da97221b-f005-4bb6-b265-7783fe25b354",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "What factors should I consider when choosing a health insurance plan?",
+            "malayalam": "ഒരു ആരോഗ്യ ഇൻഷുറൻസ് പ്ലാൻ തിരഞ്ഞെടുക്കുമ്പോൾ ഞാൻ ശ്രദ്ധിക്കേണ്ട ഘടകങ്ങൾ എന്തെല്ലാമാണ്?"
+        },
+        {
+            "prompt_id": "1b54cff0-688d-46b0-9764-cb9081b3b3b2",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "What are some natural remedies for treating hair fall?",
+            "malayalam": "മുടി കൊഴിച്ചിലിനുള്ള പ്രകൃതിദത്തമായ പരിഹാരങ്ങൾ എന്തൊക്കെയാണ്?"
+        },
+        {
+            "prompt_id": "328f86d6-3ec2-4f04-950a-d80c9723fbc0",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "What are some common symptoms of depression?",
+            "malayalam": "വിഷാദരോഗത്തിൻ്റെ സാധാരണ ലക്ഷണങ്ങൾ എന്തൊക്കെയാണ്?"
+        },
+        {
+            "prompt_id": "49a18b47-dd0c-46bd-a9ad-d1244e95ce1e",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "How does high blood pressure affect my heart health?",
+            "malayalam": "ഉയർന്ന രക്തസമ്മർദ്ദം എൻ്റെ ഹൃദയാരോഗ്യത്തെ എങ്ങനെയൊക്കെ ബാധിക്കും?"
+        },
+        {
+            "prompt_id": "7c12a282-4b38-4a2d-9772-29a6dcbc59a7",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Onam is celebrated in remembrance of Emperor Mahabali, who once ruled Kerala. Whether it is a myth or has any historical reference? Explain briefly about Onam",
+            "malayalam": "കേരളം പണ്ട് ഭരിച്ചിരുന്ന മഹാബലി ചക്രവർത്തിയുടെ ഓർമ്മക്കായിട്ടാണ് ഓണം ആഘോഷിക്കുന്നത്. എന്നാൽ ഇത് ഒരു കെട്ടുകഥയാണോ അല്ലെങ്കിൽ ചരിത്രത്തിൽ എവിടെയെങ്കിലും ഇതിനെ സൂചിപ്പിക്കുണ്ടോ? ഓണത്തെക്കുറിച്ച് വിവരിക്കുക"
+        },
+        {
+            "prompt_id": "a057ca52-4d58-4078-953b-d105c9560ce3",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Matrilineal inheritance was a practice that existed in many communities in Kerala. What is meant by matrilineal inheritance? Why it is not followed in this era?",
+            "malayalam": "കേരളത്തിലെ പല സമുദായങ്ങളിലും നിലനിന്നിരുന്നു ഒരു സമ്പ്രദായം ആയിരുന്നു മരുമക്കത്തായം. എന്താണ് ഈ മരുമക്കത്തായം? എന്തുകൊണ്ടാണ് അത് ഇപ്പോൾ ആരും പിന്തുടരാത്തത്?"
+        },
+        {
+            "prompt_id": "52a15b10-1f4b-446a-942c-aba1d3c62ee8",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "What are the festivals celebrated equally by everyone in Kerala regardless of caste and religion?",
+            "malayalam": "ജാതിമതഭേദമന്യേ കേരളത്തിലെ എല്ലാവരും ഒരുപോലെ ആഘോഷിക്കുന്ന ഉത്സവങ്ങൾ എന്തെല്ലാമാണ് ?"
+        },
+        {
+            "prompt_id": "c25ce2f7-b218-40c2-a0b0-0d8473671ea3",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Why Thunchaththu Ezhuthachan is known as the father of Malayalam language? Describe the origin of Malayalam language.",
+            "malayalam": "തുഞ്ചത്ത് എഴുത്തച്ഛനെ എന്തുകൊണ്ടാണ് മലയാളഭാഷയുടെ പിതാവ് എന്നറിയപ്പെടുന്നത്? മലയാള ഭാഷയുടെ ഉത്ഭവത്തെകുറിച്ച് വിവരിക്കുക."
+        },
+        {
+            "prompt_id": "f775d9b5-d45d-456d-97e2-09309d3c23e0",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Describe about the most ancient art form of Kerala, Koottiyattom",
+            "malayalam": "കേരളത്തിലെ ഏറ്റവും പുരാതന കലാരൂപമായ കൂടിയാട്ടത്തെക്കുറിച്ച് വിവരിക്കുക"
+        },
+        {
+            "prompt_id": "d22d3197-5d61-4f36-af84-15d2a2d456ec",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "The new generation has deviated a lot from Kerala's unique heritage and culture. Explain the influence of western culture on this.",
+            "malayalam": "കേരളത്തിന്റെ തനതായ പൈതൃകത്തിൽ നിന്നും സംസ്കാരത്തിലും നിന്നും പുതിയ തലമുറ ഒരുപാട് വ്യതിചലിച്ചിരിക്കുന്നു. ഇതിൽ പാശ്ചാത്യ സംസ്ക്കാരത്തിന്റെ കടന്നു കയറ്റം വഹിച്ച പങ്ക് വിശദീകരിക്കുക"
+        },
+        {
+            "prompt_id": "bff0f7a8-3a57-4faf-ae54-3698b29f18e3",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Explain the role played by high literacy rate in the cultural heritage of Kerala",
+            "malayalam": "കേരളത്തിന്റെ സാംസ്കാരിക പൈതൃകത്തിൽ ഉയർന്ന സാക്ഷരതാ നിരക്ക് വഹിച്ച പങ്ക് വിശദമാക്കുക"
+        },
+        {
+            "prompt_id": "f6055ec5-6074-4ec0-adca-69409bb2b020",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Explain the reasons why foreigners are attracted towards Kerala's culture and traditions",
+            "malayalam": "കേരളത്തിന്റെ സമ്പന്നമായ സംസ്കാരത്തിലും പാരമ്പര്യവും വിദേശികൾ ആകൃഷ്ടരാകാനുള്ള കാരണങ്ങൾ വിശദമാക്കുക"
+        },
+        {
+            "prompt_id": "faa44a6d-579e-4474-8819-f024d79b4a8d",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Explain the role played by Kerala in the popularization, practice and preservation of Ayurveda.",
+            "malayalam": "ആയുർവേദത്തിൻ്റെ പ്രചാരത്തിലും പ്രയോഗത്തിലും സംരക്ഷണത്തിലും കേരളം വഹിച്ച പങ്ക് വിശദമാക്കുക"
+        },
+        {
+            "prompt_id": "05d39133-efe4-4626-bce0-d5db8d971bb9",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Describe the books and literary works that reflect the culture, traditions and lifestyles of Kerala.",
+            "malayalam": "കേരളത്തിന്റെ സമ്പന്നമായ സംസ്കാരം, പാരമ്പര്യങ്ങൾ, ജീവിതരീതികൾ എന്നിവയെ പ്രതിപാദിക്കുന്ന പുസ്തങ്ങളെയും സാഹിത്യകൃതികളെയും കുറിച്ച് വിവരിക്കുക"
+        }
+    ],
+    "punjabi": [
+        {
+            "prompt_id": "3445bb57-c9d5-4cae-965f-224b14dc2a57",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "How can I open a bank account?",
+            "punjabi": "ਮੈਂ ਬੈਂਕ ਵਿੱਚ ਖਾਤਾ ਕਿਵੇਂ ਖੋਲ ਸਕਦੀ ਹਾਂ?"
+        },
+        {
+            "prompt_id": "87d8f8f4-bbf2-4b3b-ac05-8c6ea4de4792",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "Can a diabetic patient get health insurance?",
+            "punjabi": "ਕੀ ਡਾਇਬਿਟਿਕ ਪੇਸ਼ਂਟ ਨੂੰ ਹੈਲਥ ਇੰਸ਼ੋਰਂਸ ਮਿਲ ਸਕਦੀ ਹੈ?"
+        },
+        {
+            "prompt_id": "b46934a0-03d9-4b69-9164-f462a4162012",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "How can I increase my credit card limit?",
+            "punjabi": "ਮੈਂ ਆਪਣੀ ਕ੍ਰੈਡਿਟ ਕਾਰਡ ਲਿਮਿਟ ਨੂੰ ਕਿਵੇਂ ਵਧਾ ਸਕਦੀ ਹਾਂ?"
+        },
+        {
+            "prompt_id": "b1c5759a-f9d4-495a-98ec-b44452dc40b4",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "If I withdraw before the FD expires, what will be the penalty?",
+            "punjabi": "ਅਗਰ ਮੈਂ ਐਫਡੀ ਖਤਮ ਹੋਣ ਤੋਂ ਪਹਿਲੇ ਤੁੜਵਾ ਲੈਨੀ ਹਾਂ ਤੇ ਮੈਨੂੰ ਕੀ ਪੈਨਲਟੀ ਪਏਗੀ?"
+        },
+        {
+            "prompt_id": "7b40d61d-47f4-4cd2-b3bc-5bc09c9ad810",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "Can I get loan on FD?",
+            "punjabi": "ਕੀ ਮੈਨੂੰ ਐਫਡੀ ਤੇ ਲੋਨ ਮਿਲ ਸਕਦਾ ਹੈਂ ?"
+        },
+        {
+            "prompt_id": "ff3c3a8f-5a17-4580-94fa-8d072ea43982",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "How can I get rid of dandruff from my hair?",
+            "punjabi": "ਮੈਂ ਆਪਣੇ ਵਾਲਾਂ ਤੋਂ ਸਿਕਰੀ ਨੂੰ ਕਿਵੇਂ ਖਤਮ ਕਰ ਸਕਦੀ ਹਾਂ?"
+        },
+        {
+            "prompt_id": "c975d2d9-99de-4ca3-8cdb-4a13af6810bb",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "Suggest some home remedies to lower high BP?",
+            "punjabi": "ਹਾਈ ਬੀਪੀ ਨੂੰ ਘੱਟ ਕਰਨ ਦਾ ਘਰੇਲੂ ਇਲਾਜ?"
+        },
+        {
+            "prompt_id": "f0b3cebf-b0aa-4326-9a4a-c98fd5a62147",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "How can I increase eyesight?",
+            "punjabi": "ਮੈਂ ਅੱਖਾਂ ਦੀ ਰੋਸ਼ਨੀ ਨੂੰ ਕਿਵੇਂ ਵਧਾ ਸਕਦੀ ਹਾਂ?"
+        },
+        {
+            "prompt_id": "b52315f0-2bcc-4e05-805c-f084e4b4e56d",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "How to increase height?",
+            "punjabi": "ਕਦ ਨੂੰ ਕਿਵੇਂ ਵਧਾਇਆ ਜਾ ਸਕਦਾ ਹੈ?"
+        },
+        {
+            "prompt_id": "7e29b798-1e02-4711-af51-ac8f537c9c87",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "Can cell phone usage cause brain cancer?",
+            "punjabi": "ਕੀ ਸੈਲ ਫੋਨ ਇਸਤੇਮਾਲ ਕਰਨ ਨਾਲ ਬਰੇਨ ਕੈਂਸਰ ਹੋ ਸਕਦਾ ਹੈ?"
+        },
+        {
+            "prompt_id": "6909d7fe-5144-4dff-bae7-e45a24a129d1",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Why did the Sikhs fight the Mughals and what was the result?",
+            "punjabi": "ਸਿੱਖ ਮੁਗਲਾਂ ਨਾਲ ਕਿਉਂ ਲੜੇ ਅਤੇ ਇਹਦਾ ਕੀ ਨਤੀਜਾ ਨਿਕਲਿਆ?"
+        },
+        {
+            "prompt_id": "4f22a432-c8c9-4cb9-9d5a-5bec0ff18d94",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Who laid the foundation of Sikhism and who founded the Khalsa Panth?",
+            "punjabi": "ਸਿੱਖ ਧਰਮ ਦੀ ਨੀਂਹ ਕਿਸ ਨੇ ਰੱਖੀ ਸੀ ਅਤੇ ਖਾਲਸਾ ਪੰਥ ਦੀ ਸਥਾਪਨਾ ਕਿਸ ਨੇ ਕੀਤੀ ਸੀ?"
+        },
+        {
+            "prompt_id": "5ecfc3ba-b507-4a18-9b9a-326d2fff0345",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Who laid the foundation of Harmandir Sahib and why its four doors? Why are the four doors higher than the Golden Temple?",
+            "punjabi": "ਹਰਿਮੰਦਰ ਸਾਹਿਬ ਦੀ ਨੀਂਹ ਕਿਸਨੇ ਰੱਖੀ ਸੀ ਅਤੇ ਇਸ ਦੇ ਚਾਰ ਦਰਵਾਜ਼ੇ ਕਿਉਂ ਨੇ? ਚਾਰੋਂ ਦਰਵਾਜੇ ਹਰਿਮੰਦਰ ਸਾਹਿਬ ਤੋਂ ਉੱਚੇ ਕਿਉਂ ਨੇ?"
+        },
+        {
+            "prompt_id": "b65cb4b6-d2b8-444c-87b3-e8a1616119a8",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Which is the main ornament of women and men of Punjab?",
+            "punjabi": "ਪੰਜਾਬ ਦੀਆਂ ਔਰਤਾਂ ਤੇ ਆਦਮੀਆਂ ਦਾ ਮੁੱਖ ਗਹਿਣਾ ਅਤੇ ਪਹਿਰਾਵਾ ਕਿਹੜਾ ਹੈ?"
+        },
+        {
+            "prompt_id": "f967c063-eb48-4a6d-9ae2-86dbfcd4fa4b",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Why is Baisakhi celebrated in Punjab and what is the main reason for celebrating Baisakhi?",
+            "punjabi": "ਪੰਜਾਬ ਵਿੱਚ ਵਿਸਾਖੀ ਕਿਉਂ ਮਨਾਈ ਜਾਂਦੀ ਹੈ ਅਤੇ ਵੈਸਾਖੀ ਨੂੰ ਮਨਾਉਣ ਦਾ ਮੁੱਖ ਕਾਰਨ ਕੀ ਹੈ?"
+        },
+        {
+            "prompt_id": "2b1b00cb-fef9-40a6-ac93-8a4dfa5a6ebe",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Which gurus wore the swords of Miri Piri and what was the purpose of wearing it?",
+            "punjabi": "ਮੀਰੀ ਪੀਰੀ ਦੀਆਂ ਤਲਵਾਰਾਂ ਕਿਸ ਗੁਰੂ ਸਾਹਿਬਾਨ ਨੇ ਧਾਰਨ ਕੀਤੀਆਂ ਸੀ ਅਤੇ ਇਸ ਨੂੰ ਧਾਰਨ ਕਰਨ ਦਾ ਕੀ ਉਦੇਸ਼ ਸੀ?"
+        },
+        {
+            "prompt_id": "07c526ec-d806-44e9-8ff8-0083cae1f6d4",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "What is called Royal City in Punjab? What is the ancient folk game of Punjab?",
+            "punjabi": "ਪੰਜਾਬ ਵਿੱਚ ਰੋਇਲ ਸਿਟੀ ਕਿਸ ਨੂੰ ਕਿਹਾ ਜਾਂਦਾ ਹੈ? ਪੰਜਾਬ ਦੀ ਪੁਰਾਤਨ ਲੋਕ ਖੇਡ ਕੀ ਹੈ?"
+        },
+        {
+            "prompt_id": "8468e548-192e-4303-9b17-5c4aa3109ed9",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Which is the main festival of Punjab and which festival is called Bandi Chod Diwas?",
+            "punjabi": "ਪੰਜਾਬ ਦੇ ਮੁੱਖ ਤਿਉਹਾਰ ਕਿਹੜੇ ਨੇ ਅਤੇ ਬੰਦੀ ਛੋੜ ਦਿਵਸ ਕਿਹੜੇ ਤਿਉਹਾਰ ਨੂੰ ਕਿਹਾ ਜਾਂਦਾ ਹੈ?"
+        },
+        {
+            "prompt_id": "b1e5770e-0122-4bfe-83f2-cc75d3cffd6b",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "What is Pahul pratice and what happened with that tradition?",
+            "punjabi": "ਪਾਹੁਲ ਪ੍ਰਥਾ ਕੀ ਹੈ ਅਤੇ ਉਸ ਪਰੰਪਰਾ ਨਾਲ ਕੀ ਹੋਇਆ?"
+        },
+        {
+            "prompt_id": "f085def8-45bc-4e27-a685-c4de1d9227e9",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "What is Phulkari famous for and what type of thread is used for its making?",
+            "punjabi": "ਫੁਲਕਾਰੀ ਕਿਸ ਲਈ ਮਸ਼ਹੂਰ ਹੈ ਅਤੇ ਇਸ ਨੂੰ ਬਣਾਉਣ ਲਈ ਕਿਸ ਕਿਸਮ ਦਾ ਧਾਗਾ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ?"
+        }
+    ],
+    "bengali": [
+        {
+            "prompt_id": "290b50cc-be95-4d2c-9b0c-5e31a592daac",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "How to get rid of a headache by using home remedies?",
+            "bengali": "ঘরোয়া টোটকা ব্যবহার করে কীভাবে মাথা ব্যথা থেকে মুক্তি পাওয়া যায়?"
+        },
+        {
+            "prompt_id": "17ca8773-0605-4898-bae3-3d2297b85f9f",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "How much time should I spend in sunlight each day to obtain sufficient vitamin D?",
+            "bengali": "পর্যাপ্ত পরিমাণে ভিটামিন ডি পেতে আমায় প্রতিদিন সূর্যের আলোতে কতক্ষণ থাকা উচিত?"
+        },
+        {
+            "prompt_id": "b126dd0c-1d59-4761-808c-3343d8f745f3",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "How can I fix my sleep cycle?",
+            "bengali": "আমি আমার নিয়মিত ঘুমের অভ্যাস কীভাবে ঠিক করব?"
+        },
+        {
+            "prompt_id": "87f538b6-6926-4399-862b-51f3ebd52470",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "Which fruits need to be consumed in the summer to stay hydrated and healthy?",
+            "bengali": "গ্রীষ্মকালে হাইড্রেটেড এবং স্বাস্থ্যকর থাকার জন্য কোন কোন ফল খাওয়া উচিত?"
+        },
+        {
+            "prompt_id": "ef01894a-0f1b-4ced-b11e-9004416aee71",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "How much exercise do I need to do in a day to stay fit?",
+            "bengali": "ফিট থাকার জন্য আমার প্রতিদিন কতটা অনুশীলন করা দরকার?"
+        },
+        {
+            "prompt_id": "4268d0d0-abec-4594-ba88-d7e977e74768",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "What are the benefits of diversifying my investment portfolio?",
+            "bengali": "আমার বিনিয়োগের পোর্টফোলিওতে বৈচিত্র্য আনার সুবিধাগুলি কী কী?"
+        },
+        {
+            "prompt_id": "261cbd72-5cbd-4079-98e2-93ac5b2df694",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "What are the risks and benefits of investing in cryptocurrencies?",
+            "bengali": "ক্রিপ্টোকারেন্সিতে বিনিয়োগের ঝুঁকি এবং সুবিধাগুলি কী কী?"
+        },
+        {
+            "prompt_id": "ab2d0b80-0423-4016-9d9f-85b749ca3684",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "How can I protect myself from online scams?",
+            "bengali": "আমি অনলাইন প্রতারণা থেকে কীভাবে নিজেকে রক্ষা করব?"
+        },
+        {
+            "prompt_id": "78b8e28b-c01b-41fd-87d6-eb961074dec7",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "How can I generate multiple sources of income?",
+            "bengali": "আমি উপার্জনের একাধিক উৎস কীভাবে তৈরি করব?"
+        },
+        {
+            "prompt_id": "db9fd83d-e22a-4d1a-90e7-5b162ef45b51",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "How does inflation affect purchasing power?",
+            "bengali": "মুদ্রাস্ফীতি কীভাবে ক্রয় ক্ষমতাকে প্রভাবিত করে?"
+        },
+        {
+            "prompt_id": "ab1459aa-1f82-46b9-bee0-e1cc2d7fc6c0",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "What is the importance of Rabindra Sangeet in Bengali culture? How has it influenced literature and music?",
+            "bengali": "বাঙালি সংস্কৃতিতে রবীন্দ্রসঙ্গীতের গুরুত্ব কতটা? এটি সাহিত্য ও সঙ্গীতকে কীভাবে প্রভাবিত করেছে?"
+        },
+        {
+            "prompt_id": "85b7bebc-665a-4588-858e-e9a45323c8da",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "What are the significant traditions and customs people in West Bengal follow during the Durga Puja festival?",
+            "bengali": "দুর্গাপূজার উৎসবের সময় পশ্চিমবঙ্গের লোকেরা কী কী উল্লেখযোগ্য ঐতিহ্য এবং রীতিনীতি অনুসরণ করে?"
+        },
+        {
+            "prompt_id": "a0bd0a94-0fe8-45d5-ab6f-0cd8e682ba47",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "What are some unique customs observed by people of West Bengal during Diwali?",
+            "bengali": "দীপাবলির সময় পশ্চিমবঙ্গের লোকেরা কী কী অনন্য রীতিনীতি পালন করে?"
+        },
+        {
+            "prompt_id": "ec1223de-0f31-4434-b612-218ac2f7403b",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "What makes the Rasgulla of West Bengal unique over other sweets in Indian culture?",
+            "bengali": "পশ্চিমবঙ্গের রসগোল্লাকে ভারতীয় সংস্কৃতির অন্যান্য মিষ্টির চেয়ে কোন বিষয়টি আলাদা করে তোলে?"
+        },
+        {
+            "prompt_id": "74ed265f-6d1e-48b7-b449-024dca1bc732",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "What are some popular cultural events celebrated in West Bengal?",
+            "bengali": "পশ্চিমবঙ্গে উদযাপিত কয়েকটি জনপ্রিয় সাংস্কৃতিক অনুষ্ঠান কী?"
+        },
+        {
+            "prompt_id": "d7e62130-2094-494a-af56-2ad53d145690",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "How are Kantha stitch sarees of West Bengal so unique, and what do they reflect about the rich culture of the region?",
+            "bengali": "পশ্চিমবঙ্গের কাঁথা স্টিচ শাড়িগুলি কীভাবে এত অনন্য এবং এগুলি এই অঞ্চলের সমৃদ্ধ সংস্কৃতি সম্পর্কে কী প্রতিফলিত করে?"
+        },
+        {
+            "prompt_id": "82c26f94-9707-4b93-b2ce-46120ace1fd2",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "What are the traditional art forms and crafts that are so famous in West Bengal?",
+            "bengali": "পশ্চিমবঙ্গের কিছু বিখ্যাত ঐতিহ্যবাহী শিল্পকলা এবং কারুশিল্পগুলি কী কী?"
+        },
+        {
+            "prompt_id": "8295664f-4765-4e24-ae6a-52b52d14a947",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "What are the traditional sports that West Bengal is famous for?",
+            "bengali": "পশ্চিমবঙ্গ কোন ঐতিহ্যবাহী খেলাগুলির জন্য বিখ্যাত?"
+        },
+        {
+            "prompt_id": "d8af18cc-a750-420a-b5d5-f645ba86a31c",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "What designs and patterns are used in shaping West Bengal’s handloom textiles?",
+            "bengali": "পশ্চিমবঙ্গের তাঁত বস্ত্র তৈরিতে কোন নকশা ও প্যাটার্ন ব্যবহার করা হয়?"
+        },
+        {
+            "prompt_id": "6750d0c4-7ca6-46e5-9e3d-33d2b3a72cd1",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "How is West Bengal’s literary tradition linking Indian literature to modern times?",
+            "bengali": "পশ্চিমবঙ্গের সাহিত্যের ঐতিহ্য কীভাবে ভারতীয় সাহিত্যকে আধুনিক সময়ের সঙ্গে যুক্ত করছে?"
+        }
+    ],
+    "odia": [
+        {
+            "prompt_id": "23a265c1-0b34-49aa-8165-4b1a80fd4bc6",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "How can I invest in stock market?",
+            "odia": "ମୁଁ କିପରି ଷ୍ଟକ୍ ମାର୍କେଟରେ ଇନଭେଷ୍ଟ କରିପାରିବି?"
+        },
+        {
+            "prompt_id": "e44ca11b-3fb0-48e2-86c7-a08007b7488b",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "How can I check my cibil score?",
+            "odia": "ମୁଁ କିପରି ମୋ ସିବିଲ୍ ସ୍କୋର ଦେଖି କରିପାରିବି?"
+        },
+        {
+            "prompt_id": "941b3300-4d8a-4258-91e0-e57608c57561",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "Can I invest in FD for ten years?",
+            "odia": "ମୁଁ ଦଶ ବର୍ଷ ପାଇଁ ଏଫଡି ରେ ସଂଚୟ କରିପାରିବି କି?"
+        },
+        {
+            "prompt_id": "f553030e-6caf-4e4c-aa7c-f2744b4a758e",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "Can you advise on how I can save money ?",
+            "odia": "ମୁଁ କିପରି ଟଙ୍କା ସଞ୍ଚୟ କରିପାରିବି ସେ ବିଷୟରେ ଆପଣ ପରାମର୍ଶ ଦେଇ ପାରିବେ କି?"
+        },
+        {
+            "prompt_id": "c740587b-1953-47f1-8254-d149d34d03b0",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "What should I do if I lose my atm card?",
+            "odia": "ଯଦି ମୁଁ ମୋର atm କାର୍ଡ ହରାଇବି, ତେବେ ମୁଁ କ’ଣ କରିବି?"
+        },
+        {
+            "prompt_id": "9d6b5704-99da-49af-b341-2458c8365903",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "I have back pain since last night, what should I do?",
+            "odia": "ମୋତେ କାଳି ରାତି ରୁ ଅଣ୍ଟା ଦରଦ ହେଉଛି, ମୁଁ କଣ କରିବି?"
+        },
+        {
+            "prompt_id": "bf7f9d34-95ed-4193-863e-df37c286f337",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "What is the natural way to stop cough in my kid?",
+            "odia": "ମୋ ପିଲାରେ କାଶ ବନ୍ଦ କରିବାର ପ୍ରାକୃତିକ ଉପାୟ କ’ଣ?"
+        },
+        {
+            "prompt_id": "0fe72837-3a12-41ba-89b1-0774b7a96806",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "Which Yoga is best for me to reduce weight?",
+            "odia": "ଓଜନ କମାଇବା ପାଇଁ କେଉଁ ଯୋଗ ସବୁଠୁ ଭଲ ?"
+        },
+        {
+            "prompt_id": "340c480f-5959-4fba-a306-145e4d127c86",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "What is the natural way to treat hair loss for my sister?",
+            "odia": "ମୋ ଭଉଣୀ ପାଇଁ କେଶ ଝଡ଼ିବା ଚିକିତ୍ସା କରିବାର ପ୍ରାକୃତିକ ଉପାୟ କ’ଣ?"
+        },
+        {
+            "prompt_id": "00d8e76e-39f6-4540-aa45-8da80db4ad11",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "How often should my Parents test Blood Pressure ?",
+            "odia": "ମୋ ପିତାମାତା କେତେଥର ରକ୍ତଚାପ ପରୀକ୍ଷା କରିବା ଉଚିତ୍ ?"
+        },
+        {
+            "prompt_id": "f19cb582-0788-4dd3-8a5d-764f0c8cf84b",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Odisha is famous for it's simple yet healthy and tasty cuisines filled with vegetables. Elaborate on dishes like dalma, santula, besara rai, etc.?",
+            "odia": "ଓଡିଶା ପନି ପରିବା ଯୁକ୍ତ ଖାଦ୍ୟ ଯାହା କି ସରଳ କିନ୍ତୁ ସ୍ୱାସ୍ଥ୍ୟକର ଓ ସ୍ୱାଦିଷ୍ଠ ପାଇଁ ପ୍ରସିଦ୍ଧ | ଡାଲ୍ମା, ସନ୍ତୁଳା, ବେସର, ରାଇ ଆଦି ବ୍ୟଞ୍ଜନ ବିଷୟରେ କୁହନ୍ତୁ |"
+        },
+        {
+            "prompt_id": "74c33fa5-fb68-4262-8af8-6a9e2e17aa03",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "What the features of Konark temple that make it unique that other structures? What is the story behind it's construction and destruction?",
+            "odia": "କୋଣାର୍କ ମନ୍ଦିର ର ବିଶେଷଜ୍ଞତା କଣ ଯାହା କି ତାକୁ ଅନ୍ୟ ମନ୍ଦିର ମାନଙ୍କ ଠୁ ଅଲଗା କରେ? ତାହାର ନିର୍ମାଣ ଓ ବିନାଶ ର କାହାଣୀ କୁହନ୍ତୁ."
+        },
+        {
+            "prompt_id": "898f419b-5783-43dc-91f2-5efe4073f8ed",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Describe the famous artisan work like patachitra, dhokra, tarakashi, etc.",
+            "odia": "ପଟଚିତ୍ର, ଢୋକ୍ରା, ତାରକସି ଆଦି ପ୍ରସିଦ୍ଧ କାରୁକାର୍ଯ୍ୟ ବିଷୟରେ ବର୍ଣନା କରନ୍ତୁ"
+        },
+        {
+            "prompt_id": "8e2fd3de-86f6-4441-b1f4-4219f91f3cf0",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Who is Fakir Mohan Senapati? What are his contributions to the literary world of Odisha?",
+            "odia": "ଫକୀର ମୋହନ ସେନାପତି କିଏ ? ଓଡ଼ିଆ ସାହିତ୍ୟ ରେ ତାଙ୍କର ଅବଦାନ କଣ ?"
+        },
+        {
+            "prompt_id": "d2d3d6b9-29c8-4943-bb8f-fdb9ea99b4ba",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "While the world shies away from Mensturation, Odisha celebrates it through the festival of Rajjo. Elaborate on your memories and experience during this.",
+            "odia": "ଯେବେ ପୁରା ଦୁନିଆ ଋତୁସ୍ରାବଠୁ ଦୁରେଇ ରୁହେ, ଓଡିଶା ରେ ତାହା ରଜ ଉତ୍ସବ ଆକାର ରେ ପାଳନ କର ଯାଏ | ନିଜର ସ୍ମୃତି ଓ ଅଭିଜ୍ଞତା ବିଷୟରେ ବର୍ଣନା କରନ୍ତୁ |"
+        },
+        {
+            "prompt_id": "56050471-0437-4818-9365-78ee88aab7dc",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Lord Jagannath is known for his love for his devotees like Sala Bega, Raghu Dasa, Manika Gauduni. What other great devotees you know of? Share the stories of their devotion towards the Lord.",
+            "odia": "\nପ୍ରଭୁ ଶ୍ରୀ ଜଗନ୍ନାଥ ନିଜ ଭକ୍ତ ଯେପରି ସାଲବେଗ, ରଘୁ ଦାସ, ମାଣିକ ଗଉଡ଼ୁଣୀ ଙ୍କୁ ଭଲ ପାଇବା ପାଇ ଜଣାଶୁଣା | ଆଉ କେଉଁ ଭକ୍ତ ଙ୍କ ବିଷୟରେ ଆପଣ ଜାଣିଛନ୍ତି? ପ୍ରଭୁ ଙ୍କ ପାଇ ତାଙ୍କ ଭକ୍ତି ର ଉଦାହରଣ ଦିଅନ୍ତୁ |"
+        },
+        {
+            "prompt_id": "82e7c2c7-c513-4410-80d7-3a7f9036882c",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Odissi, one of the 8 classical dance forms of India. And there are several other folk dances as well. Talk about the various dance forms seen in Odisha.",
+            "odia": "ଓଡିଶୀ ଯାହା କି ଭାରତ ର 8 ଟି ଶାସ୍ତ୍ରୀୟ ନୃତ୍ୟ ମଧ୍ୟ ରୁ ଏକ | ଓ ଅନ୍ୟ ଲୋକ ନୃତ୍ୟ ମଧ୍ୟ ଦେଖିବାକୁ ମିଳିଥାଏ | ଓଡିଶା ରେ ଥିବା ଏହି ସବୁ ବିଭିନ୍ନ ପାରମ୍ପରିକ ନୃତ୍ୟ ବିଷୟରେ କୁହନ୍ତୁ |"
+        },
+        {
+            "prompt_id": "800c2e2a-63d4-4816-92c5-cee12a119513",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Each region in Odisha is famous for some kind of food. For example rasogola in Pahala and Salepur, Bara in Dhenkanal and Bargarh, etc. Share the local food of your region.",
+            "odia": "ଓଡିଶା ର ସବୁ ଅଞ୍ଚଳ ନିଜ ନିଜ ଆଞ୍ଚଳିକ ଖାଦ୍ୟ ପାଇଁ ପ୍ରସିଦ୍ଧ | ଯେମିତି ପାହାଳ ଓ ସାଲେପୁର ରସଗୋଲା ପାଇଁ, ଢେଙ୍କାନାଳ ଓ ବରଗଡ ବରା ପାଇଁ | ନିଜ ଅଞ୍ଚଳ ର ବିଶେଷ ଖାଦ୍ୟ ବିଷୟରେ କୁହନ୍ତୁ |"
+        },
+        {
+            "prompt_id": "f5f76a43-bc4c-4988-adce-0c861e0190d2",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Sudarshan Patnaik is greatly revered amongst Odias and Artists. Tell us about his life, work and craft.",
+            "odia": "ସୁଦର୍ଶନ ପଟନାୟକ ଓଡିଶାବାସୀ ମାନଙ୍କ ତଥା କଳାକାର ମାନଙ୍କ ମଧ୍ୟ ରେ ଜଣାଶୁଣା | ତାଙ୍କ ଜୀବନ, କାମ ଏବଂ କାରୁକାର୍ଯ୍ୟ ବିଷୟରେ ବର୍ଣନା କରନ୍ତୁ |"
+        },
+        {
+            "prompt_id": "3fb28006-52a8-4f13-935a-4ae7df851859",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "The bond of brothers and sisters are at another level in Odia culture. Share your feelings on the festivals like kudurukuni, rakhi purnima, and bhai jiuntia.",
+            "odia": "\n\nଭାଇ ଭଉଣୀ ଙ୍କ ଭଲ ପାଇବା ଓଡ଼ିଆ ପରମ୍ପରା ରେ ପ୍ରମୁଖ | ଆପଣ ନିଜ ଭାବନା ଖୁଦୁରୁକୁଣୀ, ରାଖୀ ପୁର୍ଣିମା, ଓ ଭାଇ ଜିଉଁନ୍ତିଆ ଆଦି ପର୍ବ ବିଷୟରେ କୁହନ୍ତୁ |"
+        }
+    ],
+    "gujarati": [
+        {
+            "prompt_id": "6743a998-8274-4ac3-8d0c-1928096e099e",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "How do I get a credit card?",
+            "gujarati": "હું ક્રેડીટકાર્ડ કઈ રીતે મેળવી શકું?"
+        },
+        {
+            "prompt_id": "3a238ab2-2a97-4e20-ae8b-d5e2b292a3cb",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "What are the ways to maintain credit score?",
+            "gujarati": "ક્રેડીટ સ્કોરેને જાળવી રાખવાના ઉપાયો કયા કયા છે?"
+        },
+        {
+            "prompt_id": "e51494c0-25ad-43a0-81b4-0ed61afbd192",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "What is a mutual fund and how does it work?",
+            "gujarati": "મ્યુચ્યુઅલફંડ શું છે અને એ કેવી રીતે કામ કરે છે?"
+        },
+        {
+            "prompt_id": "dbd46ba8-b911-4b70-8156-76ad3fef3c52",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "How many types of accounts are there in a bank?",
+            "gujarati": "બેંકમાં કેટલા પ્રકારના ખાતા હોય છે?"
+        },
+        {
+            "prompt_id": "032d77c2-b350-412b-866f-ff944cb74e40",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "finance",
+            "english": "How do I close my credit card?",
+            "gujarati": "હું મારા ક્રેડીટ કાર્ડને કઈ રીતે બંદ કરાવી શકું?"
+        },
+        {
+            "prompt_id": "0a113b91-81f1-4ef9-a082-da80b83c92a5",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "What is the importance of exercise in human life?",
+            "gujarati": "માણસના જીવનમાં કસરતનું શું મહત્વ છે?"
+        },
+        {
+            "prompt_id": "8a4f9f9c-a8a6-4a7f-a014-aa54859b962f",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "What fruits should I eat to improve eyesight?",
+            "gujarati": "નજરને વધુ સારી કરવા મને કયા ફળો ખાવા જોઈએ?"
+        },
+        {
+            "prompt_id": "99dbbe30-a7db-4fb4-b41a-e138bd079314",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "How can I cure headaches?",
+            "gujarati": "હું માથાના દુખાવાને કઈ રીતે દુર કરી શકું?"
+        },
+        {
+            "prompt_id": "97f771e9-88ce-4222-9157-7a28566c933b",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "What happens when there is sudden decrease in calcium levels in the body?",
+            "gujarati": "શરીરમાં કેલ્શિયમના સ્તરમાં અચાનક ઘટાડો થાય ત્યારે શું થાય છે?"
+        },
+        {
+            "prompt_id": "b4f324bb-64b5-475e-97e9-84ae6f69d8be",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1714479171,
+            "prompt_type": "health",
+            "english": "What are the harms caused by taking more drugs?",
+            "gujarati": "વધુ માત્રામાં દવાઈઓના સેવનથી કયા કયા નુકસાન થાય છે?"
+        },
+        {
+            "prompt_id": "245182f4-9873-476c-90b6-95f9ac624cb7",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Which are the main festivals celebrated in Gujarat which give a distinct identity to Gujarat?",
+            "gujarati": "ગુજરાતમાં મુખ્યત્વે કયા કયા તહેવારો ઉજવવામાં આવે છે જે ગુજરાતની એક અલગ ઓળખ આપે છે?"
+        },
+        {
+            "prompt_id": "011bf952-c6bd-440a-ba6b-02205861093d",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Why Navratri festival is celebrated in Gujarat?",
+            "gujarati": "ગુજરાતમાં શા માટે નવરાત્રીનું તહેવાર ઉજવવામાં આવે છે?"
+        },
+        {
+            "prompt_id": "43f5b8fd-51c8-48c4-b51a-551efcfb87e0",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Why people play garba for nine days in Navratri festival and why Navratri is celebrated only for nine days?",
+            "gujarati": "નવરાત્રીના તહેવારમાં લોકો શા માટે નવ દિવસ ગરબા રમે છે અને નવરાત્રી માત્ર નવ દિવસ જ કેમ ઉજવવામાં આવે છે?"
+        },
+        {
+            "prompt_id": "ca6bdfba-559b-4026-8c64-870cc5333f9b",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "How many dances are mainly performed in Gujarat and which ones and what is their main purpose?",
+            "gujarati": "ગુજરાતમાં મુખ્યત્વે કેટલા નૃત્ય થાય છે અને કયા કયા અને તેનું મુખ્ય હેતુ શું છે?"
+        },
+        {
+            "prompt_id": "346149bc-0a12-4c87-9b13-4e144176f2f8",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "Which fairs are famous in Gujarat and when are they celebrated?",
+            "gujarati": "ગુજરાતમાં કયા મેળા પ્રખ્યાત છે અને તે ક્યારે ઉજવવામાં આવે છે?"
+        },
+        {
+            "prompt_id": "c7903597-9dd3-4e53-86f0-af5158f4a365",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "What is the special feature of Patan's Patola Saree, why it is famous all over the world?",
+            "gujarati": "પાટણનું પટોળું સાળી શા માટે વિશ્વભરમાં પ્રખ્યાત છે એની વિશેષ ઓળખ શું છે?"
+        },
+        {
+            "prompt_id": "2c6387a0-dd4c-4bfa-a56e-a61a7cee7c6d",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "What is the significance of Ashadi Bij celebrated in Gujarat and why is it celebrated?",
+            "gujarati": "ગુજરાતમાં ઉજવવામાં આવતા અષાઢી બીજનું શું મહત્વ છે અને તે શા માટે ઉજવવામાં આવે છે?"
+        },
+        {
+            "prompt_id": "2283a2f5-c200-4f95-a8a1-7ec0535ebb8b",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "What kind of food do people prepare on different festivals in Gujarat?",
+            "gujarati": "ગુજરાતમાં લોકો અલગ અલગ તહેવારે કેવા પ્રકારનું ભોજન તૈયાર કરે છે?"
+        },
+        {
+            "prompt_id": "82218f85-5d5b-46a1-a57b-a6e709bc4d23",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "What kind of clothes do Gujarati people like to wear that gives them a distinct identity?",
+            "gujarati": "ગુજરાતી લોકો કેવા પ્રકારના કપડા પહેરવાનું પસંદ કરે છે જે તેઓની અલગ ઓળખ આપે છે?"
+        },
+        {
+            "prompt_id": "4c4174b3-769c-4dc6-a98d-867b7bd903f4",
+            "prompt_creator": "karya",
+            "prompt_timestamp": 1715681637,
+            "prompt_type": "culture",
+            "english": "State the various rituals performed at the time of marriage in Gujarat",
+            "gujarati": "ગુજરાતમાં લગ્ન સમયે કરવામાં આવતી વિવિધ વિધિઓ જણાવો"
+        }
+    ]
+}

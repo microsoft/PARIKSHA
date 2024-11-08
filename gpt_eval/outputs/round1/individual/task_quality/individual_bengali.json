@@ -1,0 +1,1322 @@
+[
+    {
+        "prompt_id": "290b50cc-be95-4d2c-9b0c-5e31a592daac",
+        "prompt": "ঘরোয়া টোটকা ব্যবহার করে কীভাবে মাথা ব্যথা থেকে মুক্তি পাওয়া যায়?",
+        "prompt_type": "health",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 0,
+            "justification": "The response is not relevant to the question. The question asks for a home remedy to relieve a headache, but the response is repetitive and nonsensical, repeating the phrase 'a remedy and a remedy together' multiple times without providing any actual remedy or useful information. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt, and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not provide any relevant information or solution to the question asked. The question asks for home remedies to relieve headache, but the response is repetitive and does not provide any useful information or instructions. Therefore, the model disregards the instructions entirely and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing several home remedies to alleviate a headache. It adheres to the specific directives given in the prompt, demonstrating a precise understanding of the question. The response holistically satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing several home remedies to alleviate headaches. It adheres to the prompt's instructions and provides a comprehensive answer without any deviation or omission. The response is directly correlated with the user's instruction, leaving no aspect of the instruction unaddressed."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for home remedies to relieve a headache, but the response talks about 'totka' being a financial tool and how it cannot be used to fix health issues. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "gemini-pro": {
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks for home remedies to relieve headaches, and the model provides several home remedies, including drinking water, using mint, ginger, and coffee. The response is detailed and directly addresses the question, leaving no aspect of the instruction unaddressed.",
+            "score": 2
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing several home remedies for relieving headaches. It also includes a cautionary note about seeking medical attention if the headaches persist, which shows a nuanced understanding of the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a home remedy for relieving a headache. It suggests massaging the head with rohu fish oil and washing it off after 5 minutes, and also recommends getting a good night's sleep. The response is in line with the question and provides a clear and direct solution, hence it adheres to the prompt's instructions completely. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "justification": "The response partially aligns with the prompt. The question asks for home remedies to relieve headaches, and the response does provide a home remedy. However, the same remedy is repeated four times, which does not provide the variety of solutions that the question might be implying. Therefore, the response misses out on the finer details or nuances of the instruction, earning it a score of 1.",
+            "score": 1
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. The question asks for home remedies to relieve headaches, and the response does provide a method. However, the method provided is repetitive and lacks clarity, making it difficult to understand. The steps are repeated multiple times without providing any new information or clear instructions. Therefore, the response misses out on finer details and nuances, which is why it receives a score of 1."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response does not provide a satisfactory answer to the question. The question asks for home remedies to relieve a headache, but the response repeatedly suggests washing the head with water, sugar, and oil, which are not typical or effective remedies for a headache. The response also lacks variety and repeats the same steps multiple times, which does not provide a comprehensive or useful answer to the question. Therefore, the score is 0 as the model disregards the instructions entirely and there is a clear disconnect between the user's request and the model's response."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for home remedies to relieve headache and the model provides a detailed list of methods to do so. It covers various aspects such as maintaining a healthy posture, regular head massages, breathing exercises, maintaining a healthy diet, getting enough sleep, drinking tea, and seeking professional help if necessary. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response provided by the model is in line with the question asked. The question asks for home remedies to relieve a headache, and the model provides a method using a traditional remedy. The response is relevant and directly addresses the question, demonstrating a clear understanding of the prompt's instructions. Therefore, the score is 2 as per the \"task_quality\" metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing several home remedies to relieve a headache. It adheres to the instructions given in the question and provides a comprehensive list of remedies, which is what the question asked for. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the 'task_quality' metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to relieve a headache using home remedies. It provides a step-by-step guide on how to use the remedy, which aligns perfectly with the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions."
+        }
+    },
+    {
+        "prompt_id": "17ca8773-0605-4898-bae3-3d2297b85f9f",
+        "prompt": "পর্যাপ্ত পরিমাণে ভিটামিন ডি পেতে আমায় প্রতিদিন সূর্যের আলোতে কতক্ষণ থাকা উচিত?",
+        "prompt_type": "health",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 0,
+            "justification": "The response is not relevant to the question asked. The question asks for the amount of time one should spend in sunlight to get enough Vitamin D, but the response talks about determining the amount of Vitamin D needed based on location and using a health app. The response does not provide a specific time duration, which is what the question is asking for. Therefore, the response does not adhere to the specific directives given in the prompt."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the amount of time one should spend in the sun to get enough Vitamin D, but the response does not provide any information related to this. Instead, it repeats a phrase that does not make sense in the context of the question. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how long one should stay in the sunlight to get enough Vitamin D. It provides a specific time frame (10-15 minutes daily) and also adds useful information about the best times to do so (morning and evening). The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence the score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how long one should stay in the sun to get enough Vitamin D. It provides a general guideline of 10-15 minutes per day, while also noting that the exact time can vary depending on the individual and location. It also adds useful information about the best time of day to get sun exposure and a caution about potential skin damage from too much sun. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question asks for the amount of time one should spend in the sun to get enough Vitamin D, but the response talks about the amount of Vitamin D one should consume in a day, which is not relevant to the question. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt, and there is a clear disconnect between the user's request and the model's response."
+        },
+        "gemini-pro": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how long one should stay in the sun to get enough Vitamin D. The model's response is directly related to the user's instruction and addresses all aspects of the question without any deviation or omission. Therefore, the score is 2 according to the 'task_quality' metric."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how long one should stay in the sun to get enough Vitamin D. It provides a specific time range (10 to 30 minutes) and also mentions that this can vary depending on factors such as skin color, age, time of year, and location. The response also includes a caution about the risk of skin cancer from sun exposure, which, while not explicitly asked for, is relevant and useful information. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how long one should stay in the sun to get enough Vitamin D. It provides a general guideline (10-15 minutes in the morning) and also explains that the exact duration can vary based on location, time, weather, skin type, and other factors. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, a score of 2 is justified."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response partially addresses the question. The question asks for a specific duration of time one should spend in sunlight to get enough Vitamin D. The response, however, does not provide a specific time but rather explains that the amount of Vitamin D does not directly correlate with the time spent in sunlight. While this information is relevant, it does not fully answer the question as it lacks the specific detail asked for."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question by providing the specific amount of time one should spend in the sun to get an adequate amount of Vitamin D, which is exactly what the question asked for. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric perfectly."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately answers the question by providing a specific time range (10-15 minutes) for how long one should stay in the sun to get enough Vitamin D. It also adds some additional information about the relationship between sun exposure and Vitamin D, which is relevant and helpful. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how long one should stay in the sun to get enough Vitamin D. It provides a specific time range (10-30 minutes) and also explains that the exact time can vary depending on factors such as climate, time of day, temperature, and skin color. The response also advises to consult a doctor for personalized advice, which is a responsible suggestion. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It talks about the importance of Vitamin D and its benefits, which is relevant but not directly asked for. However, it fails to provide a specific answer to the question about how long one should stay in the sunlight daily to get enough Vitamin D. Therefore, the response is not a complete match to the question, and it includes extraneous details not asked for."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how long one should stay in the sunlight to get enough Vitamin D. It provides a specific time range (15-20 minutes), which directly addresses the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "justification": "The response accurately answers the question about how long one should stay in the sunlight to get enough Vitamin D. The response mentions that one should stay in the sunlight for at least 15-20 minutes daily, which directly answers the question. The response also adds a cautionary note about not staying in the sunlight for too long, which is relevant and useful information. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, which warrants a score of 2.",
+            "score": 2
+        }
+    },
+    {
+        "prompt_id": "b126dd0c-1d59-4761-808c-3343d8f745f3",
+        "prompt": "আমি আমার নিয়মিত ঘুমের অভ্যাস কীভাবে ঠিক করব?",
+        "prompt_type": "health",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "justification": "The response partially aligns with the question. The question asks for ways to improve regular sleep habits, and the response does mention the importance of regular sleep habits and suggests creating a sleep routine. However, the response is repetitive and does not provide specific steps or methods to improve sleep habits, which is what the question is asking for. Therefore, the response only partially addresses the question, missing out on the finer details and specifics requested in the question.",
+            "score": 1
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not address the question at all. The question asks for advice on how to improve regular sleep habits, but the response is repetitive and does not provide any relevant information or advice. It completely disregards the instructions, making it entirely irrelevant to the prompt. Therefore, according to the 'task_quality' metric, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to improve regular sleep habits. It provides a detailed and comprehensive answer, suggesting steps such as setting a sleep schedule, creating a peaceful environment, and avoiding stimulants. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to improve regular sleep habits. It provides a comprehensive list of tips that are directly relevant to the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to improve regular sleep habits. It provides a detailed and practical solution, suggesting to sleep at a regular time, ensuring a minimum of 10 hours of sleep, and waiting for 15 minutes before going to sleep after waking up. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "gemini-pro": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to improve regular sleep habits, and the model provides a comprehensive list of steps to achieve this. It covers various aspects such as maintaining a regular sleep routine, creating a peaceful sleep environment, avoiding activities that can disrupt sleep, not eating heavy meals before sleep, regular exercise, avoiding daytime naps, and consulting a doctor if sleep problems persist. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to improve regular sleep habits, and the model provides a comprehensive list of 10 different methods to do so. Each method is explained clearly and is directly relevant to the question. There are no extraneous details and no aspect of the instruction is left unaddressed. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to improve regular sleep habits. It provides specific and relevant suggestions such as setting a specific time to sleep, doing physical work, exercising, and turning off all electronic screens an hour before sleep. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response initially addresses the question by providing a couple of valid suggestions on how to improve sleep habits. However, it then repeats the same advice about not looking at computer or television screens during sleep time multiple times, which is unnecessary and does not provide any additional value or information. Therefore, while the response is partially aligned with the prompt, it includes extraneous details not asked for, which is why it receives a score of 1 according to the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response does address the question about how to improve regular sleep habits. However, it lacks variety and depth in the advice given. The same advice is repeated multiple times, which does not provide a comprehensive answer to the question. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response initially addresses the question correctly by suggesting to maintain a regular sleep schedule. However, the same suggestion is repeated multiple times without providing any additional information or addressing other potential aspects of improving sleep habits. Therefore, while the response is partially aligned with the prompt, it lacks depth and variety in its answer, which is why it receives a score of 1."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to improve regular sleep habits, and the model provides a detailed and comprehensive list of steps to achieve this. It covers various aspects such as maintaining a schedule, changing night-time habits, establishing a pre-sleep routine, incorporating rest and exercise, and managing food and drink intake. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for ways to improve regular sleep habits, but the response talks about 'sumerer' which doesn't make sense in this context. The response seems to be nonsensical and doesn't provide any useful information or advice on improving sleep habits. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question about how to improve regular sleep habits. It provides a detailed list of suggestions, each of which directly relates to the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to improve regular sleep habits. It provides practical advice such as trying to sleep at the same time every day, adjusting the sleep time regularly, ensuring the sleep time is consistent, and trying to sleep in a clean and healthy environment. The response is directly related to the user's instruction and covers all aspects of the instruction without any deviation. Therefore, the score is 2."
+        }
+    },
+    {
+        "prompt_id": "87f538b6-6926-4399-862b-51f3ebd52470",
+        "prompt": "গ্রীষ্মকালে হাইড্রেটেড এবং স্বাস্থ্যকর থাকার জন্য কোন কোন ফল খাওয়া উচিত?",
+        "prompt_type": "health",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. The question asks for fruits to eat during summer to stay hydrated and healthy, and the response mentions mangoes as a good fruit to eat. However, the response is repetitive and does not provide a variety of fruits, which was expected from the question. The response also does not specifically mention the benefits of hydration and health, which was a key aspect of the question."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for fruits that should be eaten in summer to stay hydrated and healthy, but the response does not provide any such information. Instead, it repeats phrases about the respondent's experience, which is irrelevant to the question. Therefore, the score is 0 as per the 'task_quality' metric, because the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response perfectly aligns with the question. The question asks for fruits that should be eaten in summer to stay hydrated and healthy, and the response provides a list of such fruits. It also explains why these fruits are beneficial, stating that they are rich in water, vitamins, and minerals. Therefore, the response fully satisfies the prompt's instructions without any deviation or omission."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and completely addresses the question. It provides a list of fruits that should be consumed during summer to stay hydrated and healthy, which is exactly what the question asked for. Each fruit is accompanied by a brief explanation of why it is beneficial, adding depth to the response. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 2,
+            "justification": "The response accurately answers the question by suggesting two fruits, mangoes and litchis, that should be consumed during summer to stay hydrated and healthy. The response also provides additional information about the benefits of these fruits, which aligns with the question's intent. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "gemini-pro": {
+            "score": 2,
+            "justification": "The response perfectly aligns with the question. The question asks for fruits that should be consumed in summer to stay hydrated and healthy, and the response provides a list of such fruits, along with their water content and other health benefits. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a list of fruits that should be consumed during summer to stay hydrated and healthy. It includes detailed information about each fruit, explaining why they are beneficial, which aligns perfectly with the question's requirements. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately lists a variety of fruits that are beneficial to consume during the summer to stay hydrated and healthy, which is exactly what the question asked for. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question by providing a list of fruits that should be consumed during summer to stay hydrated and healthy. It includes specific fruits like papaya, banana, mango, lemon, and repeats papaya, explaining how each of them helps in maintaining body temperature and hydration level. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric perfectly."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a list of fruits that should be consumed during summer to stay hydrated and healthy. It also provides additional information about the nutritional content of these fruits, which aligns with the question's intent. The response does not deviate from the question's directive and does not include any extraneous details. Therefore, it fully satisfies the task quality metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "justification": "The response perfectly adheres to the question's instructions. The question asks for fruits that should be eaten in summer to stay hydrated and healthy, and the response provides a list of such fruits, including papaya, orange, mango, guava, and raw mango. Each fruit is described as being hydrating and healthy, with low calories and rich in vitamins C and folate, which aligns with the question's requirements. Therefore, the score is 2 as there's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed.",
+            "score": 2
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a list of fruits that should be consumed during summer to stay hydrated and healthy. It also provides additional information about the benefits of each fruit, which aligns with the question's intent. The response does not deviate from the question's instruction and there's a clear and direct correlation between the user's instruction and the model's response. Therefore, the response fully satisfies the task quality metric."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately answers the question by providing a list of fruits that should be consumed during summer to stay hydrated and healthy. It also explains why these fruits are beneficial, which aligns with the question's intent. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response perfectly adheres to the question's instructions. The question asks for fruits that should be eaten in summer to stay hydrated and healthy, and the response provides a list of such fruits. It also explains that these fruits help fulfill the body's water requirement and provide necessary nutrition. Therefore, there's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for fruits to eat in summer to stay hydrated and healthy. The response lists several fruits such as apple, orange, mango, lemon, papaya, guava, eggplant, banana, and lychee, and explains that they are easily available, nutritious, and can help in hydration. It also suggests that these fruits can be consumed as whole foods or with water. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding and execution of the task, which aligns with a score of 2 according to the 'task_quality' metric."
+        }
+    },
+    {
+        "prompt_id": "ef01894a-0f1b-4ced-b11e-9004416aee71",
+        "prompt": "ফিট থাকার জন্য আমার প্রতিদিন কতটা অনুশীলন করা দরকার?",
+        "prompt_type": "health",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 0,
+            "justification": "The response is repetitive and does not provide a clear answer to the question. The question asks for a specific amount of exercise needed daily to stay fit, but the response only repeats the need to determine a time for daily exercise without providing any specific amount. Therefore, the model disregards the instructions entirely and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response starts off well by acknowledging the question and providing a general guideline for daily physical activity. However, the rest of the response is repetitive and nonsensical, repeating the same phrase over and over again. This does not provide any useful information to the user and does not answer the question about how much exercise is needed daily to stay fit. Therefore, the score is 0 as the model disregards the instructions entirely and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how much daily exercise is needed to stay fit. It provides a general guideline of 30 minutes to 1 hour, but also emphasizes that the exact amount depends on individual factors such as fitness level, age, and health. The response also advises consulting with a doctor or professional for personalized advice. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how much daily exercise is needed to stay fit. It provides a specific duration (at least 30 minutes) and suggests various forms of physical activities. It also takes into account factors like age, health, and fitness level, and gives advice on how to start exercising. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response partially addresses the question about how much exercise is needed daily to stay fit, mentioning 30-60 minutes of walking or weight lifting. However, the response also includes extraneous and confusing details about 'fitting sessions' and 'returning' that are not relevant to the question. The response also repeats these irrelevant details multiple times, which further detracts from its quality. Therefore, the response only partially aligns with the prompt and includes extraneous details not asked for, which corresponds to a score of 1 according to the task quality metric."
+        },
+        "gemini-pro": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how much exercise is needed daily to stay fit. It provides specific recommendations for both moderate and vigorous aerobic activities, and also suggests a gradual increase in activity level until the recommended amount is reached. This response fully adheres to the prompt's instructions and addresses all aspects of the question, demonstrating a clear and direct correlation between the user's instruction and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks about the amount of daily exercise needed to stay fit, and the model's response accurately provides this information, stating that at least 30 minutes of exercise is recommended daily for maintaining health and fitness. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how much exercise is needed daily to stay fit. It suggests 30 minutes to 1 hour of daily exercise, which aligns perfectly with the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the score is 2 according to the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how much daily exercise is needed to stay fit. It suggests 30 minutes of daily exercise, but also mentions that the duration may vary depending on individual health and immunity. This shows a clear understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how much daily exercise is needed to stay fit. It provides a general guideline of 30 minutes of exercise per day, but also mentions that it depends on the individual's health level and goals. The response also suggests that if one wants to exercise more, they can do 60-90 minutes of exercise per day. Additionally, it provides advice on maintaining a healthy diet and drinking water daily, which are relevant to the overall context of staying fit. Therefore, the response adheres to the prompt's instructions and respects its nuances, earning a score of 2."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how much exercise is needed daily to stay fit. It suggests a minimum of 30 minutes of exercise daily and provides alternatives if one doesn't have enough time. It also suggests maintaining a healthy diet and drinking water daily. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how much exercise is needed daily to stay fit. It provides a general guideline of 30-60 minutes of activity or fitness exercise daily, and also mentions that the type and duration of exercise can vary depending on personal goals. The response also suggests consulting with a fitness guide or professional trainer for personalized advice. It further emphasizes the importance of a healthy lifestyle, including proper diet, adequate water intake, sufficient sleep, stress management, and rest. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question."
+        },
+        "google/gemma-7b-it": {
+            "justification": "The response accurately answers the question about how much exercise is needed daily to stay fit. It provides a general guideline of 30-45 minutes of exercise per day, which aligns with the question's request. The response does not include any extraneous details and does not omit any requested specifics. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation.",
+            "score": 2
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how much exercise is needed daily to stay fit. It provides a specific time range (30 minutes to 1 hour) and also mentions the types of exercises that could be included, such as cardiovascular exercises, strength training, and flexibility exercises. This shows a clear understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Therefore, the score is 2 according to the 'task_quality' metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how much exercise is needed daily to stay fit. It suggests 30 minutes of exercise daily, which is a widely accepted recommendation. It also provides additional useful information about the importance of exercise for physical and mental health, the types of exercise one can do, the need for medical advice before starting an exercise regimen, and the importance of a balanced diet and hydration. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question."
+        }
+    },
+    {
+        "prompt_id": "4268d0d0-abec-4594-ba88-d7e977e74768",
+        "prompt": "আমার বিনিয়োগের পোর্টফোলিওতে বৈচিত্র্য আনার সুবিধাগুলি কী কী?",
+        "prompt_type": "finance",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "justification": "The response is repetitive and does not provide a clear answer to the question. The question asks for the benefits of diversifying one's investment portfolio, but the response does not provide any specific benefits. Instead, it repeats the same vague statement about the benefits of not relying on others' experiences and research. This shows a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the benefits of diversifying an investment portfolio, but the response discusses reasons why a portfolio may not be generating enough leads. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and completely addresses the question. The question asks for the benefits of diversifying one's investment portfolio, and the response provides a detailed list of benefits, including risk reduction, income increase, inflation reduction, and asset preservation. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question about the benefits of diversification in an investment portfolio. It lists several benefits such as risk reduction, increased returns, stability, reduced risk of unexpected events, and increased investment duration. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric and earns a score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response partially aligns with the question. The question asks about the benefits of diversifying an investment portfolio, but the response talks about the benefits of using computer software and hardware in managing an investment portfolio. While this could be seen as a form of diversification, it does not fully address the question as it does not mention other forms of diversification such as investing in different types of assets or sectors. Therefore, the response misses out on finer details or nuances of the question."
+        },
+        "gemini-pro": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, which asks for the benefits of diversification in an investment portfolio. The response provides a detailed explanation of the benefits, including risk reduction, optimization of average returns, long-term stability, and increased chances of achieving financial goals. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the benefits of diversifying an investment portfolio. It provides a detailed list of benefits, including risk mitigation, potential for increased returns, control over risk amount, stability, and offsetting losses. The response adheres to the prompt's instructions and addresses all aspects of the question without any deviation or extraneous details. Therefore, it scores 2 on the task quality metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the benefits of diversification in an investment portfolio. It mentions risk distribution and the acquisition of necessary diversity, which are key benefits of diversification. It also mentions financial security and the possibility of earning from various sources, which are additional benefits. Therefore, the response adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the benefits of diversifying an investment portfolio. It mentions increasing the stability of investments, reducing investment risk, and increasing income opportunities. The response is directly related to the user's instruction and covers all aspects of the question without any deviation or extraneous details. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response starts off well by addressing the question and providing two distinct benefits of diversifying an investment portfolio. However, the rest of the response is repetitive and does not provide any new information. This indicates that the model grasped the main theme of the instruction but missed out on finer details or nuances, hence the score of 1."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question. It provides a detailed list of the benefits of diversifying an investment portfolio, which is exactly what the question asked for. The response does not deviate from the question or include any irrelevant information. Therefore, it fully adheres to the task instructions and deserves a score of 2."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks about the benefits of diversification in an investment portfolio, and the model provides a detailed and comprehensive list of benefits, including risk mitigation, potential for higher returns, problem-solving related to investment strategies, and time management. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus earning a score of 2 according to the 'task_quality' metric."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the benefits of diversifying an investment portfolio. It provides a detailed list of benefits, including easy portfolio creation, market adaptation, investment profession, and investment rules. The response is directly related to the user's instruction and covers all aspects of the question without any deviation or omission. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, which asked for the benefits of diversifying an investment portfolio. The response lists five key benefits, including risk reduction, increased stability, adaptability to market conditions, increased profit potential, and increased income sources. This shows a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric and earns a score of 2."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the benefits of diversifying an investment portfolio. It explains how diversification can help increase profits while mitigating risks, and how it allows for investments in different types of assets and sectors. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus demonstrating a precise understanding and adherence to the prompt's instructions."
+        }
+    },
+    {
+        "prompt_id": "261cbd72-5cbd-4079-98e2-93ac5b2df694",
+        "prompt": "ক্রিপ্টোকারেন্সিতে বিনিয়োগের ঝুঁকি এবং সুবিধাগুলি কী কী?",
+        "prompt_type": "finance",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about the risks and benefits of investing in cryptocurrency, but the response talks about general investment considerations without mentioning cryptocurrency. The response also does not mention any specific risks or benefits, which is what the question is asking for. Therefore, the response does not adhere to the specific directives given in the prompt, resulting in a score of 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not address the question at all. The question asks about the risks and benefits of investing in cryptocurrency, but the response does not provide any information on this topic. Instead, it repeats a phrase about the respondent's excitement and willingness to discuss, which is not relevant to the question. Therefore, the score is 0 as per the 'task_quality' metric, indicating that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and completely addresses the question. It provides a detailed list of both the risks and benefits of investing in cryptocurrency, which is exactly what the question asked for. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, providing a detailed list of both the risks and benefits of investing in cryptocurrency. It adheres to the instructions given in the question, and there is a clear and direct correlation between the user's instruction and the model's response. No aspect of the instruction is left unaddressed, hence the score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It provides some information about the risks and benefits of investing in cryptocurrency, but it does not fully explain them. The risks are not clearly defined and the benefits are mostly focused on the technical aspects of cryptocurrency, such as encryption and secure communication. The response also includes some extraneous details not asked for in the question, such as the explanation of private and public keys. Therefore, the response only partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "gemini-pro": {
+            "justification": "The response perfectly aligns with the question. The question asks for the risks and benefits of investing in cryptocurrency, and the response provides a detailed list of both. It does not include any extraneous details and does not omit any requested specifics. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation.",
+            "score": 2
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question. It provides a detailed list of both the risks and benefits of investing in cryptocurrency, which is exactly what the question asked for. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It mentions the risk of investing in cryptocurrency, but the explanation is not clear. The benefits of investing in cryptocurrency are not clearly explained either. The response includes some extraneous details that are not directly related to the question. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, providing a detailed explanation of both the risks and benefits of investing in cryptocurrency. It adheres to the instructions given in the prompt, demonstrating a clear understanding of the question. The response does not deviate from the topic and does not leave any aspect of the question unaddressed. Therefore, it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response does not adhere to the instructions given in the prompt. The question asks for the risks and benefits of investing in cryptocurrency, but the response does not provide any specific benefits. Instead, it repeats the same phrase 'The benefits for investors in the cryptocurrency market may be limited' five times. Similarly, the risks are not clearly explained and the same phrase is repeated multiple times. Therefore, there is a clear disconnect between the user's request and the model's response."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, providing both the risks and benefits of investing in cryptocurrency. It adheres to the instructions given in the prompt, demonstrating a clear understanding of the question. The response is directly correlated to the user's instruction, with no aspect of the instruction left unaddressed. Therefore, it scores 2 on the task quality metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, providing detailed information about both the risks and benefits of investing in cryptocurrency. It adheres to the instructions given in the prompt, demonstrating a precise understanding of the question. The response does not deviate from the topic, nor does it include extraneous details not asked for. Therefore, it scores 2 on the task quality metric."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing both the risks and benefits of investing in cryptocurrency. It adheres to the instructions given in the prompt and covers all aspects of the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, providing a detailed list of both the risks and benefits of investing in cryptocurrency. It adheres to the instructions given in the prompt, demonstrating a clear understanding of the question. There is a direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response earns a score of 2 according to the 'task_quality' metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response addresses the main theme of the question, which is about the risks and benefits of investing in cryptocurrency. However, it only discusses the risks and does not provide any information about the benefits, thus missing out on a key part of the question. Therefore, it only partially aligns with the prompt."
+        }
+    },
+    {
+        "prompt_id": "ab2d0b80-0423-4016-9d9f-85b749ca3684",
+        "prompt": "আমি অনলাইন প্রতারণা থেকে কীভাবে নিজেকে রক্ষা করব?",
+        "prompt_type": "finance",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 0,
+            "justification": "The response does not provide a clear and relevant answer to the question. The question asks for ways to protect oneself from online scams, but the response is repetitive and does not provide any concrete steps or methods for protection. It mentions creating a secure internet account and conducting searches, but these are not directly related to the question. Therefore, the score is 0 as there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is repetitive and does not provide any useful information or answer to the question asked. The model seems to be stuck in a loop, repeating the same phrase over and over again without providing any actual methods or ways to protect oneself from online fraud. This shows a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to protect oneself from online fraud. It provides several tips such as being cautious, not sharing sensitive information like passwords, and securing one's computer and mobile devices. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question about how to protect oneself from online fraud. It provides a list of practical steps, such as not sharing sensitive information on unknown websites, regularly changing passwords, using SSL encryption for online transactions, avoiding opening unknown emails or links, using antivirus software, and regularly reviewing online transactions. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to protect oneself from online fraud. It provides a detailed list of steps to follow, including installing security software, using secure passwords, and installing a firewall. The response is directly related to the user's instruction and covers all aspects of the instruction without any deviation. Therefore, the score is 2 as per the 'task_quality' metric."
+        },
+        "gemini-pro": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to protect oneself from online fraud, and the response provides a comprehensive list of measures that can be taken to prevent online fraud. The response is detailed, relevant, and directly addresses the question, leaving no aspect of the instruction unaddressed. Therefore, the score is 2 as per the 'task_quality' metric."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about how to protect oneself from online fraud. It provides a detailed list of steps to follow, which directly addresses the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to protect oneself from online fraud. It provides a list of steps that can be taken to ensure online safety, which is exactly what the question asked for. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to protect oneself from online fraud, and the model provides a detailed list of steps to follow to achieve this. It covers various aspects such as being cautious with personal information, using secure passwords, being careful with clicking on unknown links, reading emails carefully, using secure websites, keeping personal information safe, and being cautious about business information. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about how to protect oneself from online fraud. It provides a detailed list of precautions to take, such as being careful with personal information, clicking cautiously, reading emails carefully, using websites and passwords cautiously, and installing software cautiously. It also emphasizes the importance of being careful when using sites online. The response fully adheres to the instructions given in the question, demonstrating a clear understanding of the prompt and providing a thorough answer. Therefore, it scores 2 on the task quality metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for ways to protect oneself from online fraud, and the response provides a comprehensive list of measures that can be taken to ensure online safety. It includes installing security software on devices, using secure websites and passwords, using secure payment gateways, keeping credit card and bank account information safe, using secure email accounts, and being cautious before clicking on websites. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, and the output holistically satisfies all aspects of the given directive without any deviation.",
+            "score": 2
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question about how to protect oneself from online fraud. It provides a detailed list of measures that can be taken, such as using strong passwords, installing security software, updating websites and apps, being cautious with emails and messages, increasing knowledge about cyber security, being careful with public Wi-Fi, and not sharing messages with unknown people at specific locations. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence the score of 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to protect oneself from online fraud. It provides a detailed list of steps to follow, which aligns perfectly with the question's directive. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response perfectly aligns with the question. The question asks for ways to protect oneself from online fraud, and the response provides a detailed list of steps to do so. It covers various aspects such as strong passwords, two-factor authentication, avoiding suspicious links, only using trusted websites, not sharing personal information on social media, regularly checking accounts and credit reports, and ensuring updated software and antivirus are installed. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to protect oneself from online fraud. It provides specific and relevant advice such as using a strong password, being cautious about sharing personal information on specific websites, and being vigilant on social media. It also suggests monitoring all information collected online and being wary of the person communicating with you. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        }
+    },
+    {
+        "prompt_id": "78b8e28b-c01b-41fd-87d6-eb961074dec7",
+        "prompt": "আমি উপার্জনের একাধিক উৎস কীভাবে তৈরি করব?",
+        "prompt_type": "finance",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about how to create multiple sources of income, but the response talks about gathering ingredients and creating a string of good ingredients, which is not related to the question at all. Moreover, the response is repetitive and does not provide any useful information. Therefore, the score is 0 as per the 'task_quality' metric, indicating that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about how to create multiple sources of income, but the response is repetitive and does not provide any useful information or answer the question. It seems like the model is stuck in a loop and is not able to generate a coherent and relevant response. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to create multiple sources of income. It provides a step-by-step guide, starting from identifying one's dreams and goals, participating in multiple fields according to one's abilities and skills, and then providing specific examples such as writing if literate, teaching a language if proficient, or improving in a craft or factory work. The response is directly correlated with the user's instruction and leaves no aspect of the instruction unaddressed, hence the score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to create multiple sources of income. It provides a step-by-step guide, starting from identifying business or profession based on skills and interests, analyzing market demand and competition, starting to earn from them using resources and time, and finally keeping the sources of income diverse. The response is comprehensive and directly correlates with the user's instruction, leaving no aspect of the instruction unaddressed. Therefore, it scores 2 on the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to create multiple sources of income. It provides a detailed step-by-step guide, which aligns with the question's request. The response does not deviate from the question's instruction and does not include any extraneous details. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "gemini-pro": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to create multiple sources of income. It provides a comprehensive list of ways to achieve this, including starting an online business or freelancing, turning a hobby into a source of income, exploring various investment opportunities, taking on part-time jobs or gig work, considering buying rental property or Airbnb, and researching new ways to earn money and networking. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-4": {
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to create multiple sources of income, and the model provides a detailed and comprehensive list of ways to do so. It covers various fields such as one's own profession, internet-based income sources, investment, and proper planning and management. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed.",
+            "score": 2
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to create multiple sources of income. It provides several examples such as online business, blogging, freelancing, and selling products. The response also mentions that the creation of multiple sources of income depends on one's skills and interests. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to create multiple sources of income. It provides several suggestions such as starting a business, selling a product or service, investing in stocks, and selling skills or talents. These suggestions are directly related to the question and cover a wide range of possibilities for creating multiple sources of income. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to create multiple sources of income. It provides a detailed step-by-step guide, covering various aspects such as choosing a suitable platform, product or service, marketing plan, budget, technology, training program, and customer support system. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric and earns a score of 2."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response does not adhere to the question. The question asks for ways to create multiple sources of income, but the response only repeats the same idea of finding a place or factory for a job or business. The response does not provide any other methods or strategies for creating multiple sources of income, thus disregarding the instructions entirely. The response is also repetitive, which indicates a clear disconnect between the user's request and the model's response."
+        },
+        "SamwaadLLM": {
+            "justification": "The response provided by the model is a comprehensive and detailed answer to the question 'How can I create multiple sources of income?'. It provides a step-by-step guide on how to create multiple sources of income, covering all aspects from project management, developing innovative products or services, creating a business model, marketing and promotion, entering new markets, community relations, developing necessary resources for production and development, and maintaining healthy management. The response is directly related to the user's instruction and addresses all aspects of the question without any deviation or omission. Therefore, the model's response deserves a score of 2.",
+            "score": 2
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about creating multiple sources of income, but the response is about preparing a dish, which is not related to the question at all. Therefore, the score is 0 as per the 'task_quality' metric, as there is a clear disconnect between the user's request and the model's response."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question about how to create multiple sources of income. It provides a detailed list of potential income sources, including freelancing, blogging/YouTube, e-commerce, online courses, investment, franchising, and consulting or coaching. Each suggestion is relevant and directly related to the question, demonstrating a clear understanding of the prompt. Therefore, the response fully satisfies the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for ways to create multiple sources of income, and the model provides a detailed list of ways to do so. It covers a wide range of options, from online services to local businesses, demonstrating a precise understanding and adherence to the prompt's instructions. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the score is 2."
+        }
+    },
+    {
+        "prompt_id": "db9fd83d-e22a-4d1a-90e7-5b162ef45b51",
+        "prompt": "মুদ্রাস্ফীতি কীভাবে ক্রয় ক্ষমতাকে প্রভাবিত করে?",
+        "prompt_type": "finance",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about how inflation affects purchasing power, but the response only repeats that inflation is an economic event and part of the economic condition. There is no mention of purchasing power or how it is affected by inflation. Therefore, the response completely disregards the instructions and is irrelevant to the prompt, which aligns with the reasons for a score of 0 in the metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about how inflation affects purchasing power, but the response is nonsensical and repetitive, with no clear connection to the question. It does not provide any information about inflation or purchasing power, thus completely disregarding the instructions."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how inflation affects purchasing power. It explains that inflation increases the value of currency, which results in less goods being able to be purchased with the same amount of money, thus reducing purchasing power. It also mentions that inflation increases the cost of goods, requiring more money to purchase the same amount of goods. Therefore, the response fully adheres to the prompt's instructions and directly addresses the question, leaving no aspect of the instruction unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about how inflation affects purchasing power. It provides a detailed explanation, outlining three ways in which inflation impacts purchasing power: increase in commodity prices, decrease in income, and decrease in savings. The response is directly relevant to the question and does not deviate from the topic, hence it adheres to the prompt's instructions perfectly. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about how inflation affects purchasing power, but the response talks about a 'Kazi Paper' in Bangladesh, which is not related to the concept of inflation at all. Therefore, the model disregards the instructions entirely, leading to a score of 0."
+        },
+        "gemini-pro": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about how inflation affects purchasing power. It provides two main effects of inflation on purchasing power, explaining how it reduces the amount of goods that can be bought with the same amount of money and how it devalues savings or investments. The response is directly related to the question and does not deviate from the topic, hence it fully adheres to the task's instructions."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about how inflation affects purchasing power. It explains the concept of inflation, its impact on the prices of goods and services, and how it reduces the amount of goods that can be bought with a certain amount of money. It also mentions the effect of stable income in the context of rising inflation, leading to a decrease in purchasing power. Therefore, the response adheres to the prompt's instructions and respects its nuances and subtleties, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how inflation affects purchasing power. It explains that inflation changes the value of currency, leading to fluctuations in market prices and the value of money, which directly impacts purchasing power. This response aligns perfectly with the question, demonstrating a clear understanding and adherence to the prompt's instructions. Therefore, it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately explains how inflation affects purchasing power, which is exactly what the question asked for. It provides a clear and comprehensive explanation, demonstrating a precise understanding and adherence to the prompt's instructions. The response holistically satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response initially addresses the question correctly by explaining what inflation is and how it affects purchasing power. However, the response then becomes repetitive and redundant, repeating the same phrase multiple times without adding any new information or details. This indicates a partial alignment with the prompt, but not a complete match, as the response could have provided more detailed and varied information on the topic. Therefore, the score is 1 according to the 'task_quality' metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response initially addresses the question correctly by explaining how inflation affects purchasing power. However, the same explanation is repeated multiple times without adding any new information or details. This repetition does not contribute to a better understanding of the topic and can be considered as extraneous detail. Therefore, the response partially aligns with the prompt but does not fully satisfy all aspects of the given directive."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about how inflation affects purchasing power. It explains that during inflation, prices increase, which reduces the amount of goods that can be bought with the same amount of money, thus reducing purchasing power. It also mentions that inflation increases savings, leading to a further decrease in purchasing power as people save more of their income. Finally, it states that inflation increases interest rates, making borrowing more difficult and further reducing purchasing power. Therefore, the response adheres to the prompt's instructions and respects its nuances and subtleties, warranting a score of 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how inflation affects purchasing power. It explains that an increase in the rate of inflation can lead to a decrease in purchasing power, which is directly related to the rate of inflation. The response is entirely relevant to the question and does not include any extraneous details. Therefore, it adheres to the prompt's instructions and respects its nuances and subtleties, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how inflation affects purchasing power. It explains that inflation reduces purchasing power because as inflation increases, the price of goods also increases, which means that the same amount of money can no longer buy the same amount of goods or services. This response directly addresses the question and does not deviate from the topic, hence it fully satisfies the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately explains how inflation affects purchasing power, which is exactly what the question asked for. It explains that inflation can increase or decrease the value of currency, which in turn affects purchasing power. The response is directly related to the question and does not leave any aspect of the question unaddressed. Therefore, it adheres to the prompt's instructions completely and satisfies all aspects of the given directive without any deviation."
+        }
+    },
+    {
+        "prompt_id": "ab1459aa-1f82-46b9-bee0-e1cc2d7fc6c0",
+        "prompt": "বাঙালি সংস্কৃতিতে রবীন্দ্রসঙ্গীতের গুরুত্ব কতটা? এটি সাহিত্য ও সঙ্গীতকে কীভাবে প্রভাবিত করেছে?",
+        "prompt_type": "culture",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 1,
+            "justification": "The response addresses the first part of the question about the importance of Rabindra Sangeet in Bengali culture. However, it fails to address the second part of the question about how Rabindra Sangeet has influenced literature and music. The response is repetitive and lacks specific details. Therefore, it only partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response provides a detailed overview of Rabindranath Tagore's contributions to Bengali literature, music, and art. However, it does not specifically address the question's focus on Rabindrasangeet's significance in Bengali culture and how it has influenced literature and music. While the response is partially aligned with the prompt, it misses out on these finer details and nuances, hence the score of 1."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining the significance of Rabindra Sangeet in Bengali culture and its influence on literature and music. It provides a comprehensive answer, highlighting how Rabindra Sangeet has contributed to Bengali literature and music, and how it represents Bengali culture and language. Therefore, the response fully adheres to the prompt's instructions, demonstrating a clear understanding and execution of the task."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining the importance of Rabindra Sangeet in Bengali culture and how it has influenced literature and music. It provides a comprehensive understanding of the topic, discussing the cultural values, traditions, and emotions reflected in Rabindra Sangeet, its recognition as an integral part of Bengali literature, and its international recognition. Therefore, the response fully adheres to the prompt's instructions, demonstrating a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the importance of Rabindra Sangeet in Bengali culture and how it has influenced literature and music. It explains how Rabindranath Tagore introduced a new genre in Bengali literature and music through his songs, creating a new form of music and literature. The response is in line with the question and does not deviate from the topic, hence it adheres to the task quality metric perfectly."
+        },
+        "gemini-pro": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining the importance of Rabindra Sangeet in Bengali culture and its influence on literature and music. It provides specific examples of how Rabindra Sangeet has brought about changes in both fields. The response is in line with the instructions given in the prompt, demonstrating a clear understanding of the question and providing a comprehensive answer. Therefore, it scores 2 on the task quality metric."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining the importance of Rabindra Sangeet in Bengali culture and how it has influenced literature and music. It provides a comprehensive understanding of the topic, discussing the emotional connection of Rabindra Sangeet with people, its role in expressing Rabindranath Tagore's literary thoughts and feelings, and its profound impact on Bengali literature and music. The response is in complete alignment with the question, leaving no aspect unaddressed, hence the score of 2."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by discussing the importance of Rabindra Sangeet in Bengali culture and its influence on literature and music. It provides a comprehensive understanding of the topic, highlighting the incorporation of various local literary and cultural styles in Rabindra Sangeet, and its enduring place in Bengali music. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the importance of Rabindra Sangeet in Bengali culture and how it has influenced literature and music. It provides a detailed explanation of the unique characteristics of Rabindra Sangeet and its impact on Bengali literature and music. The response is in line with the prompt's instructions and there is a clear and direct correlation between the user's instruction and the model's response. Therefore, the score is 2 as per the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It mentions the importance of Rabindra Sangeet in Bengali culture and its influence on literature and music. However, it does not provide specific examples or details on how Rabindra Sangeet has influenced literature and music, which was asked in the question. Additionally, the response is repetitive, with the same phrases repeated multiple times, which does not add any new information or depth to the answer."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response does address the main theme of the question, which is the importance of Rabindra Sangeet in Bengali culture and its influence on literature and music. However, it lacks the finer details and nuances. The response is repetitive and does not provide specific examples or explanations on how Rabindra Sangeet has influenced literature and music. Therefore, it only partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response addresses the main theme of the question, which is the importance of Rabindra Sangeet in Bengali culture and its influence on literature and music. However, it lacks finer details and nuances. The response is repetitive and does not provide a comprehensive explanation of how Rabindra Sangeet has influenced literature and music. It also does not provide specific examples or instances to illustrate its points. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining the importance of Rabindra Sangeet in Bengali culture and how it has influenced literature and music. It provides a comprehensive answer without deviating from the topic, thus demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, it scores 2 on the task quality metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, discussing the importance of Rabindra Sangeet in Bengali culture and its influence on literature and music. It provides a detailed explanation of how Rabindra Sangeet has enriched Bengali literature and music, and how it has become an integral part of Bengali culture. The response is directly relevant to the question and does not deviate from the topic. Therefore, it fully adheres to the instructions given in the prompt."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining the importance of Rabindra Sangeet in Bengali culture and how it has influenced literature and music. It provides a comprehensive understanding of the topic, adhering to the instructions given in the prompt. The response does not deviate from the topic and there is a clear and direct correlation between the user's instruction and the model's response. Therefore, the response fully satisfies the 'task_quality' metric."
+        }
+    },
+    {
+        "prompt_id": "85b7bebc-665a-4588-858e-e9a45323c8da",
+        "prompt": "দুর্গাপূজার উৎসবের সময় পশ্চিমবঙ্গের লোকেরা কী কী উল্লেখযোগ্য ঐতিহ্য এবং রীতিনীতি অনুসরণ করে?",
+        "prompt_type": "culture",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 0,
+            "justification": "The response does not provide any specific traditions or rituals that people of West Bengal follow during the Durga Puja festival, as asked in the question. Instead, it repeats the same vague statement about unveiling traditions and presenting necessary materials for experience and expansion, without any specific details. Therefore, the response is entirely irrelevant to the prompt and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is in English, while the question is in Bengali. The response does not adhere to the specific directives given in the prompt, which is to answer in Bengali. Therefore, the model disregards the instructions entirely, and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question. It lists out the traditions and rituals followed by the people of West Bengal during the Durga Puja festival, which is exactly what the question asked for. The response does not deviate from the question or include any extraneous details. Therefore, it fully adheres to the prompt's instructions, demonstrating a clear and direct correlation between the user's instruction and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a detailed list of traditions and rituals followed by the people of West Bengal during the Durga Puja festival. It includes the installation of the idol of Goddess Durga, organizing the puja, Dhunuchi dance, Sindoor Khela, Anand Mela, feast, etc. It also mentions the social aspect of the festival where people meet and celebrate with family, friends, and relatives. The response is in complete alignment with the question and does not deviate from the topic, hence it scores 2 on the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. It mentions some traditions and rituals followed during the Durga Puja festival in West Bengal, such as Belagao, Durga Puja, Sandhita Puja, and Bidhanbandhan Puja. However, the response includes extraneous details and repetitions, especially towards the end, which were not asked for in the question. Additionally, the response could have been more detailed and specific about the traditions and rituals, providing a more comprehensive answer to the question."
+        },
+        "gemini-pro": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, which asks about the notable traditions and rituals followed by the people of West Bengal during the Durga Puja festival. The response lists and explains five key traditions, including 'Kolabou Snan', 'Making of clay idols', 'Decoration of Puja Mandap', 'Sindoor Khela', and 'Immersion'. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the traditions and rituals followed by the people of West Bengal during the Durga Puja festival. It provides a detailed description of the rituals performed on each day of the festival, from Maha Shashti to Vijaya Dashami, which is exactly what the question asked for. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a detailed description of the traditions and rituals followed by the people of West Bengal during the Durga Puja festival. It mentions the preparation for the festival, the devotion towards Durga, the celebration of Navratri, and the observance of the festival through worship, offerings, festivities, music, and dance. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the notable traditions and rituals followed by the people of West Bengal during the Durga Puja festival. It provides a detailed list of traditions and rituals, which aligns perfectly with the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, which warrants a score of 2 according to the \"task_quality\" metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a detailed description of the traditions and practices followed by the people of West Bengal during the Durga Puja festival. It mentions the construction of Durga idols, the use of various materials, the wearing of different types of clothing and decorations, and the use of music and drama. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. The question asks for notable traditions and practices followed by the people of West Bengal during the Durga Puja festival. The response mentions the tradition of women wearing beautiful sarees, but it repeats this point multiple times without providing any other examples of traditions or practices. Therefore, the response does not fully satisfy the prompt as it omits many other potential traditions and practices that could be mentioned."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. It does mention some traditions and rituals followed by people in West Bengal during the Durga Puja festival, such as wearing different types of clothes and giving gifts. However, the response is repetitive and lacks variety in the traditions and rituals mentioned. It also does not provide any specific or unique traditions that are followed during the festival, which was asked in the question. Therefore, the response does not completely satisfy the prompt's instructions."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, which asks about the notable traditions and practices followed by the people of West Bengal during the Durga Puja festival. The response lists several traditions and practices, such as the Panchami Puja, the four-day celebration, the formation of Puja groups, the use of local temples or old houses as places of worship, the recitation of Puja mantras, the collection of sacred items, the practice of restful priesthood, and the immersion of Durga. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, which asks about the notable traditions and rituals followed by the people of West Bengal during the Durga Puja festival. The response lists several traditions and rituals, such as Mahalaya, Kalabou Snan, Sandhipujo, Anjali, Dhunuchi Dance, Sindur Khela, Vijaya Dashami, social gatherings, and special food, among others. It also mentions other associated activities like wearing new clothes, distributing sweets, and exchanging greetings with loved ones. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a detailed description of the traditions and rituals followed by the people of West Bengal during the Durga Puja festival. It mentions various aspects such as the worship of Durga, the preparation for the festival, the social and familial unity expressed during this time, and the special meals prepared. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        }
+    },
+    {
+        "prompt_id": "a0bd0a94-0fe8-45d5-ab6f-0cd8e682ba47",
+        "prompt": "দীপাবলির সময় পশ্চিমবঙ্গের লোকেরা কী কী অনন্য রীতিনীতি পালন করে?",
+        "prompt_type": "culture",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 0,
+            "justification": "The response does not address the question at all. The question asks about the unique traditions followed by the people of West Bengal during Diwali, but the response talks about a social and economic development initiative. There is a clear disconnect between the question and the response, making the response entirely irrelevant to the question. Therefore, according to the 'task_quality' metric, the score is 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the unique traditions followed by people in West Bengal during Diwali, but the response talks about ways to earn money during Diwali. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the unique customs followed by the people of West Bengal during Diwali. It provides specific details such as cleaning the house, lighting up the house and streets, waking up early, performing puja, and having a feast. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and completely answers the question about the unique rituals followed by the people of West Bengal during Diwali. It provides specific examples such as Kali Puja, Lakshmi Puja, lighting of lamps, and playing with Sharika. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric perfectly."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not address the question at all. The question asks about the unique customs and traditions followed by the people of West Bengal during Diwali, but the response talks about how people coped with economic problems during the Depression era. There is a clear disconnect between the question and the response, making it entirely irrelevant to the prompt."
+        },
+        "gemini-pro": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the unique rituals followed by the people of West Bengal during Diwali. It includes details such as bathing in the Ganges, worshipping Kali, Lakshmi and Ganesha, bursting firecrackers, lighting earthen lamps, wearing new clothes, and preparing sweets and feasts. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the unique rituals performed by the people of West Bengal during Diwali. It mentions the Kali Puja, the lighting of lamps, the preparation for the prayer, the distribution of prasad, and the decoration of the Kali idol. It also mentions the offering of aarti in the night. Therefore, the response adheres to the prompt's instructions and respects its nuances and subtleties, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately describes the unique rituals followed by the people of West Bengal during Diwali, as asked in the question. It mentions the tradition of lighting lamps outside the house and the practice of decorating the house with various items. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the task quality metric."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the unique traditions followed by the people of West Bengal during Diwali. It lists four specific traditions: pond cultivation, pond fire, seed cultivation, and fair cultivation, which are all unique and relevant to the question. The response does not deviate from the question and does not include any extraneous details. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. It mentions that people in West Bengal follow unique rituals during Diwali and perform various steps of worship. However, it does not provide any specific details about these unique rituals or steps of worship, which was the main focus of the question. Additionally, the response includes repetitive phrases, which do not add any value to the answer."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response partially aligns with the question. It mentions that people in West Bengal celebrate Diwali with parties, fairs, and other events, and enjoy various types of food and drinks. However, it does not provide specific unique traditions or rituals that people in West Bengal follow during Diwali, which was the main focus of the question. Additionally, the response is repetitive, mentioning the same activities twice, which does not add any new information."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response starts off by addressing the question, mentioning that people in West Bengal follow unique traditions during Diwali and even provides an example of wearing specific colored clothing. However, the response then devolves into a nonsensical repetition of the same phrase, which makes it irrelevant and unhelpful. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the unique customs followed by the people of West Bengal during Diwali. It mentions several practices such as lighting lamps, playing conch shells, wearing new clothes, eating sweets, spending time with family and friends, performing Lakshmi Puja, and offering new grain to Lakshmi. The response is comprehensive and does not deviate from the question, hence it fully satisfies the 'task_quality' metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the unique rituals followed by people in West Bengal during Diwali. It mentions cleaning houses, drawing alpana, lighting clay lamps, worshipping Goddess Lakshmi, offering fruits, sweets, and new clothes during the worship, and hoping for prosperity and peace. It also mentions the enthusiasm for bursting firecrackers and decorating with different colored lights. Therefore, the response adheres to the prompt's instructions and respects its nuances and subtleties, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the unique rituals followed by people in West Bengal during Diwali. It mentions several specific practices such as lighting lamps, floating lamps on water, eating sweets, creating beautiful lamp arrangements, and attending exhibitions and music events at various temples. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        }
+    },
+    {
+        "prompt_id": "ec1223de-0f31-4434-b612-218ac2f7403b",
+        "prompt": "পশ্চিমবঙ্গের রসগোল্লাকে ভারতীয় সংস্কৃতির অন্যান্য মিষ্টির চেয়ে কোন বিষয়টি আলাদা করে তোলে?",
+        "prompt_type": "culture",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question asks what sets West Bengal's rasgulla apart from other Indian sweets, but the response merely repeats that it is a famous and attractive part of our culture, without specifying what makes it unique. The response also contains repeated sentences, which further detracts from its quality."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks what sets West Bengal's rasgulla apart from other Indian sweets, but the response provides general information about various aspects of Bengali culture, such as cuisine, literature, music, art, and festivals. It does not mention rasgulla or any other sweets. Therefore, the response completely disregards the instructions and is irrelevant to the prompt, which warrants a score of 0 according to the task quality metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what sets West Bengal's rasgulla apart from other Indian sweets. It mentions that rasgulla is made with a special type of rasgulla powder, unlike other Indian sweets that are typically made with regular sugar. This directly addresses the question and adheres to the prompt's instructions, demonstrating a clear understanding of the task. Therefore, the response satisfies all aspects of the given directive without any deviation, which aligns with the criteria for a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what sets West Bengal's rasgulla apart from other Indian sweets. It mentions the unique preparation process, the use of chhana mixed in sugar syrup, and the distinct shape, color, and taste of the rasgulla. The response is directly related to the user's instruction and addresses all aspects of the question without any deviation or omission. Therefore, it scores 2 on the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what sets West Bengal's rasgulla apart from other Indian sweets. It provides a detailed explanation about the unique aspects of rasgulla, including its basic ingredients, preparation process, and its unique place in Bengali sweet culture. The response is directly related to the user's instruction and addresses all aspects of the question without any deviation or omission. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "gemini-pro": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by identifying the unique aspect of West Bengal's Rasgulla that sets it apart from other Indian sweets. The response mentions that it is the only sweet made from chhena, shaped into a ball, and soaked in sugar syrup. This aligns perfectly with the question, demonstrating a clear understanding and adherence to the prompt's instructions. Therefore, the response satisfies all aspects of the given directive without any deviation."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what sets West Bengal's rasgulla apart from other Indian sweets. It explains that the unique aspect is its solid texture, being made entirely of chhana, and being cooked directly in milk syrup, unlike other Indian sweets which are usually soaked in sugar or molasses syrup. The response is in complete alignment with the question, addressing all aspects of it without any deviation or omission."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what sets West Bengal's rasgulla apart from other Indian sweets. The response mentions that it is a milk-based sweet and has a soothing sweet taste, which is different from other sweets. This aligns perfectly with the question, demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, the score is 2 as per the 'task_quality' metric."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what distinguishes West Bengal's rasgulla from other Indian sweets. It provides two distinct points: the unique taste and texture of the rasgulla. The response is directly related to the question and does not deviate from the topic, hence it adheres to the prompt's instructions completely. Therefore, according to the 'task_quality' metric, it deserves a score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing three distinct aspects that set West Bengal's Rasgulla apart from other Indian sweets. These aspects include its higher sweetness, better taste, and more attractive appearance. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus demonstrating a precise understanding and adherence to the prompt's instructions."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is repetitive and does not provide a clear and specific answer to the question. The question asks for the unique aspect of West Bengal's Rasgulla compared to other Indian sweets, but the response only repeatedly states that it is locally made in West Bengal and is not like other Indian sweets, without specifying why or how. This does not adhere to the specific directives given in the prompt, hence the score of 0."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what sets West Bengal's rasgulla apart from other Indian sweets. The response mentions that the unique taste of rasgulla, being very sweet and delicious, distinguishes it from other Indian sweets. This aligns perfectly with the question, demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, the response holistically satisfies all aspects of the given directive without any deviation, which is why it gets a score of 2 according to the 'task_quality' metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what sets West Bengal's rasgulla apart from other Indian sweets. It provides detailed information about the unique presentation, taste, and preparation method of rasgulla, and how it differs from sweets of other cultures. The response also mentions the flow of syrup, the use of cottage cheese, and the mixture of jaggery in rasgulla, which makes it distinctive and attractive. The response is in complete alignment with the question, providing a comprehensive answer without any deviation or omission of details. Therefore, it scores 2 on the task quality metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what sets West Bengal's rasgulla apart from other Indian sweets. It explains the unique preparation process and taste of the rasgulla, which is exactly what the question asked for. The response does not deviate from the question and does not include any extraneous details. Therefore, it fully adheres to the prompt's instructions."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what sets West Bengal's rasgulla apart from other Indian sweets. It mentions the unique characteristics of the sweet, such as its soft and fragrant nature, the use of ingredients similar to cake and pie, its juicy texture, and the use of flavorful syrup. The response also mentions that it is often eaten in winter and is a popular Indian sweet. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question."
+        }
+    },
+    {
+        "prompt_id": "74ed265f-6d1e-48b7-b449-024dca1bc732",
+        "prompt": "পশ্চিমবঙ্গে উদযাপিত কয়েকটি জনপ্রিয় সাংস্কৃতিক অনুষ্ঠান কী?",
+        "prompt_type": "culture",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for popular cultural events in West Bengal, but the response does not mention any specific events. Instead, it repeats phrases about cultural events in general, without providing any relevant information. Therefore, the model disregards the instructions entirely and the output is entirely irrelevant to the prompt, which aligns with the reasons for a score of 0 in the metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for popular cultural events in West Bengal, but the response does not provide any. Instead, it repeats the phrase 'according to my answer' in Bengali, which does not make sense in the context of the question. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt, and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response perfectly aligns with the question. The question asks for popular cultural events in West Bengal, and the response provides a list of such events, including Durga Puja, Kali Puja, Dol Jatra, Rath Yatra, Bihani Mela, Kolkata Film Festival, Kolkata International Light Festival, Kolkata Music Festival, etc. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the score is 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately lists several popular cultural events in West Bengal, such as Durga Puja, Saraswati Puja, Kali Puja, Dol Jatra, Rath Yatra, Vishwakarma Puja, Jamai Sasthi, Rakhi Bandhan, etc. It also mentions other cultural events like festivals, fairs, plays, music and dance performances. This directly answers the question and adheres to the prompt's instructions, demonstrating a precise understanding of the question. Therefore, it scores 2 on the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 2,
+            "justification": "The response accurately lists several popular cultural events in West Bengal, as asked in the question. It provides detailed descriptions of each event, including the Hemantek Festival, Shilpguru Samman, Chobibijnan Mela, and Purabardhanar Mela. The response is directly related to the user's instruction and addresses all aspects of the question without any deviation or omission. Therefore, it scores 2 on the task quality metric."
+        },
+        "gemini-pro": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about popular cultural events in West Bengal. It provides detailed descriptions of several events such as Durga Puja, Kali Puja, Dol Jatra, Ganga Sagar Mela, and Pushkar Mela, all of which are indeed popular in West Bengal. The response adheres to the prompt's instructions and respects its nuances, providing a clear and direct correlation between the user's instruction and the model's response. Therefore, it scores 2 on the task quality metric."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately lists several popular cultural events in West Bengal, as asked in the question. It includes a variety of events such as Durga Puja, Kali Puja, Holi, Poila Boishakh, Rabindra Jayanti, Nazrul Jayanti, Eid-ul-Fitr, Eid-ul-Adha, Poush Mela, Nabanna, Gajan, Vaishnav Jamati, Chaitra Sankranti, and Barshabaran. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding and execution of the task."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response perfectly aligns with the question. The question asks for popular cultural events in West Bengal, and the response provides a list of such events, including Durga Puja, Rath Yatra, New Year Festival, and Language Day. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the score is 2 according to the 'task_quality' metric."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately lists several popular cultural events in West Bengal, as requested in the question. It includes a variety of events such as music, storytelling, and film festivals, demonstrating a comprehensive understanding of the prompt. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response initially adheres to the question by listing popular cultural events in West Bengal. However, it repeats the same event, 'Kolkata International Art Festival', multiple times which is not asked for in the question. This repetition of the same event indicates a lack of understanding of the nuances of the question, which asked for several different popular cultural events. Therefore, the response only partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question by providing a list of popular cultural events in West Bengal, as requested in the prompt. The response includes details about each event, such as the Kolkata Film Festival, Kolkata Muslim Festival, Kolkata Book Fair, Kolkata Kalkali Festival, and Kolkata Kali Puja Festival. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus demonstrating a precise understanding and adherence to the prompt's instructions."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately lists several popular cultural events in West Bengal, as requested in the question. It includes a variety of events such as religious festivals (Purnima, Durga Puja), fashion events (Kolkata Fashion Week), comic conventions (Kolkata Comic Con), food festivals (Kolkata Food Festival), and film festivals (Kolkata Film Festival). The response is directly related to the question and does not leave out any aspect of the instruction."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about popular cultural events in West Bengal. It provides a detailed list of events, including Durga Puja, Sunday Market, Kolkata Diversity Festival, Spring Festival, and Eastern Celebrations, which are all relevant to the question. The response does not deviate from the question and does not include any extraneous details. Therefore, it fully adheres to the prompt's instructions, demonstrating a clear and direct correlation between the user's instruction and the model's response."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response perfectly aligns with the question. The question asks for popular cultural events in West Bengal and the response provides a list of such events. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the score is 2."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately lists several popular cultural events celebrated in West Bengal, as asked in the question. It includes Durga Puja, Basant Panchami, Kalkul Purnima, Sonar Keti, and Bidyut Utsav. The response also provides additional information about each festival, which adds value but does not deviate from the original question. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding and execution of the task."
+        }
+    },
+    {
+        "prompt_id": "d7e62130-2094-494a-af56-2ad53d145690",
+        "prompt": "পশ্চিমবঙ্গের কাঁথা স্টিচ শাড়িগুলি কীভাবে এত অনন্য এবং এগুলি এই অঞ্চলের সমৃদ্ধ সংস্কৃতি সম্পর্কে কী প্রতিফলিত করে?",
+        "prompt_type": "culture",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about how the Kantha stitch sarees of West Bengal are unique and what they reflect about the rich culture of the region. However, the response merely repeats the same phrase about the sarees being a beautiful and attractive element of the region's beauty, without providing any specific details or insights about their uniqueness or cultural significance. Therefore, the response completely disregards the instructions and is irrelevant to the prompt."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "justification": "The response provided by the model is repetitive and does not provide any meaningful information in response to the question. The question asks about the uniqueness of the Kantha stitch sarees of West Bengal and how they reflect the rich culture of the region. However, the response does not provide any information on this, instead, it repeats the same phrase multiple times without any context or explanation.",
+            "score": 0
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is incomplete and does not provide a clear answer to the question. The question asks about the uniqueness of Kantha stitch sarees in West Bengal and how they reflect the rich culture of the region. However, the response only mentions that these sarees are a unique cultural asset of West Bengal and are made on a triangular wooden frame. It does not explain why they are unique or how they reflect the culture of the region. Therefore, the response does not adhere to the specific directives given in the prompt."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining how the Kantha stitch sarees of West Bengal are unique and how they reflect the rich culture of the region. It mentions that these sarees are handwoven, which gives them a unique beauty, and that the variety in their designs and colors reflect the richness of West Bengal's culture. The response also adds that these sarees represent the beauty and culture of the women of West Bengal. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is largely irrelevant to the question. The question asks about the uniqueness of Kantha stitch sarees in West Bengal and how they reflect the rich culture of the region. However, the response talks about Bangladesh and its culture, which is not related to the question. Moreover, the response is repetitive and does not provide any meaningful information about the sarees. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "gemini-pro": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining how the Kantha stitch sarees of West Bengal are unique and how they reflect the rich culture of the region. It provides detailed information about the handcrafted complexity, colorful designs, traditional symbols, and eco-friendly nature of these sarees, which are all aspects that make them unique and culturally significant. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, a score of 2 is justified."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining how the Kantha stitch sarees of West Bengal are unique and how they reflect the rich culture of the region. It discusses the intricate handwork, distinctive designs, and the traditional process involved in making these sarees. It also explains how these sarees depict the rural Bengali lifestyle, culture, and heritage, and how they are primarily supported by rural women, thereby improving not only their economic condition but also reflecting their collective thought process, daily life, and character formation. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding of the question."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining why the Kantha stitch sarees of West Bengal are unique and how they reflect the rich culture of the region. It mentions the design, materials, and detailed description of the sarees, and how they represent the deep historical and cultural identity of the region. The response also mentions that these sarees are examples of Indian silk and architecture. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how the Kantha stitch sarees of West Bengal are unique and what they reflect about the region's rich culture. The response provides detailed explanations, mentioning the saree's motifs, colors, and tunes as unique aspects that reflect the culture of West Bengal. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response does address the main theme of the question, which is about the uniqueness of West Bengal's Kantha stitch sarees and how they reflect the region's rich culture. However, the response is repetitive and lacks depth. It does not provide specific details about how these sarees are unique or how they reflect the culture of West Bengal. The response also does not address the 'how' part of the question, which asks for an explanation of the process or characteristics that make these sarees unique and culturally reflective. Therefore, the response partially aligns with the prompt but misses out on finer details and nuances."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response initially addresses the question by stating that the Kantha stitch sarees of West Bengal are unique and reflect the rich culture of the region. However, the response then repeats the same sentence about the sarees' beautiful design and color combination multiple times, which does not provide any new or specific information about how these sarees are unique or how they reflect the region's culture. Therefore, the response only partially aligns with the prompt and misses out on finer details or nuances, which is why it receives a score of 1 according to the 'task_quality' metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. It does address the uniqueness of the Kantha stitch sarees of West Bengal and how they reflect the rich culture of the region. However, it does not provide any specific details or examples to illustrate this point. The response is also repetitive, with the same sentence being repeated multiple times. This indicates a lack of depth and detail in the response. Therefore, the score is 1 as per the 'task_quality' metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining how the Kantha stitch sarees of West Bengal are unique and how they reflect the rich culture of the region. It discusses the traditional methods of creation, the significance of art and craft in the culture, the use of local raw materials, the role of local artisans, and how the designs and colors of the sarees reflect various aspects of West Bengal's culture and environment. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining how the Kantha stitch sarees of West Bengal are unique and how they reflect the rich culture of the region. It discusses the hand-made nature of the sarees, the use of various designs and symbols, the use of recycled materials, and the depiction of local life and mythology. It also highlights the role of women in this craft and how these sarees are not just fashion items but carriers of cultural heritage. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining how the Kantha stitch sarees of West Bengal are unique and how they reflect the rich culture of the region. It mentions that these sarees are made entirely based on Kantha work, which is a local style, and are primarily reflected in weddings, an important part of West Bengal's society. The response also mentions that these sarees are primarily used as women's clothing, which is a significant part of West Bengal's culture. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        }
+    },
+    {
+        "prompt_id": "82c26f94-9707-4b93-b2ce-46120ace1fd2",
+        "prompt": "পশ্চিমবঙ্গের কিছু বিখ্যাত ঐতিহ্যবাহী শিল্পকলা এবং কারুশিল্পগুলি কী কী?",
+        "prompt_type": "culture",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for specific examples of traditional arts and crafts in West Bengal, but the response only provides a general statement about the existence of such arts and crafts, without naming any specific examples. Furthermore, the response contains a repeated phrase, which makes it nonsensical and irrelevant to the question. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is in English while the question is in Bengali. The user asked for information about traditional arts and crafts in West Bengal in Bengali, but the model responded in English. Therefore, the model did not adhere to the specific directives given in the prompt, which results in a score of 0 for task quality."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately lists several traditional arts and crafts of West Bengal, as requested in the question. It includes specific examples such as Shantiniketan Pata, Kalighat Pata, Bansai Tat, Kumartuli, Patua Sangeet, and Bansai Mudra. Each of these is a well-known traditional art form or craft in West Bengal. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, which asks for examples of traditional arts and crafts in West Bengal. The response lists several examples, including Kantha stitching, Batik from Shantiniketan, Bengali Patachitra, Bell metal craft of Dakshineswar, and Terracotta craft of Bishnupur. Each example is relevant and directly related to the question, demonstrating a clear understanding of the prompt. Therefore, the response fully adheres to the instructions given in the prompt, warranting a score of 2 for task quality."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. The question asks for some famous traditional arts and crafts of West Bengal, and the response does provide two examples - Shorbori Art and Rajpur Art. However, the descriptions of these arts are not clear and seem to be mixed up with irrelevant details. For instance, the response mentions children spending money and various locations in Bangladesh, which are not relevant to the description of the arts. Therefore, while the response does address the main theme of the instruction, it misses out on finer details and includes extraneous details not asked for."
+        },
+        "gemini-pro": {
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for some famous traditional arts and crafts of West Bengal, and the model provides a detailed list of these, including weaving, idol making for Durga Puja, embroidery, Patachitra, brassware, ivory carving, paper crafts, pottery, Kanchipuram silk, and Bandhani. Each item is explained briefly, providing a clear understanding of what it is. Therefore, the model's response fully satisfies the prompt's instructions without any deviation.",
+            "score": 2
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question by listing several traditional arts and crafts of West Bengal, such as Baluchari sarees, Darjeeling's Thangka paintings, and Murshidabad's brushwork. It adheres to the prompt's instructions and provides a comprehensive answer, demonstrating a clear understanding of the question. Therefore, it scores 2 on the task quality metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately lists several traditional arts and crafts of West Bengal, as requested in the question. It includes both art forms like 'Tant Shilpa', 'Pot Chitrakala', 'Keshab Chaul Pona', 'Madhupur's Lepcha Gora Art', 'Yetabaddha Loha Khanar Bathan Art' and crafts like 'Damini Wood Craft', 'Sholapith Craft', 'Bamboo and Cane Craft'. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing examples of traditional arts and crafts in West Bengal. It provides specific examples of arts and crafts, including the stairs of Kolkata, the crafts of Botigad, the crafts of Kolkata, and the crafts of Bardhaman. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus fulfilling the criteria for a score of 2 under the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response starts off by addressing the question, mentioning some traditional arts and crafts of West Bengal such as the beautiful woodwork of Kolkata and Hater's woodwork. However, it then deviates from the question and starts repeating the name of 'Bangabandhu Shilpakala' multiple times, which is not relevant to the question. The response also does not provide a comprehensive list of traditional arts and crafts of West Bengal, which was asked in the question. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is not aligned with the question. The question asks for various traditional arts and crafts in West Bengal, but the response only mentions one type of craft, 'Kanchi work', repeatedly. There is no variety or additional information provided, which is a clear disregard of the instructions given in the question. Therefore, the score is 0 as per the 'task_quality' metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is not aligned with the question. The question asks for famous traditional arts and crafts in West Bengal, but the response only mentions 'Kolkata's clothing' and 'Kolkata's Sundarban woodwork' repetitively. There is no variety or detail in the response, and it does not provide a comprehensive answer to the question. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a detailed list of traditional arts and crafts in West Bengal. It includes examples such as Patachitra art, Kantha stitch, West Bengal attire, West Bengal handicrafts, and art and craft institutions. The response also provides additional context about each example, demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, it holistically satisfies all aspects of the given directive without any deviation, which aligns with the criteria for a score of 2 under the 'task_quality' metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately lists several traditional arts and crafts of West Bengal, as requested in the question. It includes a variety of examples such as Patachitra, Taant, Dhakai Jamdani, Baluchari Sari, Terracotta of Kolkata, Shell work, Wooden dolls, Clay idols and toys of Nadia district, and Bamboo work. Each item is briefly described, providing a comprehensive answer to the question. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding of the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing examples of traditional arts and crafts in West Bengal, such as various types of wooden and glass masks, utensils, idols, and complete services of glassware and handicrafts. It also mentions that these arts and crafts are primarily associated with wood, glass, and utensils. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        }
+    },
+    {
+        "prompt_id": "8295664f-4765-4e24-ae6a-52b52d14a947",
+        "prompt": "পশ্চিমবঙ্গ কোন ঐতিহ্যবাহী খেলাগুলির জন্য বিখ্যাত?",
+        "prompt_type": "culture",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 1,
+            "justification": "The response does address the main theme of the question, which is about traditional games famous in West Bengal. However, it repeats the same information multiple times, which is not asked for in the question. Also, it does not provide any specific traditional games, instead it mentions modern games like football, cricket, basketball, and tennis. Therefore, it only partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for traditional games famous in West Bengal, but the response does not mention any games. Instead, it repeats phrases that do not make sense in the context of the question. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt, which aligns with the reasons for a score of 0 in the metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about traditional games famous in West Bengal. It lists several games such as Dulali, Gamos, Kabiraj, Pulinta, Jolpaikari, Kuchi Pukur, etc., which are traditional games of West Bengal. The response is directly related to the user's instruction and addresses all aspects of the question without any deviation or omission. Therefore, it scores 2 on the task quality metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about traditional games famous in West Bengal. It lists several games such as Chotim, Gollachut, Kabaddi, Kho-Kho, Lathi Khela, Hadudu, etc. It also mentions games organized during social events like Bou Bhat, Phul Tosha, Sarbatmok Khela, etc. The response is in complete alignment with the question, providing a comprehensive list of traditional games, thus demonstrating a precise understanding and adherence to the prompt's instructions."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response starts off by correctly addressing the question, listing traditional games famous in West Bengal. However, it then deviates into irrelevant details about health services and other unrelated topics. This indicates a partial alignment with the prompt but not a complete match, hence the score of 1."
+        },
+        "gemini-pro": {
+            "score": 2,
+            "justification": "The response accurately answers the question about traditional games famous in West Bengal. It lists several games such as Durga Puja Football, Lathi Khela, Kabaddi, and Kho-Kho, providing a brief description of each. The response is directly related to the user's instruction and addresses all aspects of the question without any deviation or omission. Therefore, it scores 2 on the task quality metric."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question about traditional games famous in West Bengal. It lists several games such as 'Gaye Holud', 'Chork Puja', 'Dhani Puja', 'Baishakhi Haat', 'Nouka Baich', 'Jhulan Yatra', 'Ras Yatra', 'Pat Kheli', 'Dari Bati', 'Unish Pala', and 'Meru-Singha'. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the task quality metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question about traditional games famous in West Bengal. It mentions cricket, football, and kabaddi, which are indeed popular and traditional games in the region. The response is directly related to the user's instruction and does not deviate from the topic, hence it satisfies all aspects of the given directive."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately answers the question about traditional games famous in West Bengal. It lists several games, providing a comprehensive answer to the question. The response is directly related to the question and does not deviate from the topic, hence it adheres to the prompt's instructions completely. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for traditional games famous in West Bengal, but the response is just a repetition of the word 'game' without providing any specific names or details. This shows a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response partially aligns with the question. The question asks for traditional games famous in West Bengal, but the response includes games like cricket, football, hockey, basketball, tennis, badminton, golf, and tennis ball, which are not traditional games. The response also includes a repeated word 'kuchi' multiple times, which does not make sense. Therefore, the response does not completely adhere to the prompt's instructions."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is not accurate. The question asks for traditional games famous in West Bengal, but the response lists modern sports like cricket, football, hockey, baseball, badminton, tennis, squash, boxing, wrestling, which are not traditional games. Moreover, the response is repetitive, mentioning the same sports multiple times. Therefore, the response does not adhere to the specific directives given in the prompt."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately answers the question about traditional games famous in West Bengal. It provides a detailed list of games, including Durga Puja Partials, Pulai Game, Durga Puja Film Screening, and Karnataka Party, explaining each one in detail. The response is directly related to the user's instruction and addresses all aspects of the question without any deviation or omission. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying the 'task_quality' metric at the highest level."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question about traditional games famous in West Bengal. It lists five games, providing a brief description of each, which aligns perfectly with the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric perfectly."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about traditional games famous in West Bengal. It lists several games such as cricket, football, hockey, basketball, volleyball, kabaddi, shooting, carrom, and others. It also mentions famous clubs and stadiums in West Bengal. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        }
+    },
+    {
+        "prompt_id": "d8af18cc-a750-420a-b5d5-f645ba86a31c",
+        "prompt": "পশ্চিমবঙ্গের তাঁত বস্ত্র তৈরিতে কোন নকশা ও প্যাটার্ন ব্যবহার করা হয়?",
+        "prompt_type": "culture",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 0,
+            "justification": "The response does not provide any specific information about the patterns and designs used in the creation of West Bengal's handloom textiles, which was the main focus of the question. Instead, it repeats a nonsensical phrase multiple times. This indicates a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not provide any specific information about the patterns and designs used in the production of handloom textiles in West Bengal, which was the main directive of the question. Instead, it simply repeats the question and adds some irrelevant and repetitive phrases. Therefore, it completely disregards the instructions and is irrelevant to the prompt, which aligns with the reasons for a score of 0 in the metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the patterns and designs used in the production of West Bengal's handloom textiles. It provides specific examples of designs and patterns, such as Kalighat design, Murshidabad design, Barasat design, Purulia design, and styles like Bengali style, Kalighat style, Murshidabad style, etc. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the types of designs and patterns used in the production of handloom textiles in West Bengal. It provides specific examples of patterns such as Jamdani, Tansha, Muga, Kantha, etc., and describes the characteristics of each. The response is directly related to the user's instruction and addresses all aspects of the question without any deviation or omission. Therefore, it fully adheres to the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response partially addresses the question about the patterns used in the creation of West Bengal's handloom textiles. It mentions the use of Bangladeshi leaf patterns and a pattern involving a small vine and flower image. However, the response is repetitive and confusing, and it includes irrelevant information about preservation of the textiles. It also does not provide a clear or comprehensive overview of the patterns used in West Bengal's handloom textiles, which was the main focus of the question."
+        },
+        "gemini-pro": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the types of patterns and designs used in the creation of West Bengal's handloom textiles. It provides a detailed list of various patterns and designs such as flowers and vines, geometric patterns, animals and birds, scenes from folklore and epics, and religious symbols. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the patterns and designs used in the creation of West Bengal's handloom fabrics. It provides detailed information about the types of designs used, such as images of beauties, jars, flowers, and birds. It also mentions the use of complex motifs and floral designs. The response further elaborates on the types of handloom fabrics produced, including Muga silk, Jamdani, Tantubayana, Baluchari cloth, and Eastern region, Koasha cloth, and Georgette. It also mentions that these designs depict historical and cultural events, and the life and philosophy of mythological characters. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the types of designs and patterns used in the creation of West Bengal's handloom textiles. It provides specific examples such as Jamdani, handloom Kantha, Kaj Biday, and fabric cutting, which directly addresses the question. Therefore, the model's response is in complete alignment with the user's instruction, satisfying all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asked about the designs and patterns used in the creation of handloom textiles in West Bengal, and the model provided a detailed response, listing out the main designs and patterns used. The response is directly relevant to the question and does not include any extraneous details.",
+            "score": 2
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. It does address the main theme of the question, which is about the patterns used in the creation of West Bengal's handloom fabrics. However, the response is repetitive and lacks finer details or nuances. It repeatedly mentions 'Sundarban, Kashmir, Mohammadpur' as examples of patterns, which is not only irrelevant but also redundant. Therefore, the response does not completely match the prompt and includes extraneous details not asked for."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the types of designs and patterns used in the creation of West Bengal's handloom fabrics. It provides a detailed list of different patterns used, such as 'wooden design', 'leaf design', 'flower design', 'olive design', and 'beautiful design'. The response is directly related to the user's instruction and addresses all aspects of the question without any deviation or omission. Therefore, it scores 2 on the task quality metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "justification": "The response starts off well by addressing the question and providing some examples of patterns used in West Bengal's textile industry. However, it then devolves into a repetitive listing of the same pattern (\"Kolkata Sutrong\") multiple times, which is not relevant or helpful. This indicates that while the model grasped the main theme of the instruction, it missed out on the finer details and nuances.",
+            "score": 1
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the types of patterns and designs used in the creation of West Bengal's handloom fabrics. It provides a detailed explanation of the various patterns and designs used, such as circular, linear, various floral shapes, animal or natural shapes, and different color combinations. It also mentions some specific patterns like simple circle, water-like, friendly or flat circle, repetitive or Panchali shape, and various number patterns. The response also discusses the cultural significance of these patterns and their appeal to people around the world. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the patterns and designs used in the production of handloom textiles in West Bengal. It mentions specific patterns such as Dhani, Tangail, Jamdani, Sari Palu, Tangail Palu, Baluchari, Sontal, and also mentions the use of images of flowers, birds, temples, and traditional pictures. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the types of designs and patterns used in the production of handloom textiles in West Bengal. It explains that various designs and patterns are used, depending on the institution, and that these can range from traditional to modern. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus fulfilling the criteria for a score of 2 according to the 'task_quality' metric."
+        }
+    },
+    {
+        "prompt_id": "6750d0c4-7ca6-46e5-9e3d-33d2b3a72cd1",
+        "prompt": "পশ্চিমবঙ্গের সাহিত্যের ঐতিহ্য কীভাবে ভারতীয় সাহিত্যকে আধুনিক সময়ের সঙ্গে যুক্ত করছে?",
+        "prompt_type": "culture",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 0,
+            "justification": "The response is repetitive and does not provide a clear explanation of how the tradition of literature in West Bengal is connecting Indian literature with modern times. It repeats the same phrase multiple times without providing any new or relevant information. Therefore, it does not adhere to the specific directives given in the prompt, resulting in a score of 0 for task quality."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is repetitive and does not provide any specific information on how the tradition of West Bengal's literature is connecting with Indian literature in modern times. It does not adhere to the specific directives given in the prompt, hence the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It mentions that the tradition of West Bengal's literature is being integrated with Indian literature in the modern era, which is in line with the question. However, the response is repetitive and does not provide specific ways or examples of how this integration is happening. Therefore, it misses out on finer details or nuances of the question."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how the literary tradition of West Bengal is connecting Indian literature with modern times. It provides a detailed explanation, mentioning the influence of modernist writers in Bengali literature, the exchange of culture with Western literature, the role of folk literature and regional literature, and the translation of works of modern Bengali writers into various Indian languages. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "justification": "The response provided by the model is in line with the question asked. The question asks about how the tradition of literature in West Bengal is connecting Indian literature with modern times. The response provides a detailed explanation of how West Bengal's literature has integrated Indian literature with modern times through various initiatives and forms. It mentions the integration of traditional and new types of poetry, literature, writings, and scientific subjects. It also talks about how West Bengal's literature has become an integrated form of Indian literature, fulfilling all types of initiatives and providing solutions in all fields. Therefore, the model's response is directly correlated with the user's instruction, with no aspect of the instruction left unaddressed.",
+            "score": 2
+        },
+        "gemini-pro": {
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks how the tradition of literature in West Bengal is connecting Indian literature with modern times. The response provides a detailed explanation of how this is being achieved, including the revival of traditional literary forms, new literary movements, development of regional language, and exchange with other Indian literatures. The response is comprehensive and directly addresses the question, leaving no aspect of the instruction unaddressed.",
+            "score": 2
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how the tradition of West Bengal's literature is connecting with Indian literature in modern times. It provides a detailed explanation, mentioning the use of advanced thoughts and styles, revolutionary subjects, contemporary human national and international issues, and the influence of science and technological progress. It also mentions the role of institutions and the writer community in this process. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how the literary tradition of West Bengal is connecting Indian literature with modern times. It provides specific examples such as the influence of Hindu revivalist thought and the rise of socialist thought and women's issues after the liberation war. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how the tradition of West Bengal's literature is connecting Indian literature with modern times. It provides specific examples of how this is being done, such as through contemporary literature, the richness of Indian literature, and cultural appeal. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus demonstrating a precise understanding and adherence to the prompt's instructions."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is repetitive and does not provide any specific details on how the tradition of West Bengal's literature is connecting Indian literature with modern times. It merely states that the tradition of West Bengal's literature is related to the ancient tradition of Indian literature, without addressing the question's focus on the connection with modern times. Therefore, the response does not adhere to the specific directives given in the prompt, resulting in a score of 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is repetitive and does not provide any specific details on how the tradition of West Bengal's literature is connecting Indian literature with modern times. It merely restates the question multiple times without providing any substantial answer. Therefore, it does not adhere to the specific directives given in the prompt."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. It does mention the tradition of literature in West Bengal and its connection to Indian literature, which is relevant to the question. However, it does not provide any specific examples or details on how this tradition is being connected to modern times, which was the main point of the question. The response also repeats the same information multiple times, which does not add any value to the answer. Therefore, the response only partially fulfills the instructions given in the prompt."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how the literary tradition of West Bengal is connecting Indian literature with modern times. It provides a detailed explanation, citing examples of literary works and authors, and discussing the representation of various social issues, cultural diversity, and human values. The response is in complete alignment with the question, demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, it scores 2 as per the 'task_quality' metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how the literary tradition of West Bengal is connecting Indian literature with modern times. It provides detailed examples of influential authors and their contributions, such as Rabindranath Tagore, Sarat Chandra Chattopadhyay, and Satyajit Ray. It also discusses the themes and perspectives present in their works, and how they have modernized Indian literature. The response is comprehensive and directly correlates with the user's instruction, leaving no aspect of the instruction unaddressed. Therefore, it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how the tradition of West Bengal's literature is connecting with Indian literature in modern times. The response provides a detailed explanation, mentioning the use of diverse representation and reporting, the ability of West Bengal's writers to address past and present issues, and their use of necessary technology and methods to find solutions. The response is in complete alignment with the question, demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        }
+    }
+]

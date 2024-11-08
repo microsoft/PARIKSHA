@@ -1,0 +1,1242 @@
+[
+    {
+        "prompt_id": "c207ea9d-3600-461b-a12b-4ebc1abded19",
+        "prompt": "பேங்க் அக்கௌண்ட் ஓபன் செய்வதற்க்கு என்னென்ன டாக்குமென்ட் தேவை?",
+        "prompt_type": "finance",
+        "language": "tamil",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for the documents required to open a bank account, but the response talks about the difference between an 'Akka Urund' and a 'Dakku Mennd', which is irrelevant to the question. Therefore, the model disregards the instructions entirely and the output is entirely irrelevant to the prompt, which aligns with the reasons for a score of 0 in the metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question asks for the documents required to open a bank account, but the response lists the steps or aspects of opening an account, not the documents needed. Therefore, the response does not adhere to the specific directives given in the prompt, resulting in a score of 0."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately lists the documents required to open a bank account, which is exactly what the question asked for. It includes Aadhaar Card, PAN Card, Address Proof, Identity Proof, and Passport Size Photo. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence it scores 2 on the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the documents required to open a bank account, but the response is nonsensical and does not provide any information related to the question. It seems like the model is just repeating the same word over and over again without providing any meaningful information. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately lists the documents required to open a bank account, which is exactly what the question asked for. The response is detailed and comprehensive, covering various types of documents such as identity proof, address proof, income proof, etc. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the 'task_quality' metric."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately lists the documents required to open a bank account, which is exactly what the question asked for. The response is directly related to the question and does not deviate from the topic. It covers all aspects of the question, demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "abhinand/tamil-llama-7b-instruct-v0.2": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for the documents required to open a bank account and the model provides a detailed explanation of the requirements, including age, income, credit history, credit eligibility requirements, document verification, and completion of the application form. The model's response is comprehensive and addresses all aspects of the question, demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for the documents required to open a bank account, but the response talks about completing account data and registering server data, which is irrelevant to the question. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what documents are needed to open a bank account. It mentions the need for identity verification, proof of birth, address verification, and in some cases, previous bank account statements and proof of employment or income. The response also advises to check with the specific bank for their policies or to contact a helper to open the account. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about what documents are needed to open a bank account. It lists out all the necessary documents such as identification document, bank statement or income report, address proof, contact information, and account opening fee. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence it scores 2 on the task quality metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about what documents are needed to open a bank account. It lists all the necessary documents such as proof of identity, proof of address, financial information, account amount, and credit or debit card number. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence it scores 2 on the task quality metric."
+        },
+        "SamwaadLLM": {
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for the documents required to open a bank account and the model provides a detailed list of the documents and information needed. It covers all aspects of the question without any deviation or extraneous details. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions.",
+            "score": 2
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about what documents are needed to open a bank account. It lists various types of identification, address proof, a photograph, and income proof, which are typically required by banks. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what documents are needed to open a bank account. It provides a detailed list of documents required, such as identification card, proof of income, and proof of source of money. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence it adheres to the task quality metric perfectly."
+        }
+    },
+    {
+        "prompt_id": "542f077e-b9a1-4d5d-a10d-7082c83f141e",
+        "prompt": "எனது டிஜிட்டல் பேங்க் ஸ்டேட்மெண்ட் எவ்வாறு பெறுவது?",
+        "prompt_type": "finance",
+        "language": "tamil",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not provide any relevant information to the question asked. The question is about how to obtain a digital bank statement, but the response is repetitive and nonsensical, not providing any steps or information on how to obtain a digital bank statement. Therefore, the model disregards the instructions entirely and the output is entirely irrelevant to the prompt, which aligns with the reasons for a score of 0 in the metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response provided by the model is partially aligned with the prompt. The user asked how to obtain their digital bank statement, and the model provided steps that are somewhat relevant but not specific enough. The steps provided are repetitive and do not provide clear instructions on how to obtain a digital bank statement. The model grasps the main theme of the instruction but misses out on finer details or nuances, hence the score of 1."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and completely answers the question about how to obtain a digital bank statement. It provides three different methods, including using the bank's website, mobile app, or visiting the bank branch, which covers all possible ways to obtain a digital bank statement. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about how to obtain a digital bank statement, but the response talks about something entirely different and unrelated. It does not provide any information or steps on how to obtain a digital bank statement. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and completely answers the question about how to obtain a digital bank statement. It provides a step-by-step guide that is directly relevant to the question, demonstrating a precise understanding and adherence to the prompt's instructions. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately answers the question on how to obtain a digital bank statement. It provides a step-by-step procedure, which is exactly what the question asked for. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the task quality metric."
+        },
+        "abhinand/tamil-llama-7b-instruct-v0.2": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for the process of obtaining a digital banking statement and the model provides a detailed step-by-step guide on how to do so. It covers all aspects of the process, from identifying the type of statement needed, checking credit scores, reviewing credit history, applying with necessary documents, to finally submitting the application. Therefore, the model's response is comprehensive and directly addresses the user's instruction without any deviation or omission."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to obtain a digital bank statement. It provides a detailed explanation, suggesting to use online banking or a web banking app on a smartphone or digital device to view the statement. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about how to obtain a digital bank statement. It provides a step-by-step guide that is directly relevant to the question, without any extraneous information or omissions. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about how to obtain a digital bank statement. It provides a step-by-step guide, covering all aspects of the process, from accessing the digital banking website to checking the email account for the statement. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately and completely answers the question about how to obtain a digital bank statement. It provides a step-by-step guide on how to access the statement through the bank's website or mobile application, how to select the desired statement period, and how to send the statement to an email address or bank account. It also advises on reviewing the information in the statement and saving or printing it for future reference. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for the process of obtaining a digital bank statement, but the response talks about converting money and receiving payments, which is not relevant to the question. Therefore, the score is 0 as per the 'task_quality' metric because there is a clear disconnect between the user's request and the model's response."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about how to obtain a digital bank statement. It provides detailed steps for obtaining the statement through various methods such as mobile app, internet banking, email, and telephone. The response does not deviate from the question and does not include any extraneous details. Therefore, it fully adheres to the task quality metric, demonstrating a precise understanding and adherence to the prompt's instructions."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question on how to obtain a digital bank statement. It provides a step-by-step guide on how to access the statement through the bank's website or mobile application, which aligns perfectly with the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric and scores 2."
+        }
+    },
+    {
+        "prompt_id": "344b61b4-ccd6-42a6-81f1-d8159fad351a",
+        "prompt": "சரியான நேரத்தில் பில்களை செலுத்துவது ஏன் முக்கியம்?",
+        "prompt_type": "finance",
+        "language": "tamil",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks why it is important to pay bills on time, but the response merely repeats the question without providing any answer or explanation. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt. There is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why it is important to pay bills on time. It mentions that it is crucial for improving the quality of events and maintaining orderliness, which aligns well with the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the prompt's instructions and respects its nuance and subtleties, earning a score of 2 according to the 'task_quality' metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the importance of paying bills on time. It provides a comprehensive explanation, covering aspects such as financial stability and debt reduction. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks why it is important to pay bills on time, but the response talks about people being in a place or not, which is not related to the question at all. Moreover, the response is repetitive and does not make sense. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the importance of paying bills on time. It provides a comprehensive explanation, highlighting the impact on one's financial reputation and the potential consequences of late payments such as penalties and increased interest rates. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about the importance of paying bills on time, but the response talks about medical sugar and its relation to disease severity. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "abhinand/tamil-llama-7b-instruct-v0.2": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks why it is important to pay bills on time, and the model provides a detailed and comprehensive answer, covering various aspects such as financial stability, avoiding penalties, improving credit history and creditworthiness, protecting assets, and improving debt ratio. The response does not deviate from the topic and does not include any extraneous details. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the importance of paying bills on time. It explains that paying bills is a financial norm and that doing so on time helps to save time, money, and investments. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus fulfilling the criteria for a score of 2 under the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks why it is important to pay bills on time, and the response thoroughly explains the importance of timely bill payments, touching upon aspects such as maintaining credit history, avoiding negative impacts, and managing financial discipline. The response does not deviate from the topic and does not include any extraneous details. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about why it is important to pay bills on time. It covers various aspects such as financial stability, debt reduction, credit score improvement, ease of obtaining financial services, maintaining good relations with financial institutions and lenders, and financial independence. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about why it's important to pay bills on time. It provides a comprehensive explanation, discussing the impact on credit history, credit score, future loan acquisition, potential penalties and fees, and the demonstration of financial responsibility and trustworthiness. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question asks why it is important to pay bills on time, but the response talks about the importance of bills in general, not the importance of paying them on time. The response does not adhere to the specific directives given in the prompt, hence the score of 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about why it is important to pay bills on time. It provides a detailed explanation with multiple reasons, demonstrating a precise understanding and adherence to the prompt's instructions. The output holistically satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about why it's important to pay bills on time. It provides a comprehensive explanation, highlighting the impact on credit score, prevention of debt accumulation, maintaining clean financial records, and long-term financial management. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        }
+    },
+    {
+        "prompt_id": "d46bfda5-4e63-42e2-87f7-dff348ff6e28",
+        "prompt": "டெபிட் கார்டுக்கும் கிரெடிட் கார்டுக்கும் என்ன வித்தியாசம்?",
+        "prompt_type": "finance",
+        "language": "tamil",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "justification": "The model does grasp and address the main theme of the instruction, which is to explain the difference between a debit card and a credit card. However, it misses out on finer details and nuances. The response includes extraneous details not asked for, such as repeating the same phrases multiple times, and it also omits some requested specifics, such as the fact that credit cards often come with fees and interest rates.",
+            "score": 1
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and completely answers the question about the difference between a debit card and a credit card. It explains that a debit card is a type of bank card that protects the money attached to it, while a credit card is a type of credit card that protects the money attached to it. It also mentions that both are bank cards, but their coverage and responsibilities differ. Therefore, the response adheres to the prompt's instructions and respects its nuances, satisfying all aspects of the given directive without any deviation."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and completely answers the question about the difference between a debit card and a credit card. It explains that a debit card allows you to spend the money in your account, while a credit card provides a credit facility, meaning you can spend without withdrawing money from your account, but you have to repay the credit amount. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for the difference between a debit card and a credit card, but the response talks about TCP (Transmission Control Protocol) and repeatedly mentions 'Indian accounts', which is not related to the question at all. Therefore, the model disregards the instructions entirely, and there is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and completely answers the question about the difference between a debit card and a credit card. It explains that a debit card allows you to spend only the money in your account and does not incur interest, while a credit card provides a loan from a bank or credit card company that may incur interest if not paid in full within a month. This response fully adheres to the prompt's instructions and addresses all aspects of the question, demonstrating a clear and direct correlation between the user's instruction and the model's response."
+        },
+        "abhinand/tamil-llama-7b-instruct-v0.2": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the difference between debit and credit cards. It provides detailed explanations about the functioning of both types of cards, their networks, and the key difference in their operations. The response adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining the differences between a debit card and a credit card. It provides a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asked for the difference between a debit card and a credit card, and the model provided a detailed explanation of the differences between the two, covering all aspects of the question. The response is directly relevant to the question and there are no extraneous details. Therefore, the model's response fully satisfies the prompt's instructions without any deviation, earning it a score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the difference between a debit card and a credit card. It adheres to the prompt's instructions and provides a detailed explanation, covering all aspects of the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response scores 2 on the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the difference between debit and credit cards. It explains how each type of card works, their features, and the key differences between them. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed. Therefore, it scores 2 on the task quality metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately and completely answers the question about the difference between a debit card and a credit card. It explains that a debit card allows direct withdrawal of money from a person's savings account, while a credit card allows a person to borrow money from a financial institution and repay it later. The response is directly related to the user's instruction and addresses all aspects of the question without any deviation or omission."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately and completely answers the question about the difference between a debit card and a credit card. It explains that a debit card is used to borrow money from a financial institution, and that the money must be repaid when it is used. A credit card, on the other hand, is used to make payments, and there is no debt after the money is paid back. The response adheres to the prompt's instructions and respects its nuances and subtleties, demonstrating a precise understanding of the question."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the differences between a debit card and a credit card. It provides detailed explanations for each type of card, covering aspects such as money transfer, budget constraints, interest charges, and transaction fees. The response does not deviate from the question and does not include any extraneous details. Therefore, it fully adheres to the task instructions and satisfies all aspects of the given directive."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the difference between debit and credit cards. It explains the function of each card and how they are used, which directly addresses the question. There are no extraneous details and no aspects of the question are left unaddressed. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions."
+        }
+    },
+    {
+        "prompt_id": "60864a28-0398-45ab-b61c-5d36a0857497",
+        "prompt": "சேமிப்புக்கும் இன்வெஸ்ட்மென்ட் செய்வதற்கும் என்ன வித்தியாசம்?",
+        "prompt_type": "finance",
+        "language": "tamil",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for the difference between saving and investing, but the response merely repeats the question multiple times without providing any answer. This shows a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the difference between saving and investing. It explains that saving is done with the intention of preserving income over time, while investing is done with the intention of increasing income over time. This response fully adheres to the prompt's instructions and provides a clear and direct answer to the user's question, leaving no aspect of the instruction unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks for the difference between savings and investment, and the model provides a clear and detailed explanation of what savings and investment are, and then goes on to explain the key difference between the two. The response is directly relevant to the question and does not deviate from the topic, hence it satisfies all aspects of the given directive.",
+            "score": 2
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "justification": "The response provided by the model is largely irrelevant to the question asked. The question asks for the difference between saving and investing, but the response given by the model is repetitive and does not provide any clear or meaningful information about the difference between the two. The response does not adhere to the instructions given in the prompt, and there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and completely answers the question about the difference between saving and investing. It explains that saving is setting aside money without spending it initially, primarily for emergencies, while investing is putting money into businesses, stock markets, financial institutions, and the general market to get a return on the money. The response adheres to the prompt's instructions and there's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "abhinand/tamil-llama-7b-instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for the difference between savings and investment, but the response discusses the difference between storage and transmission, which is not related to the question at all. Therefore, the model disregards the instructions entirely and there is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question asks for the difference between saving and investing, but the response talks about watching a video for detailed explanation. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the difference between savings and investment. It explains that savings are primarily a choice and money is saved for a certain period of time, while investment is primarily an investment and money is invested for a certain period of time. It also explains that savings can be withdrawn at any time, while investment money can also be withdrawn at any time. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question, earning a score of 2 according to the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the difference between saving and investing. It explains the purpose of each, the risks involved, and the potential benefits. It also provides a summary at the end, reinforcing the main points. The response adheres to the prompt's instructions and addresses all aspects of the question, demonstrating a clear understanding of the task."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the difference between saving and investing. It provides a detailed explanation of what saving and investing mean, how they work, and their respective purposes. The response is directly relevant to the question and does not deviate from the topic. It does not omit any requested specifics or include extraneous details. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the difference between saving and investing. It explains the concepts of saving and investing, their purposes, and the risks associated with each. It also provides advice on how to choose between the two based on one's risk tolerance and financial goals. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately and completely answers the question about the difference between savings and investment. It explains that savings is about conserving a financial resource, while investment is about using a financial resource to generate higher returns. The response also highlights the different objectives of savings and investment, with savings being a protective measure and investment being a measure to gain higher profits. Therefore, the response fully adheres to the prompt's instructions and addresses all aspects of the question, earning a score of 2 according to the 'task_quality' metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the difference between savings and investment. It provides detailed points for both savings and investment, highlighting their key differences in terms of focus period, risk, return, and purpose. The response is directly relevant to the question and does not include any extraneous details. Therefore, it fully adheres to the task instructions and satisfies all aspects of the prompt without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining the difference between savings and investment. It provides a detailed explanation of what each term means and how they are used, which is exactly what the question asked for. The response does not deviate from the topic and does not include any extraneous details. Therefore, it fully satisfies the prompt's instructions."
+        }
+    },
+    {
+        "prompt_id": "4a585651-42f4-4433-b6a3-2389e21e91f9",
+        "prompt": "தினமும் நான் எவ்வளவு தண்ணீர் குடிக்க வேண்டும்?",
+        "prompt_type": "health",
+        "language": "tamil",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about the amount of water one should drink daily, but the response talks about science and living science, which is completely irrelevant to the question. Therefore, the score is 0 as per the 'task_quality' metric, because the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how much water one should drink daily. It provides a range (8-10 glasses or 2-3 liters) and also mentions that the amount can vary depending on the individual's body type and condition. The response is directly related to the question and does not leave any aspect of the instruction unaddressed, hence it adheres to the 'task_quality' metric perfectly."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how much water a person should drink daily. It provides a general guideline based on body weight, and also mentions that the amount can vary depending on factors like physical condition, age, gender, and climate. Therefore, the response fully adheres to the prompt's instructions and addresses all aspects of the question, earning a score of 2 according to the 'task_quality' metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the amount of water one should drink daily, but the response talks about asking for permission to draw water. There is a clear disconnect between the question and the response, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how much water one should drink daily. It provides a range (8 to 15.5 ounces or 237 to 458 milliliters) and also mentions that the exact amount can depend on various factors such as body weight, age, gender, general health condition, and physical activity. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, a score of 2 is justified."
+        },
+        "abhinand/tamil-llama-7b-instruct-v0.2": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It mentions that the amount of water one should drink daily depends on various factors such as body function, body composition, physical activity, medical conditions, or other reasons, and that individual needs and specific health advice should be considered. However, it does not provide a specific answer or guideline, which is what the question seems to be asking for. Additionally, the response includes unnecessary details about the question being translated from English to Tamil, which is not relevant to the question asked."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how much water a person should drink daily. It provides a range (2 to 3 liters) and also explains that the exact amount can vary based on factors like the body's salt content, metabolism, and activity level. This shows a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks 'How much water should I drink daily?' but the response does not provide any specific amount or guideline. Instead, it seems to be a repetition of the question and some irrelevant information. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how much water one should drink daily. It provides a comprehensive answer, explaining that the amount of water one should drink can depend on factors such as body weight, physical activity level, and weather conditions. It also gives a general recommendation of 2-3 liters per day, but emphasizes that this can vary based on the aforementioned factors. The response is directly relevant to the question and does not leave any aspect of the question unaddressed, hence it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how much water one should drink daily. It provides a comprehensive answer, explaining that the amount of water one should drink can depend on various factors such as age, body weight, physical activity, and climate. It also gives a general guideline for adults and advises to adjust the water intake based on individual needs and body signals. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how much water one should drink daily. It provides a specific quantity (8-10 cups) and also explains the importance of water for the body, which, while not explicitly asked for, adds value to the response. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how much water one should drink daily. It provides a general guideline of 8-10 glasses per day, but also mentions that this can vary based on factors like body weight, age, gender, and activity levels. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how much water one should drink daily. It provides a general guideline of 8 cups or 2 liters per day, but also mentions that this amount can vary depending on factors such as body weight, activities, weather, and exercise level. Therefore, the response fully adheres to the prompt's instructions and addresses all aspects of the question without any deviation or omission."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how much water one should drink daily. It provides a general guideline of 8 glasses per day, but also mentions that this can vary depending on individual body needs, physical condition, age, and activity level. Therefore, the response is in complete alignment with the question, providing a comprehensive answer without any deviation or omission of details. Hence, a score of 2 is justified as per the 'task_quality' metric."
+        }
+    },
+    {
+        "prompt_id": "5f1729a2-3e95-4e3c-bc16-2e4037fc3324",
+        "prompt": "என் மனதை ஆரோக்கியமாக வைக்க சில வழிகள் யாவை?",
+        "prompt_type": "health",
+        "language": "tamil",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to keep the mind healthy and the model provides a detailed list of methods to improve mental health. The response is relevant, comprehensive, and directly addresses the question without any deviation or omission. Therefore, according to the 'task_quality' metric, the model's response deserves a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to keep the mind healthy, and the model provides a comprehensive list of methods to achieve this. It does not deviate from the topic, nor does it include any extraneous details. Therefore, it scores 2 on the task quality metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing several ways to maintain a healthy mind. It adheres to the instructions given in the prompt and provides a comprehensive answer. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed. Therefore, the score is 2 according to the 'task_quality' metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for ways to keep the mind healthy, but the response does not provide any relevant information or suggestions. Instead, it seems to be repeating the same phrase with slight variations, which does not make sense in the context of the question. Therefore, the score is 0 as per the 'task_quality' metric, indicating that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to keep the mind healthy and the response provides seven detailed methods to do so. The response is relevant, comprehensive, and directly addresses the question without any deviation or omission. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "abhinand/tamil-llama-7b-instruct-v0.2": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to keep the mind healthy, and the model provides a detailed list of methods to achieve this, covering aspects like regular exercise, healthy diet, adequate sleep, stress reduction techniques, social support, stress management techniques, and promoting healthy mental health. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing several ways to maintain a healthy mind. It is directly relevant to the question and does not deviate from the topic. It also does not include any extraneous details not asked for in the question. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response provided by the model partially aligns with the question asked. The question asks for ways to keep one's mind healthy, but the response provided by the model seems to be more focused on treating mental illnesses rather than maintaining mental health. While some of the points mentioned could be interpreted as ways to maintain mental health, the overall focus of the response is not in complete alignment with the question. Therefore, a score of 1 is given, indicating that the model grasps and addresses the main theme of the instruction but may miss out on finer details or nuances."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question. It provides several ways to maintain mental health, which is exactly what the question asked for. The response is directly related to the question and does not deviate from the topic. It also does not include any extraneous details not asked for in the question. Therefore, the response fully satisfies the task_quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to keep the mind healthy, and the model provides a comprehensive list of 10 ways to do so. Each point is relevant and directly addresses the question, providing a thorough and detailed answer. There is no deviation from the topic, and no aspect of the question is left unaddressed. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to keep one's mind healthy, and the model provides a comprehensive list of methods to achieve this, including maintaining physical health, getting enough sleep, managing stress, socializing, engaging in activities that improve mental health, and seeking professional help if needed. The response is detailed and covers all aspects of the question, demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, providing several ways to maintain mental health. It does not deviate from the question's instruction and there is a clear and direct correlation between the user's instruction and the model's response. All aspects of the instruction are addressed, making the response ideal in terms of task quality."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to keep the mind healthy, and the model provides a detailed list of methods to achieve this. It covers a wide range of activities from physical exercise, social interaction, meditation, balanced diet, sharing experiences, engaging in mindful activities, spending time alone, and spending time in nature. The response is comprehensive and directly addresses the question without any deviation or omission of details. Therefore, the score is 2 as per the 'task_quality' metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing several ways to maintain mental health, such as regular exercise, drinking water, getting enough sleep, meditation, and maintaining a healthy diet. It adheres to the instructions given in the prompt and provides a comprehensive answer. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        }
+    },
+    {
+        "prompt_id": "00b449b3-2137-4cc5-9e0d-26b0c9da707a",
+        "prompt": "வைட்டமின் டி நம் உடலுக்கு ஏன் முக்கியமானது?",
+        "prompt_type": "health",
+        "language": "tamil",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks why Vitamin D is important for our body, but the response is nonsensical and does not provide any information about the importance of Vitamin D. It seems like the response is just repeating the question and some unrelated phrases. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why Vitamin D is important for our body. It provides detailed information about the role of Vitamin D in body growth and function, blood pressure regulation, reducing frailty in old age, and intensive treatment in case of body damage. The response is directly related to the user's instruction and addresses all aspects of the question without any deviation or omission. Therefore, the response fully adheres to the task quality metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why Vitamin D is important for our body. It explains that Vitamin D helps in the growth and health of bones, is produced in the body from sunlight, and that a deficiency can lead to weak bones, pain, and osteoporosis. It also mentions that Vitamin D regulates various functions in the body. Therefore, the response adheres to the prompt's instructions completely and satisfies all aspects of the given directive without any deviation."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the importance of Vitamin D for our body, but the response is nonsensical and repetitive, with no mention of Vitamin D or its importance. Therefore, the model disregards the instructions entirely, leading to a score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about why Vitamin D is important for our body. It explains the role of Vitamin D in bone growth and maintenance, prevention of various bone diseases, and its support in maintaining serotonin levels. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "abhinand/tamil-llama-7b-instruct-v0.2": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about why Vitamin D is important for our body. It explains the role of Vitamin D in various bodily functions, its production process, the consequences of Vitamin D deficiency, and the importance of regular intake for overall health. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence the score of 2."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why Vitamin D is important for our body. It mentions that Vitamin D is crucial because it prevents the reduction of minerals like calcium and phosphorus. The response also adds that the lack of Vitamin D can lead to bone damage. Therefore, the response is in complete alignment with the question, addressing all aspects of it without any deviation or omission."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why Vitamin D is important for our body. It provides detailed information about the role of Vitamin D in various body functions such as bone strength, blood, muscle, and nerve strength. It also mentions how Vitamin D helps in increasing bone strength, reducing blood levels, and preventing mental stress and disorders. The response is completely relevant to the question and adheres to the prompt's instructions without any deviation. Therefore, it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about why Vitamin D is important for our body. It explains the role of Vitamin D in calcium and phosphate absorption, bone health, immune system support, and blood circulation. It also mentions the potential health issues that can arise due to Vitamin D deficiency. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, a score of 2 is justified."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response initially addresses the question correctly by explaining the importance of Vitamin D for our body. However, the response then repeats the same information multiple times, which is not asked for in the question. Therefore, the response includes extraneous details not asked for, which aligns with the scoring rubric for a score of 1."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why Vitamin D is important for our body. It explains that Vitamin D helps in the absorption of calcium and phosphorus in our body, supports our immune system, keeps our skin and hair healthy, and strengthens our bones. It also mentions the potential health risks if Vitamin D is deficient. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question, demonstrating a clear and direct correlation between the user's instruction and the model's response."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about why Vitamin D is important for our body. It provides detailed information about the role of Vitamin D in our body, how it helps in the absorption of essential minerals like Calcium and Phosphorus, its impact on various body parts, and the problems that can arise due to Vitamin D deficiency. It also mentions how to obtain Vitamin D naturally. Therefore, the response adheres to the prompt's instructions completely and satisfies all aspects of the given directive without any deviation."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why Vitamin D is important for our body. It mentions that Vitamin D helps in strengthening bones and teeth, aids in the absorption of minerals like calcium and phosphorus, and also enhances our immune system. Therefore, the response is in complete alignment with the question and satisfies all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about why Vitamin D is important for our body. It explains the role of Vitamin D in bone growth and maintenance, iron and calcium absorption, immune health, protection from certain diseases, and overall body health. It also mentions the consequences of Vitamin D deficiency. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        }
+    },
+    {
+        "prompt_id": "998d0b1e-ee94-4788-b277-cc46e043e0ed",
+        "prompt": "எப்படி என்னுடைய உடல் எடையை அதிகரிப்பது",
+        "prompt_type": "health",
+        "language": "tamil",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about how to increase body weight, but the response is just a repetition of the question itself without providing any answer or solution. Therefore, the model disregards the instructions entirely, leading to a score of 0 according to the 'task_quality' metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to increase body weight. It provides relevant advice about maintaining a balanced diet and engaging in physical activities, which are key factors in weight gain. The response does not deviate from the question's instruction and does not include any extraneous details. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question on how to increase body weight. It provides a detailed and comprehensive answer, outlining various methods such as consuming nutrient-rich foods, increasing food intake, doing physical exercises, and improving sleep. The response is directly relevant to the question and does not deviate from the topic. Therefore, it fully satisfies the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for ways to increase body weight, but the response does not provide any information related to this. Instead, it repeats the phrase 'your victory' multiple times, which is not related to the question at all. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to increase body weight and the model provides a detailed list of methods to do so. It covers various aspects such as increasing calorie intake, eating multiple meals, regular exercise, consuming unsaturated fats, and consulting a doctor. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "abhinand/tamil-llama-7b-instruct-v0.2": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for ways to increase body weight and the model provides a comprehensive list of methods to achieve this, including healthy eating, regular exercise, adequate sleep, stress management, hydration, support system, and mental determination. The response is detailed and covers all aspects of the question, demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question on how to increase body weight. It suggests exercise and nutrition, and also advises consulting a doctor first, which is a responsible suggestion. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response provided by the model is in direct alignment with the question asked. The question asks for ways to increase body weight and the response provides detailed methods to do so. It covers various aspects such as diet control, increasing carbohydrate intake, rain bath, forest bath, and medical consultation. The response is comprehensive and directly addresses the question without any deviation or omission of details. Therefore, the score is 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question on how to increase body weight. It provides a comprehensive answer, covering aspects such as balanced diet, regular exercise, adequate sleep and hydration, and focusing on muscle building during workouts. It also emphasizes the importance of ensuring that the diet is rich in proteins, carbohydrates, and healthy fats. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence the score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question on how to increase body weight. It provides a comprehensive answer, covering aspects of diet, exercise, sleep, hydration, and stress management, which are all relevant to the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question on how to increase body weight. It provides a comprehensive answer, discussing a healthy diet, exercise, adequate sleep, and stress management. It adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to increase body weight. It provides detailed and relevant advice, such as increasing the intake of nutritious food, drinking plenty of water, and consuming certain types of food that help increase body weight. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to increase body weight and the model provides a comprehensive list of steps to follow to achieve this, including diet, exercise, sleep, and hydration. It also advises to consult with a doctor to rule out any health issues. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question on how to increase body weight. It provides a detailed explanation on increasing calorie intake through diet, including both processed and unprocessed foods, and suggests adding unhealthy fats like butter and cream. It also suggests ensuring that the foods consumed are high in calories and changing the types of food consumed. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence the score of 2."
+        }
+    },
+    {
+        "prompt_id": "0747365b-5d70-49b7-80da-bbae69c46cfa",
+        "prompt": "தடுப்பூசி என்றால் என்ன? ஏன் அது முக்கியம்?",
+        "prompt_type": "health",
+        "language": "tamil",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is asking about the importance and meaning of 'vaccination' in Tamil, but the model's response is about a type of blood cancer called 'Tadupucy'. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question by explaining what a vaccine is and why it is important. It adheres to the instructions given in the prompt and addresses all aspects of the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and completely answers the question. It explains what a vaccine is and how it works, and then goes on to explain why it is important. The response is directly related to the question and does not deviate from the topic. It covers all aspects of the question, providing a comprehensive answer. Therefore, according to the 'task_quality' metric, it deserves a score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about the meaning and importance of vaccination, but the response does not provide any information related to this. Instead, it seems to be a nonsensical repetition of words. Therefore, according to the 'task_quality' metric, the model's response scores a 0 as it disregards the instructions entirely and there is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question by explaining what a vaccine is and why it is important. It adheres to the instructions given in the question and provides a comprehensive explanation. The response does not deviate from the topic and does not leave any aspect of the question unaddressed. Therefore, it scores 2 on the task quality metric."
+        },
+        "abhinand/tamil-llama-7b-instruct-v0.2": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question. It explains what a vaccine is, why it is important, and how it works. It also discusses the benefits of vaccines for individuals, communities, and the overall population. The response does not deviate from the question and does not leave any aspect of the question unaddressed. Therefore, it fully adheres to the prompt's instructions."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about the definition and importance of a vaccine, but the response given is about some sort of fabric or cloth. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what a vaccine is and why it is important. It adheres to the instructions given in the prompt and provides a comprehensive answer. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately and completely answers the question. It explains what a vaccine is and why it is important, which is exactly what the question asked for. The response does not deviate from the question or include irrelevant information. Therefore, it fully adheres to the prompt's instructions, demonstrating a precise understanding of the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question. It explains what a vaccine is, how it works, and why it is important. It also elaborates on the benefits of vaccines for individuals and society as a whole, which aligns with the nuances of the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question. It explains what a vaccine is, how it works, and why it is important. It also discusses the societal benefits of vaccination, such as reducing the spread of diseases and protecting those who cannot be vaccinated. The response adheres to the prompt's instructions and addresses all aspects of the question without any deviation or omission."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about the importance of vaccination, but the model's response is about a religious ritual in Tamil culture. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question. It explains what a vaccine is and why it is important, covering all aspects of the question. The response also provides additional details about the benefits of vaccines, which further enhances the quality of the response. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question by explaining what a vaccine is and why it is important. It adheres to the instructions given in the question and provides a comprehensive explanation. The response does not deviate from the topic and does not leave any aspect of the question unaddressed. Therefore, it scores 2 on the task quality metric."
+        }
+    },
+    {
+        "prompt_id": "73af25eb-8f96-4be1-9cce-b03c2584e0f8",
+        "prompt": "தமிழ் திரைப்படங்களில் சமகாலத்தில் விதவைகள் எவ்வாறு சித்தரிக்கப்பட்டு இருக்கிறார்கள்? இதற்கும் சுமார் 30 ஆண்டுகளுக்கு முன்னால் வந்த திரைப்படங்களில் விதவைகளின் பாத்திரங்கள் சித்தரிக்கப்பட்டதற்கும் வித்தியாசங்கள் உள்ளனவா என்பதை பற்றி விவரிக்கவும். படங்களின் பெயர்களை சுட்டிக்காட்டி விவரித்தால் நல்லது.",
+        "prompt_type": "culture",
+        "language": "tamil",
+        "abhinand/tamil-llama-7b-instruct-v0.2": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a detailed comparison of the portrayal of widows in contemporary Tamil films and those released about 30 years ago. It also provides an example of a Tamil film ('Thambal') to illustrate the point. The response is in line with the instructions given in the prompt, making it a perfect match. Therefore, the score is 2 as per the 'task_quality' metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not address the question at all. The question asks for a comparison of the portrayal of widows in Tamil movies now and 30 years ago, with examples of movies. The response, however, simply repeats the question and then provides a generic statement about Tamil movies and actors, without addressing the specific topic of widows or providing any movie examples. Therefore, the response does not adhere to the specific directives given in the prompt, resulting in a score of 0 for task quality."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It provides a comparison of the portrayal of widows in contemporary Tamil films versus those from about 30 years ago. However, it does not provide specific examples of films as requested in the question. Therefore, the response is not completely aligned with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 1,
+            "justification": "The response addresses the main theme of the question, which is about the portrayal of widows in contemporary Tamil cinema compared to about 30 years ago. However, it fails to provide specific examples of movies as requested in the prompt, thus missing out on finer details. The response begins to mention a movie but it is cut off and incomplete. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not address the question at all. The question asks for a comparison of the portrayal of widows in Tamil movies now and 30 years ago, with examples of movies. The response does not provide any such comparison or examples. It seems to be a random collection of words and phrases that do not form a coherent answer. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by comparing the portrayal of widows in contemporary Tamil cinema with that in films from about 30 years ago. It provides specific examples, as requested in the question, such as the film 'Sivaji' from the past and 'Silukkuvarpatti Singam' from the present. The response also discusses the evolution of the widow character from being stereotypically pitiful and naive to being portrayed as strong and independent. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding of the question and providing a comprehensive answer."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It provides examples of how widows are portrayed in contemporary Tamil films, but it does not compare this to how they were portrayed in films from about 30 years ago, as the question asked. Therefore, the response is only partially aligned with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response does not address the question at all. The question asks for a comparison of the portrayal of widows in contemporary Tamil films versus those from about 30 years ago, and also requests for examples of films. The response, however, merely repeats the same statement about contemporary Tamil films featuring widows in various stories, without providing any comparison or examples of films. Therefore, the response completely disregards the instructions in the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by comparing the portrayal of widows in Tamil movies now and about 30 years ago. It provides a detailed explanation of how the roles of widows have evolved over time, from being primarily love interests to being independent individuals with their own stories. The response also provides examples of movies from both periods, as requested in the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response addresses the main theme of the question, which is the portrayal of widows in Tamil cinema now and about 30 years ago. However, it does not provide specific examples of movies as requested in the question. The response also contains repeated paragraphs, which is unnecessary and not asked for in the question. Therefore, the response partially aligns with the prompt but misses out on finer details and nuances."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a detailed comparison of the portrayal of widows in Tamil films now and about 30 years ago. The response adheres to the instructions given in the prompt, providing a comprehensive analysis of the topic. It does not deviate from the topic and does not leave any aspect of the instruction unaddressed. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by comparing the portrayal of widows in contemporary Tamil films with those from about 30 years ago. It provides specific examples of films to illustrate the differences, as requested in the question. The response is comprehensive and directly correlates with the user's instruction, leaving no aspect of the instruction unaddressed. Therefore, the response fully satisfies the 'task_quality' metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a comparison of how widows are portrayed in contemporary Tamil films versus films from about 30 years ago. The response also provides specific examples of films from both periods, as requested in the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It discusses the portrayal of widows in Tamil movies in the present and past, which is in line with the question. However, it does not provide specific examples of movies as requested in the question. Therefore, the response is not fully aligned with the prompt and misses out on some details."
+        }
+    },
+    {
+        "prompt_id": "a4a01865-bb68-46ee-8097-9638dac1564e",
+        "prompt": "தமிழ்நாட்டின் திரைப்படத்துறைக்கும் அரசியலுக்கும் உள்ள நெருங்கிய தொடர்பை சரியான உதாரணங்களுடன் விவரிக்கவும்.",
+        "prompt_type": "culture",
+        "language": "tamil",
+        "abhinand/tamil-llama-7b-instruct-v0.2": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question. The question asked for a detailed explanation of the close relationship between Tamil Nadu's film industry and politics, with appropriate examples. The model's response thoroughly addresses this, providing a comprehensive explanation with multiple examples. It covers various aspects such as cultural influence, social awareness, policy advocacy, political campaigns, and cultural identity. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question asks for an explanation of the close relationship between Tamil Nadu's film industry and politics with appropriate examples, but the model provides a list of popular Tamil movies available on Netflix. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a clear example of the close relationship between Tamil Nadu's film industry and politics. The example of actor Sivakumar joining a political party and subsequently incorporating political views into his films is a direct response to the question. The response also mentions other popular actors joining politics, which further illustrates the connection between the two fields. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining the close relationship between the film industry and politics in Tamil Nadu. It provides relevant examples such as M.G.R and Jayalalitha who transitioned from the film industry to politics. It also mentions how films reflect political messages, with the example of the film Parasakthi. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for a detailed explanation of the close relationship between the Tamil Nadu film industry and politics with appropriate examples. However, the response is nonsensical and does not provide any information related to the question. It seems like the model has disregarded the instructions entirely, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing examples of the close relationship between the Tamil film industry and politics. It mentions actors who have transitioned into politics, such as M.G. Ramachandran, and films that have political themes, such as 'The Chief Minister's Arrival'. The response also discusses the impact of these films and actors on the public. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. The question asks for a detailed explanation of the close relationship between Tamil Nadu's film industry and politics with appropriate examples. The response provides an example of a movie, 'Sindhu Bhairavi', that depicts political issues. However, it does not explain how this movie or any other examples illustrate the close relationship between the film industry and politics in Tamil Nadu. The response also does not provide any other examples or details as requested in the question. Therefore, the response only partially fulfills the instructions given in the prompt."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response does not adhere to the specific directives given in the prompt. The question asks for a detailed explanation of the close relationship between the Tamil Nadu film industry and politics with appropriate examples. However, the response does not provide any examples or discuss the relationship between the film industry and politics. Instead, it talks about the cultural significance of the Tamil film industry and its popularity in other countries. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing detailed examples of the close relationship between the Tamil film industry and politics. It discusses how politicians have used films to propagate their messages and ideologies, and how films have portrayed political life and ideologies. It also mentions how politicians have appeared in films as part of their campaigns. The response is comprehensive and directly correlates with the user's instruction, leaving no aspect of the instruction unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response does address the main theme of the question, which is the connection between Tamil Nadu's film industry and politics. However, it fails to provide specific examples as requested in the question. The response also contains repeated paragraphs, which is unnecessary and not asked for in the question. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a detailed explanation of the close relationship between the Tamil Nadu film industry and politics. It provides specific examples, such as the use of film stars and singers in political campaigns, the influence of political parties on film titles and themes, and the close relationships between film producers and politicians. The response is comprehensive and directly correlates with the user's instruction, leaving no aspect of the instruction unaddressed. Therefore, the response fully satisfies the 'task_quality' metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a detailed explanation of the close relationship between the Tamil Nadu film industry and politics. It provides examples such as Tamil Nadu Film Day, government initiatives to promote and protect the film industry, and the support for films related to social issues. It also mentions the economic relationship between the government and various sectors of the film industry. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GPT4o": {
+            "justification": "The response provided by the model is in perfect alignment with the question. The question asked for a detailed explanation of the close relationship between the Tamil Nadu film industry and politics, with appropriate examples. The model provided a comprehensive response, citing several examples of actors from the Tamil film industry who transitioned into politics, such as M.G.R, Jayalalitha, Karunanidhi, Rajinikanth, and Kamal Haasan. The response is detailed, accurate, and directly addresses the question.",
+            "score": 2
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response does address the main theme of the question, which is the connection between Tamil Nadu's film industry and politics. It provides a general explanation of how politics and cinema are intertwined in Tamil Nadu. However, the response fails to provide 'specific examples' as requested in the question. The response mentions a movie 'Tharaathu' but does not provide enough context or explanation to understand how this movie exemplifies the connection between politics and cinema. Therefore, the response partially aligns with the prompt but misses out on finer details and nuances."
+        }
+    },
+    {
+        "prompt_id": "65a87a9f-d9c7-4967-9bee-1251c1149e40",
+        "prompt": "விடிய விடிய ராமாயணம் கேட்டு சீதைக்கு ராமன் சித்தப்பனா என்று கேட்கிறான். இந்த பழமொழியை ஒரு எடுத்துக்காட்டுடன் விளக்குக. ",
+        "prompt_type": "culture",
+        "language": "tamil",
+        "abhinand/tamil-llama-7b-instruct-v0.2": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question. The question asks for an explanation of the proverb 'விடிய விடிய ராமாயணம் கேட்டு சீதைக்கு ராமன் சித்தப்பனா என்று கேட்கிறான்' with an example. The model provides a detailed explanation of the proverb and also gives an example of a person repeatedly expressing their admiration for Rama to Sita through the act of listening to Ramayana. This response satisfies all aspects of the given directive without any deviation, hence the score of 2."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not address the question at all. The question asks for an explanation of a Tamil proverb with an example, but the response is repetitive and does not provide any explanation or example. It seems to be a repeated phrase that does not make sense in the context of the question. Therefore, the score is 0 as per the 'task_quality' metric, indicating that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. The model grasps the main theme of the instruction, which is to explain the proverb. However, it misses out on the finer detail of providing an example, as requested in the prompt. The response does not include any extraneous details, but it does omit the requested specific of an example."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately explains the meaning of the proverb and provides an example as requested in the question. The response is directly related to the user's instruction and addresses all aspects of the question without any deviation. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for an explanation of a Tamil proverb with an example, but the response is nonsensical and repetitive, with no clear explanation or example provided. It seems like the model has disregarded the instructions entirely, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately explains the Tamil proverb 'விடிய விடிய ராமாயணம் கேட்டு சீதைக்கு ராமன் சித்தப்பனா' and provides an example to illustrate its meaning, as requested in the prompt. The response is directly relevant to the question and does not include any extraneous details. Therefore, it fully satisfies the task quality metric."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response does not address the question at all. The question asks for an explanation of a Tamil proverb with an example, but the response does not provide any explanation or example. It merely states that understanding the proverb can bring joy, which is not relevant to the question. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response provided by the model partially aligns with the prompt. The model does attempt to explain the proverb with an example, as requested in the prompt. However, the example provided is not clear and does not effectively illustrate the meaning of the proverb. Therefore, the score is 1, indicating that the model grasps and addresses the main theme of the instruction but misses out on finer details or nuances."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately explains the meaning of the Tamil proverb 'விடிய விடிய ராமாயணம் கேட்டு சீதைக்கு ராமன் சித்தப்பனா' as requested in the question. It also provides an example from the Ramayana story, which is exactly what the question asked for. The response is completely aligned with the prompt and satisfies all aspects of the given directive without any deviation. Therefore, the score is 2 according to the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is not relevant to the question. The question asks for an explanation of the proverb with an example, but the response is a repetitive sentence that does not provide any explanation or example. The response does not adhere to the instructions given in the prompt, hence the score is 0."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately explains the meaning of the Tamil proverb 'விடிய விடிய ராமாயணம் கேட்டு சீதைக்கு ராமன் சித்தப்பனா' as requested in the question. It also provides an example to illustrate the meaning of the proverb, which was also asked for in the question. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding of the question and addressing all aspects of it without any deviation or omission. Hence, the score of 2 is justified."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately explains the proverb 'விடிய விடிய ராமாயணம் கேட்டு சீதைக்கு ராமன் சித்தப்பனா' by providing its meaning and context from the Ramayana. It also provides an example of how Rama expresses his love for Sita, which was asked in the question. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding of the question and providing a complete and relevant answer."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately explains the proverb 'விடிய விடிய ராமாயணம் கேட்டு சீதைக்கு ராமன் சித்தப்பனா' with an appropriate example, as requested in the question. The example of a child studying diligently and then questioning the purpose of his studies aligns well with the proverb's meaning. The response is directly related to the user's instruction and addresses all aspects of the question without any deviation or omission."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately explains the given Tamil proverb with an example, as requested in the question. The explanation is clear and directly addresses the question, demonstrating a precise understanding of the prompt's instructions. The response does not deviate from the given directive and there is a clear and direct correlation between the user's instruction and the model's response. Therefore, the response fully satisfies the task quality metric."
+        }
+    },
+    {
+        "prompt_id": "2b2a0e5c-bcdb-4f93-a940-1a6b1cab4679",
+        "prompt": "பரிசம் போடுவது என்றால் என்ன எந்தெந்த சமுதாயங்களில் இந்த பழக்கம் உள்ளது. இந்த பழக்கத்தை சற்று விவரிக்கவும். ",
+        "prompt_type": "culture",
+        "language": "tamil",
+        "abhinand/tamil-llama-7b-instruct-v0.2": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a detailed explanation of the practice of gift-giving in various societies. It explains the cultural or social event of gift-giving, the reasons behind it, and the occasions where it is commonly seen. It also discusses the factors considered in selecting gifts. The response is in line with the question, covering all aspects of the prompt without any deviation. Therefore, it scores 2 on the task quality metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about the practice of 'parisam' in different societies and asks for a brief explanation of this practice. However, the response talks about the concept of 'parisam', 'samudayam', and 'philosophy' in Tamil, and suggests ways to understand these concepts better. There is a clear disconnect between the question and the response, and the response does not adhere to the instructions given in the question. Therefore, according to the 'task_quality' metric, the response gets a score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining what 'giving dowry' means, in which societies this practice is prevalent, and providing a brief description of the practice. The response mentions that this practice is common in many societies, particularly in Asian countries such as Taiwan, Malaysia, Singapore, Indonesia, and Vietnam, and usually occurs during marriage or other special events. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding and adherence to the prompt's instructions."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately explains the practice of giving dowry, which is what the question asked for. It also provides a list of societies where this practice is prevalent, as requested in the question. The response also goes into detail about the reasons behind this practice, which adds depth to the answer. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a clear understanding and execution of the task."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the practice of 'giving a blessing' and in which communities this practice exists, and to describe this practice a bit. However, the response does not provide any information about this practice or the communities in which it exists. Instead, it seems to be a nonsensical repetition of words and phrases. Therefore, the score is 0 as per the 'task_quality' metric, indicating that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question. It explains what giving gifts means, provides an example of a community where this practice is prevalent (Tamil community), and elaborates on the practice by mentioning the types of gifts and occasions when gifts are given. The response also explains the main purpose of this practice. Therefore, it adheres to the prompt's instructions completely and satisfies all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a list of societies where the practice of dowry is prevalent, which includes India, Sri Lanka, Thailand, Malaysia, and Bali. It also provides a brief explanation of the practice, stating that it is a social act to protect worldly dignity to some extent. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question. The question asks for an explanation of the practice of giving gifts and in which societies this practice is found. The model's response accurately describes the practice of giving gifts and provides examples of societies where this practice is common, such as work communities, religious cultures, arts and culture, and social customs. The response is comprehensive and addresses all aspects of the question without any deviation or omission. Therefore, the score of 2 is justified as the model demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question. It explains what giving gifts means, in which societies this practice is prevalent, and provides a detailed description of the practice, particularly in South India. The response does not deviate from the question and does not include any extraneous details. Therefore, it fully adheres to the task instructions and satisfies all aspects of the given directive."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question. It explains what giving gifts means, in which societies this practice is found, and provides a detailed description of the practice. It also explains the occasions when gifts are usually given and the significance of this practice. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining what gift-giving is and providing examples of this practice in various cultures, such as in America and India during special occasions like birthdays, holidays, and festivals. The response also elaborates on the significance of this practice in society, which aligns with the question's request for a detailed explanation. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately answers the question by explaining what 'putting a garland' means, and providing examples of communities in South India where this practice is observed. It also provides additional details about the practice during wedding ceremonies. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question. It explains what giving gifts means and provides examples of this practice in various societies such as Indian, Western, and Asian societies. It also elaborates on the significance of gift-giving in these societies. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining what gift-giving is, the communities in which this practice is common, and providing a detailed description of the practice. It adheres to the specific directives given in the prompt, demonstrating a precise understanding of the instructions. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        }
+    },
+    {
+        "prompt_id": "42e14884-89a7-467f-a318-3ff1e5860173",
+        "prompt": "தமிழ்நாட்டில் ஒரு இளைஞன் கீழே வரும் இவர்களில் யாரை திருமணம் செய்து கொள்வதே சமூகம் ஒத்துக் கொள்கிறது. 1) அத்தை மகள் 2) சித்தி மகள் 3) மாமன் மகள் 4) பெரியப்பா மகள். _x000D_\nஇதற்கான காரணங்களை விவரிக்கவும்.",
+        "prompt_type": "culture",
+        "language": "tamil",
+        "abhinand/tamil-llama-7b-instruct-v0.2": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining the social acceptance of marrying each of the listed individuals in Tamil society. It provides detailed explanations for each option, demonstrating a precise understanding and adherence to the prompt's instructions. The output holistically satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about which of the listed relationships is socially acceptable for a young man in Tamil Nadu to marry, and asks for reasons. The response, however, simply repeats the question without providing any answer or reasons. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt, and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response does not answer the question. The question asks for the reasons why society accepts a young man marrying certain relatives in Tamil Nadu, but the response does not provide any reasons. Instead, it just repeats the question and adds that the choice of spouse depends on their mother tongue and social status, which is not relevant to the question."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question by identifying the 'maman magal' (cousin) as the socially accepted choice for marriage in Tamil Nadu. It also provides a clear explanation for this choice, stating that it is a tradition accepted in Tamil society and that it strengthens family ties. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding and execution of the task. Hence, the score of 2 is justified as per the 'task_quality' metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response partially addresses the question. The question asks for the reasons why society accepts a young man marrying certain relatives in Tamil Nadu. The response provides some information about who the young man can marry, but it does not provide the reasons why society accepts these marriages. The response also seems to be repetitive and lacks clarity in some parts. Therefore, the response only partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining the social norms in Tamil Nadu regarding whom a young man should marry. It explains that the first choice is usually the daughter of the man's maternal uncle, and provides reasons for this, such as the desire to keep property within the family and the cultural practice of living in the same house as siblings. The response also explains why marriage to the daughter of the man's aunt, the daughter of his aunt by marriage, or the daughter of his elder brother is not socially accepted. Therefore, the response fully adheres to the instructions given in the prompt."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. The model correctly identifies that one can marry a cousin (mother's brother's daughter) in Tamil society. However, the question also asks for reasons for this practice, and the model's explanation is vague and does not directly address the cultural, social, or historical reasons for this practice in Tamil society. Therefore, the response misses out on finer details or nuances of the question."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about which of the listed relationships a young man in Tamil Nadu is socially accepted to marry (aunt's daughter, cousin's daughter, uncle's daughter, or elder brother's daughter), and to explain the reasons for this. However, the response does not mention any of these relationships or provide any explanation related to them. Instead, it repeats the question and provides general reasons for marriage in Tamil Nadu, which is not what the question asked for. Therefore, the response completely disregards the instructions and is irrelevant to the prompt, earning a score of 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining the reasons why each of the listed individuals (Aunt's daughter, Uncle's daughter, Maternal Uncle's daughter, Elder brother's daughter) could be considered for marriage in Tamil society. The response is comprehensive and covers all aspects of the question, providing detailed explanations for each individual. It adheres to the instructions given in the prompt and there is a clear and direct correlation between the user's instruction and the model's response. Therefore, a score of 2 is justified."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question. The question asked for reasons why a young man in Tamil Nadu would marry any of the four listed individuals, and the model provided detailed explanations for each one. It adhered to the instructions given in the prompt and addressed all aspects of the question without any deviation. Therefore, the model's response is accurate and comprehensive, deserving a full score."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The question asks for an explanation of who a young man in Tamil Nadu is socially accepted to marry among four options: 1) Aunt's daughter 2) Uncle's daughter 3) Maternal uncle's daughter 4) Elder brother's daughter. However, the response does not address this specific question at all. Instead, it provides a general explanation of why a young man in Tamil Nadu is encouraged to marry within his family. There is a clear disconnect between the question and the response, and the specific directives given in the prompt are not adhered to, hence the score of 0."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining the societal acceptance of marrying different types of women in Tamil Nadu. It provides detailed explanations for each category mentioned in the question (Aunt's daughter, Uncle's daughter, Maternal uncle's daughter, and Elder brother's daughter), and also discusses the societal, medical, educational, occupational, and life value factors that influence these decisions. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question by identifying the socially accepted marriage partner in Tamil Nadu (the cousin, or 'maman magal') and provides a detailed explanation for this practice. The response adheres to the prompt's instructions and addresses all aspects of the question, demonstrating a clear understanding of the task. Therefore, it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question. The question asks for an explanation of why certain types of marriages are socially accepted in Tamil Nadu, and the model provides a detailed explanation for two of the four types of marriages mentioned in the question. The response is relevant, accurate, and adheres to the instructions given in the question. Therefore, the model's response is scored 2, indicating a precise understanding and adherence to the prompt's instructions."
+        }
+    },
+    {
+        "prompt_id": "a55d7225-3a0f-48bb-b796-1370f996987d",
+        "prompt": " \"அறுக்கமாட்டாதவன் இடுப்பிலே ஐம்பத்தெட்டு அரிவாள்\" இந்தப் பழமொழியை காலத்திற்கு  ஏற்றவாறு மாற்றி வேறு ஒரு புது மொழியை பகிரவும்.",
+        "prompt_type": "creative",
+        "language": "tamil",
+        "abhinand/tamil-llama-7b-instruct-v0.2": {
+            "score": 2,
+            "justification": "The response accurately adheres to the instructions given in the prompt. The question asked for a modern interpretation of a Tamil proverb in a different language, and the response provided exactly that. The respondent translated the proverb into English and provided a modern interpretation that fits the current context. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not adhere to the instructions given in the prompt. The question asks to translate the given Tamil proverb into a modern language, but the response does not provide any translation. Instead, it just repeats the question and provides an incorrect English interpretation of the proverb. Therefore, the model's response is entirely irrelevant to the prompt, and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response perfectly adheres to the instructions given in the prompt. The question asked for a new phrase that modifies the given proverb to fit the current times, and the response provided exactly that. The model has demonstrated a precise understanding of the prompt's instructions and has satisfied all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately adheres to the instructions given in the prompt. The model was asked to reinterpret the given proverb in a modern context, and it did so successfully by providing a new phrase that carries the same meaning. The response is directly relevant to the question and there is a clear correlation between the user's instruction and the model's response. No aspect of the instruction was left unaddressed, hence the score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not adhere to the instructions given in the prompt. The question asks to reinterpret the given proverb in a modern context, but the response does not provide a new interpretation. Instead, it seems to be a repetition of the original proverb with some additional, irrelevant information. Therefore, the response is entirely irrelevant to the prompt and there is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response perfectly adheres to the instructions given in the prompt. The prompt asked to modify the given proverb to fit the current times and the response did exactly that. The original proverb is about a man who doesn't work hard will have 58 problems, and the response modified it to a man who doesn't work in the sun will have 58 degrees of heat, which is a clever play on the original proverb and fits the current context of global warming. Therefore, the response satisfies all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response perfectly adheres to the instructions given in the prompt. The prompt asked to modify the given proverb to fit the current times and share it in a new language. The response does exactly that by modifying the proverb and sharing it in the same language, Tamil. The original proverb talks about a person who doesn't save will have 58 problems, and the modified proverb talks about a person who doesn't save will have 51 difficult people at home. This is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response does not adhere to the instructions given in the prompt. The question asks to modify the given proverb to suit the current times and share it in a new language. However, the response does not provide a modified version of the proverb, nor does it provide a translation in a new language. Instead, it repeats the word 'rain' multiple times, which is irrelevant to the original proverb and does not make sense in the context of the question. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately adheres to the instructions given in the prompt. The model was asked to reinterpret the proverb in a modern context and share it in a different language. The model first explains the meaning of the proverb and then provides a reinterpreted version of it. The response is completely relevant to the prompt and there is a clear and direct correlation between the user's instruction and the model's response. Therefore, the model's response is awarded a score of 2 as per the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is exactly the same as the original proverb given in the question. The question asked for a new phrase that adapts the original proverb to modern times, but the response did not provide any new phrase or adaptation. Therefore, the response does not adhere to the specific directives given in the prompt, resulting in a score of 0."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately adheres to the instructions given in the prompt. The question asked for a modern interpretation of the proverb, and the response provided a new version of the proverb that fits the current context. The response is directly related to the question and there is no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the task quality metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately adheres to the instructions given in the prompt. The model was asked to modify the given proverb to fit the current times and share a new phrase. The model successfully did so by rearranging the words and creating a new phrase. The response is directly related to the user's instruction and all aspects of the instruction have been addressed, hence the score of 2."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response perfectly adheres to the instructions given in the prompt. The question asked for a modern interpretation of the proverb, and the response provided a relevant and contemporary version of the proverb. The original proverb talks about a lazy person having 58 knives in his stomach, and the response cleverly modifies it to a person with a cell phone in his hand, which is a common sight in today's world. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately adheres to the instructions given in the prompt. The model was asked to reinterpret a traditional Tamil proverb in a modern context, and it did so successfully. The model's response maintains the essence of the original proverb while presenting it in a new light, demonstrating a clear understanding of the task. There is a direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        }
+    },
+    {
+        "prompt_id": "86a4890e-cb83-459e-bb27-e95b38e66dfe",
+        "prompt": "ஸ்மார்ட்போன்ஐ கண்மூடித்தனமாக உபயோகித்தால் ஏற்படும் தீய விளைவுகளை ஒரு வெண்பா மூலம் அறிவுறுத்து",
+        "prompt_type": "creative",
+        "language": "tamil",
+        "abhinand/tamil-llama-7b-instruct-v0.2": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question. The question asked for the negative effects of excessive smartphone usage to be explained in the form of a Venba (a form of Tamil poetry). The model's response does exactly that, providing a detailed explanation of the issues that can arise from excessive smartphone usage, and also offering potential solutions, all in the form of a Venba. Therefore, the model's response adheres to the specific directives given in the prompt, demonstrating a precise understanding of the instructions. Hence, a score of 2 is justified."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not address the question at all. The question asks for the negative effects of excessive smartphone use to be explained in the form of a poem, but the response is repetitive and does not provide any information related to the question. It seems like the model has disregarded the instructions entirely, making the output irrelevant to the prompt. Therefore, the score is 0 as per the 'task_quality' metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a list of negative effects of excessive smartphone use. It adheres to the specific directive given in the prompt, which is to inform about the negative effects of excessive smartphone use in the form of a poem. The response is relevant, precise, and leaves no aspect of the instruction unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "justification": "The response perfectly aligns with the question. The question asked for the negative effects of excessive smartphone usage to be explained in a poem, and the response does exactly that. It lists out the negative effects such as eye strain, headaches, sleep disorders, mental stress, reduced physical activity, and diseases in a poetic manner. Therefore, the model's response is in complete accordance with the user's instruction, leaving no aspect of the instruction unaddressed.",
+            "score": 2
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not adhere to the specific directives given in the prompt. The question asks for the negative effects of excessive smartphone usage to be explained in a poem, but the response does not provide this. Instead, it repeats a phrase about a 'wonder' and 'calling in a heart' which is irrelevant to the question. Therefore, the score is 0 as there is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is a poem that accurately describes the negative effects of excessive smartphone use, as requested in the prompt. It covers various aspects such as eye strain, disturbed sleep, and mental distraction, which are all common issues associated with overuse of smartphones. The response is in the form of a poem, as specified in the question. Therefore, the model's response is in complete alignment with the user's instruction, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. The question asks for the negative effects of excessive smartphone use to be explained in a poem, but the response, while discussing the negative effects, does not do so in a poetic format. Therefore, the response misses out on the finer detail of the instruction, which is to present the information in a poem."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately adheres to the instructions given in the prompt. The question asked for the negative effects of excessive smartphone usage to be explained in a poem, and the response does exactly that. It lists out the negative effects such as fatigue, headaches, eye strain, increased stress, and sudden or mental health issues in a poetic manner. Therefore, there is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is a poem that accurately describes the negative effects of excessive smartphone use, as requested in the prompt. It covers various aspects such as mental, physical, and social effects, which aligns with the prompt's instruction. The response does not deviate from the prompt's instruction and does not include any extraneous details. Therefore, the response fully satisfies the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question. The question asks for the negative effects of excessive smartphone usage in the form of a poem, and the response provides a detailed explanation of the physical and mental health issues that can arise from this, in a poetic form. The response adheres to the prompt's instructions and respects its nuances, providing a clear and direct correlation between the user's instruction and the model's response. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately adheres to the instructions given in the prompt. The question asked for the negative effects of excessive smartphone usage to be explained in a poem, and the response does exactly that. It discusses various negative effects such as eye problems, sleep disorders, social isolation, and cognitive decline in a poetic manner. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the task quality metric."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response does not adhere to the specific directives given in the prompt. The question asks for the negative effects of excessive smartphone use to be explained in the form of a poem, but the response is not in a poetic form. Moreover, the response is repetitive and does not provide a clear explanation of the negative effects. Therefore, the score is 0 as there is a clear disconnect between the user's request and the model's response."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is a poem that accurately describes the negative effects of excessive smartphone use, as requested in the prompt. It mentions physical strain, health issues, mental stress, and eye problems, which are all relevant to the question. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asked for the negative effects of excessive smartphone use in the form of a poem. The response is indeed in a poetic form and discusses two main negative effects: mental and physical health issues, and eye strain. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        }
+    },
+    {
+        "prompt_id": "608f145b-d625-4ba4-b55b-8f7204267b89",
+        "prompt": "வள்ளல் பாரி முல்லை கொடிக்கு தன் தேரை கொடுத்து புகழ் பெற்றான். அவ்வாறான ஒரு வள்ளல் தற்காலத்தில் இருந்தால் யாருக்கு எதை கொடுத்து புகழ் பெறுவான் என்பதைப் பற்றி ஒரு கதை புனையவும்.",
+        "prompt_type": "creative",
+        "language": "tamil",
+        "abhinand/tamil-llama-7b-instruct-v0.2": {
+            "justification": "The model grasps and addresses the main theme of the instruction but misses out on finer details. The question asks for a story about a generous person like Vallal Pari in the current era and who he would be generous to. The response, however, goes into a detailed explanation about the words 'vēngai' and 'Brahmaputra', which are not mentioned in the question. While the response does eventually suggest that a generous person in the current era might choose a particular river or natural feature to name and gain fame, it does not provide a specific story as requested in the prompt. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match.",
+            "score": 1
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not adhere to the instructions given in the prompt. The question asks for a story to be created about a generous person in the present time, similar to the generosity of Vallal Pari who gave his chariot to a creeper plant. However, the response does not provide a story, but merely repeats the question multiple times. Therefore, the model disregards the instructions entirely, making the output irrelevant to the prompt, and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately adheres to the instructions given in the prompt. The question asked for a story about a generous person in the present time, similar to Vallal Pari from the past who gave his chariot to a creeper plant. The response provides a narrative about such a person who would use his wealth for the welfare of the people, help everyone, and elevate the society, thereby earning fame. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response perfectly adheres to the instructions given in the prompt. The question asked for a story about a generous person in the present time who would be praised for his generosity, similar to Vallal Pari. The response provides a story about a generous person who established a free educational institution for poor students in a small village in Tirunelveli district, and was praised as a hero in the village. Therefore, there is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not adhere to the instructions given in the prompt. The question asks for a story to be created, but the response does not provide a story. Instead, it repeats the question and provides some irrelevant information. There is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately adheres to the instructions given in the prompt. The question asked for a story about a modern-day equivalent of Vallal Paari, and the response provided a story about a person who invents an electric car for the betterment of the world, which is a good modern-day equivalent. The response also includes the aspect of the person receiving praise for their actions, which aligns with the part of the question about Vallal Paari receiving praise. Therefore, the response satisfies all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response perfectly adheres to the instructions given in the prompt. The question asked for a story about a generous person in the present time, similar to Vallal Pari, who would be praised for giving something away. The response provides a story about a generous woman who gives away her Thirukkondai (a religious item) to a Vallal, who in turn breaks it and shares it with his family. The story aligns with the theme of generosity and praise, as asked in the prompt. Therefore, the response satisfies all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response does attempt to create a story as per the prompt, but it lacks clarity and coherence. The story is about a generous person giving away a valuable fruit during a rainy season, which is not directly related to the original story of Vallal Pari. The response also repeats certain phrases multiple times, which makes it confusing. Therefore, the response partially aligns with the prompt but misses out on finer details and nuances, hence the score of 1."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response starts off by adhering to the prompt's instructions, providing a story about a generous man in a village. However, the story is not fully developed and ends abruptly. Additionally, the same sentence is repeated multiple times, which does not contribute to the narrative or provide any new information. Therefore, while the response partially aligns with the prompt, it does not completely satisfy the instructions given."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response starts off well by attempting to create a story as per the prompt. However, it deviates from the prompt by repeating the same sentence multiple times, which is not asked for in the prompt. This makes the response partially aligned with the prompt, indicating some elements of relevance, but not a complete match. Therefore, the score is 1 as per the 'task_quality' metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is a mere repetition of the question and does not provide any new information or answer the question. The question asks for a story to be created about a generous person like Vallal Pari in the present time, but the response does not provide any story or answer. Therefore, the model disregards the instructions entirely, making the score 0 according to the 'task_quality' metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response perfectly adheres to the instructions given in the prompt. The question asked for a story about a generous person like Vallal Pari in the present context, and who he would give his chariot to in order to gain fame. The response provides a detailed story about Vallal Pari giving his chariot to a famous prisoner, who then uses his freedom to help others and share wealth, thereby bringing fame to Vallal Pari's chariot. The response is directly relevant to the prompt and addresses all aspects of the instruction without any deviation or omission."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response perfectly adheres to the instructions given in the prompt. The question asked for a story about a modern-day Vallal who would gain fame by giving something to someone. The response provides a detailed story about a businessman named Subramanian who helps a struggling artist named Aravind by providing him with a position and financial support for his art. This act of generosity brings fame to Subramanian, making him a modern-day Vallal. Therefore, the response satisfies all aspects of the given directive without any deviation, demonstrating a precise understanding and adherence to the prompt's instructions."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. The prompt asks for a story about a generous person like Vallal Pari in the present time and who he would give his chariot to. The response starts off by retelling the story of Vallal Pari and his generosity but does not continue to create a story about a similar person in the present time. Instead, it introduces a new character, an old woman, without explaining her relevance to the story. Therefore, the response misses out on the finer details and nuances of the prompt."
+        }
+    },
+    {
+        "prompt_id": "6909a70f-b925-4934-b8aa-03c3c8a0880e",
+        "prompt": "தமிழ் மொழியில் பிரசிரிக்கப்பட்ட முதல் புதினம் எது? அந்த புதினத்தை பற்றி சற்று விவரிக்கவும். கதையின் சுருக்கத்தையும் கொடுக்கவும். ",
+        "prompt_type": "factual",
+        "language": "tamil",
+        "abhinand/tamil-llama-7b-instruct-v0.2": {
+            "justification": "The response provided by the model is in line with the question asked. The question asked for the first novel published in Tamil and a brief description of the story. The model correctly identified the first novel as 'The Secret Camp' and provided a detailed summary of the story, which is about a young woman's life and her love story. The model also provided additional information about the novel's significance in Tamil literature, which adds value to the response. Therefore, the model's response is comprehensive and adheres to the instructions given in the prompt, earning it a score of 2.",
+            "score": 2
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is in English, while the question was asked in Tamil and the response was expected to be in Tamil as well. The response also does not answer the question correctly. The question asked for the first novel published in Tamil and a brief description and summary of the story. However, the response talks about 'Tirukkural', which is not a novel but a collection of verses. Therefore, the response is not relevant to the question and does not adhere to the instructions given in the prompt."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. The model correctly identifies the first novel in Tamil as 'Kathaikal'. However, it does not provide a detailed explanation about the novel or a summary of the story as requested in the prompt. Instead, it provides a vague summary about a god named Karuvelan falling in love with a goddess named Arulmozhi, which is not directly related to the novel 'Kathaikal'. Therefore, the response misses out on finer details and nuances of the prompt, warranting a score of 1."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately identifies the first novel published in Tamil as 'Prathapa Mudaliar Charithram' written by Mayuram Vedanayagam Pillai. It provides a brief description of the novel, highlighting its main themes of love, justice, and dharma. The response also provides a summary of the story, detailing the protagonist's struggle to win his love and the eventual triumph of their love. This response fully adheres to the instructions given in the prompt, addressing all aspects of the question without any deviation or omission. Therefore, it scores 2 on the 'task_quality' metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the first novel published in Tamil and a brief description and summary of the story. However, the response does not provide any information related to the question. Instead, it repeatedly states that various things are not 'India', which does not make sense in the context of the question. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately identifies the first novel published in Tamil and provides a brief description about it, as requested in the question. It also provides a summary of the story, adhering to the instructions given in the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response correctly identifies the first novel published in Tamil as 'Uraiyanothu' and provides the year of publication and the author's name. However, it does not provide a detailed description of the novel or a summary of the story as requested in the question. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately identifies the first epic published in Tamil as 'Kambar Kathaiyam' and provides a brief description about it, as requested in the question. It also provides a summary of the story, which was another requirement of the question. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a clear understanding and execution of the task. Hence, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "justification": "The response provided by the model does not adhere to the instructions given in the prompt. The question asks for the first novel published in Tamil and a brief description and summary of the story. The model correctly identifies the first novel as 'Kovindar', but it fails to provide a brief description and summary of the story. Instead, it repeats the phrase 'it's a love story' multiple times, which does not provide any meaningful information about the novel. Therefore, the score is 0 as there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately identifies the first novel published in Tamil as 'Kollukkollai' and provides a brief description of the story, as requested in the prompt. The response adheres to the instructions given in the prompt, demonstrating a clear understanding of the task. It provides a summary of the story, detailing the struggles of a woman after the loss of her husband and how her children learn about their father's past as they grow up. Therefore, the response satisfies all aspects of the given directive without any deviation."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. The model correctly identifies the first book published in Tamil and provides a brief description of the story. However, the model does not provide a summary of the story as requested in the prompt. The response includes extraneous details not asked for, such as the year of publication, and omits some requested specifics, such as the summary of the story. Therefore, the score is 1."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately identifies the first novel published in Tamil as 'Punyanagaram' and provides a detailed explanation about the novel, as requested in the prompt. It also provides a summary of the story, adhering to all the instructions given in the prompt. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately identifies the first novel published in Tamil as 'Prathapa Mudaliar Charithram' and provides a detailed description about it, as requested in the prompt. It also provides a summary of the story, which was another requirement of the prompt. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a clear understanding and execution of the task. Hence, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately identifies the first novel published in Tamil and provides a brief description about it, as requested in the prompt. It also provides a summary of the story, adhering to the instructions given in the prompt. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        }
+    },
+    {
+        "prompt_id": "3458e735-febb-41c4-969a-9999a294602c",
+        "prompt": "காசியில் உள்ள செட்டியார் சத்திரம் யாரால் எதற்காக கட்டப்பட்டது? அந்த சத்திரத்திற்கும் காசி விஸ்வநாதர் கோயிலுக்கும் உள்ள தற்கால தொடர்பு என்ன? அதன் சரித்திரத்தை  விவரிக்கவும்.",
+        "prompt_type": "factual",
+        "language": "tamil",
+        "abhinand/tamil-llama-7b-instruct-v0.2": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question. The question asked for details about the Chettiar Mansion in Kasi, its historical significance, and its connection with the Kasi Viswanathar Temple. The model's response provides a detailed explanation of the Chettiar Mansion, its historical significance, and its connection with the Kasi Viswanathar Temple. The response also provides additional context about the cultural and religious significance of these two structures. Therefore, the model has demonstrated a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about the history of the Chettiar Chathiram in Kasi, who built it, why it was built, and its connection to the Kasi Viswanathar temple. However, the response talks about the design of a temple and its symbolism, which is completely irrelevant to the question. Therefore, the score is 0 as per the 'task_quality' metric because there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses all aspects of the question. It explains who built the Chettiar Chathiram in Kasi, the reason for its construction, its connection with the Kasi Viswanathar temple, and provides a brief history. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question. It provides information on who built the Chettiar Chathiram in Kasi and why, the contemporary connection between the Chathiram and the Kasi Viswanathar temple, and a brief history of the Chathiram. The response is in line with the instructions given in the question, and there is a clear and direct correlation between the user's instruction and the model's response. Therefore, the score is 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about the history of the Chettiar Mansion in Kasi, who built it, why it was built, and its connection to the Kasi Viswanathar Temple. However, the response provided by the model is nonsensical and does not provide any information related to the question. Therefore, according to the 'task_quality' metric, the model's response scores a 0 as it completely disregards the instructions and there is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses all aspects of the question. It explains who built the Chettiar Chathiram in Kasi and why, the connection between the Chathiram and the Kasi Viswanathar temple, and provides a brief history. The response is in line with the question, providing all the requested details without any extraneous information. Therefore, it scores 2 on the task quality metric."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It mentions who built the Chettiar Chathiram in Kasi and the connection between the Chathiram and the Kasi Viswanathar temple. However, it does not provide a detailed history of the Chathiram as requested in the question. Therefore, the response is not completely aligned with the prompt and misses out on some requested specifics."
+        },
+        "google/gemma-7b-it": {
+            "justification": "The response provided by the model is in complete alignment with the question. The question asks about who built the Chettiar Chathiram in Kasi, why it was built, the temporal connection between the Chathiram and the Kasi Viswanathar temple, and the history of the Chathiram. The model's response addresses all these aspects accurately. It mentions that the Chathiram was built by Madurakar in the 16th century, explains the temporal connection between the Chathiram and the Kasi Viswanathar temple, and provides a brief history of the Chathiram. Therefore, the model's response is comprehensive and directly addresses all aspects of the question, earning it a score of 2.",
+            "score": 2
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses all aspects of the question. It explains who built the Chettiar Chathiram in Kasi, the reason for its construction, its historical connection with the Kasi Viswanathar temple, and provides a detailed history of the Chathiram. The response is in line with the prompt's instructions and there is a clear and direct correlation between the user's instruction and the model's response. Therefore, a score of 2 is justified."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses all aspects of the question. It provides information about who built the Chettiar Chathiram in Kasi, the temporal connection between the Chathiram and the Kasi Viswanathar temple, and a detailed history of the Chathiram. The response is completely relevant to the question and does not include any extraneous details. Therefore, it fully adheres to the instructions given in the prompt."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses all aspects of the question. It explains who built the Chettiar Chathiram in Kasi and why, the contemporary connection between the Chathiram and the Kasi Viswanathar temple, and provides a detailed history of the Chathiram. The response is in line with the prompt's instructions and there is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses all aspects of the question. It provides information on who built the Chettiar Chathiram in Kasi and why, the contemporary connection between the Chathiram and the Kasi Viswanathar temple, and a detailed history of the Chathiram. The response is in line with the instructions given in the question, demonstrating a clear understanding and adherence to the prompt's instructions. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses all aspects of the question. It explains who built the Chettiar Chathiram in Kasi and why, the temporal connection between the Chathiram and the Kasi Viswanathar temple, and provides a brief history of the Chathiram. The response is in complete alignment with the question, demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response provided by the model partially aligns with the prompt. It correctly identifies who built the Chettiar Chathiram in Kasi and why it was built. It also provides the distance between the Chathiram and the Kasi Viswanathar temple. However, it does not fully explain the historical connection between the Chathiram and the temple, which was specifically asked for in the prompt. Therefore, the response misses out on some finer details and nuances of the prompt, warranting a score of 1."
+        }
+    }
+]

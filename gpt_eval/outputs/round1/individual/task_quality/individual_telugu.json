@@ -1,0 +1,1322 @@
+[
+    {
+        "prompt_id": "774b4848-424f-4709-b633-e693aa41288f",
+        "prompt": "ధూమపానం, ఉబ్బసం లేదా మధుమేహం వంటి ఇప్పటికే ఉన్న వైద్య పరిస్థితులను మరింత దిగజార్చగలదా?",
+        "prompt_type": "health",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks whether smoking, obesity, or diabetes can worsen existing medical conditions, and the model provides a detailed explanation of how smoking can indeed exacerbate health issues, especially in individuals who already have high cholesterol and high sugar levels. The model's response is comprehensive and directly addresses the question, leaving no aspect of the instruction unaddressed. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 1,
+            "justification": "The response partially addresses the question. The question asks whether smoking, obesity, or diabetes can worsen existing medical conditions. The response mentions smoking and diabetes but does not mention obesity. The response also introduces unrelated elements such as the sun and pollution, which were not asked for in the question. Therefore, the response demonstrates some understanding of the question but misses out on finer details and includes extraneous details not asked for."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks whether smoking, obesity, or diabetes can worsen existing medical conditions, but the response does not provide any information related to this. Instead, it repeats the phrase 'కాకు ఎంతో ఉండింది' multiple times, which does not make sense in this context. Therefore, the score is 0 as per the 'task_quality' metric, because the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks whether existing medical conditions like smoking, obesity, or diabetes can be further deteriorated. The response confirms that these conditions can indeed worsen, and doctors can learn more by considering the symptoms of these conditions. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric perfectly."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The question asks whether smoking, obesity, or diabetes can worsen existing medical conditions, and the response provides a clear and detailed explanation of how these conditions can indeed exacerbate each other. The response is directly relevant to the question and does not deviate from the topic, thus fully satisfying the prompt's instructions."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks whether smoking, obesity, or diabetes can worsen existing medical conditions, but the response does not address this at all. Instead, it seems to be a nonsensical string of words and phrases that do not form a coherent answer. Therefore, the score is 0 as per the 'task_quality' metric, as there is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks if existing medical conditions like smoking, obesity, and diabetes can be further deteriorated. The response confirms that these conditions can indeed worsen and provides a detailed explanation on how to manage these conditions through good diet, exercise, sleep, and mental health. It also advises to consult a doctor if conditions worsen. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks whether existing medical conditions like smoking, obesity, or diabetes can be further deteriorated. The response explains that these conditions can indeed worsen and advises the individual to seek appropriate medical advice. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a detailed explanation of how smoking, asthma, or diabetes can worsen existing medical conditions. It adheres to the prompt's instructions and provides a comprehensive answer, demonstrating a clear understanding of the question. There is a direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks whether smoking, obesity, or diabetes can worsen existing medical conditions, and the response accurately explains how each of these factors can indeed exacerbate existing health issues. The response is detailed, addressing each factor individually, and provides a comprehensive answer to the question. Therefore, the model's response fully satisfies the prompt's instructions without any deviation, earning it a score of 2."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks whether smoking, asthma, or diabetes can worsen existing medical conditions, and the response accurately explains how smoking can exacerbate conditions like asthma and diabetes. The response does not deviate from the question's instructions and addresses all aspects of the question, demonstrating a clear understanding of the prompt. Therefore, a score of 2 is justified."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks whether existing medical conditions like smoking, obesity, or diabetes can be exacerbated. The response provides a detailed explanation of how these conditions can indeed worsen, and also suggests ways to manage and control these conditions. It adheres to the prompt's instructions and respects its nuances, providing a comprehensive answer to the question. Therefore, it scores 2 on the 'task_quality' metric."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The question asks whether smoking, obesity, or diabetes can worsen existing medical conditions, and the response correctly states that they cannot worsen the conditions. The response also suggests that a doctor's advice should be sought for further clarification. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The question asks whether smoking, obesity, or diabetes can exacerbate existing medical conditions, and the response confirms that smoking can indeed worsen existing conditions, including obesity and diabetes. The response is directly related to the question and does not deviate from the topic, hence it adheres to the prompt's instructions completely."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks whether smoking, obesity, or diabetes can exacerbate existing medical conditions. The response provides a detailed explanation of how smoking can worsen conditions like asthma, increase blood pressure and insulin resistance, leading to diabetes, and increase the risk of certain types of cancer. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        }
+    },
+    {
+        "prompt_id": "e4a7ba5b-491f-4ae9-95e2-ff23cdddabb6",
+        "prompt": "తరచుగా దగ్గు ఏదైనా సమస్యకు సంకేతమా?",
+        "prompt_type": "health",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks whether frequent coughing is a sign of any problem, and the model provides a detailed explanation of various health issues that can cause frequent coughing. It covers a range of issues from common cold to asthma, lung diseases, and other health problems. The response is comprehensive and directly addresses the question, leaving no aspect of the instruction unaddressed.",
+            "score": 2
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response is not relevant to the question asked. The question is asking if frequent coughing is a sign of any problem, but the response is repetitive and does not provide a clear answer to the question. It seems like the response is not coherent and does not adhere to the instructions given in the prompt. Therefore, the score is 0 as per the 'task_quality' metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "justification": "The response provided by the model is not relevant to the question asked. The question is asking if frequent coughing is a sign of any problem, but the response is not providing any information related to this. Instead, it seems to be repeating the same phrase multiple times, which doesn't make sense. Therefore, the score is 0 as there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks if frequent coughing is a sign of any problem. The response correctly states that frequent coughing can be a sign of an allergy or respiratory problem, and it specifically mentions cardiac allergy, asthma, and tuberculosis as possible diseases. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks whether frequent coughing can be a sign of any problem. The response explains that frequent coughing is a common issue that can be caused by various factors, such as colds, phlegm, allergies, respiratory issues, throat problems, and viral infections like COVID-19. It also mentions that in some cases, frequent coughing can indeed be a sign of a detectable problem, and advises consulting a doctor when experiencing frequent coughing. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks whether frequent coughing is a sign of any problem, but the response is nonsensical and does not provide any meaningful information related to the question. It seems like the model is just repeating the same phrase over and over again without any context or understanding. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks if frequent coughing is a sign of any problem. The response confirms this and provides examples of respiratory-related issues that could cause frequent coughing, such as asthma, chronic obstructive pulmonary disease (COPD), bronchitis, and pneumonia. It also advises seeing a doctor if coughing persists. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially addresses the question. The question asks if frequent coughing is a sign of any problem, to which the response does not directly answer. Instead, it provides advice on how to treat the problem with medical guidance, diet, and exercise. While this information is related, it does not directly answer the question, hence the score of 1."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks whether frequent coughing can be a sign of a problem. The response explains that yes, frequent coughing can indicate a problem with the respiratory system, and goes on to describe the function of coughing and some common causes. It also advises seeking medical advice, which is a relevant and useful addition to the response. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks whether frequent coughing is a sign of any problem, and the model provides a comprehensive answer, explaining that coughing can be a symptom of various health issues such as cold, allergies, respiratory infections, lung cancer, heart diseases, and lung injuries. It also advises to consult a healthcare professional if the cough persists or new symptoms appear. Therefore, the model has demonstrated a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a detailed explanation of how frequent coughing can be a sign of a problem, such as an infection in the respiratory system. It also mentions other possible causes of coughing, such as allergies or exposure to dust, and other symptoms that may accompany coughing. The response also advises seeking medical help if one has a persistent cough, which is a relevant and useful piece of advice. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The question asks whether frequent coughing could be a sign of any problem, and the response provides a detailed explanation, stating that it could be a sign of various health issues such as respiratory problems, heart issues, or other health problems. It also mentions that it could be a sign of a mental issue. Therefore, the response completely adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is asking whether frequent coughing is a sign of any problem, but the model's response is providing steps on how to solve a problem, which is not asked for in the question. Therefore, there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The question asks whether frequent coughing could be a sign of any problem, and the response correctly affirms this and provides examples of potential issues, such as respiratory diseases, asthma, allergies, or immune system disorders. The response also advises to consult a doctor to determine the cause, which is a suitable advice. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding and execution of the task."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked, which is whether frequent coughing is a sign of any problem. The response not only confirms this but also provides additional information about the possible causes of frequent coughing, such as respiratory infections, and advises seeking medical help if the cough is accompanied by other symptoms. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question, warranting a score of 2 according to the 'task_quality' metric."
+        }
+    },
+    {
+        "prompt_id": "b5d49672-a2c1-4c02-a45b-8d1d9535750a",
+        "prompt": "కిడ్నీలో రాళ్లు కరిగిపోవాలంటే ఎలాంటి ఆహారం తీసుకోవాలి",
+        "prompt_type": "health",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is not relevant to the question. The question asks for the type of food to be consumed to dissolve kidney stones, but the response repeatedly mentions 'fish' without providing any useful or varied information. The response does not adhere to the instructions given in the prompt, hence the score is 0."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question is asking for the type of diet to be followed to dissolve kidney stones, but the response talks about long-term kidney programs and kidney regeneration, which is not relevant to the question. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "justification": "The response provided by the model is a repetition of the question itself without providing any actual answer. The question asks for the type of diet one should follow to dissolve kidney stones, but the response does not provide any information on this. It merely repeats the question multiple times. Therefore, the model's response does not adhere to the prompt's instructions at all.",
+            "score": 0
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "justification": "The question asks for the type of diet one should follow to dissolve kidney stones. The response accurately provides information on the type of food to consume, specifically mentioning foods rich in sodium citrate. It also explains how such foods can help increase the level of stones in the kidney. The response is directly related to the question and addresses all aspects of the instruction, hence the score of 2.",
+            "score": 2
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what kind of diet should be followed to dissolve kidney stones. It provides a detailed list of dietary changes that can help in dissolving kidney stones, such as drinking plenty of water, consuming more fruits and vegetables, drinking lemon and apricot juice, and reducing salt intake. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence it scores 2 on the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about what kind of diet should be taken to prevent kidney stones, but the response is nonsensical and doesn't provide any useful information related to the question. Therefore, according to the 'task_quality' metric, the score is 0 as there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what kind of diet should be followed to dissolve kidney stones. It provides a detailed list of foods and drinks that can help in dissolving kidney stones, such as lentils, black gram, yogurt, vegetables, fruits like apples, oranges, and pineapples, and also emphasizes the importance of drinking at least three liters of water daily. The response is completely relevant to the question and adheres to the instructions given in the prompt, hence the score of 2."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially addresses the question. The question asks for the type of diet to be followed to dissolve kidney stones, but the response does not provide any specific dietary recommendations. Instead, it talks about the importance of following a healthy diet and doctor's advice, which is relevant but not a complete answer to the question. Therefore, the response is somewhat aligned with the prompt but misses out on the specific details asked for in the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what kind of diet should be taken to dissolve kidney stones. It suggests drinking more water and consuming certain nutrients that can help dissolve kidney stones. It also mentions that a doctor may recommend medications to help get the necessary amount of these nutrients. The response is directly related to the user's instruction and covers all aspects of the question without any deviation. Therefore, it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what kind of diet should be followed to dissolve kidney stones. It provides a detailed list of foods that can help, such as fruits, vegetables, whole grains, low-fat dairy products, and low-protein foods. It also advises reducing sugar and salt intake, as they can promote stone formation. The response also suggests consulting with a doctor when making changes to the diet. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what kind of diet should be followed to dissolve kidney stones. It provides a detailed explanation, mentioning the importance of water, fiber-rich and low-nutrient foods, and specific foods like fruits, vegetables, grains, and low-protein foods. It also advises avoiding foods high in sodium, calcium, and potassium, as these nutrients can contribute to stone formation. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding of the question and providing a comprehensive answer."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what kind of diet should be followed to dissolve kidney stones. It provides specific advice such as increasing water intake, consuming foods rich in potassium, and eating foods low in fat. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence the score of 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not relevant to the question. The question asks for the type of diet to be followed to dissolve kidney stones, but the response is not clear and contains repeated and nonsensical words. It does not provide any useful information on the diet to be followed to dissolve kidney stones. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model's response is entirely irrelevant to the prompt."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what kind of diet should be followed to dissolve kidney stones. It provides a detailed list of dietary changes that can help in dissolving kidney stones, such as drinking more water, consuming citrus fruits, reducing intake of oxalate-rich foods, processed foods, alcohol, coffee, high-protein foods, and controlling salt intake. It also advises consulting with doctors based on individual health conditions. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for the type of food to be consumed for dissolving kidney stones. The response provides a detailed list of foods, including dairy products, lean meats, and fruits and vegetables, explaining how they can help in dissolving kidney stones. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        }
+    },
+    {
+        "prompt_id": "53b78a0e-81af-472c-8d76-ae92a949cf8f",
+        "prompt": "వెన్ను నొప్పి తగ్గాలంటే ఎలాంటి జాగ్రత్తలు తీసుకోవాలి?",
+        "prompt_type": "health",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response provided by the model is not relevant to the question asked. The question asks for precautions to be taken to avoid back pain, but the response provided by the model is repetitive and does not provide any useful information or precautions. The model repeats the same phrases multiple times, which does not provide any value to the user. Therefore, the score is 0 as per the 'task_quality' metric, as there is a clear disconnect between the user's request and the model's response."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "justification": "The response provided by the model is largely irrelevant to the question asked. The question asks for precautions to be taken to reduce back pain, but the response does not provide any specific precautions or measures. Instead, it seems to be repeating phrases about reducing causes, without specifying what those causes are or how to reduce them. Therefore, the score is 0 as there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for precautions to be taken to reduce back pain, but the response is repetitive and does not provide any useful information or answer the question. It seems like the model is stuck in a loop and is not providing any meaningful output. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to alleviate back pain. It provides a comprehensive list of precautions to take, such as exercising daily, reducing carbohydrate intake, eating lightly, getting enough sleep, and possibly taking medication with a doctor's advice. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to take precautions to reduce back pain. It provides a comprehensive list of precautions such as maintaining proper posture, avoiding lifting heavy objects, stretching before sleep, exercising to strengthen the back, and ensuring a diet rich in calcium and vitamin D. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for precautions to be taken to reduce back pain, but the response does not provide any relevant information or precautions. Instead, it seems to be a nonsensical repetition of words and phrases. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for precautions to be taken to reduce back pain, and the model provides a detailed list of precautions such as regular exercise, proper diet, hydration, avoiding cigarettes, controlling thoughts, and being careful during exercise. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to alleviate back pain. It provides several suggestions such as ensuring complete rest, proper digestion, staying hydrated, taking pain relief tablets, and using antibiotics. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response initially addresses the question by providing some precautions to reduce back pain, such as ensuring adequate rest and taking a hot bath. However, the response then becomes repetitive and redundant, mentioning the use of hot packs or belts multiple times without providing any new or additional information. This indicates a partial alignment with the prompt but not a complete match, hence the score of 1."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response provided by the model does address the main theme of the prompt, which is about precautions to be taken to reduce back pain. However, the response is repetitive and lacks finer details or nuances. The same points are repeated multiple times with slight variations, which does not add any new or useful information. Therefore, the response only partially aligns with the prompt and does not completely satisfy the given directive."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for precautions to be taken to reduce back pain, and the model provides a detailed list of precautions, addressing the question fully. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for precautions to be taken to reduce back pain, and the model provides a detailed list of precautions and steps to be taken. It covers all aspects of the question without any deviation or extraneous details. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to alleviate back pain. It provides a comprehensive list of steps to follow, including regular exercise, a healthy diet, stress management, good sleep, and medical consultation. The response is directly relevant to the question and does not deviate from the topic. It also does not omit any requested specifics or include extraneous details. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for precautions to be taken to reduce back pain, and the model provides a detailed list of precautions, including maintaining proper posture, getting enough rest, exercising, sleeping properly, using compresses, taking over-the-counter pain relievers, controlling weight, and having a diet rich in Vitamin D and Calcium. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the model scores 2 on the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for precautions to be taken to reduce back pain, and the model provides a detailed response on the same, including not putting constant pressure on the back, using a hot compress around the back, trying some pain relief methods and rest techniques, and seeking medical help if the pain persists or intensifies. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        }
+    },
+    {
+        "prompt_id": "098f2ecd-3e28-4c02-b8a7-dfdc084edaca",
+        "prompt": "ఏ ఔషధం కడుపు నొప్పిని తగ్గిస్తుంది",
+        "prompt_type": "health",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response accurately answers the question about which medicine can reduce stomach pain. It provides a list of medicines that can help with stomach pain, which is exactly what the question asked for. The response also includes a note about consulting with healthcare professionals before taking any medication, which is a relevant and important detail. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for a medicine that can relieve stomach pain, but the response does not mention any medicine. Instead, it talks about stomach pain being reduced due to some unspecified assistance, pollution, and carbon experiences, which are irrelevant to the question. Therefore, the response completely disregards the instructions and is entirely irrelevant to the prompt."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "justification": "The response provided by the model is not relevant to the question asked. The question is asking for a medicine that can relieve stomach pain, but the response given by the model is repetitive and does not provide any useful information or answer the question. Therefore, the score is 0 as per the 'task_quality' metric, indicating that there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asked for a medicine that can reduce stomach pain, and the model provided a list of three medicines that can help reduce stomach pain. The model also advised to take a doctor's advice, which is a responsible suggestion. Therefore, the model's response is accurate, relevant, and adheres to the instructions given in the question.",
+            "score": 2
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about which medicine can help reduce stomach pain. It lists several medications that can help with this issue, and also advises to consult a doctor before taking these medications. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about a medicine that can relieve stomach pain, but the response talks about a person named Eastham Jillella being the president of Eastham Parishad. There is a clear disconnect between the question and the response, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question about which medicine can reduce stomach pain. It provides a list of over-the-counter and prescription medicines, such as Aspirin, Ibuprofen, Naproxen, and Acetaminophen, that can help alleviate stomach pain. It also advises consulting a doctor before taking any medication, as some medicines can interact negatively with other health issues and medications currently being taken. Therefore, the response fully adheres to the prompt's instructions and addresses all aspects of the question, earning a score of 2 for task quality."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially aligns with the question. The question asks for a specific medicine that can relieve stomach pain, but the response does not provide a specific medicine. Instead, it advises to consult a doctor for health advice about stomach pain. Therefore, the response addresses the main theme of the question but misses out on the specific detail asked for, which is the name of a medicine. Hence, the score is 1 according to the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response partially addresses the question. The question asks for a specific medicine that can alleviate stomach pain, but the response does not provide a specific medicine. Instead, it talks about certain foods that can cause stomach pain and suggests that tablets or medicines can be taken without specifying which ones. Therefore, the response only partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about which medicine can help reduce stomach pain. It mentions 'Pepsic Acid Blocker' as the medicine that can help in reducing the production of pepsic acid in the stomach, which is a cause of stomach pain. It also provides additional information about the common ingredients in pepsic acid blockers. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately answers the question about which medicine helps in reducing stomach pain. It mentions over-the-counter nonsteroidal anti-inflammatory drugs (NSAIDs) and prescription NSAIDs as medicines that can help. The response also provides additional useful information about the potential side effects of these medicines and the importance of consulting health professionals before using them. Therefore, the response fully adheres to the prompt's instructions and addresses all aspects of the question, earning a score of 2 for task quality."
+        },
+        "SamwaadLLM": {
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for a medicine that can relieve stomach pain, and the model provides a detailed response listing three medicines (Aspirin, Ibuprofen, and Paracetamol) that can relieve stomach pain, along with their specific effects. The response also includes a cautionary note advising to take a doctor's advice before taking these medicines, which is a responsible addition. Therefore, the model's response is comprehensive, accurate, and directly addresses the question, earning a score of 2.",
+            "score": 2
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately answers the question about which medication can help reduce stomach pain. It lists several medications, such as Non-Steroidal Anti-Inflammatory Drugs (NSAIDs), Acetaminophen, Gabapentin, and Tramadol, which are known to help with this condition. The response also advises consulting with a doctor before taking any medication, which is a responsible and important note. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question, earning a score of 2 according to the 'task_quality' metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question about which medicine can reduce stomach pain. It lists several medications such as Paracetamol, Antacids, Ibuprofen, and Omeprazole, which are commonly used to alleviate stomach pain. The response also provides additional advice on drinking enough water and having a proper diet, which can also help. It also advises consulting a doctor for prescribed treatment. Therefore, the response fully adheres to the prompt's instructions and addresses all aspects of the question, warranting a score of 2 for task quality."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for a medicine that can reduce stomach pain, and the response provides a detailed explanation of the types of medicines that can help reduce stomach pain, such as antacids, histamine 2 blockers, and proton pump inhibitors. It also mentions other potential treatments for stomach pain, such as changes in diet and lifestyle. Therefore, the model's response is comprehensive and directly addresses the user's instruction.",
+            "score": 2
+        }
+    },
+    {
+        "prompt_id": "05c369b4-6b21-4485-81e5-60b5e860259d",
+        "prompt": "క్రిప్టోకరెన్సీలలో పెట్టుబడి పెట్టడం వల్ల కలిగే ప్రయోజనాలు మరియు నష్టాలు ఏమిటి?",
+        "prompt_type": "finance",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asked for the benefits and losses of investing in cryptocurrencies, and the model provided a detailed explanation of both. It covered various aspects such as growth, risk reduction, investor convenience, economic system development, investor awareness, risk, withdrawal limits, market fluctuations, etc. Therefore, the model has demonstrated a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It mentions that there are benefits and losses from investing in cryptocurrencies, and vaguely mentions the potential for great value and volatility. However, it does not provide specific examples or details about these benefits and losses, which the question seems to be asking for. The response also ends abruptly and is incomplete, suggesting that there might have been more information that was cut off. Therefore, the response only partially aligns with the prompt and misses out on finer details or nuances."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model is a repetition of the question itself, without providing any actual answer to the question. The question asks for the benefits and losses of investing in cryptocurrencies, but the model's response does not provide any information on this. Therefore, there is a clear disconnect between the user's request and the model's response, which is why a score of 0 is given."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing both the benefits and drawbacks of investing in cryptocurrencies. It adheres to the instructions given in the prompt and provides a comprehensive answer. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asked for the benefits and losses of investing in cryptocurrencies, and the model provided a detailed list of both. It addressed the overt commands of the prompt and also respected its nuance and subtleties. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the model's response earns a score of 2 according to the \"task_quality\" metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the benefits and losses of investing in cryptocurrencies, but the response is filled with nonsensical characters and does not provide any information related to the question. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing both the benefits and drawbacks of investing in cryptocurrencies. It adheres to the instructions given in the prompt and provides a comprehensive answer. The response does not deviate from the topic and there is a clear and direct correlation between the user's instruction and the model's response. Therefore, the response fully satisfies the 'task_quality' metric."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about the benefits and losses of investing in cryptocurrencies, but the response talks about interest and health benefits of investment, which is completely irrelevant to the question. There is a clear disconnect between the user's request and the model's response."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asked for the benefits and drawbacks of investing in cryptocurrencies, and the model provided a detailed list of both, covering aspects such as potential for high returns, decentralization, anonymity, volatility, lack of control, security risks, and limited acceptance. The response is comprehensive and directly addresses the question, leaving no aspect of the instruction unaddressed. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asked for the benefits and drawbacks of investing in cryptocurrencies, and the model provided a detailed list of both, covering aspects such as high returns, diversification, anonymity, international transactions, volatility, regulatory challenges, and cybersecurity risks. Therefore, the model has demonstrated a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, a score of 2 is justified."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing both the benefits and drawbacks of investing in cryptocurrencies. It mentions the potential for high returns, low transaction fees, and anonymity as benefits, while instability of the market, lack of government control, and risk of hacking are listed as drawbacks. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a clear understanding and execution of the task."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks about the benefits and losses of investing in cryptocurrencies, and the model's response thoroughly explains both aspects. It discusses the benefits such as new economic autonomy, global market access, and the potential for profit. It also discusses the risks such as market volatility, potential losses, and the possibility of hacking or fraud. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a detailed explanation of the benefits and drawbacks of investing in cryptocurrencies. It covers all aspects of the question, including speculation, decentralized finance, smart contracts, privacy, price volatility, security risks, regulation, and environmental impact. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed. Therefore, it scores 2 on the task quality metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, providing a detailed list of both the benefits and drawbacks of investing in cryptocurrencies. It adheres to the instructions given in the prompt, demonstrating a clear understanding of the question. The response is directly related to the user's instruction, with no aspect of the instruction left unaddressed. Therefore, it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing both the benefits and risks of investing in cryptocurrencies. It mentions the potential for high returns and the volatility of the market as benefits, while also highlighting the risks such as market instability and cybersecurity threats. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, a score of 2 is justified."
+        }
+    },
+    {
+        "prompt_id": "7e9416e1-462d-4836-8d99-9b2098738fad",
+        "prompt": "సిస్టమాటిక్ ఇన్వెస్ట్‌మెంట్ ప్లాన్ (SIP) అంటే ఏమిటి మరియు అది ఎలా పని చేస్తుంది?",
+        "prompt_type": "finance",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for an explanation of what a Systematic Investment Plan (SIP) is and how it works. The model's response accurately and comprehensively explains what a SIP is, its purpose, and how it functions. It also provides additional details about the benefits of SIPs, which further enhances the quality of the response. Therefore, the model's response adheres to the specific directives given in the prompt and respects its nuances and subtleties, earning it a score of 2 according to the 'task_quality' metric."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for an explanation of what a Systematic Investment Plan (SIP) is and how it works, but the response talks about something entirely different. It mentions 'stocks interactive plan' and 'social changes', which are not related to the concept of SIP. Therefore, the response is completely irrelevant to the prompt."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model is not relevant to the question asked. The question is about explaining what a Systematic Investment Plan (SIP) is and how it works. However, the response is repetitive and does not provide any information about SIP. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt. This is why a score of 0 is given."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately explains what a Systematic Investment Plan (SIP) is and how it works, which is exactly what the question asked for. The response is directly relevant to the question and does not deviate from the topic. It does not include any extraneous details not asked for, nor does it omit any requested specifics. Therefore, the response fully satisfies the prompt's instructions and demonstrates a precise understanding of the question."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately explains what a Systematic Investment Plan (SIP) is and how it works, which is exactly what the question asked for. The response is detailed, providing a clear definition of SIP and a step-by-step explanation of its operation. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding and adherence to the prompt's instructions. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the definition and working of Systematic Investment Plan (SIP), but the response does not provide any information related to SIP. Instead, it seems to be a nonsensical repetition of words. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately explains what a Systematic Investment Plan (SIP) is and how it works, which is exactly what the question asked for. It provides a detailed explanation of the process, including how regular debits are made from a bank account to a chosen investment scheme, how the scheme is chosen based on the investor's income and financial needs, and how this allows for disciplined investing even with small amounts. The response is directly relevant to the question and does not include any extraneous details or omit any requested specifics. Therefore, it fully satisfies the task quality metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately explains what a Systematic Investment Plan (SIP) is and how it works, which is exactly what the question asked for. The response is directly related to the user's instruction and covers all aspects of the question without any deviation or omission. Therefore, the response fully adheres to the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for an explanation of what a Systematic Investment Plan (SIP) is and how it works. The model's response accurately and comprehensively explains what a SIP is, how it works, the benefits of using a SIP, and provides an example to illustrate its points. The response does not deviate from the topic and does not include any extraneous details. Therefore, the model's response fully satisfies the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about what a Systematic Investment Plan (SIP) is and how it works. It provides a detailed explanation of the concept, its benefits, and its operation, which aligns perfectly with the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric and scores 2."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately explains what a Systematic Investment Plan (SIP) is and how it works, which is exactly what the question asked for. The response is detailed and covers all aspects of the question, demonstrating a clear understanding of the prompt's instructions. There is a direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the task quality metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately explains what a Systematic Investment Plan (SIP) is and how it works, which is exactly what the question asked for. The response is directly related to the user's instruction and addresses all aspects of the question without any deviation or omission. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response provided by the model is not relevant to the question asked. The question is asking for an explanation of what a Systematic Investment Plan (SIP) is and how it works. However, the response given by the model seems to be a mix of unrelated financial terms and concepts, and does not provide a clear or accurate explanation of a SIP. Therefore, the model's response does not adhere to the specific directives given in the prompt, resulting in a score of 0 for task quality."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about what a Systematic Investment Plan (SIP) is and how it works. It provides a detailed explanation of the concept, the process, and the benefits of SIP, which aligns perfectly with the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately explains what a Systematic Investment Plan (SIP) is and how it works, which is exactly what the question asked for. The response covers all aspects of the question, providing a comprehensive explanation of the concept. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        }
+    },
+    {
+        "prompt_id": "146939a9-f233-4e9b-bdf7-45f45ec91420",
+        "prompt": "పర్సనల్ లోన్ కోసం అప్లై చేయడానికి ఏ డాక్యుమెంటేషన్ అవసరం?",
+        "prompt_type": "finance",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the necessary documentation for applying for a personal loan. It provides a detailed list of documents required, including Aadhaar card, bank account details, income verification documents, and other necessary documents. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence it scores 2 on the task quality metric."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is asking for the documentation required to apply for a personal loan, but the response given by the model is nonsensical and does not provide any information about the required documentation. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is asking for the documentation required to apply for a personal loan, but the response does not provide any information related to this. Instead, it repeats a phrase that does not make sense in the context of the question. Therefore, according to the 'task_quality' metric, the model's response scores a 0 as it disregards the instructions entirely and there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what documentation is needed to apply for a personal loan. It lists out various documents such as credit records, income proof, identification, passport copy, photograph, and other necessary documentation. This shows a clear understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Therefore, the score is 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and completely addresses the question. The question asks for the documentation required to apply for a personal loan, and the response provides a detailed list of necessary documents, including Aadhaar card, PAN card, income tax returns, bank statements, salary certificate (for employees), and photo copies. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question asked. The question is about the documentation required to apply for a personal loan, but the response is nonsensical and does not provide any useful information. It seems like the model has disregarded the instructions entirely, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for the documentation required to apply for a personal loan and the model provides a detailed list of all the necessary documents. It includes ID proof, residential proof, income proof, bank statement, PAN card, and passbook. The model also mentions that these requirements may vary based on the bank's policies and the applicant's financial situation. Therefore, the model's response is comprehensive and directly addresses the user's instruction, leaving no aspect of the instruction unaddressed."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the necessary documentation for applying for a personal loan. It mentions the need for identification documents, salary certificate or contracts, and other relevant documents. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric perfectly."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for the documentation required to apply for a personal loan, and the model provides a comprehensive list of documents typically required, such as identification proof, income proof, asset proof, bank statements, and credit report. The model also mentions that the requirements may vary depending on the lender, which adds a layer of nuance to the response. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for the documentation required to apply for a personal loan and the model provides a detailed list of all the documents needed, such as income proof, identity proof, address proof, employment proof, credit history, and loan application. The model's response is comprehensive and covers all aspects of the question, demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks for the documentation required to apply for a personal loan, and the model provides a comprehensive list of documents needed, such as identification proof, income proof, proof of loan repayment capability, asset or collateral proof, and any necessary financial documents to determine loan eligibility. Therefore, the model's response is directly correlated with the user's instruction, and no aspect of the instruction is left unaddressed."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what documentation is needed to apply for a personal loan. It lists several documents such as PAN card, Aadhar card, voter ID, income tax return, income proof, and bank statements, which are typically required for a personal loan application. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately and completely addresses the question about the necessary documentation for applying for a personal loan. It provides a detailed list of documents required, including identity proof, income proof, address proof, and other documents. The response also includes a note that the documentation may vary depending on the loan institution, which adds further depth to the answer. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the necessary documentation for applying for a personal loan. It provides a detailed list of documents required, including identity proof, address proof, income proof, and employment proof, which are typically required for such applications. The response is directly relevant to the question and does not include any extraneous or irrelevant information. Therefore, it fully adheres to the task instructions and satisfies all aspects of the prompt, warranting a score of 2 for task quality."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what documentation is needed to apply for a personal loan. It provides a detailed list of documents required, such as balance sheets for income and expense verification, necessary income proofs, credit reports showing their income and expenses, and a form filled with personal information like name, address, and social security number. The response also mentions that these documents may vary based on the specific bank or financial institution. Therefore, the response adheres to the prompt's instructions completely and satisfies all aspects of the given directive without any deviation."
+        }
+    },
+    {
+        "prompt_id": "f928b08e-061c-412c-9650-568234094c1c",
+        "prompt": "నేను నా జీరో బ్యాలెన్స్ ఖాతాను జీతం ఖాతాగా మార్చవచ్చా?",
+        "prompt_type": "finance",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The user asked if they could change their zero balance account to a salary account, and the model correctly responded that it's not possible to do so. The model also provided additional information about the purpose of a salary account, which is relevant and helpful. Therefore, the model's response adheres to the prompt's instructions and respects its nuances, satisfying all aspects of the given directive without any deviation."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the possibility of converting a zero balance account into a savings account. It provides a detailed explanation of the process and the benefits of doing so, which aligns with the user's instruction. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the 'task_quality' metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question was about the possibility of converting a zero balance account into a savings account, and the model's response clearly and directly addresses this, stating that it is indeed possible. There is no deviation from the topic, and no aspect of the question is left unaddressed. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The user asked if they could change their zero balance account to a salary account, and the model responded affirmatively, explaining that it is possible but permission from the bank is required first. This response not only directly answers the question but also provides additional useful information, adhering to the nuances of the prompt. Therefore, it scores 2 on the task quality metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the possibility of changing a zero balance account to a savings account. It provides a detailed explanation of the process, which includes going to the bank and submitting an application for account conversion. The bank officials will then review the application and if approved, the account can be used as a savings account. The response is in complete alignment with the question and provides all the necessary information, hence it adheres to the task quality metric perfectly."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about the possibility of converting a zero balance account into a profit account, but the response talks about making a profit from investment in shares, which is not related to the question at all. Therefore, according to the \"task_quality\" metric, the score is 0 as there is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The user asked if they could change their zero balance account to a salary account, and the model responded affirmatively, providing additional advice to consult with their bank for details. This shows a clear understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about converting a zero balance account to a savings account. It provides a clear and direct answer, suggesting to visit the bank branch or use online banking counseling services, and to contact the bank for necessary details. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the possibility of changing a zero balance account to a salary account. It provides a detailed explanation of the process, including contacting the bank or financial institution, possibly accessing the account through their website or mobile application, and seeking help if any problems are encountered. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question is about whether a zero balance account can be converted into a salary account, and the response accurately provides the information that it can be done, along with the details required for the process. The model has adhered to the prompt's instructions and has not deviated from the topic, hence the score of 2 is justified."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about converting a zero balance account to a savings account. It provides a detailed explanation of the process, including visiting the bank or credit union, making the request, and transferring funds from the zero balance account to the savings account. It also advises to follow the specific guidelines of the bank or credit union and their instructions to complete the process. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The user asked if they could change their zero balance account to a salary account, and the response confirmed that it is possible and provided a brief explanation of the process, which involves contacting the bank. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence the score of 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not in the same language as the question, which is Telugu. The response starts in a different language (Vietnamese), which does not adhere to the prompt's instructions. Furthermore, the response does not answer the question directly. The question asks about converting a zero balance account to a joint account, but the response provides a process for converting a zero balance account to a joint account, which is not what was asked for. Therefore, the model disregards the instructions entirely, and there is a clear disconnect between the user's request and the model's response."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The user asked if they could change their zero balance account to a salary account, and the model responded affirmatively, providing additional information on how to do so. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus fulfilling the criteria for a score of 2 under the 'task_quality' metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question was about the possibility of converting a zero balance account into a savings account, and the model's response accurately addresses this query. It not only confirms the possibility but also provides a detailed procedure on how to go about it, including seeking help from the bank or financial institution if needed. Therefore, the model's response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        }
+    },
+    {
+        "prompt_id": "6b0c19d3-455c-4e40-b9bc-09c33cf028bb",
+        "prompt": "ఏ పెట్టుబడి 100% పన్ను రహితం?",
+        "prompt_type": "finance",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response provided by the model is not in line with the question asked. The question asks for an investment that is 100% tax-free, but the model's response repeatedly mentions mutual funds, which are not completely tax-free. The model also repeats the same information about mutual funds multiple times, which is not relevant to the question. Therefore, the model's response does not adhere to the specific directives given in the prompt, resulting in a score of 0 for task quality."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question is asking for a building that is 100% pollution-free, but the response talks about the general benefits of pollution and does not mention any specific building. Therefore, the response is irrelevant to the question and does not adhere to the instructions given in the prompt."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about a type of investment that is 100% risk-free, but the response is nonsensical and repetitive, not providing any meaningful information related to the question. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about which investments are 100% tax-free. The model provides specific examples of such investments, demonstrating a precise understanding and adherence to the prompt's instructions. The output holistically satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about which investment is 100% tax-free. The response correctly states that no investment in India is 100% tax-free, but some investments like Public Provident Fund (PPF), Sukanya Samriddhi Yojana, National Pension System (NPS) etc., are either tax-free or taxed less. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about a 100% pollution-free institution, but the response does not provide any meaningful or related information. It seems to be a random collection of words and phrases, which makes it difficult to understand. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question about which power plant is 100% pollution-free by mentioning 'solar energy'. It adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The question asks about a type of investment that is 100% risk-free, but the response is about a type of cow, which is completely irrelevant to the question. Therefore, the model disregards the instructions entirely and the output is entirely irrelevant to the prompt, which aligns with the reasons for a score of 0 in the metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about an investment that is 100% tax-free. The response correctly states that there is no investment that is completely tax-free, but it also provides examples of investments that offer tax benefits or ways to mitigate taxes on investments. The response is directly related to the user's instruction and covers all aspects of the instruction without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about a type of investment that is 100% tax-free. The model provides a specific example of such an investment, 'Mars Planet Investment', and explains how it allows investors to grow their investment without being taxed. Therefore, the model's response is in direct correlation with the user's instruction, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what is a 100% tax-free investment. It provides a detailed explanation of the concept, including the conditions under which such investments can be tax-free. It also advises the user to research the specific investment they are considering, as tax laws and regulations can vary. Therefore, the response fully adheres to the prompt's instructions and addresses all aspects of the question, earning a score of 2 according to the 'task_quality' metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about a diet that is 100% free of fat. It explains that while it's possible for all diets to be fat-free, it's not common. It also mentions that efforts to make a diet fat-free can affect many people, but not everyone can avoid fat. The response further explains that fats usually found in diets can be avoided, and to be fat-free, one should strive for a healthy diet, direct methods, and a stable life. The response concludes by advising to check one's condition and communicate with health authorities. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately answers the question asked in the prompt. The question asks whether any food is 100% fat-free, and the response correctly states that no food is 100% fat-free. The response also provides additional information about the types of fats found in foods, which is relevant to the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "GPT4o": {
+            "justification": "The response provided by the model is directly relevant to the question asked. The question asks for an investment that is 100% tax-free, and the model provides an example of such an investment, the Prime Minister Vaya Vandana Yojana (PMVVY) in India. The model also advises to consult a tax advisor before making the investment, which is a prudent suggestion. Therefore, the model's response is in complete alignment with the question, demonstrating a precise understanding and adherence to the prompt's instructions.",
+            "score": 2
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the possibility of a 100% tax-free investment. It explains why it's impossible to have a completely tax-free investment, provides an example of a type of investment that might seem tax-free but isn't, and discusses the concept of taxes on investment income. The response is directly relevant to the question and covers all aspects of the prompt without deviation or omission of details. Therefore, it scores 2 on the task quality metric."
+        }
+    },
+    {
+        "prompt_id": "1d8be2e5-30b3-4d73-9c5d-b734d5ad4286",
+        "prompt": "తెలుగు వివాహాలు ఇతర భారతీయ సంస్కృతులో వివాహాలకు ఎలా భిన్నంగా ఉంటాయి?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asked for differences in Telugu weddings compared to other Indian cultures, and the model provided a detailed explanation of various aspects of Telugu weddings, which can be used to understand the differences. The response is comprehensive and covers all aspects of a Telugu wedding, making it a high-quality response. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response does not address the question asked. The question asks for differences between Telugu weddings and other Indian weddings, but the response talks about differences with the British system, which is not relevant to the question. Therefore, the response is entirely irrelevant to the prompt, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for differences between Telugu weddings and other Indian weddings, but the response merely repeats the question without providing any information or differences. Additionally, the response ends with a string of nonsensical characters, further reducing its relevance and quality."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how Telugu weddings differ from other Indian weddings. It provides specific details about the duration and sequence of events in Telugu weddings, which is a clear and direct correlation to the user's instruction. There is no aspect of the instruction left unaddressed, hence the score of 2 is justified."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how Telugu weddings differ from other Indian weddings. It provides specific examples such as the ritual of the bride's parents giving her away to the groom, the extensive wedding ceremonies, and the traditional attire. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about how Telugu weddings differ from other Indian weddings, but the response is nonsensical and does not provide any information related to the question. It seems like the response is just a random collection of words and phrases, which makes it impossible to understand or derive any meaningful information from it. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how Telugu weddings differ from other Indian weddings. It provides a detailed explanation of the unique traditions, rituals, and procedures followed in Telugu weddings, such as the importance of astrology, zodiac signs, wedding timings, and the significance of various rituals like dowry, wedding canopy, mangalsutra wearing, and sati rituals. It also highlights the aesthetic, classical, and traditional aspects of Telugu weddings, and how they use these weddings to showcase their culture's beauty, music, and dance. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how Telugu weddings differ from other Indian weddings. It provides specific details about the unique aspects of Telugu weddings, such as the rituals, decorations, and practices, which are different from other Indian weddings. The response is directly relevant to the question and does not deviate from the topic. Therefore, it fully satisfies the task quality metric."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response provided by the model is not in line with the question asked. The question asks about how Telugu weddings are different from other Indian weddings. However, the response provided by the model is not coherent and contains words from different languages, making it difficult to understand. The response does not provide any specific differences between Telugu weddings and other Indian weddings. Therefore, the score is 0 as there is a clear disconnect between the user's request and the model's response."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how Telugu weddings differ from other Indian weddings. It provides detailed explanations about the differences in rituals, decorations, food, and music. The response is directly relevant to the question and does not deviate from the topic. It does not omit any requested specifics or include extraneous details. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how Telugu weddings differ from other Indian weddings. It provides detailed information about the importance of the wedding ceremony, the rituals and customs involved, and the role of family and society in Telugu culture. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus demonstrating a precise understanding and adherence to the prompt's instructions."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how Telugu weddings differ from weddings in other Indian cultures. It provides a detailed explanation of the unique traditions, rituals, and elements of Telugu weddings, such as the use of a traditional flower pot called 'Pora', the extensive celebrations and feasts, the use of colorful and decorated clothes, and the use of traditional Telugu attire 'Chori'. The response also highlights the unity and harmony among families during these weddings. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how Telugu weddings differ from other Indian cultures. It provides a detailed comparison of Telugu weddings with Hindi and Tamil weddings, highlighting the cultural nuances and differences in rituals. The response is in line with the prompt's instructions and does not deviate from the topic. It also does not leave any aspect of the instruction unaddressed, hence the score of 2."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about how Telugu weddings differ from other Indian weddings. It provides specific examples of unique rituals in Telugu weddings, such as 'Pendli Patnam', 'Pelli Peet', 'Kalyana Mantapam', 'Jeelakarra-Bellam', 'Tali Bottu', 'Saptapadi', and 'Pudchuta Mandalam'. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence the score of 2."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in direct correlation with the user's question. The question asks about how Telugu weddings are different from other Indian cultures, and the model provides a detailed explanation of the differences, focusing on the role of families, the responsibility of wedding expenses, and the complexity and grandeur of the ceremonies. The response is comprehensive and addresses all aspects of the question without any deviation or extraneous details."
+        }
+    },
+    {
+        "prompt_id": "300c0783-5a8a-4535-8f26-059d1d1a9d5e",
+        "prompt": "తెలుగు సంస్కృతిలో ఆచరించే కొన్ని సాంప్రదాయక కళారూపాలు ఏమిటి మరియు అవి ఆధునిక యుగంలో ఎలా భద్రపరచబడ్డాయి?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response provided by the model does address the main theme of the question, which is about traditional art forms in Telugu culture and how they have been preserved in the modern era. However, the response lacks in providing specific details about how these art forms have been preserved in the modern era. The response only mentions that these art forms are now available in digital formats, but does not provide any specific examples or details about how this transition to digital formats has helped in preserving these art forms. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response does not address the question at all. The question asks about traditional art forms in Telugu culture and how they have been preserved in the modern era. However, the response talks about human culture and its divisions, which is completely irrelevant to the question. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not provide any information related to the question. The question asks about traditional art forms in Telugu culture and how they have been preserved in the modern era. However, the response does not provide any information on this topic. Instead, it simply repeats the question and then ends abruptly with an incomplete sentence. Therefore, the response does not adhere to the instructions given in the prompt, making it entirely irrelevant to the question."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing examples of traditional art forms in Telugu culture and explaining how they have been preserved in the modern era. The response is directly relevant to the question and does not omit any aspect of the instruction. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by listing some traditional art forms practiced in Telugu culture such as Kuchipudi, Bhamakalapam, Veeranatyam, Telugu drama, Harikatha, etc. It also explains how these art forms have been preserved in the modern era, mentioning the role of the government and cultural and educational institutions in promoting these art forms. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response does mention some traditional art forms in Telugu culture, but it does not provide any explanation or details about how these art forms have been preserved in the modern era. The response also includes some extraneous details not asked for in the question. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing examples of traditional art forms in Telugu culture and explaining how they have been preserved in the modern era. The response also mentions the efforts of government, institutions, and individuals in preserving these art forms, which aligns with the question's request for information on how these art forms have been preserved. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing examples of traditional art forms in Telugu culture and explaining how they have been preserved in the modern era. The response is directly relevant to the question and does not deviate from the topic. It also does not omit any requested specifics or include extraneous details. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a detailed explanation of various traditional art forms in Telugu culture and how they have been preserved in the modern era. It covers dance, music, art, literature, and ceremonies, and explains how each of these aspects have been preserved through oral tradition, temple art, handicrafts, literature, and modern education. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question asks about the traditional art forms in Telugu culture and how they have been preserved in the modern era. However, the response only repeats the word 'drama' multiple times without providing any meaningful information or addressing the question's directives. Therefore, according to the 'task_quality' metric, the model's response deserves a score of 0 as it disregards the instructions entirely and there is a clear disconnect between the user's request and the model's response."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asked for traditional art forms in Telugu culture and how they have been preserved in the modern era. The model's response provides a detailed explanation of various traditional art forms such as storytelling, dance, music, arts, and cooking, and also explains how they have been preserved in the modern era. Therefore, the model's response satisfies all aspects of the given directive without any deviation, demonstrating a precise understanding and adherence to the prompt's instructions."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is repetitive and does not provide any specific traditional art forms in Telugu culture or how they have been preserved in the modern era, as asked in the question. The response is irrelevant and does not adhere to the instructions given in the prompt."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing information about traditional art forms in Telugu culture and how they have been preserved in the modern era. It mentions various art forms such as music, painting, drama, and government cultural research. It also explains how these art forms have been preserved through efforts by the government and educational institutions. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately lists several traditional art forms in Telugu culture, such as Kuchipudi dance, Burrakatha, Harikatha, Kolatam, Pearl farming, and Puppetry, which is exactly what the question asked for. It also explains how these art forms have been preserved in the modern era, including government support, art academies, support programs, digitalization, youth participation, and social media, which is also in line with the question. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding and execution of the task."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing examples of traditional art forms in Telugu culture, such as Kallam Chupulu, Pettelu, and Calligraphy, and explaining how they are preserved in the modern era. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, the response fully satisfies the 'task_quality' metric."
+        }
+    },
+    {
+        "prompt_id": "471bbcd5-88ca-4a17-b38c-414ea4df5073",
+        "prompt": "తెలుగు సంస్కృతిలో పూర్వీకులను గౌరవించడంతో సంబంధం ఉన్న నిర్దిష్ట ఆచారాలు ఏమైనా ఉన్నాయా?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question asks about specific customs related to honoring ancestors in Telugu culture, but the response just repeats the name 'Sri Krishna Devaraya' multiple times, which does not answer the question at all. Therefore, the score is 0 as per the 'task_quality' metric, as there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response does not provide any specific practices related to honoring ancestors in Telugu culture, which was the main directive of the prompt. Instead, it provides a vague and general statement about the importance of honoring ancestors and maintaining health and relationships. There is a clear disconnect between the user's request and the model's response, making the response irrelevant to the prompt."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "justification": "The response provided by the model is not relevant to the question asked. The question asks for specific customs related to honoring ancestors in Telugu culture, but the model's response simply repeats the question without providing any information or answering the question. Therefore, the score is 0 as there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about specific practices related to honoring ancestors in Telugu culture. It provides a detailed explanation, mentioning practices such as offerings to the ancestral deities, remembering their deeds, and keeping them in memory. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for specific rituals in Telugu culture related to honoring ancestors. The response provides several examples of such rituals, including Pitru Paksha, Shraddha, and Tarpana, which are all directly related to the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about specific customs related to honoring ancestors in Telugu culture, but the response is a repeated nonsensical phrase. There is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about specific rituals in Telugu culture that honor ancestors. It provides detailed examples such as 'Pithru Tarpanam', 'Shraddha', 'Peddala Dinotsavam', and other family-related rituals. The response is directly related to the user's instruction and covers all aspects of the question without any deviation or extraneous details. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about specific customs related to honoring ancestors in Telugu culture. It provides a detailed example of a custom involving the reverence of cows, which is linked to ancestral respect. The response is directly relevant to the question and does not deviate from the topic, hence it fully satisfies the prompt's instructions."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response provided by the model is not in Telugu, but rather a mix of Telugu and another language, which appears to be Vietnamese. This makes the response incomprehensible and irrelevant to the question asked. The question asked for specific rituals in Telugu culture related to honoring ancestors, but the response does not provide any clear or understandable information related to this. Therefore, the score is 0 as there is a clear disconnect between the user's request and the model's response."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about specific rituals in Telugu culture related to honoring ancestors. It provides detailed examples such as ancestor worship and observance of their birth and death anniversaries, which are directly relevant to the question. The response does not deviate from the question's instruction and does not include any extraneous details. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asked for specific practices related to honoring ancestors in Telugu culture, and the model provided a detailed response outlining several practices such as lighting the ancestral lamp, offering food and drinks to ancestors, and naming children after ancestors. The response is comprehensive and directly addresses the question, leaving no aspect of the instruction unaddressed. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about specific rituals in Telugu culture related to honoring ancestors. It provides a detailed explanation of the 'ancestor worship' ritual, how it is performed, where it is performed, and its significance in Telugu culture. The response is directly relevant to the question and does not deviate from the topic. Therefore, it fully adheres to the task instructions and satisfies all aspects of the given directive."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asked for specific practices related to honoring ancestors in Telugu culture, and the model provided a detailed explanation of various practices, projects, and initiatives that honor ancestors in Telugu culture. The model's response is comprehensive and directly addresses the question, leaving no aspect of the instruction unaddressed. Therefore, the model's response is scored 2 according to the 'task_quality' metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about specific rituals in Telugu culture that honor ancestors. It provides specific examples such as 'Pindi Pandlu (Shraddha)', 'Tarpanam', and 'Annual Shraddha', which are all rituals performed to honor ancestors. The response also mentions that special prayers and charitable acts are performed for the peace of the ancestors' souls. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question, earning a score of 2 according to the 'task_quality' metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about specific customs related to honoring ancestors in Telugu culture. The model provides detailed examples such as wearing traditional Telugu attire and consuming traditional foods and dishes. The response is directly related to the user's instruction and covers all aspects of the question without any deviation or omission. Therefore, the response fully adheres to the task quality metric."
+        }
+    },
+    {
+        "prompt_id": "e531f435-ebf7-47be-8d3f-4f4bc06b94ad",
+        "prompt": "తెలుగు సంస్కృతికి మరియు సమాజానికి గొప్పగా దోహదపడిన కొంతమంది ప్రసిద్ధ చారిత్రక వ్యక్తి లేదా వ్యక్తుల గురించి నాకు చెప్పండి?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response does not adhere to the specific directives given in the prompt. The question asks for some famous historical figures who have greatly contributed to Telugu culture and society. However, the response does not provide any such figures. Instead, it repeats the same phrase multiple times, which is irrelevant to the question. Therefore, the model's response is entirely irrelevant to the prompt, and there is a clear disconnect between the user's request and the model's response."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for some famous historical figures who have greatly contributed to Telugu culture and society, but the response does not provide any names or details about such figures. Instead, it seems to start talking about Telugu culture itself, but the response is cut off and incomplete. Therefore, the response does not adhere to the specific directives given in the prompt, resulting in a score of 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not provide any information about the historical figures who have contributed significantly to Telugu culture and society, as asked in the question. Instead, the response simply repeats the question, indicating a clear disconnect between the user's request and the model's response. Therefore, according to the 'task_quality' metric, the score is 0 as the model disregards the instructions entirely."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing names of several historical figures who have significantly contributed to Telugu culture and society. The response is directly relevant to the question and does not deviate from the instructions given in the prompt. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately lists several historical figures who have significantly contributed to Telugu culture and society, as per the question's instructions. The response includes a variety of figures from different fields such as literature, music, and politics, demonstrating a comprehensive understanding of the prompt. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question asks for some famous historical figures who have greatly contributed to Telugu culture and society. However, the response provided by the model seems to be a random list of names that do not make any sense and do not correspond to any known historical figures. Therefore, the model's response does not adhere to the instructions given in the prompt at all.",
+            "score": 0
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing information about several historical figures who have significantly contributed to Telugu culture and society. The response includes details about Krishnadevaraya, Gurajada Apparao, Prakasam Pantulu, Rabindranath Tagore, and Potti Sreeramulu, all of whom have made significant contributions to Telugu culture and society. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately mentions Dr. Sarvepalli Radhakrishnan, a historical figure who has significantly contributed to Telugu culture and society, as asked in the question. The response is directly related to the user's instruction and does not leave any aspect of the instruction unaddressed. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding of the task."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing information about a historical figure, Bhakti Rayalu, who significantly contributed to Telugu culture and society. The response includes details about his works and contributions, such as his creation of the Shri Krishna Vijayam and the Kuchipudi dance form. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, a score of 2 is justified."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing detailed information about several historical figures who have significantly contributed to Telugu culture and society. The response includes information about their leadership, justice, and literary achievements, which aligns with the question's request. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asked for information about a historical figure who contributed significantly to Telugu culture and society, and the model provided a detailed response about Kondaveeti Venkayya, a renowned figure in Telugu history. The response covers his contributions to Telugu literature, culture, and society, as well as his political influence, which is exactly what the question asked for. Therefore, the model has demonstrated a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response provided by the model does adhere to the prompt's instructions to a certain extent, as it does mention some historical figures who have contributed to Telugu culture and society. However, the response lacks in quality as it repeatedly mentions the same person, 'Penkoor', multiple times without providing any additional information or context about his contributions. This repetition and lack of detail does not fully satisfy the prompt's instructions, hence the score of 1."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a list of historical figures who have significantly contributed to Telugu culture and society. The response includes Alluri Sitarama Raju, Rayaprolu Subba Rao, Kandukuri Veeresalingam Pantulu, and Chalapathi Rao, all of whom are well-known figures in Telugu history. The response also provides brief information about their contributions, which aligns with the question's request for information about these individuals. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question. It provides a list of historical figures who have significantly contributed to Telugu culture and society, as requested in the prompt. Each individual is briefly described, highlighting their contributions. The response is directly relevant to the question and does not include any extraneous information. Therefore, it fully adheres to the instructions given in the prompt."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asked for notable historical figures who have significantly contributed to Telugu culture and society. The response provides detailed information about two such figures, including their contributions and achievements. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        }
+    },
+    {
+        "prompt_id": "c10b05ba-9cf3-40ef-b7a9-b91b714c29b3",
+        "prompt": "తెలుగు సాంస్కృతిక కార్యక్రమాలలో సంగీతం మరియు సంగీత వాయిద్యాల పాత్రను వివరించండి?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asked for an explanation of the role of music and musical instruments in Telugu cultural events, and the model provided a detailed explanation of the same. It discussed the importance of music in Telugu culture, the use of music in various cultural events, and even provided examples of specific musical instruments used in these events. Therefore, the model has demonstrated a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 1,
+            "justification": "The response partially addresses the question about the role of music and musical instruments in Telugu cultural events. It mentions the importance of music and musical instruments in these events and how they contribute to the information conveyed. However, the response does not provide a detailed explanation of their role, as requested in the question. Additionally, the response ends abruptly and incompletely, which further reduces its relevance to the question."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. It merely repeats the question without providing any information about the role of music and musical instruments in Telugu cultural events. This shows a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately describes the role of music and musical instruments in Telugu cultural events, as requested in the prompt. It mentions that music and musical instruments are integral parts of Telugu culture, and it provides examples of specific instruments used. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus fulfilling the criteria for a score of 2 according to the 'task_quality' metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the role of music and musical instruments in Telugu cultural events. It explains how music reflects emotion, devotion, tradition, and social relationships in these events, and how musical instruments like the Veena, Violin, Mridangam, and Tabla play a significant role. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question asks to explain the role of music and musical instruments in Telugu cultural events, but the response given by the model is a nonsensical repetition of words that do not provide any meaningful information related to the question. Therefore, the model disregards the instructions entirely, and there is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks to explain the role of music and musical instruments in Telugu cultural events, and the response accurately describes the importance of music and musical instruments in such events. It also provides examples of different types of Telugu music and how they contribute to various cultural occasions. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately describes the role of music and musical instruments in Telugu cultural programs, as requested in the question. It explains how music is a crucial part of these programs and how musical instruments are showcased. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence it scores 2 on the task quality metric."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not in Telugu as requested in the prompt. The response is in a mix of English and Hindi, which does not adhere to the specific directives given in the prompt. Therefore, the model disregards the instructions entirely, leading to a score of 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asked for an explanation of the role of music and musical instruments in Telugu cultural events, and the model provided a comprehensive explanation of the same. It discussed the importance of music and musical instruments in Telugu culture, the different styles of Telugu music, and the role of various musical instruments in creating the unique sound and experience of Telugu music. The response also highlighted how music and musical instruments serve as powerful tools for bringing people together and expressing their emotions and thoughts. Therefore, the model has adhered to and executed the specific directives given in the prompt accurately and completely."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question about the role of music and musical instruments in Telugu cultural events. It provides a detailed explanation of the history, significance, and role of music and musical instruments in Telugu culture, and how they contribute to community bonding and cultural identity. The response also discusses how music and musical instruments are used in traditional songs, dances, and cultural events. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question about the role of music and musical instruments in Telugu cultural events. It discusses the importance of music in expressing emotions, telling stories, and fostering social bonds, which are all key aspects of cultural events. It also mentions the traditional form of Telugu music, Carnatic music, and its complex melodies and rhythms. The response does not deviate from the question and does not include any irrelevant information. Therefore, it fully adheres to the instructions given in the prompt."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the role of music and musical instruments in Telugu cultural events. It provides a detailed explanation of how music is a significant part of Telugu culture, the themes it represents, and the various types of music that are popular. It also discusses the role of musical instruments in promoting music culture, showcasing music styles, and promoting cultural events. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question about the role of music and musical instruments in Telugu cultural events. It provides detailed information about how music has been a significant part of Telugu culture since ancient times, the importance of music in various festivals, arts, dramas, and auspicious events, and how musical instruments enhance the musical experience. It also discusses the role of traditional music and instruments in reflecting cultural activities, and how music is used in different genres like devotional songs. The response also mentions the main purpose of music and instruments in society, which is to enrich art forms and promote cultural values. Therefore, the response perfectly aligns with the question and fulfills all aspects of the prompt."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the role of music and musical instruments in Telugu cultural events. It provides a detailed explanation of how music and musical instruments play a significant role in Telugu culture, reflecting their history, traditions, and customs. It also mentions the variety of music styles and the specific instruments used in traditional Telugu music. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        }
+    },
+    {
+        "prompt_id": "efc05b73-aba6-4d2c-93dd-6f7dd0ad5d31",
+        "prompt": "తెలుగు సంస్కృతి ఎప్పుడు మొదలైంది దాని యొక్క విశిష్టత ఏమిటి?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response accurately answers the question about when Telugu culture began and its unique features. It provides a detailed explanation of the origin of Telugu culture, its literature, music, and arts, which are the unique features of the culture. The response is in line with the prompt's instructions and addresses all aspects of the question without any deviation. Therefore, the score is 2 as per the 'task_quality' metric."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about the origin and unique features of Telugu culture, but the response talks about health and national conditions, which are not related to the question. Therefore, the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about when Telugu culture began and what its uniqueness is, but the response is nonsensical and does not provide any information related to the question. Therefore, the model disregards the instructions entirely, leading to a score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about when Telugu culture began and what its unique features are. It provides a specific time frame for the start of Telugu culture and goes on to describe its unique features such as its independence as a language despite influences from Sanskrit, the prevalence of poetry, stories, and dramas in Telugu literature, and its cultural authenticity. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response provided by the model is in line with the question asked. The question asked about when Telugu culture began and what its unique features are. The model's response accurately provides information about the origin of Telugu culture, stating that it is believed to have started around the 2nd century BC. It also lists the unique features of Telugu culture, including its language, literature, arts, music, dance, customs, and cuisine. Therefore, the model's response satisfies all aspects of the given directive without any deviation, demonstrating a precise understanding and adherence to the prompt's instructions."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the origin and unique features of Telugu culture, but the response is nonsensical and does not provide any information related to the question. It seems like the model disregards the instructions entirely, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing information about when Telugu culture might have originated and what its unique features are. The response is in line with the instructions given in the question, and there is a clear and direct correlation between the user's instruction and the model's response. No aspect of the instruction is left unaddressed, hence the score of 2."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It provides information about when Telugu culture began, which is relevant to the first part of the question. However, it does not address the second part of the question, which asks about the unique characteristics of Telugu culture. Therefore, the response is not a complete match to the question, and some requested specifics are omitted."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately answers the question about when Telugu culture began and what its unique features are. It provides a timeline of the development of Telugu culture and then goes on to describe the unique features of Telugu literature, music, dance, cuisine, and customs. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about when Telugu culture began and what its uniqueness is. It mentions that Telugu culture started 2000 years ago and highlights its uniqueness as one of the most ancient and complex languages in India. The response also mentions its diversity and popularity for its adherence, its extensive language family, and geographical range. Therefore, the response adheres to the prompt's instructions completely and satisfies all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about when Telugu culture began and what its unique features are. It mentions that Telugu culture started around 1500 years ago and developed among the people in the Anglo-Indian regions. It also highlights the unique aspects of Telugu culture, such as its language, literature, arts, music, and customs. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding and adherence to the prompt's instructions. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing information on when Telugu culture began and what its unique features are. It covers aspects such as history, music, dance, cuisine, and literature, which are all part of the culture. The response is in line with the prompt's instructions, demonstrating a clear understanding and adherence to the question asked. Therefore, it scores 2 on the task quality metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing information on when Telugu culture began and its unique features. It covers literature, music, dance, arts, festivals, and fundamental values reflected in the lifestyle of Telugu people. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question about when Telugu culture began and what its unique features are. It provides a comprehensive list of the unique aspects of Telugu culture, including language, literature, art forms, architecture, festivals, and social customs. The response is directly relevant to the question and does not deviate from the topic. Therefore, it fully adheres to the task instructions and deserves a score of 2."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about when Telugu culture began and what its uniqueness is. It provides a specific time period for the origin of Telugu culture and goes on to describe its distinctiveness in terms of its complex and sophisticated artistic representations, particularly through music, drama, poetry, and literature. It also mentions the wide cultural influences that Telugu culture has, shaping its values, beliefs, and traditions. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding and adherence to the question asked."
+        }
+    },
+    {
+        "prompt_id": "ca10c31a-7ad5-4e2c-b591-190a0b61ff67",
+        "prompt": "సంక్రాంతిని తెలుగువారి పండుగ అని ఎందుకు అంటారు, అసలు ఎప్పుడు మొదలైంది?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response provided by the model does address the main theme of the question, which is about the Sankranti festival and why it is considered a Telugu festival. However, the response does not provide any information about when the festival started, which was a specific part of the question. Additionally, the response includes a lot of repetitive and irrelevant information, which was not asked for in the question. Therefore, the model's response only partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response provided by the model is not relevant to the question asked. The question is asking why Sankranti is considered a Telugu festival and when it started. However, the response is just repeating the question without providing any meaningful answer. Moreover, the response ends with a series of unrecognizable characters, which further reduces its relevance and quality. Therefore, according to the 'task_quality' metric, the score is 0 as the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is asking why Sankranti is called a Telugu festival and when it started, but the response is just repeating the question without providing any meaningful answer. Therefore, the model disregards the instructions entirely, leading to a score of 0 according to the 'task_quality' metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining why Sankranti is considered a Telugu festival and when it started. It provides a detailed explanation, stating that the festival began about 2,000 years ago in Telugu regions and is celebrated to express gratitude to the Sun. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining why Sankranti is considered a Telugu festival and providing an estimate of when it might have started. It adheres to the prompt's instructions and provides a comprehensive answer, demonstrating a clear understanding of the question. Therefore, it scores 2 on the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about why Sankranti is considered a Telugu festival and when it started, but the response given by the model is a nonsensical string of words that do not provide any information related to the question. Therefore, the score is 0 as per the 'task_quality' metric, as there is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It explains why Sankranti is considered a festival of the Telugu people and provides some historical context. However, it does not clearly answer the second part of the question about when the festival began. The response mentions that the festival took place during the general time of regional capability, but it does not provide a specific time or date. Therefore, the response is not completely aligned with the prompt and misses some requested specifics."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question asks why Sankranti is considered a Telugu festival and when it started, but the response talks about the celebration of the festival in a different context. There is a clear disconnect between the user's request and the model's response."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It explains why Sankranti is considered a Telugu festival and when it is celebrated. However, it does not provide information on when the festival originated, which was a part of the question. Therefore, the response is not a complete match to the question, and some requested specifics are omitted."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asked why Sankranti is considered a Telugu festival and when it started. The model's response provides a detailed explanation of why Sankranti is considered a Telugu festival, discussing its cultural significance and its roots in Telugu culture. It also provides a historical context, discussing various theories about when the festival might have started, with a general consensus that it began in the 10th century. Therefore, the model's response adheres to the specific directives given in the prompt, demonstrating a precise understanding and adherence to the prompt's instructions."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "justification": "The response provided by the model is not relevant to the question asked. The question asks why Sankranti is considered a Telugu festival and when it started. The response, however, is repetitive and does not provide any meaningful information related to the question. The model seems to have repeated the same phrase multiple times, which does not contribute to answering the question.",
+            "score": 0
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It explains why Sankranti is considered a Telugu festival and when it is celebrated. However, it does not provide any information on when the festival originated, which was a part of the question. Therefore, the response is not a complete match to the question, and some requested specifics are omitted."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question asks why Sankranti is called a festival by Telugu people and when it started. However, the response talks about the word 'festival' and its origin, not specifically about Sankranti. There is a clear disconnect between the user's request and the model's response."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining why Sankranti is considered a Telugu festival and providing a historical context for its origin. It mentions that the festival is celebrated with great enthusiasm in Andhra Pradesh and Telangana, and that it is associated with the change in the Sun's position according to Hindu astrology. The response also suggests that the festival has been celebrated since Vedic times, as indicated by ancient scriptures and traditions. Therefore, the response fully adheres to the prompt's instructions, demonstrating a clear understanding and execution of the task."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It explains why Sankranti is considered a Telugu festival and provides some details about its celebration. However, it incorrectly states that the festival started in 1955, which is not accurate as Sankranti is a traditional festival celebrated for centuries. The response also does not provide a clear reason why it is specifically referred to as a Telugu festival. Therefore, the response is partially aligned with the prompt but misses out on some key details."
+        }
+    },
+    {
+        "prompt_id": "037bd3f4-0069-488f-9f2e-232e6e7f82dd",
+        "prompt": "తెలుగు సంప్రదాయంలో ఆడపిల్లల తల్లితండ్రులు పిల్లల మొదటి జన్మకు ఎందుకు డబ్బు చెల్లిస్తారు?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response provided by the model is not relevant to the question asked. The question is about why parents give money to their children on their first birthday in Telugu tradition, but the response talks about child marriages, which is not related to the question. Therefore, the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks why parents give money to their children at their first birth in Telugu tradition, but the response just repeats the question without providing any answer. Additionally, the response ends with unintelligible characters, further reducing its relevance to the question."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. It merely repeats the question and then provides a series of nonsensical and repetitive phrases. There is a clear disconnect between the user's request and the model's response, which makes it entirely irrelevant to the prompt. Therefore, according to the 'task_quality' metric, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why parents give money for their child's first birth in Telugu tradition. It explains that it is a way to celebrate the joy of the child's birth and to ensure the child's happiness. The response is directly related to the question and does not deviate from the topic, hence it adheres to the prompt's instructions completely. Therefore, according to the 'task_quality' metric, it deserves a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why parents give money to their daughters at their first birth in Telugu tradition. It explains the concept of 'Janmantara Kanuka' and the purpose behind it, which aligns perfectly with the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to and executes the specific directives given in the prompt, demonstrating a precise understanding of the prompt's instructions."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks why parents give money to their daughters at the time of their first birth in Telugu tradition, but the response does not provide any information related to this. Instead, it seems to be a repetition of unrelated words and phrases. Therefore, the score is 0 as per the 'task_quality' metric, indicating that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why parents give money to their children at their first birth in Telugu tradition. It explains the tradition of 'Nemi', how it is usually given at the child's first major event, and how it symbolizes the parents' abundant love and blessings. The response also mentions that this money is saved for the child's future, hoping for a successful life. Therefore, the response adheres to the prompt's instructions and addresses all aspects of the question, earning a score of 2."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It mentions that parents give money for their child's first birth, which is related to the question. However, it does not explain why this is done, which is the main point of the question. Therefore, the response misses out on the finer details and nuances of the question."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why parents give money to their children at their first birth in Telugu tradition. It explains that the money is given to bless the child with wealth, power, courage, etc. The response is directly related to the question and does not deviate from the topic, hence it adheres to the prompt's instructions completely. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about why parents give money to their children during their first birth in Telugu tradition. It provides a detailed explanation, mentioning that it's a tradition and there are various beliefs associated with it, such as it helps the child grow healthily and happily, and it aids in securing a good future for the child. The response is completely relevant to the question and doesn't deviate from the topic, hence it adheres to the task quality metric perfectly."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks why parents give money to their children at their first birth in Telugu tradition, and the response accurately explains that it is a tradition meant to encourage health and prosperity for the child. The response does not deviate from the topic, nor does it include any extraneous details. It fully addresses the question, demonstrating a clear understanding of the prompt's instructions.",
+            "score": 2
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks why parents give money during the first birth of a girl child in Telugu tradition, and the response accurately explains the tradition, its significance, and the belief behind it. The response does not deviate from the question, nor does it include any extraneous details. Therefore, according to the \"task_quality\" metric, the model's response deserves a score of 2."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why parents give money for their daughter's first birth in Telugu tradition. It explains that it is a cultural practice influenced by the belief of prosperity and protection for the child. The response also mentions that the money is considered to help in the child's protection and peaceful birth. Therefore, the response adheres to the prompt's instructions and addresses all aspects of the question, demonstrating a clear and direct correlation between the user's instruction and the model's response."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why parents give money to their children at their first birth in Telugu tradition. It explains that this act is considered auspicious, joyful, and a sign of good class, and that it strengthens family bonds and preserves traditions. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding of the question and providing a comprehensive answer. There is a clear and direct correlation between the question and the response, with no aspect of the question left unaddressed."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why parents give money to their first-born child in Telugu tradition. It explains that this practice is a cultural tradition to honor and recognize the first child in a family, and that it has been carried forward from ancient times when children were considered a means of livelihood for their parents. The response is directly related to the question and covers all aspects of the prompt without any deviation or omission of details. Therefore, it scores 2 on the task quality metric."
+        }
+    },
+    {
+        "prompt_id": "cf80f8a0-fb64-4db0-927a-b7ad1b13cdad",
+        "prompt": "తెలుగు సంస్కృతిలో గమనించిన కొన్ని సాధారణ మూఢనమ్మకాలు లేదా నమ్మకాలు ఏమిటి?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, which asks for common superstitions or beliefs in Telugu culture. The assistant provides a detailed list of various beliefs and practices, explaining each one in depth. This shows a clear understanding and adherence to the prompt's instructions. The response does not deviate from the topic and does not include any extraneous details. Therefore, the response fully satisfies the 'task_quality' metric."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for some common superstitions or beliefs in Telugu culture, but the response talks about economic industries and primary analysis, which is completely irrelevant to the question. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not provide any specific examples of superstitions or beliefs in Telugu culture, as asked in the question. Instead, it repeats the question without providing any new information. This indicates a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asked for some common superstitions or beliefs in Telugu culture, and the model provided a list of such beliefs, which is exactly what was asked for. The model's response is directly related to the user's instruction, and no aspect of the instruction is left unaddressed.",
+            "score": 2
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks for some common superstitions or beliefs in Telugu culture, and the model provides a list of such beliefs, which is exactly what was asked for. The response is directly related to the user's instruction and there is no aspect of the instruction left unaddressed. Therefore, according to the \"task_quality\" metric, the model's response deserves a score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about common superstitions or beliefs in Telugu culture, but the response is nonsensical and does not provide any information about the topic. It seems like the model has not understood the question at all and has generated a random, meaningless response. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model has disregarded the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and completely addresses the question. The question asks for common superstitions or beliefs in Telugu culture, and the response provides a detailed list of such superstitions. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for common superstitions or beliefs in Telugu culture. The response provides examples of such beliefs related to spirits, attraction to red color, pickle devotion, clothing purity, and cleanliness. It also explains that these beliefs symbolize the characteristics of a woman. Therefore, the response is in complete alignment with the question, demonstrating a precise understanding and adherence to the prompt's instructions. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The question asks for common superstitions or beliefs in Telugu culture. However, the response provided does not address this at all. Instead, it lists various aspects of Telugu culture such as dance forms, music, and literature. There is a clear disconnect between the question and the response, hence the score of 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response starts off well by addressing the question and providing some superstitions or beliefs in Telugu culture. However, after the second point, the response becomes repetitive and provides the same superstition over and over again. This indicates that the model has missed out on the finer details of the instruction, which is to provide 'some' superstitions or beliefs, implying a variety of them. Therefore, the response only partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is not relevant to the question asked. The question asks for some common superstitions or beliefs in Telugu culture, but the response is repetitive and does not provide any specific examples of such superstitions or beliefs. It seems like there was an error in the response generation, as the same phrase is repeated multiple times. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asked for some common superstitions or beliefs in Telugu culture, and the model provided a detailed list of such beliefs, explaining each one. The response is comprehensive and directly addresses the question, leaving no aspect of the instruction unaddressed. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for common superstitions or beliefs in Telugu culture. The response provides examples of such beliefs and explains their meanings, fully adhering to the prompt's instructions. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "GPT4o": {
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asked for some common superstitions or beliefs in Telugu culture, and the model provided a list of five such beliefs, each with a brief explanation. The response is directly relevant to the question, and there is a clear and direct correlation between the user's instruction and the model's response.",
+            "score": 2
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. The question asks for common superstitions or beliefs in Telugu culture, but the response discusses the importance of family and society in Telugu culture. While it does mention superstitions and beliefs, it does not provide any specific examples, which is what the question is asking for. Therefore, the response misses out on the finer details and nuances of the question."
+        }
+    },
+    {
+        "prompt_id": "cf55bb94-a94d-4462-8aba-bd3c2ca179f1",
+        "prompt": "తెలుగువారు వంటల్లో మిరపకాయలు ఎక్కువగా వాడటానికి కారణం ఏమైనా ఉందా?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about the reason why Telugu people use chillies extensively in their cooking, but the response is just a repetition of the word 'Telugu' without providing any meaningful answer. Therefore, the model disregards the instructions entirely, leading to a score of 0 as per the 'task_quality' metric."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question asks for the reason why Telugu people use a lot of chillies in their cooking, but the response talks about the production and analysis of chillies, which is not relevant to the question. Therefore, the score is 0 as per the 'task_quality' metric because there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "justification": "The response provided by the model is not relevant to the question asked. The question asks for the reason why Telugu people use a lot of chillies in their cooking. However, the response given by the model is just a repetition of the question itself without providing any answer or explanation. Therefore, the score is 0 as per the \"task_quality\" metric because there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about why Telugu people use a lot of chillies in their cooking. It provides a comprehensive explanation, stating that the taste, benefits, and tradition of using chillies in Telugu cuisine are the main reasons. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus fulfilling the criteria for a score of 2 under the 'task_quality' metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The question asks for the reason why Telugu people use a lot of chillies in their cooking, and the response provides a detailed explanation, stating that chillies are a main spice in Telugu cuisine, they add flavor to the food, and they also have health benefits. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about the reason why Telugu people use chillies extensively in their cooking. However, the response provided by the model is nonsensical and does not provide any meaningful answer to the question. It seems like the model has generated a random string of words without any coherence or relevance to the question. Therefore, according to the 'task_quality' metric, the score is 0 as there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about why Telugu people use a lot of chillies in their cooking. It explains that chillies add flavor to the dishes and also contain various beneficial compounds, which are good for human health. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question, leaving no aspect of the instruction unaddressed."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially addresses the question. The question asks for the reason why Telugu people use a lot of chillies in their cooking. The response provides information about the protein found in chillies and its benefits, but it does not directly answer why Telugu people specifically use a lot of chillies. Therefore, the response is somewhat relevant but not a complete match to the question."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The question asks for the reason why Telugu people use a lot of chillies in their cooking. However, the response provided is a recipe for making a dish with chillies, not an explanation of why chillies are used extensively in Telugu cuisine. Therefore, there is a clear disconnect between the user's request and the model's response."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The question asks for the reason why chillies are used extensively in Telugu cuisine, and the response provides a detailed explanation, stating that chillies add a kick to the dishes, making them flavorful and enjoyable. It also mentions the health benefits of chillies, which make the dishes healthier. Therefore, the response adheres to the prompt's instructions and respects its nuances, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about why Telugu people use chillies extensively in their cooking. It provides a comprehensive explanation, stating that chillies are healthy and flavorful, and they add a vibrant color and taste to various dishes. It also mentions that the use of chillies has become a cultural symbol in Telugu cuisine. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about why Telugu people use chillies in their cooking. It explains that chillies are a main part of Telugu cuisine because they add spice and flavor to the dishes, making them more delicious. It also mentions that chillies have health benefits, which is why they are a popular choice in Telugu dishes. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about why Telugu people use a lot of chillies in their cooking. It provides two reasons: health benefits and taste preference, which are directly related to the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric perfectly."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about why Telugu people use a lot of chillies in their cooking. It provides a clear explanation, stating that the main reason is taste, as chillies add spice and stimulate appetite. It also mentions the health benefits of chillies, which could be another reason for their usage. The response is directly relevant to the question and doesn't deviate from the topic, hence it adheres to the prompt's instructions completely."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The question asks for a reason why Telugu people use a lot of chillies in their cooking, and the response provides a clear and direct answer, stating that chillies provide a unique and special taste to their dishes, help in enhancing the flavor of the food, and make their food more satisfying. Therefore, the response adheres to the prompt's instructions and respects its nuances, satisfying all aspects of the given directive without any deviation."
+        }
+    }
+]

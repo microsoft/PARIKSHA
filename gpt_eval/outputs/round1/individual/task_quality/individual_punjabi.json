@@ -1,0 +1,1162 @@
+[
+    {
+        "prompt_id": "3445bb57-c9d5-4cae-965f-224b14dc2a57",
+        "prompt": "ਮੈਂ ਬੈਂਕ ਵਿੱਚ ਖਾਤਾ ਕਿਵੇਂ ਖੋਲ ਸਕਦੀ ਹਾਂ?",
+        "prompt_type": "finance",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not provide any useful information or steps on how to open a bank account, which was the question asked. Instead, it just repeats the question multiple times. This shows a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how to open a bank account. It provides a step-by-step guide, starting from the requirement of a passport, taking it to the bank, and waiting for account opening. It also mentions the need for verification of the name on both sides of the passport and approval for account opening. Therefore, the response adheres to the prompt's instructions and respects its nuances, satisfying all aspects of the given directive without any deviation."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and completely addresses the question about how to open a bank account. It provides a step-by-step guide, which is exactly what the question asked for. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not adhere to the question asked. The question is asking for a process on how to open a bank account, but the response is stating that the respondent does not have a bank account. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks about the process of opening a bank account and the model provides a detailed step-by-step guide on how to do so. It covers all aspects from choosing a bank, selecting the type of account, filling out the form, providing necessary documents, to finally checking the account. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to open a bank account. It provides a clear and direct answer, suggesting to go to the nearest bank branch with all the necessary documents. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to open a bank account. It provides a step-by-step guide, mentioning the need to visit the bank, inquire about their services, provide identification documents such as a passport or driver's license, and other documents like a bill or bank statement. It concludes by stating that once all the necessary information is provided, one can follow the bank's instructions to open an account. Therefore, the response adheres to the prompt's instructions completely, demonstrating a precise understanding of the task, and satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to open a bank account. It provides a step-by-step guide, including going to a bank, filling out an application form, waiting for the account number and password, and finally using the account to deposit money. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric perfectly."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to open a bank account. It provides a step-by-step guide on how to do so, including visiting the bank's website, clicking on the relevant link, choosing the 'Open Account' option, and providing necessary information. It also mentions that once all the information is provided, the user will gain access to their bank account. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "SamwaadLLM": {
+            "score": 1,
+            "justification": "The response starts off well by providing steps on how to open a bank account, which is what the question asked for. However, the second step becomes incoherent and repetitive, making it difficult to understand. Therefore, the response only partially aligns with the prompt and misses out on finer details or nuances, which is why it receives a score of 1 according to the 'task_quality' metric."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response does address the main theme of the question, which is about how to open a bank account. However, the response is not entirely in Punjabi, it's mixed with Hindi. This could potentially cause confusion for a Punjabi speaker who does not understand Hindi. Therefore, the response only partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about how to open a bank account. It provides a step-by-step guide, covering all aspects from choosing a bank, selecting the type of account, preparing necessary documents, filling out the application form, submitting the documents, maintaining a minimum balance, to receiving the account number and checkbook. The response also mentions that bank officials will assist if there are any questions. Therefore, it adheres to the prompt's instructions completely and satisfies all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to open a bank account. It provides a detailed explanation of the process, including visiting the bank's website to fill out an application, signing additional documents within a certain time frame, and the option to visit a bank branch for assistance. Therefore, the response adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        }
+    },
+    {
+        "prompt_id": "87d8f8f4-bbf2-4b3b-ac05-8c6ea4de4792",
+        "prompt": "ਕੀ ਡਾਇਬਿਟਿਕ ਪੇਸ਼ਂਟ ਨੂੰ ਹੈਲਥ ਇੰਸ਼ੋਰਂਸ ਮਿਲ ਸਕਦੀ ਹੈ?",
+        "prompt_type": "finance",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is repetitive and does not provide a clear answer to the question. The same sentence is repeated three times, which does not add any value or information to the response. The response does not adhere to the specific directives given in the prompt, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about whether a diabetic patient can get health insurance. It not only confirms that it is possible, but also provides additional information about the process and eligibility, which aligns with the nuances of the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about whether a diabetic patient can get health insurance. It provides a detailed explanation, mentioning that it is possible but there are certain conditions that need to be met. It also advises the patient to contact different insurance companies and evaluate their terms and policies. Therefore, the response adheres to the prompt's instructions completely and satisfies all aspects of the given directive without any deviation."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not coherent and does not provide a clear answer to the question. It seems to be a random collection of words and phrases, which makes it impossible to understand the intended message. Therefore, it does not adhere to the specific directives given in the prompt, resulting in a score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question about whether a diabetic patient can get health insurance. It not only confirms that they can, but also provides additional information about potential higher premiums, which is relevant and useful. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question asked. The question asks whether a diabetic patient can get health insurance, and the response confirms that they can. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the task quality metric, the response gets a score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about whether a diabetic patient can get health insurance. It not only confirms that they can, but also provides additional useful information about how different health insurance companies may have different rules and prices for diabetic patients. It also advises to explore various health insurance options to ensure the best deal. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about whether a diabetic patient can get health insurance. It provides a comprehensive explanation, mentioning that it is possible but the coverage and type can vary. It also advises diabetic patients to explore all options when trying to obtain health insurance. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately answers the question about whether a diabetic patient can get health insurance. It not only confirms that they can, but also explains why it's important for them, how it can help cover their medical expenses, and that some policies can cover potential health issues related to diabetes. The response fully adheres to the prompt's instructions and addresses all aspects of the question, demonstrating a clear understanding of the task."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately answers the question about whether a diabetic patient can get health insurance. It provides a detailed explanation about how health insurance companies have different rules for underwriting, some of which cater to people with diabetes. It also mentions that the patient's condition and shared situation are also examined for insurance inclusion. Therefore, the response adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response starts off correctly by answering the question in Punjabi, stating that a diabetic patient can get health insurance. However, the response then switches to a mix of Punjabi and Hindi, which was not asked for in the prompt. The response also includes additional information about potential extra charges for certain conditions, which was not asked for in the question. Therefore, the response partially aligns with the prompt but includes extraneous details and a language switch not asked for, leading to a score of 1."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question asked. The question asks whether a diabetic patient can get health insurance, and the response confirms that they can. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric perfectly."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about whether a diabetic patient can get health insurance. It not only confirms that they can, but also provides additional context about why it is often done and the factors that can influence the type and duration of the support received. This shows a clear understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        }
+    },
+    {
+        "prompt_id": "b46934a0-03d9-4b69-9164-f462a4162012",
+        "prompt": "ਮੈਂ ਆਪਣੀ ਕ੍ਰੈਡਿਟ ਕਾਰਡ ਲਿਮਿਟ ਨੂੰ ਕਿਵੇਂ ਵਧਾ ਸਕਦੀ ਹਾਂ?",
+        "prompt_type": "finance",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not provide any information or steps on how to increase the credit card limit, which was the main directive of the prompt. Instead, it just repeats the question multiple times. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt. This results in a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to increase a credit card limit. It provides a detailed and comprehensive list of steps that can be taken to achieve this, such as improving one's needs, improving credit score, reviewing the credit card annually, and contacting the bank to increase the limit. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to increase a credit card limit. It provides a detailed and comprehensive answer, outlining the steps one can take to increase their credit card limit. The response is directly relevant to the question and adheres to the instructions given in the prompt. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about how to increase the credit card limit, but the model's response is about not knowing the limit of the credit card and suggesting the user to check it themselves. There is a clear disconnect between the user's request and the model's response, hence the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to increase a credit card limit. It provides a detailed step-by-step process, including contacting the bank, discussing with the card service, and the factors the bank will consider before determining a new limit. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how to increase a credit card limit. It suggests contacting the bank and using customer service to increase the limit, which is a valid and direct answer to the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to increase a credit card limit. It provides a detailed explanation, suggesting three different methods: timely payment of credit card bills, improving credit score by using the credit card, and directly contacting the credit card bank. The response is completely relevant to the question and does not deviate from the topic, hence it adheres to the prompt's instructions perfectly."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response initially provides relevant information on how to increase a credit card limit, such as improving credit score, making timely payments, and being careful with credit card usage. However, the response then repeats the same phrase about reducing credit card balance multiple times, which is not only redundant but also deviates from the specific instruction of the question. Therefore, the response partially aligns with the prompt but includes extraneous details not asked for."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to increase a credit card limit. It provides a detailed explanation, suggesting to contact the credit card company and provide them with information about income, debts, and payment history. It also suggests explaining why the limit increase is needed and gives advice on improving credit card usage, such as paying the full bill every month and not missing any payments. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to increase a credit card limit. It provides a step-by-step guide, starting with checking the credit history and score, then contacting the credit card company to request an increase. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence it scores 2 on the task quality metric."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about how to increase a credit card limit, but the response is nonsensical and repetitive, mentioning 'ੈਪੈਂਡ ਐਪਲੈਕੈਸ਼ਨ (CIB)' multiple times without any context or explanation. It does not provide any useful information or steps on how to increase a credit card limit. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about how to increase a credit card limit. It provides a detailed step-by-step guide, covering various methods such as contacting the bank, applying online, providing income information, and making regular payments. The response adheres to the prompt's instructions and respects its nuances, demonstrating a precise understanding of the question. Therefore, it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response starts off by addressing the question correctly, suggesting to write to the credit card company to increase the limit. However, the rest of the response is repetitive and does not provide any additional useful information. It keeps repeating the phrase 'you will be able to place more orders with them' which is not relevant to the question about increasing a credit card limit. Therefore, the response only partially aligns with the prompt and misses out on finer details or nuances."
+        }
+    },
+    {
+        "prompt_id": "b1c5759a-f9d4-495a-98ec-b44452dc40b4",
+        "prompt": "ਅਗਰ ਮੈਂ ਐਫਡੀ ਖਤਮ ਹੋਣ ਤੋਂ ਪਹਿਲੇ ਤੁੜਵਾ ਲੈਨੀ ਹਾਂ ਤੇ ਮੈਨੂੰ ਕੀ ਪੈਨਲਟੀ ਪਏਗੀ?",
+        "prompt_type": "finance",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about the penalty for withdrawing a fixed deposit before its maturity, but the response simply repeats the question without providing any information or answer. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt, and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The question is about whether there will be a penalty for withdrawing a Fixed Deposit (FD) before its maturity, and the response correctly states that there will be no fine for doing so as it is not legally required. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about whether there would be a penalty for withdrawing a Fixed Deposit (FD) before its maturity. It provides a detailed explanation, stating that the penalty depends on the FD's tenure and the date of withdrawal. It also mentions that the penalty usually ranges from 0.5% to 1.0% of the total FD amount. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer, deserving a score of 2 according to the 'task_quality' metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the penalty for withdrawing a fixed deposit before its maturity, but the response talks about an iPad and a new line of Turtles, which has no connection to the question. Therefore, the model disregards the instructions entirely, leading to a score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about whether there would be a penalty for withdrawing a Fixed Deposit (FD) before its maturity. The response not only confirms the possibility of a penalty but also provides additional information about the penalty being dependent on the bank's rules and could be a significant portion of the FD amount. The response also advises to get more information from the respective bank. Therefore, the response adheres to the prompt's instructions completely and satisfies all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The question is about whether there would be a penalty if an FD is withdrawn before its maturity, and the response correctly confirms that there could be a penalty in such a case. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the penalty for withdrawing an FD before its maturity. It provides a clear explanation of the penalty duration and the restrictions during that period. The response is directly related to the user's instruction and addresses all aspects of the question without any deviation or omission."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The question is about whether there will be a penalty if the FD is withdrawn before maturity, and the response correctly states that there will be a penalty, and the amount of the penalty will depend on the amount withdrawn. The response is directly related to the user's instruction and covers all aspects of the instruction without any deviation."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the penalty for withdrawing a Fixed Deposit (FD) before its maturity. It explains that there will indeed be a penalty, and goes on to describe what the penalty might entail. This shows a clear understanding of the question and adherence to the prompt's instructions. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence the score of 2."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about whether there would be a penalty for withdrawing an FD before its maturity. The response explains that there would be no penalty for such an action, providing a clear and direct answer to the question. It also provides additional information about the nature of FDs, which, while not explicitly asked for, is relevant and helpful. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the penalty for withdrawing a Fixed Deposit (FD) before its maturity, but the response is nonsensical and repetitive, mentioning 'FD' multiple times without providing any meaningful information. Therefore, the model disregards the instructions entirely, leading to a score of 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the penalty for withdrawing a fixed deposit before its maturity. It explains that the penalty depends on the bank, and that it could involve a reduction in interest or a penalty fee. The response also provides a general range for the penalty fee and advises to contact the bank for exact information. Therefore, the response adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about whether there will be a penalty for withdrawing a Fixed Deposit (FD) before its maturity. The response explains that there will be no penalty, but the score obtained from the FD will be lost. It also adds that if the FD reaches its end and a penalty is incurred, the amount of the penalty can be reduced. This shows a clear understanding of the question and provides a comprehensive answer, adhering to the instructions of the prompt."
+        }
+    },
+    {
+        "prompt_id": "7b40d61d-47f4-4cd2-b3bc-5bc09c9ad810",
+        "prompt": "ਕੀ ਮੈਨੂੰ ਐਫਡੀ ਤੇ ਲੋਨ ਮਿਲ ਸਕਦਾ ਹੈਂ ?",
+        "prompt_type": "finance",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not relevant to the question asked. The question is about whether the user can get a loan on FD (Fixed Deposit), but the response is nonsensical and does not provide any information related to the question. It seems like the model has disregarded the instructions entirely, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The user asked if they could get a loan on their FD, and the model responded affirmatively, explaining that it is possible to get a loan on an FD, but certain conditions need to be met, such as having a certain amount of money and a good credit score. This response not only directly answers the question but also provides additional useful information, adhering to the nuances of the question. Therefore, it scores 2 on the task quality metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The user asked if they could get a loan on their FD, and the model responded affirmatively, explaining that it is possible but there are certain conditions that need to be met. The response is directly related to the user's question and covers all aspects of the instruction, hence the score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response starts off by addressing the question, stating that a loan cannot be obtained on an FD. However, the rest of the response is completely irrelevant and nonsensical, with repeated phrases that do not provide any additional information or context. Therefore, the model disregards the instructions entirely after the initial response, making the output largely irrelevant to the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question asked. The question was whether the user could get a loan on their FD, and the response correctly states that they can use their FD as collateral to get a loan. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the score is 2."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question asked. The question was whether the user could get a loan on FD, and the response confirms that it is possible and also provides additional information on how to proceed with it. Therefore, the response adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response partially aligns with the question. The question asks if the user can get a loan on an FD (Fixed Deposit), but the response talks about getting a loan from the Federal Reserve Bank. It does not specifically address the aspect of getting a loan on an FD. Therefore, the response misses out on the finer details of the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the possibility of getting a loan on FD. It not only confirms the possibility but also provides additional information about the types of loans available and how to get more information about them. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately answers the question about whether one can get a loan on an FD. It not only confirms that it is possible, but also provides additional information about the factors that need to be considered before applying for the loan, such as credit score, income, job status, and checking the bank account. This shows a clear understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Therefore, the response gets a score of 2."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about whether one can get a loan on an Aadhaar card. It explains the role of Aadhaar in the loan application process, how it is used for verification, and how it is only one factor among many that banks and financial institutions consider when approving a loan. The response is comprehensive and directly related to the question, demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, it scores 2 on the task quality metric."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response starts off by correctly answering the question, stating that a loan can be obtained on an FD. However, the rest of the response is repetitive and nonsensical, with the same phrase repeated multiple times. This shows a clear disconnect between the user's request and the model's response, making it irrelevant to the prompt. Therefore, according to the 'task_quality' metric, the response gets a score of 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question about whether a loan can be obtained on a fixed deposit (FD). The response not only confirms that it is possible, but also provides additional information that many banks and financial institutions offer this facility. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about whether one can get a loan on FD. It not only confirms that it is possible, but also provides additional relevant information about the requirements for obtaining such a loan, such as demonstrating income and credit score. The response also mentions that the loan term and rate can be chosen, which is a useful detail. Therefore, the response fully adheres to the prompt's instructions and addresses all aspects of the question, earning a score of 2 according to the 'task_quality' metric."
+        }
+    },
+    {
+        "prompt_id": "ff3c3a8f-5a17-4580-94fa-8d072ea43982",
+        "prompt": "ਮੈਂ ਆਪਣੇ ਵਾਲਾਂ ਤੋਂ ਸਿਕਰੀ ਨੂੰ ਕਿਵੇਂ ਖਤਮ ਕਰ ਸਕਦੀ ਹਾਂ?",
+        "prompt_type": "health",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not provide any useful information or solution to the question asked. The question is about how to get rid of dandruff from hair, but the response is just a repetition of the question itself without providing any solution or advice. Therefore, the model disregards the instructions entirely and the output is entirely irrelevant to the prompt, which leads to a score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is not relevant to the question. The question asks for ways to eliminate dandruff from hair, but the response suggests talking to one's father and informing him about the dandruff, which does not provide a solution to the problem. Therefore, the response does not adhere to the specific directives given in the prompt."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to get rid of split ends. It provides a detailed method, including shampooing, conditioning, using a special tool like a split end remover or treatment, and regularly trimming and caring for the hair. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus fulfilling the criteria for a score of 2 under the 'task_quality' metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not coherent and does not provide a clear answer to the question. The text is repetitive and does not make sense in the context of the question. The question asks for ways to eliminate dandruff, but the response does not provide any relevant information or solution. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to get rid of dandruff. It provides a detailed list of methods, including proper diet, eating fenugreek, using neem leaves, and proper combing. It also advises consulting a doctor if the dandruff persists. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The question is about how to get rid of dandruff, and the response provides a valid solution, suggesting to get the hair checked or treated for dandruff. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to get rid of frizz from hair. It provides a clear and detailed method, suggesting to gently dry the hair with a clean cloth and then use a dry towel if the frizz is still excessive. There is a direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. It provides a method to remove tangles from hair, which is relevant to the question. However, it repeats the same step of using a detangler multiple times, which is unnecessary and does not provide a comprehensive solution. The response could have included more varied and detailed steps, such as using a wide-toothed comb, applying conditioner, or gently untangling with fingers, to fully address the question."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to remove tangles from hair. It provides a step-by-step guide that is directly relevant to the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for ways to remove a 'sikri' (a term that seems to be used metaphorically or contextually here) and the model provides a detailed step-by-step guide on how to do so. It covers various aspects such as checking the system's condition, changing the password, removing and resetting the installation, and preparing for family support. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question is about how to eliminate migraine and the response provides detailed methods to do so. It includes various techniques and also provides a note on how to use these techniques. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions. The output holistically satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to get rid of dandruff. It provides a detailed list of home remedies that can be used to treat dandruff, which is exactly what the question asked for. The response is completely relevant to the question and does not include any extraneous details. Therefore, it fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to get rid of split ends from hair. It provides a detailed method, suggesting the use of a brush and a cutting tool, which aligns perfectly with the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the 'task_quality' metric."
+        }
+    },
+    {
+        "prompt_id": "c975d2d9-99de-4ca3-8cdb-4a13af6810bb",
+        "prompt": "ਹਾਈ ਬੀਪੀ ਨੂੰ ਘੱਟ ਕਰਨ ਦਾ ਘਰੇਲੂ ਇਲਾਜ?",
+        "prompt_type": "health",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not provide any useful information or solution to the question asked. The question asks for a home remedy to reduce high blood pressure, but the response merely repeats the question without providing any remedy. Therefore, the model disregards the instructions entirely, making the output irrelevant to the prompt, which results in a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. The question asks for a home remedy to reduce high blood pressure, but the response does not provide a specific remedy. Instead, it gives general advice on maintaining health and suggests consulting with a doctor. While these are relevant to managing high blood pressure, they do not directly answer the question about a home remedy. Therefore, the response misses out on the finer details of the instruction."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing several home remedies to lower high blood pressure. It includes increasing water intake, consuming lemon juice, black pepper, and practicing yoga and exercise. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus fulfilling the criteria for a score of 2 according to the 'task_quality' metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for a home remedy to lower high blood pressure, but the response is nonsensical and does not provide any useful information or answer to the question. It seems like the response is not even in proper Punjabi language, and it includes a string of nonsensical characters at the end. Therefore, the score is 0 as per the 'task_quality' metric, because the model disregards the instructions entirely, the output is entirely irrelevant to the prompt, and there is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing several home remedies for high blood pressure, such as regular exercise, healthy diet, drinking plenty of water, reducing alcohol and caffeine, practicing yoga to reduce stress, and quitting smoking. It also advises to consult a doctor if it's a chronic issue. Therefore, the response adheres to the prompt's instructions completely, demonstrating a precise understanding of the question, and satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing home remedies for high blood pressure, which is exactly what the question asked for. The response includes suggestions such as drinking cinnamon water daily, drinking honey with sweets, practicing yoga and meditation, and consulting a doctor if symptoms of hypertension appear. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a home remedy for high blood pressure. It suggests regular exercise and a healthy diet, which are known to help reduce high blood pressure. The response is directly related to the question and does not deviate from the topic. Therefore, it fully satisfies the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about home remedies for high blood pressure. It provides several methods such as reducing sodium intake, quitting smoking, regular exercise, and increasing physical activity. It also advises to consult with health professionals before starting these methods. Therefore, the response is in complete alignment with the question, satisfying all aspects of the given directive without any deviation."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a home remedy for high blood pressure. It suggests a vegetarian diet, regular exercise, and avoiding smoking as ways to reduce high blood pressure. The response is directly related to the question and covers all aspects of the instruction without any deviation. Therefore, the score is 2."
+        },
+        "SamwaadLLM": {
+            "score": 1,
+            "justification": "The response does address the question about home remedies for high blood pressure, providing some relevant suggestions such as changing diet, practicing yoga or meditation, and drinking water. However, the response also includes a repeated phrase at the end that doesn't make sense in the context of the question, indicating a lack of complete adherence to the prompt. Therefore, the score is 1, indicating that the model grasps and addresses the main theme of the instruction but may miss out on finer details or nuances."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response does address the main theme of the question, which is about home remedies for high blood pressure. However, it includes extraneous details not asked for, such as the use of medications and surgery, which are not typically considered home remedies. Additionally, the response is partially in Hindi, not Punjabi, which may not fully align with the user's language preference. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and completely addresses the question. The question asks for home remedies to reduce high blood pressure, and the response provides a detailed list of such remedies, including garlic, basil, lemon juice, yogurt, seasonal fruits, almonds and walnuts, green vegetables and fruits, plain water, yoga and meditation, and low-sodium food. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a detailed explanation of home remedies for high blood pressure. It includes suggestions such as regular exercise, meditation and yoga techniques, a balanced diet, and sufficient sleep. The response also mentions that the most effective treatment depends on the cause of high blood pressure. Therefore, the response fully adheres to the prompt's instructions, demonstrating a clear understanding of the question and providing a comprehensive answer."
+        }
+    },
+    {
+        "prompt_id": "f0b3cebf-b0aa-4326-9a4a-c98fd5a62147",
+        "prompt": "ਮੈਂ ਅੱਖਾਂ ਦੀ ਰੋਸ਼ਨੀ ਨੂੰ ਕਿਵੇਂ ਵਧਾ ਸਕਦੀ ਹਾਂ?",
+        "prompt_type": "health",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not provide any relevant information or answer to the question asked. The response is repetitive and does not make sense in the context of the question. It does not adhere to the instructions given in the prompt, hence the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to increase eye brightness. It provides a list of practical steps that can be taken, such as drinking plenty of water, getting sunlight, eating nutrient-rich food, avoiding excessive screen time, and getting enough sleep. These suggestions are directly related to the question and provide a comprehensive answer. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to improve eye vision. It provides a detailed explanation, suggesting a proper diet rich in vitamins A and C, rest for the eyes, and maintaining eye hygiene. The response is directly related to the user's instruction and covers all aspects of the question without any deviation. Therefore, it scores 2 on the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for ways to improve eyesight, but the response talks about not knowing the age of 'roshni' and that it can only be known by their parents. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to increase eye brightness, and the model provides a detailed list of steps to achieve this, covering various aspects such as diet, lifestyle changes, and regular check-ups. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the score is 2 according to the 'task_quality' metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to increase the brightness of eyes. It provides practical suggestions such as using lamps or tables with light, reducing the use of books, wearing tinted glasses, and seeking medical advice if necessary. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response does address the question about how to increase the brightness of the eyes, suggesting the use of sunglasses and hats for protection. However, it does not provide any direct methods to increase the brightness of the eyes. Additionally, the response is repetitive, mentioning the use of a hat multiple times without adding any new information. Therefore, the response partially aligns with the prompt but misses out on finer details and nuances, warranting a score of 1."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to improve eye vision. It provides practical steps such as giving rest to the eyes, protecting them from sunlight, and maintaining a healthy diet. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric perfectly."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response initially provides relevant information on how to increase the brightness of the eyes, such as using good quality sunglasses and wearing a hat under the sunglasses to block sunlight. However, it then repeats the same advice about wearing a hat under the sunglasses multiple times, which is unnecessary and does not add any new or useful information. Therefore, while the response partially aligns with the prompt and addresses the main theme, it includes extraneous details not asked for, which is why it receives a score of 1 according to the 'task_quality' metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to increase the brightness of the eyes. It provides specific and relevant suggestions such as taking care of one's vision, consuming Vitamin A, and massaging the eyes daily. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about how to improve eye sight, but the response is nonsensical and does not provide any useful information or advice. It seems like the response is just repeating the word 'woman' in different contexts, which does not make sense in the context of the question. Therefore, the score is 0 as per the 'task_quality' metric, because the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for ways to improve eye sight and the model provides a detailed list of methods to do so, including a healthy diet, rest, regular exercise, drinking water, and regular check-ups. The response is directly related to the user's instruction and addresses all aspects of the question without any deviation or extraneous details. Therefore, the score is 2."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to increase the brightness of the eyes. It provides several methods, such as ensuring good room lighting, looking at the computer screen from different angles, taking regular breaks, and regular check-ups with a doctor. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        }
+    },
+    {
+        "prompt_id": "b52315f0-2bcc-4e05-805c-f084e4b4e56d",
+        "prompt": "ਕਦ ਨੂੰ ਕਿਵੇਂ ਵਧਾਇਆ ਜਾ ਸਕਦਾ ਹੈ?",
+        "prompt_type": "health",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks 'How can height be increased?' but the response is nonsensical and repetitive, not providing any useful information or addressing the question at all. Therefore, the score is 0 as per the 'task_quality' metric, which states that a score of 0 is given when 'The model disregards the instructions entirely' or 'The output is entirely irrelevant to the prompt.'"
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks 'How can time be increased?' but the response talks about how time can be utilized effectively, which is not what the question is asking for. Therefore, the response is entirely irrelevant to the prompt and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to increase height. It provides a detailed answer, suggesting changes in daily routine, improvements in diet, drinking more water, taking care of health, exercising, doing yoga, and getting health check-ups. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric perfectly."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks 'How can height be increased?' but the response is nonsensical and does not provide any information or answer to the question. It seems like the response is just a repetition of words and phrases that do not make any sense in the context of the question. Therefore, the score is 0 as per the 'task_quality' metric, as there is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to increase height. It provides a detailed explanation, including balanced diet, rest, regular exercises, and also mentions the genetic factor. The response is completely relevant to the question and adheres to the prompt's instructions. Therefore, it scores 2 on the task quality metric."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The question asks 'How can height be increased?' but the response talks about improving senses and learning new and difficult tasks. There is a clear disconnect between the question and the response, making the response entirely irrelevant to the question. Therefore, according to the 'task_quality' metric, the score is 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to increase height. It provides a comprehensive answer, suggesting physical activities, a balanced diet rich in fruits and vegetables, and adequate sleep as ways to potentially increase height. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to increase height. It provides a comprehensive answer, discussing the importance of a healthy diet, regular exercise, and even mentions the role of genetic modifications. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to increase height. It provides a comprehensive answer, suggesting a healthy lifestyle, regular exercise, balanced diet, adequate sleep, stress management, surrounding oneself with positive people, and using positive words for self-motivation. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The question asks 'How can height be increased?' but the response provided is not relevant to the question. It talks about investment, questioning, and development, which are not related to increasing height. Therefore, the model's response does not adhere to the specific directives given in the prompt, resulting in a score of 0."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response partially addresses the question about how to increase height. It mentions factors like physical fitness, age, diet, sleep, and stress, which are relevant to overall health and could indirectly influence height. However, it does not provide specific methods or exercises to increase height, which is what the question seems to be asking for. Additionally, the response includes some irrelevant information about weight loss, which is not related to the question. Therefore, the response is somewhat aligned with the prompt but misses out on some key details and includes extraneous information."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for ways to increase height and the model provides a detailed list of methods to do so, including balanced diet, exercise, proper sleep and posture, playing certain games, getting natural Vitamin D, and avoiding harmful substances. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The question asks 'How can the height be increased?' but the response talks about how to plan a celebration or party. There is a clear disconnect between the question and the response, making the response entirely irrelevant to the question. Therefore, according to the 'task_quality' metric, the score is 0."
+        }
+    },
+    {
+        "prompt_id": "7e29b798-1e02-4711-af51-ac8f537c9c87",
+        "prompt": "ਕੀ ਸੈਲ ਫੋਨ ਇਸਤੇਮਾਲ ਕਰਨ ਨਾਲ ਬਰੇਨ ਕੈਂਸਰ ਹੋ ਸਕਦਾ ਹੈ?",
+        "prompt_type": "health",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks whether using a cell phone can cause brain cancer, but the response discusses which phone is best for gaming. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about whether cell phone usage can lead to brain cancer. It provides a clear explanation, stating that the radiofrequency radiation from cell phones can penetrate the human brain and potentially cause cancer. This response fully adheres to the prompt's instructions and directly addresses the question, leaving no aspect of the instruction unaddressed. Therefore, it scores 2 on the task quality metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the potential link between cell phone use and brain cancer. It provides a comprehensive answer, stating that there is no scientific evidence to support this claim, but also mentions that cell phone radiation could potentially affect the brain, hence caution is advised. The response is in line with the prompt's instructions and does not deviate from the topic, hence it scores 2 on the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is largely incoherent and does not provide a clear answer to the question about whether cell phone use can cause brain cancer. The text seems to be a random collection of words and phrases, with no logical flow or meaningful content. Therefore, it completely disregards the instructions and is irrelevant to the prompt, which warrants a score of 0 according to the task quality metric."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the potential link between cell phone use and brain cancer. It mentions that some studies suggest a risk, but also highlights the lack of consensus among scientists, which is a nuanced and comprehensive answer. Therefore, the response adheres to the prompt's instructions and respects its nuances, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The question asks whether using a cell phone can cause brain cancer, and the response correctly states that, according to current knowledge, there is no direct link between cell phone use and brain cancer. The response also mentions that more research is needed on this topic, which is a subtle nuance of the question, as it implies uncertainty. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The question asks whether using a cell phone can cause brain cancer, and the response clearly states that there is no direct correlation between cell phone use and brain cancer, but it is a potential risk factor depending on an individual's health. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The question asks whether using a cell phone can cause brain cancer, and the response clearly states that using a cell phone does not cause brain cancer. It also provides additional information about other potential psychological issues that can arise from cell phone use, which adds depth to the response without deviating from the main topic. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The question asks whether using a cell phone can cause brain cancer, and the response clearly states that it does not, and that this is a common myth. The response is directly related to the question and does not deviate from the topic, hence it adheres to the prompt's instructions completely."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the relationship between cell phone use and brain cancer. It provides a comprehensive explanation, stating that there is no significant evidence linking cell phone use to brain cancer, but also mentions some studies that suggest a possible dependency in high usage scenarios. The response is in line with the question and does not deviate from the topic, hence it adheres to the prompt's instructions completely."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked, which was whether cell phone usage can lead to brain cancer. The response not only confirms this but also provides additional information about other risk factors for brain cancer, which, while not directly asked for, adds value to the response. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the possibility of getting brain cancer from using cell phones. It states that there is no clear evidence yet linking cell phone use to brain cancer, and that large studies are still ongoing. This response is in full alignment with the question, providing a direct and relevant answer without any extraneous details. Therefore, it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the potential link between cell phone use and brain cancer. It provides a comprehensive explanation, stating that there is no definitive evidence linking cell phone use to brain cancer, but also acknowledging some studies suggesting potential risks. The response also mentions other types of cancer that could potentially be linked to cell phone use. Therefore, the response fully adheres to the prompt's instructions and provides a thorough answer to the question."
+        }
+    },
+    {
+        "prompt_id": "6909d7fe-5144-4dff-bae7-e45a24a129d1",
+        "prompt": "ਸਿੱਖ ਮੁਗਲਾਂ ਨਾਲ ਕਿਉਂ ਲੜੇ ਅਤੇ ਇਹਦਾ ਕੀ ਨਤੀਜਾ ਨਿਕਲਿਆ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about why Sikhs fought with the Mughals and what was the outcome, but the response provides information about different types of punishments in Punjabi. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining why the Sikhs fought against the Mughals and what the outcome was. It mentions that the Sikhs fought because the Mughals were causing harm to the Sikh religion and killing its leaders. The response also mentions that the outcome was the protection of the Sikh religion. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining why the Sikhs fought against the Mughals and what the outcome of this conflict was. It provides a detailed explanation, stating that the Sikhs fought to protect their religion and culture from the Mughals, and as a result, they gained their freedom and established the Sikh rule. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks why the Sikhs fought with the Mughals and what was the outcome, but the response does not provide any information related to this. Instead, it seems to be a nonsensical string of words that do not form a coherent answer. Therefore, the score is 0 as per the 'task_quality' metric, indicating that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining why the Sikhs fought against the Mughals and what the outcome was. It mentions the main reason for the conflict (religious oppression by the Mughals) and the result (establishment of Sikh rule, known as the Khalsa Raj). Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It explains why the Sikhs fought against the Mughals, stating that it was due to a religious and supportive thought for the right to live peacefully. However, it does not clearly explain the outcome of these battles, which was also part of the question. Therefore, the response is not a complete match to the question, and some requested specifics are omitted."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining why the Sikhs fought with the Mughals and what the outcome was. It provides specific details such as the time period of the conflict and the consequences, including the growth of Sikhism, reduction of Sikh influence, loss of Sikh autonomy, and religious persecution. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining why the Sikhs fought against the Mughals and what the outcome of this conflict was. It mentions the religious and political clash between the two, the attempts of both sides to dominate, and the result of the conflict. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question by explaining why the Sikhs fought against the Mughals and what the outcome of the fight was. It adheres to the prompt's instructions and provides a clear and direct answer to the question. There is no aspect of the instruction left unaddressed, hence the score of 2."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining why the Sikhs fought against the Mughals and what the outcome of this conflict was. It adheres to the instructions given in the question and provides a comprehensive answer. The response does not deviate from the topic and does not leave any aspect of the question unaddressed. Therefore, it scores 2 on the task quality metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining why the Sikhs fought against the Mughals and what the outcome of these conflicts was. The response provides a detailed explanation of the Sikhs' motivation for fighting, which was to protect their freedom and religion. It also outlines the result of these conflicts, which was the establishment of Sikh sovereignty and increased importance of Sikhism in politics. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question, warranting a score of 2 according to the 'task_quality' metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining why the Sikhs fought against the Mughals and what the outcome of this conflict was. It provides a detailed account of the historical context, the reasons for the conflict, and the key figures involved. It also clearly states the outcome of the conflict, which was the Sikhs gaining their independence from the Mughal Empire. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining why the Sikhs fought against the Mughals and what the outcome was. It mentions that the Sikhs believed the Mughals were infringing on their rights and freedom, leading to a rebellion against the Mughal rule. The response also correctly states that the Sikhs defeated the Mughals, leading to the establishment of Sikh rule in India. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding and adherence to the prompt's instructions."
+        }
+    },
+    {
+        "prompt_id": "4f22a432-c8c9-4cb9-9d5a-5bec0ff18d94",
+        "prompt": "ਸਿੱਖ ਧਰਮ ਦੀ ਨੀਂਹ ਕਿਸ ਨੇ ਰੱਖੀ ਸੀ ਅਤੇ ਖਾਲਸਾ ਪੰਥ ਦੀ ਸਥਾਪਨਾ ਕਿਸ ਨੇ ਕੀਤੀ ਸੀ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the founders of Sikhism and the Khalsa Panth, but the response discusses the difference between a wife and a life partner. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response correctly identifies Guru Nanak Dev Ji as the founder of Sikhism, which is accurate and aligns with the first part of the question. However, the response incorrectly states that Guru Arjan Dev Ji established the Khalsa Panth. In reality, it was Guru Gobind Singh Ji who established the Khalsa Panth. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match. This justifies a score of 1 according to the 'task_quality' metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question, providing the correct information about who laid the foundation of Sikhism and who established the Khalsa Panth. The response is directly related to the question and does not deviate from the topic. It does not include any extraneous details and addresses all aspects of the question. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about who laid the foundation of the Sikh religion and who established the Khalsa Panth. However, the response does not provide any clear information about these. It seems to be a random collection of words and phrases that do not make sense in the context of the question. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question, providing the correct information about who laid the foundation of Sikhism and who established the Khalsa Panth. The response is directly related to the question and does not include any extraneous details. Therefore, it adheres to the prompt's instructions completely and satisfies all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question by correctly identifying Guru Nanak Dev Ji as the founder of Sikhism and Guru Gobind Singh Ji as the founder of the Khalsa Panth. It adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately answers the question, providing the correct information about who laid the foundation of Sikhism and who established the Khalsa Panth. The response adheres to the prompt's instructions and there is a clear and direct correlation between the user's instruction and the model's response. No aspect of the instruction is left unaddressed, hence the score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response correctly identifies Guru Nanak Dev as the founder of Sikhism, which aligns with the first part of the question. However, the second part of the question asks who established the Khalsa Panth, and the response incorrectly states that it was also Guru Nanak Dev. In fact, it was Guru Gobind Singh who established the Khalsa Panth. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match, which corresponds to a score of 1 according to the metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response does not answer the question correctly. The question asks who laid the foundation of Sikhism and who established the Khalsa Panth. The response incorrectly states that the 'Gurmukhi curriculum' established both, which is not accurate. The foundation of Sikhism was laid by Guru Nanak Dev Ji and the Khalsa Panth was established by Guru Gobind Singh Ji. Therefore, the response does not adhere to the specific directives given in the prompt, leading to a score of 0."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately answers the question by correctly identifying Guru Nanak as the founder of Sikhism and Guru Har Singh as the founder of the Khalsa Panth. It adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately answers the question, providing the correct information about who laid the foundation of Sikhism and who established the Khalsa Panth. The response is directly related to the question and does not deviate from the topic. It does not include any extraneous details and addresses all aspects of the question. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question, providing the correct information about who laid the foundation of Sikhism and who established the Khalsa Panth. The response is directly related to the question and does not include any extraneous details. Therefore, it adheres to the prompt's instructions completely, demonstrating a precise understanding of the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question, providing the correct information about who laid the foundation of Sikhism (Guru Nanak) and who established the Khalsa Panth (Guru Gobind Singh). The response is directly related to the question and does not deviate from the topic. It does not include any extraneous details and addresses all aspects of the question. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        }
+    },
+    {
+        "prompt_id": "5ecfc3ba-b507-4a18-9b9a-326d2fff0345",
+        "prompt": "ਹਰਿਮੰਦਰ ਸਾਹਿਬ ਦੀ ਨੀਂਹ ਕਿਸਨੇ ਰੱਖੀ ਸੀ ਅਤੇ ਇਸ ਦੇ ਚਾਰ ਦਰਵਾਜ਼ੇ ਕਿਉਂ ਨੇ? ਚਾਰੋਂ ਦਰਵਾਜੇ ਹਰਿਮੰਦਰ ਸਾਹਿਬ ਤੋਂ ਉੱਚੇ ਕਿਉਂ ਨੇ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks who laid the foundation of Harmandir Sahib and why it has four doors, and why the four doors are higher than the Harmandir Sahib. However, the response simply repeats the question multiple times without providing any answer. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers all parts of the question. It correctly identifies that the foundation of Harmandir Sahib was laid by Sadhu Arjan and explains why the four doors are higher than Harmandir Sahib - to welcome devotees into Harmandir Sahib. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers all parts of the question. It correctly identifies Guru Ram Das as the one who laid the foundation of Harmandir Sahib, explains the reason for the four doors as a symbol of openness to all religions and castes, and also explains why the doors are higher than the Harmandir Sahib itself, to signify that no one should consider themselves higher than the Harmandir Sahib. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks who laid the foundation of Harmandar Sahib and why it has four doors and why they are higher than Harmandar Sahib. The response, however, talks about some new and old doors of Harmandar Sahib without providing any relevant information. There is a clear disconnect between the question and the response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers all parts of the question. It correctly identifies Baba Budha Ji as the one who laid the foundation of Harmandir Sahib, explains the reason for the four doors as a symbol of welcoming everyone from all directions, and explains the reason for the doors being higher than the Harmandir Sahib as a symbol of humility. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is incorrect and irrelevant to the question. The question asks about who laid the foundation of Harmandir Sahib and why its four doors are higher than the temple itself. However, the response incorrectly states that Guru Angad Dev Ji laid the foundation and Guru Ram Das Ji built the four doors. In reality, the foundation of Harmandir Sahib was laid by a Muslim saint, Mian Mir, and the four doors symbolize the openness of Sikhs towards all people and religions. The response does not address why the doors are higher than the temple itself. Therefore, the response does not adhere to the specific directives given in the prompt."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is incorrect and irrelevant to the question. The question asks about who laid the foundation of Harmandir Sahib and why its four doors are higher than Harmandir Sahib. However, the response incorrectly states that the foundation was laid by Guru Nanak Dev Ji, which is incorrect as it was Guru Arjan Dev Ji who laid the foundation. Moreover, the response does not address the part of the question about the four doors. Additionally, the response contains repeated phrases in Hindi, which is not relevant to the question or the context. Therefore, the score is 0 as per the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about who laid the foundation of Harmandir Sahib and why its four doors are higher than Harmandir Sahib. However, the response is just a repetition of the word 'Raja' (King), which does not answer the question at all. Therefore, the score is 0 as per the 'task_quality' metric, indicating that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is completely incorrect and irrelevant to the question. The question asks about who laid the foundation of Harmandir Sahib (Golden Temple) and why it has four doors and why they are higher than the temple. However, the response incorrectly states that the foundation was laid by the royal family members and the doors are higher for their protection. In reality, the foundation of Harmandir Sahib was laid by a Muslim saint, Mian Mir, and the four doors symbolize the openness of the Sikhs towards all people and religions. The doors are not higher than the temple. Therefore, the response does not adhere to the specific directives given in the prompt, leading to a score of 0."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response addresses the first part of the question about who laid the foundation of Harmandir Sahib and why it has four doors. However, it fails to answer the second part of the question about why the four doors are higher than the Harmandir Sahib. The response incorrectly states that the doors are higher because they were built after sunset, which does not make sense. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "SamwaadLLM": {
+            "score": 1,
+            "justification": "The response correctly identifies Guru Arjan Dev as the one who laid the foundation of Harmandir Sahib, which aligns with the first part of the question. However, the explanation for the four doors of Harmandir Sahib is not clear and does not directly answer the question. The response also does not address the second part of the question about why the doors are higher than the Harmandir Sahib. The response includes extraneous details not asked for, which is why it gets a score of 1 according to the 'task_quality' metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers all parts of the question. It correctly identifies who laid the foundation stone of Harmandir Sahib, explains why there are four doors, and why they are higher than the Harmandir Sahib. The response is in complete alignment with the question and does not include any extraneous details. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is incorrect and irrelevant to the question. The question asks about who laid the foundation of Harmandir Sahib (Golden Temple) and why its four doors are higher than the temple itself. However, the response incorrectly states that Emperor Babur laid the foundation, which is historically incorrect. The foundation was laid by a Muslim saint, Mian Mir. The response also does not provide a clear explanation for the height of the doors. Therefore, the response does not adhere to the instructions given in the prompt, leading to a score of 0."
+        }
+    },
+    {
+        "prompt_id": "b65cb4b6-d2b8-444c-87b3-e8a1616119a8",
+        "prompt": "ਪੰਜਾਬ ਦੀਆਂ ਔਰਤਾਂ ਤੇ ਆਦਮੀਆਂ ਦਾ ਮੁੱਖ ਗਹਿਣਾ ਅਤੇ ਪਹਿਰਾਵਾ ਕਿਹੜਾ ਹੈ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about the main jewelry and attire of men and women in Punjab, but the response merely repeats the question without providing any information. Therefore, the model disregards the instructions entirely and the output is entirely irrelevant to the prompt, which aligns with the reasons for a score of 0 in the metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the traditional attire of men and women in Punjab. It mentions the specific clothing items for both genders, which is exactly what the question asked for. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the main jewelry and attire of Punjabi men and women. It mentions 'Kada' as the main jewelry for women and includes other items like 'Tikka', 'Nose Pin', 'Bangles'. For men, it mentions 'Kurta Pajama' as the main attire and includes 'Turban', 'Phulkari', and 'Dupatta'. The response is in complete alignment with the question, addressing all aspects of it without any deviation or extraneous details. Therefore, it scores 2 on the 'task_quality' metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about the main attire and jewelry of men and women in Punjab, but the response talks about a metaphorical expression often used in Punjabi literature and conversations. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the main jewelry and attire of men and women in Punjab. It provides detailed information about the types of jewelry women wear, including when certain items are typically worn. It also describes the attire of men, including the significance of the turban. The response does not deviate from the question and does not leave any aspect of the instruction unaddressed, hence it scores 2 on the task quality metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the main jewelry and attire of men and women in Punjab. It mentions that women wear 'Laha' and 'Churi' and men wear 'Nalkaure'. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the prompt's instructions completely and satisfies all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The question asks about the main attire and jewelry of men and women in Punjab, but the response does not provide any information about this. Instead, it talks about the qualities and contributions of Punjabi men and women in various fields. Therefore, the response is completely irrelevant to the question, which leads to a score of 0 according to the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is not relevant to the question. The question asks about the main jewelry and attire of men and women in Punjab, but the response does not provide any specific information about this. Instead, it repeats the word 'pahiraava' (attire) and 'chandal' (jewelry) without providing any details about what these are. Therefore, the response does not adhere to the specific directives given in the prompt."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the main attire and jewelry of Punjabi men and women. It provides a detailed description of the attire and jewelry, and also mentions how Punjabis use their attire and jewelry to express their cultural identity. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response starts off well by stating that the main attire and jewelry of Punjabi men and women are royal attire and jewelry. However, it then goes into a repetitive loop of the word 'nakshi', which is not informative or relevant to the question. The response does not provide specific details about the attire and jewelry of Punjabi men and women, which was the main requirement of the question. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the main attire and jewelry of men and women in Punjab. It provides a detailed explanation of the significance of these items in the Punjabi society, and how they reflect the individual's social status, religious beliefs, and personal achievements. The response also discusses the impact of these items on societal norms and policies. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the main attire and jewelry of men and women in Punjab. It provides a detailed description of the clothing and jewelry worn by both genders, which is exactly what the question asked for. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the main attire and jewelry of men and women in Punjab. It mentions that women typically wear Punjabi suits, known as 'karan', and men often wear 'kesari' attire. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the prompt's instructions completely, satisfying all aspects of the given directive without any deviation."
+        }
+    },
+    {
+        "prompt_id": "f967c063-eb48-4a6d-9ae2-86dbfcd4fa4b",
+        "prompt": "ਪੰਜਾਬ ਵਿੱਚ ਵਿਸਾਖੀ ਕਿਉਂ ਮਨਾਈ ਜਾਂਦੀ ਹੈ ਅਤੇ ਵੈਸਾਖੀ ਨੂੰ ਮਨਾਉਣ ਦਾ ਮੁੱਖ ਕਾਰਨ ਕੀ ਹੈ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks why Vaisakhi is celebrated in Punjab and what is the main reason for celebrating Vaisakhi. However, the response simply repeats the question without providing any answer. Therefore, the model disregards the instructions entirely and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question asks why Vaisakhi is celebrated in Punjab and the main reason for celebrating it. However, the response talks about Vaisakhi being the longest day of the year, which is not relevant to the question. There is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why Vaisakhi is celebrated in Punjab and the main reason for celebrating it. It mentions that Vaisakhi is an important festival in the Sikh religion, celebrated in remembrance of the establishment of the Khalsa Panth by Guru Gobind Singh Ji in 1699. The main reason for celebrating Vaisakhi is the establishment of the Khalsa Panth and the promotion of the Sikh religion. On this day, Sikhs go to gurdwaras, read the Guru Granth Sahib, and pray in memory of the establishment of the Khalsa Panth. Therefore, the response adheres to the prompt's instructions and respects its nuances and subtleties, satisfying all aspects of the given directive without any deviation."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks why Vaisakhi is celebrated in Punjab and the main reason for celebrating Vaisakhi. However, the response lists names that do not provide any information related to the celebration of Vaisakhi or its significance. Therefore, the response does not adhere to the instructions given in the prompt, resulting in a score of 0 for task quality."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why Vaisakhi is celebrated in Punjab and the main reason for celebrating it. It mentions that Vaisakhi is celebrated to mark the arrival of the harvest season and the establishment of the Khalsa Panth by Guru Gobind Singh Ji in 1699. The response is in line with the prompt and does not deviate from the instructions. Therefore, it scores 2 on the task quality metric."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response addresses the first part of the question about why Vaisakhi is celebrated in Punjab, mentioning it as a seasonal festival for games and agriculture, and the start of the new crop year. However, it does not address the second part of the question about the main reason for celebrating Vaisakhi. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It explains why Vaisakhi is celebrated in Punjab, but it does not clearly state the main reason for celebrating Vaisakhi. The response also includes some information in Hindi, which was not asked for in the question. Therefore, the response is partially aligned with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining why Vaisakhi is celebrated in Punjab and the main reason for celebrating it. It mentions that Vaisakhi is an important part of Punjabi culture and traditions, marking the start of a new year. It also highlights the cultural and religious significance of the festival, which is the main reason for its celebration. The response also mentions that it is a joyous occasion for Punjabis to meet and celebrate with their families and friends. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding of the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response does address the main theme of the question, which is about why Vaisakhi is celebrated in Punjab. However, the response is repetitive and does not provide a complete answer. The response incorrectly states that Vaisakhi is celebrated as the birth of Guru Nanak, which is not accurate. Vaisakhi is actually celebrated to mark the formation of the Khalsa Panth by Guru Gobind Singh. Therefore, the response partially aligns with the prompt but misses out on important details and nuances, hence the score of 1."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response does not answer the question correctly. The question asks why Vaisakhi is celebrated in Punjab and the main reason for celebrating it. However, the response only repeats the same phrase about Vaisakhi being a symbol of peace and understanding in the world, without providing any specific reason related to Punjab or the main reason for its celebration. The response is also repetitive and does not provide any new information after the first few sentences. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining why Vaisakhi is celebrated in Punjab and the main reason for celebrating it. The response is in line with the question, providing a detailed explanation about the significance of Vaisakhi in Punjab. It mentions that Vaisakhi is celebrated as a symbol of peace, auspicious beginnings, and unity, which is the main reason for its celebration. The response does not deviate from the question and does not leave any aspect of the question unaddressed, hence it adheres to the task quality metric perfectly."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining why Vaisakhi is celebrated in Punjab and the main reason for its celebration. It mentions that Vaisakhi is an important festival celebrated primarily for the joy of farming and the happiness of the sweet harvest. It also signifies the joy of the new crop after the end of many crops with the change of season. Furthermore, it mentions the historical significance of Vaisakhi in Sikhism, stating that the tenth Sikh Guru, Guru Gobind Singh Ji, established the Khalsa Panth on the day of Vaisakhi in 1699. This date is also considered important in the Sikh community. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding and adherence to the prompt's instructions."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response addresses the main theme of the question, which is why Vaisakhi is celebrated in Punjab. It explains that Vaisakhi is a reminder of the beginning of the harvest season and is the time when farmers start sowing seeds in their fields. However, the response does not fully address the second part of the question, which asks for the main reason for celebrating Vaisakhi. The response repeats the same information twice, which indicates a lack of depth in the answer. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        }
+    },
+    {
+        "prompt_id": "2b1b00cb-fef9-40a6-ac93-8a4dfa5a6ebe",
+        "prompt": "ਮੀਰੀ ਪੀਰੀ ਦੀਆਂ ਤਲਵਾਰਾਂ ਕਿਸ ਗੁਰੂ ਸਾਹਿਬਾਨ ਨੇ ਧਾਰਨ ਕੀਤੀਆਂ ਸੀ ਅਤੇ ਇਸ ਨੂੰ ਧਾਰਨ ਕਰਨ ਦਾ ਕੀ ਉਦੇਸ਼ ਸੀ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about which Guru Sahib wore the swords of Miri Piri and the purpose of wearing them. However, the response merely repeats the question without providing any answer. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt. There is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is incorrect. The question asks about the Guru who wore the swords of Miri and Piri and the purpose of wearing them. The correct answer is Guru Hargobind Sahib, not Guru Har Krishan Sahib as mentioned in the response. The purpose of wearing these swords was to symbolize the temporal (Miri) and spiritual (Piri) authority that the Guru held, not to teach the importance of the sword in Sikh culture as mentioned in the response. Therefore, the response does not adhere to the specific directives given in the prompt and is entirely irrelevant to the question."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question by identifying Guru Hargobind Sahib as the one who wore the swords of Miri and Piri. It also explains the purpose of wearing these swords, which is to balance worldly and spiritual power. Therefore, the response fully adheres to the prompt's instructions and addresses all aspects of the question without any deviation or omission."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about which Guru Sahib wore the swords of Miri Piri and the purpose of wearing them. However, the response does not provide any information related to the question. It seems to be a random collection of words and phrases that do not make any sense in the context of the question. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question by identifying Guru Hargobind Sahib as the one who wore the swords of Miri and Piri and explaining the purpose of wearing them. It aligns perfectly with the question, addressing all aspects of the prompt without any deviation or omission. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question by stating that Guru Gobind Singh Ji wore the swords of Miri Piri and that the purpose of wearing them was to support the fight against tyranny. This aligns perfectly with the question, which asked who wore the swords of Miri Piri and what was the purpose of wearing them. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about which Guru carried the swords of Miri Piri and the purpose of carrying them. However, the response mentions Guru Nanak Dev Ji, which is incorrect as it was Guru Hargobind Sahib Ji who introduced the concept of Miri Piri. Moreover, the response includes irrelevant phrases like 'rabbitmq' which do not make sense in the context of the question. Therefore, the response does not adhere to the instructions given in the prompt at all."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response correctly identifies Guru Hargobind Sahib as the one who wore the swords of Miri and Piri. However, the explanation of the purpose of wearing these swords is not accurate. The swords symbolize temporal (Miri) and spiritual (Piri) power, not the correct way to wear a weapon according to scripture. Therefore, the response partially aligns with the prompt but misses out on the finer details or nuances, hence the score of 1."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is incorrect. The question asks about the Sikh Guru who wore the swords of Miri and Piri and the purpose behind it. The correct answer is Guru Hargobind Sahib, who wore these swords to symbolize temporal (Miri) and spiritual (Piri) authority. However, the response incorrectly states that Guru Nanak, the founder of Sikhism, wore these swords. Therefore, the response does not adhere to the specific directives given in the prompt, resulting in a score of 0."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is incorrect and irrelevant to the question. The question asks about the Guru who wore the swords of Miri and Piri and the purpose of wearing them. The response incorrectly mentions Guru Amar Singh, who is not a recognized Sikh Guru. The correct answer should be Guru Hargobind Sahib. Moreover, the response is repetitive and does not provide a clear purpose of wearing the swords. Therefore, the response does not adhere to the instructions given in the prompt."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is incorrect. The question asks about which Guru Sahib wore the swords of Miri Piri and the purpose of wearing them. The correct answer is Guru Hargobind Sahib, not Guru Nanak Dev Ji as stated in the response. The purpose of wearing the swords was to symbolize temporal (Miri) and spiritual (Piri) authority, which is not accurately reflected in the response. Therefore, the response does not adhere to the specific directives given in the prompt."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question by identifying Guru Hargobind Sahib Ji as the one who wore the swords of Miri Piri and explaining that the purpose was to protect religious and political rights. This shows a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Therefore, the score is 2."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response addresses the main theme of the question, which is about who wore the swords of Miri Piri and the purpose of wearing them. However, it misses out on finer details or nuances. The response does not specify which Guru Sahib wore the swords, which is a key detail asked in the question. Therefore, the response only partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        }
+    },
+    {
+        "prompt_id": "07c526ec-d806-44e9-8ff8-0083cae1f6d4",
+        "prompt": "ਪੰਜਾਬ ਵਿੱਚ ਰੋਇਲ ਸਿਟੀ ਕਿਸ ਨੂੰ ਕਿਹਾ ਜਾਂਦਾ ਹੈ? ਪੰਜਾਬ ਦੀ ਪੁਰਾਤਨ ਲੋਕ ਖੇਡ ਕੀ ਹੈ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model does not answer the question at all. The model simply repeats the question without providing any information or answer. This shows a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers both parts of the question. It correctly identifies 'Royal City' as Patiala and the traditional folk game of Punjab as Kabaddi. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers both parts of the question. It correctly identifies Patiala as the 'Royal City' in Punjab and wrestling as the ancient folk game of Punjab. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric perfectly."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about what the 'Royal City' is called in Punjab and what the ancient folk game of Punjab is. However, the response is nonsensical and does not provide any meaningful information related to the question. It seems like the response is just a repetition of random words and phrases, which makes it completely disconnected from the user's request. Therefore, the score is 0 as per the 'task_quality' metric."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers both parts of the question. It correctly identifies 'Patiala' as the 'Royal City' in Punjab and 'Kabaddi' as the traditional folk game of Punjab. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers both parts of the question. It correctly identifies the Royal City in Punjab as also being referred to as 'Bhagwan Balaji of Nehra' and the ancient folk game of Punjab as 'Kushti'. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response correctly identifies the 'Royal City' in Punjab as Amritsar, which is in line with the first part of the question. However, the second part of the question asks about the traditional folk game of Punjab, but the response does not provide a clear answer to this. Instead, it mentions something about a recorded game from the 16th-17th century and a registered player named Ranjit Lakshman, which is not directly related to the question. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers both parts of the question. It correctly identifies Chandigarh as the 'Royal City' in Punjab and Kabaddi as the traditional sport of Punjab. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers both parts of the question. It correctly identifies Patiala as the 'Royal City' in Punjab and 'Goli' as the traditional folk game of Punjab. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately answers both parts of the question. It correctly identifies 'Royal City' as Patiala and the traditional folk game of Punjab as 'Kho-Kho'. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately answers both parts of the question. It correctly identifies the 'Royal City' in Punjab as Patiala and the traditional folk game of Punjab as wrestling. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers both parts of the question. It correctly identifies the 'Royal City' in Punjab as Patiala and the traditional folk game of Punjab as Kabaddi. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers both parts of the question. It correctly identifies the term 'Royal City' as 'Zindabad' in Punjabi and also correctly identifies the traditional folk game of Punjab. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        }
+    },
+    {
+        "prompt_id": "8468e548-192e-4303-9b17-5c4aa3109ed9",
+        "prompt": "ਪੰਜਾਬ ਦੇ ਮੁੱਖ ਤਿਉਹਾਰ ਕਿਹੜੇ ਨੇ ਅਤੇ ਬੰਦੀ ਛੋੜ ਦਿਵਸ ਕਿਹੜੇ ਤਿਉਹਾਰ ਨੂੰ ਕਿਹਾ ਜਾਂਦਾ ਹੈ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the main festivals of Punjab and which festival is referred to as 'Bandi Chhor Divas'. However, the response provides the names of the 12 zodiac signs in Punjabi. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question by listing the main festivals of Punjab and correctly identifying Bandi Chhor Divas as a national festival in India. It adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately lists the main festivals of Punjab, including Vaisakhi, Lohri, Basant Panchami, Holi, and Diwali. It also correctly identifies Diwali as the festival known as Bandi Chhor Divas, providing additional context about its significance to Sikhs. The response fully adheres to the prompt's instructions, demonstrating a clear understanding and execution of the task."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the main festivals of Punjab and what is Bandi Chhor Divas known as, but the response talks about the number of teeth in a Punjabi adult's and child's jaw. There is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question by listing the main festivals of Punjab and correctly identifying Diwali as the festival also known as Bandi Chhor Divas. It adheres to the prompt's instructions and provides a complete and relevant answer, demonstrating a precise understanding of the question. Therefore, it scores 2 on the task quality metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately identifies the main festivals of Punjab as Vaisakhi and Diwali, and correctly states that Bandi Chhor Divas is referred to as Rakhar Punya. This shows a clear understanding and adherence to the prompt's instructions. The response holistically satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question asks about the main festivals of Punjab and which festival is referred to as 'Bandi Chhor Divas'. However, the response talks about a festival called 'Tika' and its date, which is not relevant to the question. Therefore, the model disregards the instructions entirely and the output is entirely irrelevant to the prompt, leading to a score of 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response does mention the festival 'Bandi Chhor Divas' as asked in the question, but it does not explain what it is known as. Additionally, the response lists five main festivals of Punjab, but the question only asked for the main festival(s), not necessarily five. The response also includes unnecessary details about when these festivals are celebrated, which was not asked in the question. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response correctly identifies Bandi Chhor Divas as a major festival in Punjab and correctly states that it is also known as Bandi Chhor Divas. However, the response fails to identify the other major festivals of Punjab as asked in the question. Instead, it repeats the information about Bandi Chhor Divas. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately answers the question by identifying the main festivals of Punjab as Bandi Chhor Divas and Guru Nanak's birthday. It also correctly explains that Bandi Chhor Divas is referred to as the festival of liberation. The response is in line with the question and does not deviate from the topic. Therefore, it adheres to the prompt's instructions completely, demonstrating a precise understanding of the question."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately lists the main festivals of Punjab and correctly identifies Bandi Chhor Divas as Kali Di Ohri, which is also sometimes referred to as Kali Ohri. The response also provides additional information about when and why this festival is celebrated, which was not explicitly asked for in the question but provides useful context. Therefore, the response fully satisfies the prompt's instructions without any deviation."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately lists the main festivals of Punjab, which include Lohri, Vaisakhi, Holi, Teej, and Diwali. It also correctly identifies Diwali as the festival associated with Bandi Chhor Divas. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding and execution of the task. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response correctly identifies the main festivals of Punjab and also correctly identifies Bandi Chhor Divas as a festival. However, the response does not explicitly state that Bandi Chhor Divas is also known as Diwali, which was part of the question. Additionally, the response includes unnecessary details about when each festival is celebrated, which was not asked for in the question. Therefore, the response partially aligns with the prompt but misses out on some details and includes extraneous information."
+        }
+    },
+    {
+        "prompt_id": "b1e5770e-0122-4bfe-83f2-cc75d3cffd6b",
+        "prompt": "ਪਾਹੁਲ ਪ੍ਰਥਾ ਕੀ ਹੈ ਅਤੇ ਉਸ ਪਰੰਪਰਾ ਨਾਲ ਕੀ ਹੋਇਆ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the tradition of 'Pahul' and what happened with it, but the response discusses the difference between 'halwa' and 'paratha', which are food items. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response provides a description of the 'Pahul' tradition, which is relevant to the first part of the question. However, it does not address the second part of the question, which asks about what happened with this tradition. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match. This justifies a score of 1 according to the 'task_quality' metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately explains what the Pahul tradition is and what happened with this tradition, which is exactly what the question asked for. It mentions that Pahul is a Sikh tradition where Sikhs give Amrit to their children, that it was started by Guru Gobind Singh Ji, and that it was used to include his sons and Sikhs into the Khalsa Panth. The response also mentions that this tradition inspires Sikhs to maintain their religion and tradition. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the tradition of 'Pahul' and what happened with it, but the response talks about the physical characteristics and uses of 'Pahul' and 'Naal', which are described as objects. There is a clear disconnect between the question and the response, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about what the Pahul tradition is and what happened with this tradition. It explains that Pahul is a significant part of Sikhism, established by Guru Gobind Singh in 1699, and is also known as 'Amrit Sanchar'. It further explains the changes that occurred with the Pahul ceremonies, making Sikhs a part of the 'Khalsa', which is sacred in the presence of God. The response also mentions the punishment for violating this agreement and the daily recitation of Nitnem Bani, where the Amrit Sanchar of Pahul is done. Therefore, the response fully adheres to the prompt's instructions, providing a detailed and relevant answer to the question."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately explains what the Pahul tradition is and how it is associated with the tradition. It provides a detailed explanation of the tradition, its purpose, and how individuals participate in it. The response is directly related to the question and fully addresses all aspects of the prompt without any deviation or omission. Therefore, it scores 2 on the task quality metric."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about the Pahul tradition and what happened with it, but the response talks about religious practices in general and does not mention anything about Pahul or what happened with it. Therefore, the response is completely irrelevant to the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about the 'Pahul' tradition and what happened with it, which is a Sikh initiation ceremony. However, the response given by the model is about a tradition related to death and mourning in Punjabi culture. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about the tradition of 'Pahul' and what happened with it, but the response talks about a different tradition involving women gathering at night. Moreover, the response is repetitive and does not provide any new or relevant information after the first few sentences. Therefore, the score is 0 as per the 'task_quality' metric because there is a clear disconnect between the user's request and the model's response."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response provided by the model is incorrect and irrelevant to the question. The question asks about the 'Pahul' tradition and what happened with it, which is a Sikh baptism ceremony. However, the model's response describes a completely different tradition related to a person returning to their father's house after the father's death. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what the Pahul tradition is and what happened with this tradition. It explains that Pahul is a tradition in Sikhism of drinking Amrit, established by Guru Gobind Singh Ji in 1699 as the Khalsa. It further explains that according to this tradition, a Sikh gives himself Pahul to become a Khalsa, which connects Sikhs with their religion and makes them accept themselves as Sikh leaders. Therefore, the response adheres to the prompt's instructions and respects its nuances and subtleties, satisfying all aspects of the given directive without any deviation."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about what the Pahul tradition is and what happened with this tradition. It explains that Pahul is an important ceremony in Sikhism, where Sikhs are given the Amrit. It also provides historical context, stating that this tradition was started by Guru Gobind Singh Ji in 1699 when he established the Khalsa Panth. The response further explains the significance of the Pahul tradition in the lives of Sikhs, stating that it inspires them to start a new life and live according to Sikh principles. Therefore, the response fully adheres to the prompt's instructions and addresses all aspects of the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question is about the tradition of 'Pahul' and what happened with it, but the response talks about a tradition related to wearing masks in India. There is a clear disconnect between the question and the response, hence the score of 0."
+        }
+    },
+    {
+        "prompt_id": "f085def8-45bc-4e27-a685-c4de1d9227e9",
+        "prompt": "ਫੁਲਕਾਰੀ ਕਿਸ ਲਈ ਮਸ਼ਹੂਰ ਹੈ ਅਤੇ ਇਸ ਨੂੰ ਬਣਾਉਣ ਲਈ ਕਿਸ ਕਿਸਮ ਦਾ ਧਾਗਾ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about what 'Phulkari' is famous for and what type of thread is used to make it. However, the response just repeats the question and does not provide any information. Therefore, the model disregards the instructions entirely and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question by explaining what Phulkari is famous for and the type of thread used to make it. It adheres to the prompt's instructions and provides a clear and direct answer to the question, leaving no aspect of the instruction unaddressed. Therefore, it scores 2 on the task quality metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question by explaining what Phulkari is famous for and the type of thread used to make it. It mentions that Phulkari is a popular fabric in Punjabi culture, known for its colorful and beautiful designs, and a special type of thread called 'dupatta' is used to create it. This thread is specifically prepared for making Phulkari and includes various colorful themes. Therefore, the response adheres to the prompt's instructions completely and satisfies all aspects of the given directive without any deviation."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not relevant to the question. The question asks about what Phulkari is famous for and what type of thread is used to make it. However, the response does not provide any information about Phulkari or the type of thread used to make it. Instead, it seems to be talking about some sort of competition or award, which is not related to the question. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question by explaining what Phulkari is famous for and what type of thread is used to make it. It adheres to the prompt's instructions and provides a clear and direct answer to the question, leaving no aspect of the instruction unaddressed. Therefore, according to the 'task_quality' metric, it deserves a score of 2."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It correctly mentions that Phulkari is beautiful and skillful, and that a flexible yarn thread is used to make it. However, the question also asks for what Phulkari is famous for, which the response does not address. Therefore, the response does not fully adhere to the instructions given in the prompt, missing out on some details, which is why it gets a score of 1 according to the 'task_quality' metric."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about the famous 'Phulkari' and the type of thread used to make it. However, the response is just a repetition of the same word, which doesn't make any sense. Therefore, the model's response doesn't adhere to the instructions given in the prompt at all, leading to a score of 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about what Phulkari (a type of embroidery from Punjab, India) is famous for and what type of thread is used to make it. However, the response talks about Phulkari being famous for pencils and being used to store and organize pencils, which is incorrect. The type of thread mentioned in the response is also incorrect. Therefore, the response does not adhere to the instructions given in the prompt at all."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It correctly identifies Phulkari as a type of clothing and mentions that it is made using a specific type of thread. However, it does not clearly explain why Phulkari is famous. Additionally, the type of thread used for making Phulkari is not clearly specified. The response mentions that the thread is usually made from natural sources like cotton, silk, or wool, but it does not specify which one is used for Phulkari. Therefore, the response only partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response addresses the main theme of the question, which is about the popularity of Phulkari and the type of thread used to make it. However, it misses out on the finer details. The response does not specifically mention why Phulkari is popular, it only describes what it is and when it is worn. Additionally, the type of thread used for Phulkari is not clearly specified, the response only mentions that any thread that complements its distinct look and vibrant colors is used. Therefore, the response partially aligns with the prompt but does not completely match it."
+        },
+        "SamwaadLLM": {
+            "score": 1,
+            "justification": "The response addresses the main theme of the question, which is about the popularity of Phulkari and the type of thread used to make it. However, it misses out on finer details or nuances. The response does not clearly explain why Phulkari is famous and the type of thread used to make it. Instead, it provides a general description of Phulkari and its significance. The response also includes extraneous details not asked for in the question, such as the spiritual significance of the thread used in Phulkari. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question by explaining what Phulkari is famous for and the type of thread used to make it. It adheres to the prompt's instructions and provides a complete and relevant answer, demonstrating a clear understanding of the question. Therefore, it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the famous Phulkari embroidery and the type of thread used to make it. However, the response talks about Phulkari as a popular dish in India and Pakistan, which is incorrect. Therefore, the model disregards the instructions entirely and there is a clear disconnect between the user's request and the model's response."
+        }
+    }
+]

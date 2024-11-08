@@ -1,0 +1,1162 @@
+[
+    {
+        "prompt_id": "6743a998-8274-4ac3-8d0c-1928096e099e",
+        "prompt": "હું ક્રેડીટકાર્ડ કઈ રીતે મેળવી શકું?",
+        "prompt_type": "finance",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response to the question 'How can I get a credit card?' is not linguistically acceptable. The response lacks clear syntactic structure and is essentially a repetition of the same word 'crore' multiple times, which is not relevant to the question asked. It does not provide any information on how to obtain a credit card. Therefore, it scores 0 on the linguistic acceptability scale."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Gujarati language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and answers the question effectively."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is written in fluent Gujarati, with correct grammar and syntax. The sentences are clear and concise, and they reflect the natural rhythm and intonation of spoken language. The vocabulary used is contextually relevant and appropriate. The response effectively answers the question, providing a step-by-step guide on how to obtain a credit card. There are no errors or inappropriate word choices."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response to the question 'How can I get a credit card?' is not linguistically acceptable. The sentences lack clear syntactic structure and the usage of words is incorrect and repetitive. The response does not provide any relevant information to the question asked. It is not fluent, idiomatic, or appropriate in context. Therefore, the score is 0 according to the linguistic acceptability metric."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in Gujarati. It provides a clear and detailed answer to the question, using appropriate vocabulary and sentence structure. The language used is natural and fluent, and the information is presented in a logical and coherent manner. There are no grammatical errors, incorrect word usage, or inappropriate word choices. The response effectively uses idiomatic expressions and reflects the natural rhythm, emphasis, and intonation of spoken Gujarati language. Therefore, it receives a score of 2 according to the linguistic acceptability metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is grammatically correct, uses appropriate vocabulary, and is contextually relevant to the question. The sentence structure is clear and reflects the natural rhythm and intonation of spoken language. There are no errors or inappropriate word choices. The response is concise and to the point, providing a clear answer to the question about how to obtain a credit card."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are structured well and reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and directly answers the question."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Gujarati language. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about how to obtain a credit card, providing a clear and comprehensive explanation."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is written in fluent Gujarati, with correct grammar and syntax. The sentences flow naturally and are easy to understand. The response uses appropriate vocabulary and idiomatic expressions, and it provides a detailed and comprehensive answer to the question. There are no errors or inappropriate word choices. The response is also contextually relevant, providing specific steps and requirements for obtaining a credit card."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The response is a mix of Gujarati and Hindi, which makes it difficult to understand. The response also contains non-existent words like 'रेंडिंग', 'ऑनलाइन', 'बेंकिंग', 'सेटिंग', 'सलाहकार', which are not Gujarati words. This falls under the category of 'Usage of non-existent or incorrect words' and 'Grossly inappropriate word choices for a given context' as per the scoring rubric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is written in fluent Gujarati, with appropriate use of vocabulary and idiomatic expressions. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, and the phrasing is not overly verbose or stilted. The response is also contextually relevant and provides a comprehensive answer to the question about how to obtain a credit card."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language, making it easy to understand and follow. Therefore, it scores 2 on the linguistic acceptability scale."
+        }
+    },
+    {
+        "prompt_id": "3a238ab2-2a97-4e20-ae8b-d5e2b292a3cb",
+        "prompt": "ક્રેડીટ સ્કોરેને જાળવી રાખવાના ઉપાયો કયા કયા છે?",
+        "prompt_type": "finance",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive without providing any meaningful information. The same phrase is repeated multiple times without any variation or additional details. This does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response does not answer the question about ways to maintain a credit score, which makes it contextually inappropriate."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response is grammatically correct and understandable, but it is not entirely appropriate in the context of the question. The question asks for ways to maintain a credit score, but the response includes phrases like 'keep the credit score in proper storage' and 'include the credit score in a proper credit report', which do not make sense in this context. Therefore, the response is not completely linguistically acceptable."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are structured well and reflect the natural rhythm of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive, with the same phrase being repeated multiple times. This makes the response difficult to understand and does not provide a clear answer to the question asked. The response also does not provide any specific ways to maintain a credit score, which was the main focus of the question. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is written in fluent Gujarati, with appropriate use of vocabulary and idiomatic expressions. The sentences are well-structured and reflect the natural rhythm and intonation of the language. There are no grammatical errors or inappropriate word choices. The response is also contextually relevant and directly answers the question."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm and intonation of the Gujarati language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively communicates ways to maintain a credit score, which aligns with the question asked."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure as it repeats the same phrase over and over again without providing any new or meaningful information. This repetition does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is repetitive and lacks clear structure. The same point about making minimum payments is repeated multiple times without any variation or additional information. This does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response is not fluent, idiomatic, or appropriate in context."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions without sounding forced. Overall, the response aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences reflect the natural rhythm, emphasis, and intonation of spoken language, and it effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response contains a mix of Gujarati and non-Gujarati words, which makes it difficult to understand. The use of non-existent or incorrect words, such as 'Pingbackળપત્ર', 'creditor report', 'understand', 'understanding', 'Self-help books', 'articles', 'videos', 'Financial advisors', 'etc', 'દਿੰreonine', is inappropriate in the given context. This violates the linguistic acceptability metric, specifically the point '(b)' of score '0', which mentions the usage of non-existent or incorrect words. Therefore, the score is '0'."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is written in fluent Gujarati, with appropriate use of vocabulary and sentence structure. The response is clear, concise, and directly answers the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions and reflects the natural rhythm and intonation of the Gujarati language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        }
+    },
+    {
+        "prompt_id": "e51494c0-25ad-43a0-81b4-0ed61afbd192",
+        "prompt": "મ્યુચ્યુઅલફંડ શું છે અને એ કેવી રીતે કામ કરે છે?",
+        "prompt_type": "finance",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful information in response to the question. The same phrase is repeated multiple times without any context or explanation. This does not align with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Gujarati language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively explains what a mutual fund is and how it works, answering the question accurately and completely."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively explains what a mutual fund is and how it works, answering the question completely and accurately."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is also not relevant to the question asked, which is about mutual funds, but the response talks about MySQL, a database management system. The response also contains repeated phrases which do not make sense in the context of the question or the response itself. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, incorrect words, or inappropriate word choices. The response is not overly verbose or stilted, and it uses words that are the most appropriate for the context."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentence structure aligns with the implicit norms and rules of a native Gujarati speaker's linguistic intuition. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response reflects the natural rhythm, emphasis, and intonation of spoken Gujarati language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm and intonation of the Gujarati language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the context of the question about mutual funds."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and easy to understand."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the context of the question."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences reflect the natural rhythm, emphasis, and intonation of spoken language, and it effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, providing a comprehensive explanation of what a mutual fund is and how it works."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is in Hindi, not in Gujarati as required by the question. This is a clear violation of the linguistic acceptability metric, as the language used does not align with the implicit norms and rules of a native Gujarati speaker's linguistic intuition. The response also does not fit within the natural, expected, and intuitive contours of fluent Gujarati language. Therefore, the score is 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are well-structured and reflect the natural rhythm of spoken language. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, incorrect words, or inappropriate word choices. The response is not overly verbose or stilted, and it uses words that are not only technically correct but also the most appropriate for the context."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the context of the question."
+        }
+    },
+    {
+        "prompt_id": "dbd46ba8-b911-4b70-8156-76ad3fef3c52",
+        "prompt": "બેંકમાં કેટલા પ્રકારના ખાતા હોય છે?",
+        "prompt_type": "finance",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful information in response to the question. The same phrase is repeated multiple times without any variation or additional information. This does not align with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Gujarati language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about the types of accounts in a bank, providing a detailed and comprehensive answer."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The sentences reflect the natural rhythm and intonation of spoken language, and the information is presented in a clear and concise manner. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it receives a score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and does not provide a coherent answer to the question. The response seems to be a random collection of words and phrases that do not make sense in the context of the question. The usage of non-existent or incorrect words is also evident. The response does not provide any information about the types of accounts in a bank, which was the original question. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm and intonation of the Gujarati language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively explains the different types of bank accounts, making it easy to understand for the reader."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is grammatically correct, uses appropriate vocabulary, and is contextually relevant to the question. The sentence structure is clear and reflects the natural rhythm and intonation of spoken language. There are no errors or inappropriate word choices. The response is concise and to the point, providing a clear answer to the question asked."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm and intonation of spoken language, making it easy to understand. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Gujarati language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively explains the two types of bank accounts, making it contextually relevant and easy to understand."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Gujarati language. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing detailed information about different types of bank accounts."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It provides a detailed explanation of the different types of bank accounts, which is exactly what the question asked for. The response is fluent, idiomatic, and reflects the natural rhythm of spoken language. There are no grammatical errors or inappropriate word choices. Therefore, it receives a score of 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The response contains non-existent or incorrect words, and sentences that lack clear syntactic structure. The response is a mix of Gujarati and Hindi words, which makes it difficult to understand. The response does not align with the implicit norms and rules of a native Gujarati speaker's linguistic intuition. The response does not fit within the natural, expected, and intuitive contours of fluent Gujarati language."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is written in fluent Gujarati, with correct grammar and syntax. The response uses appropriate and contextually relevant vocabulary to describe the different types of bank accounts. The sentences reflect the natural rhythm and intonation of spoken Gujarati. There are no errors or inappropriate word choices. The response is clear, concise, and easy to understand, making it highly acceptable from a linguistic perspective."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Gujarati language. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, incorrect words, or inappropriate word choices. The response effectively answers the question about the types of accounts in a bank, providing a comprehensive list and a note on the variability among different banks and types of banks."
+        }
+    },
+    {
+        "prompt_id": "032d77c2-b350-412b-866f-ff944cb74e40",
+        "prompt": "હું મારા ક્રેડીટ કાર્ડને કઈ રીતે બંદ કરાવી શકું?",
+        "prompt_type": "finance",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response to the question 'How can I cancel my credit card?' is not linguistically acceptable. The sentences lack clear syntactic structure and the words used are repetitive and do not make sense in the given context. The response does not provide any useful information on how to cancel a credit card, which is what the question asked for. Therefore, the score is 0 according to the linguistic acceptability metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and provides a clear answer to the question asked."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are structured well and reflect the natural rhythm of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and provides a comprehensive answer to the question asked."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive, making it difficult to understand. The response does not provide a clear answer to the question about how to close a credit card. Additionally, the response contains non-existent or incorrect words, which further reduces its linguistic acceptability."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and provides a step-by-step guide on how to close a credit card, which directly answers the question."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is grammatically correct, uses appropriate vocabulary, and is contextually relevant to the question. The sentence structure is clear and reflects the natural rhythm and intonation of spoken language. There are no errors or inappropriate word choices. The response is concise and to the point, providing a clear answer to the question asked."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language, making it easy to understand and follow. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question about how to cancel a credit card, providing a clear and concise explanation."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Gujarati language. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about how to cancel a credit card, providing a clear and comprehensive explanation."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. It provides a clear and comprehensive answer to the question about how to cancel a credit card. The response is fluent and idiomatic, reflecting the natural rhythm and intonation of spoken language. There are no grammatical errors or inappropriate word choices. The response is not overly verbose or stilted, and it uses words that are not only technically correct but also the most appropriate for the context."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is a mix of Gujarati and Hindi, which makes it linguistically unacceptable. The response also contains non-existent words and incorrect usage of words. For example, 'बेंच Mark' and 'ஐ' are not Gujarati words. The response also lacks clear syntactic structure due to the mix of languages. Therefore, the score is 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language, making it easy to understand and follow. Therefore, it scores 2 on the linguistic acceptability scale."
+        }
+    },
+    {
+        "prompt_id": "0a113b91-81f1-4ef9-a082-da80b83c92a5",
+        "prompt": "માણસના જીવનમાં કસરતનું શું મહત્વ છે?",
+        "prompt_type": "health",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive, with the same phrase repeated multiple times. It does not provide a coherent or meaningful answer to the question about the importance of exercise in a person's life. The response also includes non-existent or incorrect words, further reducing its linguistic acceptability."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are well-structured and reflect the natural rhythm of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language, making it sound natural and fluent. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses incorrect words. The response does not answer the question about the importance of exercise in human life. Instead, it seems to be a mistranslation or misunderstanding of the question, talking about 'Mansa' in a body being a 'carat'. This is not relevant to the question and does not make sense in the given context. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also effectively uses idiomatic expressions and reflects the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language, making it sound natural and fluent. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language. It effectively uses idiomatic expressions without sounding forced. Therefore, it aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language. It effectively explains the importance of exercise in a person's life, which directly answers the question."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language, making it sound fluent and idiomatic. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response is generally acceptable in terms of linguistic structure and fluency. However, it contains a mix of Gujarati and Hindi words, which is not the most appropriate for the context as the question is in Gujarati. The response also includes English words, which may not be understood by a Gujarati-speaking audience. Despite these issues, the response is understandable and provides a comprehensive answer to the question."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent, idiomatic, and appropriate in the context of the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also effectively uses idiomatic expressions and reflects the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        }
+    },
+    {
+        "prompt_id": "8a4f9f9c-a8a6-4a7f-a014-aa54859b962f",
+        "prompt": "નજરને વધુ સારી કરવા મને કયા ફળો ખાવા જોઈએ?",
+        "prompt_type": "health",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. The sentences lack clear syntactic structure and the words used do not make sense in the context of the question. The response does not provide any information about which fruits should be eaten to improve eyesight, which was the original question. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question about which fruits should be eaten to improve eyesight, providing specific examples and explaining why they are beneficial."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively integrates contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Gujarati language."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. It lacks a clear syntactic structure and does not provide a coherent answer to the question. The same phrase is repeated multiple times without any meaningful context or information. It does not answer the question about which fruits should be eaten to improve eyesight. Therefore, according to the metric, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question by providing a list of fruits that can improve eyesight, explaining why each fruit is beneficial. This aligns with the implicit norms and rules of a native speaker's linguistic intuition, making it a fluent and idiomatic response in Gujarati."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is grammatically correct, uses appropriate vocabulary, and is contextually relevant to the question. The sentence structure is clear and reflects the natural rhythm and intonation of spoken language. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language, making it sound natural and fluent. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure as the same sentence is repeated multiple times without providing any new information or context. This repetition does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response does not provide a clear answer to the question asked, which was about specific fruits to improve eyesight. Therefore, the score is 0 as per the provided metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Gujarati language. The response also effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is contextually relevant and fits within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response contains non-existent or incorrect words such as '몇몇', 'पित्तળ', 'inyl', which do not make sense in the context of the question or in the Gujarati language. This makes the response linguistically unacceptable as per the metric's scoring rubric (0b)."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are structured well and reflect the natural rhythm of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question about which fruits should be eaten to improve eyesight, providing a detailed list of fruits and explaining their nutritional benefits. Therefore, it scores 2 on the linguistic acceptability scale."
+        }
+    },
+    {
+        "prompt_id": "99dbbe30-a7db-4fb4-b41a-e138bd079314",
+        "prompt": "હું માથાના દુખાવાને કઈ રીતે દુર કરી શકું?",
+        "prompt_type": "health",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. It lacks a clear syntactic structure and uses non-existent or incorrect words. The phrase 'કર્ક કર્ક કર્ક' does not make sense in the context of the question. The response does not provide a clear answer to the question about how to alleviate a headache. Therefore, according to the linguistic acceptability metric, the response receives a score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question about how to alleviate a headache, providing a clear and concise solution."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is written in fluent Gujarati, with appropriate use of vocabulary and idiomatic expressions. The sentences are structured well, reflecting the natural rhythm and intonation of spoken language. There are no grammatical errors, and the response is not overly verbose or stilted. The word choices are appropriate for the context, and there is no usage of non-existent or incorrect words. The response effectively answers the question, providing several methods to alleviate a headache, which aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive, with the same phrase repeated multiple times. It does not provide a coherent or meaningful answer to the question about how to alleviate a headache. The response does not align with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are well-structured and reflect the natural rhythm of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also effectively uses idiomatic expressions without sounding forced. It provides a comprehensive answer to the question asked, offering various methods to alleviate a headache, and suggests seeking medical advice if the pain persists. Overall, the response aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences reflect the natural rhythm, emphasis, and intonation of spoken language, and there are no grammatical errors. The response is also appropriate in the context of the question asked."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It contains a repeated phrase 'તમે ઓરિગામી, યોગ અથવા ધ્યાન જેવી શાંત પ્રવૃત્તિઓમાં પણ સામેલ થઈ શકો છો' multiple times which lacks clear syntactic structure and does not make sense in the context of the question. This repetition makes the response incoherent and difficult to understand, thus it does not align with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive. The same advice about practicing slow walking and meditation to calm the mind is repeated multiple times without any variation or additional information. This redundancy makes the response sound unnatural and stilted, which is why it receives a score of 1 according to the linguistic acceptability metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in Gujarati. It uses contextually relevant vocabulary, idiomatic expressions, and maintains a natural rhythm and intonation of the language. The sentences are well-structured and there are no grammatical errors or inappropriate word choices. The response is also clear, concise, and directly answers the question."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable in the context of the question. The question is in Gujarati, but the response is a mix of Gujarati, Hindi, and English. This makes it difficult for a native Gujarati speaker to understand. The response also includes non-existent or incorrect words, which is a criterion for a score of 0 according to the metric. Therefore, the score is 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It provides a detailed list of ways to alleviate a headache, which directly answers the question. The language used is natural and fluent, reflecting the rhythm and intonation of spoken Gujarati. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Gujarati speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Gujarati language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand."
+        }
+    },
+    {
+        "prompt_id": "97f771e9-88ce-4222-9157-7a28566c933b",
+        "prompt": "શરીરમાં કેલ્શિયમના સ્તરમાં અચાનક ઘટાડો થાય ત્યારે શું થાય છે?",
+        "prompt_type": "health",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and is repetitive, with the same phrase repeated multiple times. It does not provide a clear or coherent answer to the question about what happens when there is a sudden decrease in calcium levels in the body. The response also ends abruptly and does not form a complete sentence."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question about what happens when there is a sudden decrease in calcium levels in the body, providing a specific example of a problem that can arise, which is hyperparathyroidism."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The sentences are repetitive and do not make sense in the context of the question. The response does not provide a clear answer to the question about what happens when there is a sudden decrease in calcium levels in the body. The response is also incomplete, ending abruptly with a special character."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively communicates the potential effects of a sudden decrease in calcium levels in the body, which is exactly what the question asked for."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is grammatically correct, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no errors or inappropriate word choices. The response is also not overly verbose or stilted."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language, making it sound natural and fluent. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question about the effects of a sudden decrease in calcium levels in the body, providing a detailed explanation of the potential health issues that can arise. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response is generally acceptable in terms of linguistic structure and fluency. However, there is a minor issue with the use of a non-Gujarati word 'cramps' in the response, which is technically correct but not the most appropriate for the context as the rest of the response is in Gujarati. This falls under the category of 'Use of a word that's technically correct but not the most appropriate for context.' in the scoring rubric, hence the score of 1."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also effectively uses idiomatic expressions and reflects the natural rhythm, emphasis, and intonation of spoken Gujarati language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively answers the question, providing a clear explanation of what happens when the body's calcium levels suddenly drop. Therefore, it scores 2 on the linguistic acceptability scale."
+        }
+    },
+    {
+        "prompt_id": "b4f324bb-64b5-475e-97e9-84ae6f69d8be",
+        "prompt": "વધુ માત્રામાં દવાઈઓના સેવનથી કયા કયા નુકસાન થાય છે?",
+        "prompt_type": "health",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful information in response to the question. The same phrase is repeated multiple times without any variation or additional detail. This does not align with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Gujarati language. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and directly answers the question."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language, making it sound natural and fluent. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive, making it difficult to understand. The response also uses non-existent or incorrect words, which further hinders comprehension. The response does not provide a clear or coherent answer to the question about the potential harms of taking medication in excess."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also reflects the natural rhythm and intonation of spoken language. It provides a detailed and comprehensive answer to the question about the potential harms of overusing medication, making it not only linguistically acceptable but also informative and useful."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also reflects the natural rhythm and intonation of spoken language, making it easy to understand and follow. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It starts off well, providing a relevant answer to the question, but then it devolves into a repetitive string of the same word 'ઉબકા' (vomit), which is not only grammatically incorrect but also lacks clear syntactic structure. This repetition does not provide any additional information or context, making the response incoherent and difficult to understand. Therefore, the score is 0 as per the metric 'linguistic_acceptability'."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It starts off well, providing a few examples of the potential side effects of taking medication in excess. However, it then devolves into a repetitive string of the same word 'ઝાડા' (fever), which is repeated excessively. This repetition lacks clear syntactic structure and is not appropriate in the given context, thus violating the norms of fluent human language. Therefore, the response gets a score of 0 as per the 'linguistic_acceptability' metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It repeats the phrase 'ઊંઘની ગુણવત્તામાં ઘટાડો' (decrease in sleep quality) multiple times without any context or reason, which lacks clear syntactic structure. This repetition makes the response confusing and difficult to understand, thus violating the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Gujarati speaker's linguistic intuition. The sentences are well-structured and clear, with no grammatical errors. The response uses contextually relevant vocabulary and idiomatic expressions effectively, and reflects the natural rhythm, emphasis, and intonation of spoken Gujarati language. The response is also appropriate in the context of the question, providing a detailed explanation of the potential harms of overusing medications."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and uses non-existent or incorrect words. The response does not provide any meaningful or relevant information to the question asked. It seems to be a random repetition of unrelated words and phrases, which makes it incomprehensible and irrelevant to the question about the side effects of taking medication in excess. Therefore, the score is 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm and intonation of spoken language, making it easy to understand and follow. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Gujarati speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Gujarati language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, providing a comprehensive answer to the question."
+        }
+    },
+    {
+        "prompt_id": "245182f4-9873-476c-90b6-95f9ac624cb7",
+        "prompt": "ગુજરાતમાં મુખ્યત્વે કયા કયા તહેવારો ઉજવવામાં આવે છે જે ગુજરાતની એક અલગ ઓળખ આપે છે?",
+        "prompt_type": "culture",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about the main festivals celebrated in Gujarat that give it a unique identity, but the response does not mention any festivals. Instead, it repeats the question and adds some irrelevant sentences. The response lacks clear syntactic structure and does not provide any meaningful information in response to the question. Therefore, according to the linguistic acceptability metric, the response gets a score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Gujarati language. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question about the main festivals celebrated in Gujarat that give the state a unique identity."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary and idiomatic expressions. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Gujarati language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent and aligns with the implicit norms and rules of a native Gujarati speaker's linguistic intuition."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is difficult to understand. The sentences do not make sense in the context of the question. The response does not provide any information about the festivals celebrated in Gujarat that give it a unique identity, which was the original question. The usage of words and phrases is incorrect and inappropriate for the given context. The response is not fluent, idiomatic, or appropriate in context."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the norms and rules of the Gujarati language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response is also contextually relevant and provides a comprehensive answer to the question asked. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question about the main festivals celebrated in Gujarat that give the state a unique identity."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response does not answer the question about the main festivals celebrated in Gujarat that give it a unique identity. Instead, it talks about a 'Dholiya' festival in a place called 'Dholiya', which is not a known festival or place in Gujarat. The response also includes the phrase 'historic town', which is in English, not Gujarati. This is inappropriate in the given context where the question and response are expected to be in Gujarati."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively uses idiomatic expressions without sounding forced. It provides a comprehensive answer to the question, detailing various festivals celebrated in Gujarat that contribute to its unique identity."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses the same word 'ગોરિયાન' repetitively, which does not make sense in the context of the question. This is a clear violation of the implicit norms and rules of a native speaker's linguistic intuition, hence the score of 0."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure as the same phrase 'વાસંત ઋતુની શરૂઆત, ગુજરાતના લોકોની સંસ્કૃતિ અને પરંપરાઓને પ્રતિબિંબિત કરતી' is repeated multiple times without any context or reason. This repetition does not make sense and does not provide any additional information or clarity to the response. It seems like an error in the response generation. Therefore, the score is 0 as per the 'linguistic_acceptability' metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions without sounding forced. It provides a comprehensive list of festivals celebrated in Gujarat, which is exactly what the question asked for. Therefore, it gets the highest score according to the linguistic acceptability metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The response effectively lists the festivals celebrated in Gujarat that give the state a unique identity, and it does so in a fluent and idiomatic manner. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response fits naturally within the expected contours of fluent human language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Gujarati speaker's linguistic intuition. It effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Gujarati language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the context of the question asked."
+        }
+    },
+    {
+        "prompt_id": "011bf952-c6bd-440a-ba6b-02205861093d",
+        "prompt": "ગુજરાતમાં શા માટે નવરાત્રીનું તહેવાર ઉજવવામાં આવે છે?",
+        "prompt_type": "culture",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as per the given metric. The response does not answer the question asked. The question asks why the festival of Navratri is celebrated in Gujarat, but the response provides the meaning of the word 'Navratri' instead of explaining the reason for its celebration. This is a grossly inappropriate response for the given context, which aligns with the scoring rubric's 0(c) criteria. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Gujarati speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Gujarati language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Gujarati language. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively integrates contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Gujarati language."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is difficult to understand. The sentences do not make sense in the context of the question. The response does not provide a clear answer to the question about why the festival of Navratri is celebrated in Gujarat. The usage of words and phrases is incorrect and inappropriate for the given context."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the given context. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question about why the festival of Navratri is celebrated in Gujarat, providing contextually relevant information about the worship of the goddess during this festival."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively integrates contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Gujarati language."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is a mix of Gujarati and Hindi, and some words are not translated correctly. For example, 'sites, như ધમનેર, માંડુ, ધોલા, ઇંદોર' and 'धार्मिकsites पर ध्यान केन्द्रित होता है।' do not make sense in Gujarati. The response also uses Hindi words like 'सांस्कृतिक', 'तहेवार', 'रीतिओं', 'नृत्य', 'संगीत', 'रांचा', 'कार्यक्रम', 'पर्यटक', 'यात्राओं', 'उदाहरण', 'सागर', 'लक्ष्मण', 'रणजीत' which are not used in Gujarati. Therefore, the response does not align with the implicit norms and rules of a native Gujarati speaker's linguistic intuition."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively integrates contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Gujarati language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Gujarati language. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively integrates contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Gujarati language."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Overall, the response aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively integrates contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Gujarati language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        }
+    },
+    {
+        "prompt_id": "43f5b8fd-51c8-48c4-b51a-551efcfb87e0",
+        "prompt": "નવરાત્રીના તહેવારમાં લોકો શા માટે નવ દિવસ ગરબા રમે છે અને નવરાત્રી માત્ર નવ દિવસ જ કેમ ઉજવવામાં આવે છે?",
+        "prompt_type": "culture",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful answer to the question. The response is simply a repetition of the question, which does not align with the implicit norms and rules of a native speaker's linguistic intuition. It does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Gujarati language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing a clear and concise explanation for why people dance for nine days during Navratri and why the festival is celebrated for nine days only."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question, providing a clear and concise explanation for why Navratri is celebrated for nine days and why people dance Garba during this festival. The response reflects the natural rhythm, emphasis, and intonation of spoken Gujarati language."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is also not coherent and does not answer the question asked. The translation of the response does not make sense in English, indicating that the response is not linguistically acceptable in Gujarati as well."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively explains why Navratri is celebrated for nine days and why people play Garba during this festival, aligning well with the question asked."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question about why people celebrate Navratri for nine days and why it is celebrated with Garba dance, reflecting the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response is in Hindi, not Gujarati, which is the language of the question. This is a clear violation of linguistic acceptability as the response does not align with the implicit norms and rules of a native Gujarati speaker's linguistic intuition. However, the response is grammatically correct and makes sense in the context of the question, hence it does not score 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive. The same point about the purpose of the festival being to remember the blessings of the nine days, each given a specific name, is repeated three times. While the response is grammatically correct and uses appropriate vocabulary, the repetition makes it sound stilted and unnatural. Therefore, it scores 1 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary and idiomatic expressions. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Gujarati language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent and aligns with the implicit norms and rules of a native Gujarati speaker's linguistic intuition."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it lacks clear syntactic structure. The same sentence is repeated three times in the response, which does not make sense in the context of the question. This repetition does not provide any new or relevant information to answer the question. Therefore, the score is 0 according to the 'linguistic_acceptability' metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The response also effectively uses idiomatic expressions and reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors or inappropriate word choices. The response is fluent and aligns with the implicit norms and rules of a native Gujarati speaker's linguistic intuition."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Gujarati speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Gujarati language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively explains why Navratri is celebrated for nine days and why people dance Garba during this festival, which aligns with the question asked."
+        }
+    },
+    {
+        "prompt_id": "ca6bdfba-559b-4026-8c64-870cc5333f9b",
+        "prompt": "ગુજરાતમાં મુખ્યત્વે કેટલા નૃત્ય થાય છે અને કયા કયા અને તેનું મુખ્ય હેતુ શું છે?",
+        "prompt_type": "culture",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful information in response to the question. The response is essentially a repetition of the question, which does not align with the implicit norms and rules of a native speaker's linguistic intuition. Therefore, the score is 0 according to the given metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions without sounding forced. It adheres to the implicit norms and rules of a native speaker's linguistic intuition, fitting within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The names of the dances mentioned in the response do not make sense and do not correspond to any known Gujarati dances. The response also does not provide a clear purpose for the dances, which was asked in the question. Therefore, the response is not acceptable in terms of linguistic norms and rules of a native Gujarati speaker's intuition."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions without sounding forced. It provides a clear and concise answer to the question, demonstrating a seamless integration of contextually relevant vocabulary."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The response effectively answers the question, providing the number of dances in Gujarat and their names, as well as their main purpose. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response reflects the natural rhythm, emphasis, and intonation of spoken Gujarati language."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive, with the same phrases repeated over and over again. This does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response does not answer the question effectively and does not provide the main purpose of the dances as asked in the question. Therefore, the score is 0 as per the metric 'linguistic_acceptability'."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive, with the same phrase 'ગુજરાતી કથાકથા' repeated multiple times. This repetition does not make sense in the context of the question, which asks about the types of dances in Gujarat and their main purpose. The response does not provide any relevant information to answer the question. Therefore, it scores 0 according to the 'linguistic_acceptability' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses the same word 'ગુજરાતી' repetitively without providing any meaningful information. It does not answer the question about the types of dances in Gujarat and their main purpose. The response is not fluent, idiomatic, or appropriate in context."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is repetitive and does not provide any meaningful information in response to the question. The same word 'કોઠા' is repeated multiple times without any context or explanation. The response does not answer the question about the types of dances in Gujarat and their main purpose. Therefore, the score is 0."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Gujarati language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing information about the main dances in Gujarat and their purposes."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The response is fluent and idiomatic, reflecting the natural rhythm and intonation of spoken Gujarati language. It effectively answers the question by listing the main dances in Gujarat and their purposes. There are no grammatical errors or inappropriate word choices. The response is not overly verbose or stilted, and it uses words that are appropriate for the context."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Gujarati language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively uses idiomatic expressions without sounding forced. It also seamlessly integrates contextually relevant vocabulary. Therefore, it scores 2 on the linguistic acceptability scale."
+        }
+    },
+    {
+        "prompt_id": "346149bc-0a12-4c87-9b13-4e144176f2f8",
+        "prompt": "ગુજરાતમાં કયા મેળા પ્રખ્યાત છે અને તે ક્યારે ઉજવવામાં આવે છે?",
+        "prompt_type": "culture",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it does not answer the question asked. The question asks about famous fairs in Gujarat and when they are celebrated, but the response talks about the best time to plant a tree. This is a grossly inappropriate response for the given context, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Gujarati language. The response is fluent, idiomatic, and appropriate in the context of the question. It provides a detailed answer to the question, listing several famous fairs in Gujarat and the months they are celebrated. There are no grammatical errors, incorrect words, or inappropriate word choices. The response reflects the natural rhythm, emphasis, and intonation of spoken Gujarati language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the norms and rules of the Gujarati language. The sentences reflect the natural rhythm and intonation of spoken language. The response is also contextually relevant and provides a comprehensive answer to the question asked. There are no grammatical errors or inappropriate word choices. The response is fluent and idiomatic, and does not sound forced or stilted."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is written in fluent Gujarati, with correct grammar and syntax. The response is clear and concise, and it uses appropriate vocabulary and phrasing. The response is also contextually appropriate, as it directly addresses the question asked. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is grammatically correct, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. It provides a clear and concise answer to the question about famous fairs in Gujarat and when they are celebrated."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary. The sentences reflect the natural rhythm and intonation of the Gujarati language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent and idiomatic, fitting well within the expected contours of the Gujarati language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also effectively uses idiomatic expressions without sounding forced. Overall, the response fits within the natural, expected, and intuitive contours of fluent human Gujarati language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It contains a repeated phrase ('ડિસેમ્બરના છેલ્લા અઠવાડિયામાં') multiple times, which lacks clear syntactic structure and does not align with the implicit norms and rules of a native speaker's linguistic intuition. This repetition does not contribute to the overall meaning or fluency of the response, making it difficult to understand and follow. Therefore, the response gets a score of 0 according to the 'linguistic_acceptability' metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Overall, the response fits within the natural, expected, and intuitive contours of fluent human Gujarati language."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The response provides a detailed list of famous fairs in Gujarat and when they are celebrated, which directly answers the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively integrates contextually relevant vocabulary and provides a clear and comprehensive answer to the question."
+        }
+    },
+    {
+        "prompt_id": "c7903597-9dd3-4e53-86f0-af5158f4a365",
+        "prompt": "પાટણનું પટોળું સાળી શા માટે વિશ્વભરમાં પ્રખ્યાત છે એની વિશેષ ઓળખ શું છે?",
+        "prompt_type": "culture",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful information. The response is simply a repetition of the question, which does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response does not adhere to grammar rules and does not fit within the natural, expected, and intuitive contours of fluent human language. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Gujarati language. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively integrates contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Gujarati language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Gujarati language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively integrates contextually relevant vocabulary and provides a clear and concise answer to the question."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and is repetitive. The response does not answer the question asked, which was about the special recognition of Patan's Patola saree. Instead, it talks about patent numbers and engineering, which is irrelevant to the question. The response also uses incorrect and non-existent words, making it difficult to understand. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The response is fluent and idiomatic, reflecting the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively answers the question about the special recognition of Patan's Patola saree worldwide."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It does not answer the question asked, which was about the special recognition of Patan's Patola saree. Instead, the response talks about Patan as a religious and historical city, which is not relevant to the question. The response also contains repeated sentences and phrases, which lack clear syntactic structure. Furthermore, the response is in Hindi, not Gujarati, which is the language of the question. Therefore, the response gets a score of 0 for linguistic acceptability."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is overly repetitive, with the word 'પટોળું' repeated multiple times without any meaningful context or information. This does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively describes the unique characteristics of Patan's Patola, making it popular worldwide, which aligns with the question asked."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it adheres to the norms and rules of the Gujarati language. The sentences are well-structured and use contextually relevant vocabulary. The response also reflects the natural rhythm, emphasis, and intonation of spoken Gujarati language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Gujarati language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about the special recognition of Patan's Patola Saree worldwide, providing detailed information about its intricate design, the unique 'double ikat' weaving method, and the fact that each piece is handcrafted, making its design beautiful and subtle. Overall, the response is fluent, idiomatic, and appropriate in context."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively integrates contextually relevant vocabulary and idiomatic expressions without sounding forced. Therefore, it receives a score of 2, the highest score for linguistic acceptability."
+        }
+    },
+    {
+        "prompt_id": "2c6387a0-dd4c-4bfa-a56e-a61a7cee7c6d",
+        "prompt": "ગુજરાતમાં ઉજવવામાં આવતા અષાઢી બીજનું શું મહત્વ છે અને તે શા માટે ઉજવવામાં આવે છે?",
+        "prompt_type": "culture",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. It merely repeats the question and does not provide any information about the significance of Ashadhi Beej in Gujarat and why it is celebrated. This is a clear example of a sentence that lacks clear syntactic structure, which is one of the reasons for a score of 0 in the linguistic acceptability metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent and fits within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively explains the significance of Ashadhi Beej in Gujarat and why it is celebrated, aligning well with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and does not provide a coherent answer to the question. The sentences are not well-structured and the usage of words is incorrect and inappropriate in the given context. The response does not provide any information about the significance of Ashadhi Bij festival in Gujarat and why it is celebrated, which was asked in the question. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language. It effectively uses idiomatic expressions without sounding forced. Therefore, it aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Gujarati speaker's linguistic intuition. It is grammatically correct, uses appropriate vocabulary, and fits naturally within the context of the question. The response is fluent, idiomatic, and appropriate in context, reflecting the natural rhythm, emphasis, and intonation of spoken Gujarati language."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response is generally acceptable in terms of linguistic structure and fluency. However, it contains a mix of Gujarati and Hindi words, which may not be the most appropriate for the context. The response also contains some non-existent words and incorrect usage of words. For example, 'standpointesથી' and 'Lord Shiva की शक्ति की एक अभ्यंतर है।' are not correct in Gujarati. Therefore, the score is 1, indicating minor errors that do not impede understanding but are not the most appropriate for the context."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, with the same phrases being used multiple times. This makes the response sound stilted and unnatural. However, the response does not contain any grammatical errors or inappropriate word choices, and it does answer the question correctly. Therefore, it receives a score of 1 according to the linguistic acceptability metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Gujarati language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is contextually relevant and provides a comprehensive answer to the question."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response is linguistically acceptable in terms of grammar and syntax. However, it is overly verbose and repetitive. The same information about the construction of a bridge from wooden pieces, which is a symbol of successful business relationships and for which people pray for success in their business, is repeated three times. This repetition makes the response unnecessarily long and redundant, which is why it scores a 1 according to the metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, demonstrating a high level of linguistic acceptability."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Overall, the response aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Gujarati speaker's linguistic intuition. It effectively uses contextually relevant vocabulary and idiomatic expressions. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Gujarati language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent, idiomatic, and appropriate in the context of the question."
+        }
+    },
+    {
+        "prompt_id": "2283a2f5-c200-4f95-a8a1-7ec0535ebb8b",
+        "prompt": "ગુજરાતમાં લોકો અલગ અલગ તહેવારે કેવા પ્રકારનું ભોજન તૈયાર કરે છે?",
+        "prompt_type": "culture",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely incorrect and does not answer the question at all. The response is a mistranslation of the question, interpreting the words in the question as 'lock', 'key', 'door', etc. which is incorrect. The question is about the types of food prepared during different festivals in Gujarat, but the response does not provide any information related to this. Therefore, the response lacks clear syntactic structure and uses incorrect words, which are reasons for a score of 0 according to the linguistic acceptability metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively integrates contextually relevant vocabulary and provides a clear and comprehensive answer to the question."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Gujarati language. The sentences reflect the natural rhythm and intonation of spoken language. The response also effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is contextually relevant and answers the question accurately."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive, with phrases like 'તેમના તદકારો તોળાવો' repeated multiple times without any clear meaning or context. It does not provide a coherent or meaningful answer to the question about the types of food prepared during different festivals in Gujarat. The response does not adhere to the implicit norms and rules of a native speaker's linguistic intuition, and does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. It provides a detailed explanation of the types of food prepared during different festivals in Gujarat, which directly answers the question. The response also uses idiomatic expressions naturally and reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors or inappropriate word choices. Therefore, it receives a score of 2."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is grammatically correct and uses appropriate vocabulary in the context of the question. The response is fluent and idiomatic, reflecting the natural rhythm and intonation of spoken Gujarati language. It effectively answers the question about the types of food prepared during different festivals in Gujarat by listing various dishes like fafda, dhokla, vadelu dhokri, shekhmand, falo, chola puri, etc. There are no errors or inappropriate word choices, making the response perfectly acceptable in the given context."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It provides a detailed explanation of the types of food prepared during different festivals in Gujarat. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent and idiomatic, fitting well within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Gujarati language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively describes the types of food prepared during different festivals in Gujarat, providing specific examples and details, which makes it contextually relevant and idiomatic."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response also effectively uses idiomatic expressions without sounding forced."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive. The same information about people preparing various types of food during festivals in Gujarat, specifically during Diwali, is repeated multiple times. While the response is grammatically correct and uses appropriate vocabulary, the repetition makes it sound stilted and unnatural. Therefore, according to the linguistic acceptability metric, the response receives a score of 1."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native Gujarati speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Gujarati language. Therefore, the response gets a score of 2."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Gujarati language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and easy to understand."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is a good fit within the natural, expected, and intuitive contours of fluent human language."
+        }
+    },
+    {
+        "prompt_id": "82218f85-5d5b-46a1-a57b-a6e709bc4d23",
+        "prompt": "ગુજરાતી લોકો કેવા પ્રકારના કપડા પહેરવાનું પસંદ કરે છે જે તેઓની અલગ ઓળખ આપે છે?",
+        "prompt_type": "culture",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it does not provide any meaningful information in response to the question. The response is essentially a repetition of the question itself, without any additional information or context. This does not align with the implicit norms and rules of a native speaker's linguistic intuition, as it does not provide a satisfactory answer to the question. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively integrates contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Gujarati language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, such as 'ચાણીયા', 'કેદિયા', and 'સાડી', which are traditional Gujarati clothing items. The sentences reflect the natural rhythm and intonation of spoken Gujarati language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and uses non-existent or incorrect words. The response does not answer the question about the type of clothes Gujarati people prefer to wear that gives them a unique identity. Instead, it talks about a person assisting in a cloth measuring ceremony, which is irrelevant to the question. The response is also confusing and hard to understand due to the incorrect usage of words and phrases. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Gujarati language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentence structure aligns with the implicit norms and rules of a native Gujarati speaker's linguistic intuition. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response reflects the natural rhythm, emphasis, and intonation of spoken Gujarati language."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is overly repetitive, with the same phrases repeated multiple times. This repetition does not contribute to the meaning or understanding of the response. The response also does not provide a comprehensive answer to the question, as it only mentions one type of clothing (પાટ્ટા) that Gujarati people might wear, and does not elaborate on how this clothing contributes to their distinct identity. The response also includes non-existent or incorrect words, as seen in the repeated phrases."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses the same word 'ડોલ્બા' repetitively without providing any meaningful information. This repetition of the same word makes the response nonsensical and does not align with the implicit norms and rules of a native speaker's linguistic intuition. Therefore, the score is 0 as per the metric 'linguistic_acceptability'."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native Gujarati speaker's linguistic intuition. The sentences have clear syntactic structure, correct words are used, and the word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Gujarati language. Therefore, the response gets a score of 2."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response is generally acceptable in terms of linguistic structure and grammar. However, it is overly verbose and repetitive, with the same information being repeated twice. This redundancy makes the response sound stilted and unnatural, which is why it receives a score of 1 according to the linguistic acceptability metric. The response could have been more concise and to the point, avoiding unnecessary repetition."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Gujarati speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Gujarati language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and easy to understand."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Gujarati speaker's linguistic intuition. The response effectively uses idiomatic expressions and reflects the natural rhythm, emphasis, and intonation of spoken Gujarati language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is contextually relevant and fits within the natural, expected, and intuitive contours of fluent human Gujarati language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any non-existent or incorrect words, and the word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors that impede understanding. The response effectively uses idiomatic expressions without sounding forced, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response receives a score of 2."
+        }
+    },
+    {
+        "prompt_id": "4c4174b3-769c-4dc6-a98d-867b7bd903f4",
+        "prompt": "ગુજરાતમાં લગ્ન સમયે કરવામાં આવતી વિવિધ વિધિઓ જણાવો",
+        "prompt_type": "culture",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful information in response to the question. The repeated phrases do not make sense in the context of the question, which asks for various rituals performed during a wedding in Gujarat. The response does not provide any information on this topic, making it inappropriate for the given context."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is written in fluent Gujarati, with correct grammar and syntax. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response also effectively uses contextually relevant vocabulary to describe the different rituals performed during a wedding in Gujarat. There are no errors or inappropriate word choices, and the response is not overly verbose or stilted. It aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and follows the natural rhythm of the Gujarati language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively describes the various rituals performed during a wedding in Gujarat, which aligns with the question asked. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide a coherent answer to the question. The response is repetitive and does not make sense in the context of the question. The response also uses non-existent or incorrect words, making it difficult to understand. The response does not provide any information about the various rituals performed during a wedding in Gujarat, which was the question asked. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively describes various rituals performed during a wedding in Gujarat, which aligns perfectly with the question asked."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary and phrases that are contextually relevant to the question. The response also reflects the natural rhythm and intonation of spoken language. There are no grammatical errors or inappropriate word choices. The response is not overly verbose or stilted, and it effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response is generally understandable and provides a detailed answer to the question. However, there are several instances of incorrect language usage and mixing of Hindi and Gujarati words, which makes the response linguistically unacceptable. For example, words like 'रणजीत', 'गायब', 'वकील', 'गल्दी', 'मंगल की राय' are not appropriate in this context and seem to be incorrectly used. These errors do not completely impede understanding but they do make the response less fluent and idiomatic."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response starts off well, providing some information about the various rituals involved in a Gujarati wedding. However, it quickly becomes nonsensical with the repeated use of the word 'સાંજે' (evening) without any context or meaning. This repetition lacks clear syntactic structure and does not align with the implicit norms and rules of a native speaker's linguistic intuition. Therefore, the score is 0 according to the 'linguistic_acceptability' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response starts off well, providing some information about the various rituals performed during a wedding in Gujarat. However, it quickly becomes repetitive, repeating the same sentence about the couple wearing their wedding attire multiple times. This repetition lacks clear syntactic structure and does not align with the implicit norms and rules of a native speaker's linguistic intuition, thus scoring 0 on the linguistic acceptability scale."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is overly repetitive, using the same phrase 'સંજ્ઞાસૂચિ' multiple times without providing any meaningful information. This does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and follows the natural rhythm and intonation of the Gujarati language. The response is also contextually relevant and provides a detailed explanation of the various rituals performed during a wedding in Gujarat. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and follows the natural rhythm of the Gujarati language. The response is also contextually relevant, providing a detailed explanation of the various rituals performed during a wedding in Gujarat. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions and reflects the natural rhythm, emphasis, and intonation of spoken Gujarati language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is repetitive and lacks clear syntactic structure. The same phrase 'મંડપમાં કોઈપણ અવરોધોને દૂર કરવાની છે' is repeated multiple times without providing any new information. This repetition does not align with the implicit norms and rules of a native speaker's linguistic intuition. Additionally, the response does not provide a comprehensive list of the various rituals performed during a wedding in Gujarat, which was the main requirement of the question."
+        }
+    }
+]

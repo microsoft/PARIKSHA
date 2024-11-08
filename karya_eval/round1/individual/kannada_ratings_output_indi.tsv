@@ -1,0 +1,708 @@
+model	prompt_id	worker_id	ling_rating	task_rating	hallucination_rating	ling_rating_reasoning	task_rating_reasoning	hallucination_reasoning
+Tensoic/Kan-Llama-7B-SFT-v0.5	bc293bda-e649-46f7-9fef-2d208160b32d	1234	0	0	True	language has been changed in english	change of language, it is not right	yes hallucination is there
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	bc293bda-e649-46f7-9fef-2d208160b32d	1234	2	1	True	given sentence are correct	it is not the right answer	NO hallucination 
+meta-llama/Llama-2-7b-chat-hf	bc293bda-e649-46f7-9fef-2d208160b32d	1234	0	0	True	sentence are not correct	it is not the right answer	yes hallucination is there
+meta-llama/Meta-Llama-3-8B-Instruct	bc293bda-e649-46f7-9fef-2d208160b32d	1234	2	2	False	given sentence are correct	it is the right answer	No hallucination
+meta-llama/Meta-Llama-3-70B-Instruct	bc293bda-e649-46f7-9fef-2d208160b32d	1234	1	2	False	added on english letter	it is the right answer	No hallucination
+mistralai/Mistral-7B-Instruct-v0.2	bc293bda-e649-46f7-9fef-2d208160b32d	1234	0	0	True	given sentence  formation is not right	content is not right	yes hallucination is there
+gpt-4	bc293bda-e649-46f7-9fef-2d208160b32d	1234	2	1	False	given sentence are correct	minor mistake in given poimt	No hallucination
+gpt-35-turbo	bc293bda-e649-46f7-9fef-2d208160b32d	1234	2	1	False	sentence are correct	minor mistake in given sentence	No hallucination
+google/gemma-7b-it	bc293bda-e649-46f7-9fef-2d208160b32d	1234	0	0	True	given language is not correct	answer is not right	yes hallucination is there
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	bc293bda-e649-46f7-9fef-2d208160b32d	1234	2	2	False	sentence are correct	answer is right	No hallucination
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	bc293bda-e649-46f7-9fef-2d208160b32d	1234	2	2	False	sentence are correct	answer is right	No hallucination
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	bc293bda-e649-46f7-9fef-2d208160b32d	1234	2	0	True	sentence are correct	answer is not right	yes hallucination is there
+GPT4o	bc293bda-e649-46f7-9fef-2d208160b32d	1234	2	2	False	sentence are correct	given answer is right	No hallucination
+GenVRadmin/llama38bGenZ_Vikas-Merged	bc293bda-e649-46f7-9fef-2d208160b32d	1234	2	1	False	sentence are correct	given answer is right, but sentence are not continued	No hallucination
+Tensoic/Kan-Llama-7B-SFT-v0.5	2dc0c075-62cf-472e-b6bc-18a4361667de	1234	1	2	False	language quality is good 	repeated content , but answer is right	No hallucination
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	2dc0c075-62cf-472e-b6bc-18a4361667de	1234	2	2	False	language quality is good 	answer is right	No hallucination
+meta-llama/Llama-2-7b-chat-hf	2dc0c075-62cf-472e-b6bc-18a4361667de	1234	2	0	True	language quality is good 	given content is not right	yes hallucination is there
+meta-llama/Meta-Llama-3-8B-Instruct	2dc0c075-62cf-472e-b6bc-18a4361667de	1234	2	2	False	language quality is good 	answer is right	No hallucination
+meta-llama/Meta-Llama-3-70B-Instruct	2dc0c075-62cf-472e-b6bc-18a4361667de	1234	2	2	False	language quality is good 	answer is right	No hallucination
+mistralai/Mistral-7B-Instruct-v0.2	2dc0c075-62cf-472e-b6bc-18a4361667de	1234	1	0	True	language quality is good,but sentence are repeated 	given content is not right	yes hallucination is there
+gpt-4	2dc0c075-62cf-472e-b6bc-18a4361667de	1234	2	2	False	language quality is good 	content is  right	No hallucination
+gpt-35-turbo	2dc0c075-62cf-472e-b6bc-18a4361667de	1234	2	2	False	language quality is good	given content is right	No hallucination
+google/gemma-7b-it	2dc0c075-62cf-472e-b6bc-18a4361667de	1234	2	1	True	language quality is good	answer is right , but repeated words are thhere	yes hallucination is there
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	2dc0c075-62cf-472e-b6bc-18a4361667de	1234	2	2	False	language quality is good 	given answer is right	No hallucination
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	2dc0c075-62cf-472e-b6bc-18a4361667de	1234	2	2	False	language quality is good 	given answer is right	No hallucination
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	2dc0c075-62cf-472e-b6bc-18a4361667de	1234	2	2	False	language an sentence are correct	given answer is right	No hallucination
+GPT4o	2dc0c075-62cf-472e-b6bc-18a4361667de	1234	2	1	True	language an sentence are correct	answer is right , but mistakes done in some sentence	yes hallucination is there
+GenVRadmin/llama38bGenZ_Vikas-Merged	2dc0c075-62cf-472e-b6bc-18a4361667de	1234	2	1	True	language quality is good 	only some sentence are right	yes hallucination is there
+Tensoic/Kan-Llama-7B-SFT-v0.5	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1234	1	1	True	language quality is not good , contant is repeated	answer is right  , but not exactly	yes hallucination is there
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1234	1	1	True	language quality is good but content  is repeated	answer is right but mistake in sentence	yes hallucination is there
+meta-llama/Llama-2-7b-chat-hf	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1234	0	0	True	language quality is not good , contant is repeated	answer is not right	yes hallucination is there
+meta-llama/Meta-Llama-3-8B-Instruct	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1234	2	2	False	language quality is good 	given anwer is right	No hallucination
+meta-llama/Meta-Llama-3-70B-Instruct	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1234	2	2	False	language quality and sentence are correct	given answer is right	No hallucination
+mistralai/Mistral-7B-Instruct-v0.2	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1234	1	0	True	language quality is good but words  are repeated	given anwer is not right	yes hallucination is there
+gpt-4	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1234	2	2	False	language quality and sentence are correct	given answer is right	No hallucination
+gpt-35-turbo	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1234	2	1	True	language quality is good	some sentence are in correct	yes hallucination is there
+google/gemma-7b-it	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1234	1	0	True	language quality is good , but repeated content	no answer is given	yes hallucination is there
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1234	1	1	True	language quality is good but  incorrect sentence	only some sentence are right	yes hallucination is there
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1234	2	2	False	Given content is correct	answer is right	No hallucination
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1234	2	2	False	Given language quality and content is correct	answer is right	No hallucination
+GPT4o	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1234	1	2	False	minor mistake done in language	answer is right	No hallucination
+GenVRadmin/llama38bGenZ_Vikas-Merged	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1234	2	1	False	language quality and sentence are correct	anwer is right but content is very less	No hallucination
+Tensoic/Kan-Llama-7B-SFT-v0.5	84678da4-914e-4854-a475-f6b2a1e291f4	1234	2	1	True	language quality is good but repeated content	answer is right but repeated sentence occured	yes hallucination is there
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	84678da4-914e-4854-a475-f6b2a1e291f4	1234	2	2	False	language quality and sentence are correct	Given answer is right	No hallucination
+meta-llama/Llama-2-7b-chat-hf	84678da4-914e-4854-a475-f6b2a1e291f4	1234	1	0	True	language quality is not good , contant is repeated	Given answer is incorretect	yes hallucination is there
+meta-llama/Meta-Llama-3-8B-Instruct	84678da4-914e-4854-a475-f6b2a1e291f4	1234	2	2	False	language quality is good	given answer is right	No hallucination
+meta-llama/Meta-Llama-3-70B-Instruct	84678da4-914e-4854-a475-f6b2a1e291f4	1234	2	2	False	language quality and sentence are correct	given answer is right	No hallucination
+mistralai/Mistral-7B-Instruct-v0.2	84678da4-914e-4854-a475-f6b2a1e291f4	1234	0	0	True	language quality is not good	answer is incorrect	yes hallucination is there
+gpt-4	84678da4-914e-4854-a475-f6b2a1e291f4	1234	2	2	False	language quality is good	given answer is right	No hallucination
+gpt-35-turbo	84678da4-914e-4854-a475-f6b2a1e291f4	1234	2	2	False	given sentence is correct	given answer is right	No hallucination
+google/gemma-7b-it	84678da4-914e-4854-a475-f6b2a1e291f4	1234	0	0	True	language quality is incorrect	given answer and sentence is not right	yes hallucination is there
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	84678da4-914e-4854-a475-f6b2a1e291f4	1234	2	2	False	language quality and sentence are correct	given content is right	No hallucination
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	84678da4-914e-4854-a475-f6b2a1e291f4	1234	2	2	False	language quality and sentence are correct	given answer is right	No hallucination
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	84678da4-914e-4854-a475-f6b2a1e291f4	1234	2	2	False	language quality and sentence are correct	Given answer is right	No hallucination
+GPT4o	84678da4-914e-4854-a475-f6b2a1e291f4	1234	1	2	True	language quality is not good	given answer is right	yes hallucination is there
+GenVRadmin/llama38bGenZ_Vikas-Merged	84678da4-914e-4854-a475-f6b2a1e291f4	1234	2	1	False	language quality is good	anwer is right but sentence are incomplete	No hallucination
+Tensoic/Kan-Llama-7B-SFT-v0.5	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1234	2	1	True	language quality is good ,sentence formatiom is correct	some points are right ,but repeated content	yes hallucination is there
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1234	2	1	True	language quality is good ,sentence formatiom is correct	some words are incorrect	yes hallucination is there
+meta-llama/Llama-2-7b-chat-hf	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1234	1	0	True	language quality is good,but sentence are repeated 	Given answer is incorretect	yes hallucination is there
+meta-llama/Meta-Llama-3-8B-Instruct	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1234	1	1	True	language quality is good ,but repeated content	Given answer, some pionts are incorretect	yes hallucination is there
+meta-llama/Meta-Llama-3-70B-Instruct	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1234	2	2	False	language quality is good,sentence formation is correct	given answer is right	No hallucination
+mistralai/Mistral-7B-Instruct-v0.2	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1234	1	0	True	language quality is good ,sentence formatiom is incorrect	given answer is not right	yes hallucination is there
+gpt-4	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1234	2	1	True	language quality is good	some points are incorrect	yes hallucination is there
+gpt-35-turbo	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1234	2	0	True	language quality is good,sentence formation is correct	Given answer is incorrect	yes hallucination is there
+google/gemma-7b-it	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1234	0	0	True	language quality is not good, sentence formation is incorrect	Given answer is incorrect	Yes hallucination is there
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1234	1	0	True	language quality is good , but repeated content	Given answer is incorrect	Yes hallucination is there
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1234	0	0	True	language quality is good ,but repeated content	Given answer is incorrect	Yes hallucination is there
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1234	2	2	False	language quality is good ,sentence formation is correct	Given answer is right 	No hallucination
+GPT4o	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1234	2	1	True	language quality is good ,sentence formation is correct	some points are incorrect	Yes hallucination is there
+GenVRadmin/llama38bGenZ_Vikas-Merged	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1234	2	2	False	language quality is good ,sentence formation is correct	Give answer is right 	No hallucination
+Tensoic/Kan-Llama-7B-SFT-v0.5	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1234	2	2	False	language quality is good ,sentence formation is correct	Given answer is correct	No hallucination
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1234	0	0	True	language quality is good ,sentence are repeated	Given answer is incorrect	Yes hallucination is there
+meta-llama/Llama-2-7b-chat-hf	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1234	0	0	True	language quality is good ,given content is repeated	Given answeris is incorrect	Yes hallucination is there
+meta-llama/Meta-Llama-3-8B-Instruct	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1234	1	0	True	language quality is good,sentence formation is incorrect	Given answer is incorrect	Yes hallucination is there
+meta-llama/Meta-Llama-3-70B-Instruct	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1234	2	2	False	language quality is good ,sentence formation is correct	Given answer is right	No hallucination
+mistralai/Mistral-7B-Instruct-v0.2	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1234	1	0	True	repeated content	Given answer is incorrect	Yes hallucination is there
+gpt-4	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1234	1	1	True	language quality is good,sentence formation is incorrect	some points are incorrect	Yes hallucination is there
+gpt-35-turbo	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1234	2	1	True	language quality is good,sentenceformation is correct	there is a mistake in one point	Yes hallucination is there
+google/gemma-7b-it	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1234	0	0	True	language quality is bad	Given answer is incorrect	Yes hallucination is there
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1234	2	2	False	language is good,sentence formation is correct	Given answer is correct	No hallucination
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1234	1	1	True	language quality is good,sentence formation is incorrect	some points are right ,but repeated content	Yes hallucination is there
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1234	2	1	False	language quality is good,sentence formation is correct	Given answer is right but sentence not continued	No hallucination
+GPT4o	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1234	2	2	False	language quality and sentence are correct	Given answer is right	No hallucination
+GenVRadmin/llama38bGenZ_Vikas-Merged	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1234	2	1	True	language quality is good	Given answer is right but repeated content	Yes hallucination is there
+Tensoic/Kan-Llama-7B-SFT-v0.5	e41cb486-496f-465e-ad07-76fed94a4183	1234	2	2	False	language quality and sentence are correct	Given answer is right	No hallucination
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	e41cb486-496f-465e-ad07-76fed94a4183	1234	2	1	True	language quality is good	content is not clear	Yes hallucination is there
+meta-llama/Llama-2-7b-chat-hf	e41cb486-496f-465e-ad07-76fed94a4183	1234	0	0	True	language quality is bad,sentence formation is incorrect	Given answer is incorrect	Yes hallucination is there
+meta-llama/Meta-Llama-3-8B-Instruct	e41cb486-496f-465e-ad07-76fed94a4183	1234	2	0	True	language quality and sentence are correct	Given answer is incorrect	Yes hallucination is there
+meta-llama/Meta-Llama-3-70B-Instruct	e41cb486-496f-465e-ad07-76fed94a4183	1234	2	2	False	language quality and sentence are correct	Given answer is correct	No hallucination
+mistralai/Mistral-7B-Instruct-v0.2	e41cb486-496f-465e-ad07-76fed94a4183	1234	0	0	True	language quality is bad,sentence formation is incorrect	Given answer is incorrect	Yes hallucination is there
+gpt-4	e41cb486-496f-465e-ad07-76fed94a4183	1234	2	1	False	language quality and sentence are correct	some sentence are not clear	No hallucination
+gpt-35-turbo	e41cb486-496f-465e-ad07-76fed94a4183	1234	2	0	True	language quality and sentence are correct	Given answer is incorrect	Yes hallucination is there
+google/gemma-7b-it	e41cb486-496f-465e-ad07-76fed94a4183	1234	0	0	True	language quality is bad	Given answer is incorrect	Yes hallucination is there
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	e41cb486-496f-465e-ad07-76fed94a4183	1234	2	2	True	language quality and sentence are correct	Given answer is right	No hallucination
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	e41cb486-496f-465e-ad07-76fed94a4183	1234	2	2	True	language quality and sentence are correct	given answer is right	No hallucination
+Tensoic/Kan-Llama-7B-SFT-v0.5	bc293bda-e649-46f7-9fef-2d208160b32d	1235	0	0	True	language wrong 	answer in english 	wrong language 
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	bc293bda-e649-46f7-9fef-2d208160b32d	1235	2	2	False	good sentence formation 	Right answer	No wrong/irrelevant information 
+meta-llama/Llama-2-7b-chat-hf	bc293bda-e649-46f7-9fef-2d208160b32d	1235	0	0	False	Question repeated and wrong sentence formation  	 wrong answer and Question repeated 	Question repeated
+meta-llama/Meta-Llama-3-8B-Instruct	bc293bda-e649-46f7-9fef-2d208160b32d	1235	2	2	False	good sentence formation 	good answer 	No wrong/irrelevant information 
+meta-llama/Meta-Llama-3-70B-Instruct	bc293bda-e649-46f7-9fef-2d208160b32d	1235	2	2	False	good sentence formation 	Right answer	No wrong/irrelevant information 
+mistralai/Mistral-7B-Instruct-v0.2	bc293bda-e649-46f7-9fef-2d208160b32d	1235	0	0	True	wrong sentence formation	Wrong answer  	There is wrong/irrelevant information
+gpt-4	bc293bda-e649-46f7-9fef-2d208160b32d	1235	1	1	True	some sentence and wordr are wrong	partially good 	There is wrong/irrelevant information
+gpt-35-turbo	bc293bda-e649-46f7-9fef-2d208160b32d	1235	1	2	False	One word wrong 	good answer 	No wrong/irrelevant information 
+google/gemma-7b-it	bc293bda-e649-46f7-9fef-2d208160b32d	1235	0	0	True	wrong sentence formation and wrong language	Wrong answer  	There is wrong/irrelevant information 
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	bc293bda-e649-46f7-9fef-2d208160b32d	1235	2	2	False	good sentence formation 	Right answer	No wrong/irrelevant information 
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	bc293bda-e649-46f7-9fef-2d208160b32d	1235	1	1	False	last word incomplete	Quite good answer 	No wrong/irrelevant information 
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	bc293bda-e649-46f7-9fef-2d208160b32d	1235	1	0	True	repeated words 	Wrong answer  	There is wrong/irrelevant information 
+GPT4o	bc293bda-e649-46f7-9fef-2d208160b32d	1235	1	1	False	incomplete words 	Incomplete answer	No wrong/irrelevant information 
+GenVRadmin/llama38bGenZ_Vikas-Merged	bc293bda-e649-46f7-9fef-2d208160b32d	1235	1	1	False	incomplete sentence 	Incomplete answer	No wrong/irrelevant information 
+Tensoic/Kan-Llama-7B-SFT-v0.5	2dc0c075-62cf-472e-b6bc-18a4361667de	1235	1	2	False	some repeated sentence 	good answer 	No wrong/irrelevant information 
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	2dc0c075-62cf-472e-b6bc-18a4361667de	1235	2	2	False	good sentence formation 	Right answer	No wrong/irrelevant information 
+meta-llama/Llama-2-7b-chat-hf	2dc0c075-62cf-472e-b6bc-18a4361667de	1235	0	0	False	question repeated and wrong sentence formation 	Wrong answer  	Question repeated
+meta-llama/Meta-Llama-3-8B-Instruct	2dc0c075-62cf-472e-b6bc-18a4361667de	1235	1	2	False	punctuations are not included , grammar errors	good answer 	No wrong/irrelevant information 
+meta-llama/Meta-Llama-3-70B-Instruct	2dc0c075-62cf-472e-b6bc-18a4361667de	1235	2	2	False	good sentence formation 	Right answer	No wrong/irrelevant information 
+mistralai/Mistral-7B-Instruct-v0.2	2dc0c075-62cf-472e-b6bc-18a4361667de	1235	0	0	True	wrong wordings and sentence  	Wrong answer  	There is wrong/irrelevant information 
+gpt-4	2dc0c075-62cf-472e-b6bc-18a4361667de	1235	0	0	True	wrong sentence formation 	Wrong answer  	There is wrong/irrelevant information
+gpt-35-turbo	2dc0c075-62cf-472e-b6bc-18a4361667de	1235	0	0	True	wrong words used and wrong sentence formation 	Wrong answer  	There is wrong/irrelevant information
+google/gemma-7b-it	2dc0c075-62cf-472e-b6bc-18a4361667de	1235	0	0	True	wrong sentence formation and sentence repeated 	Wrong answer  	There is wrong/irrelevant information
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	2dc0c075-62cf-472e-b6bc-18a4361667de	1235	2	2	False	good sentence formation 	Right answer	No wrong/irrelevant information 
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	2dc0c075-62cf-472e-b6bc-18a4361667de	1235	2	2	False	good sentence formation 	good answer 	No wrong/irrelevant information
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	2dc0c075-62cf-472e-b6bc-18a4361667de	1235	2	2	False	good sentence formation 	Right answer	No wrong/irrelevant information
+GPT4o	2dc0c075-62cf-472e-b6bc-18a4361667de	1235	0	1	False	wrong words and wrong sentence formation 	some data is related to the prompt	No wrong/irrelevant information
+GenVRadmin/llama38bGenZ_Vikas-Merged	2dc0c075-62cf-472e-b6bc-18a4361667de	1235	1	2	False	incompleted sentence	good answer 	No wrong/irrelevant information
+Tensoic/Kan-Llama-7B-SFT-v0.5	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1235	1	0	True	some wrong words 	Wrong answer  	There is wrong/irrelevant information
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1235	1	0	False	sentence repeated and incompleted sentence	Wrong answer and repeated sentence 	No wrong/irrelevant information
+meta-llama/Llama-2-7b-chat-hf	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1235	0	0	False	wrong sentence formation and question repeated 	wrong answer question repeated 	Question repeated
+meta-llama/Meta-Llama-3-8B-Instruct	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1235	2	2	False	good sentence formation 	Right answer	No wrong/irrelevant information
+meta-llama/Meta-Llama-3-70B-Instruct	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1235	2	2	False	good sentence formation 	good answer 	No wrong/irrelevant information
+mistralai/Mistral-7B-Instruct-v0.2	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1235	0	0	True	wrong sentence formation and spelling mistakes	wrong answer 	There is wrong/irrelevant information 
+gpt-4	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1235	1	1	True	some words are wrong 	some data is related to the prompt	There is wrong/irrelevant information 
+gpt-35-turbo	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1235	1	1	False	some words are wrong 	some data is related to the prompt	No wrong/irrelevant information
+google/gemma-7b-it	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1235	0	0	True	wrong sentence formation and incompleted sentence and repeated sentence 	wrong answer and words 	There is wrong/irrelevant information
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1235	1	1	False	sentence repeated and incompleted sentence	partially good but repeated sentence 	No wrong/irrelevant information 
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1235	2	1	False	good sentence formation 	some sentence are good 	No wrong/irrelevant information 
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1235	2	1	False	good sentence formation 	some sentence are good 	No wrong/irrelevant information 
+GPT4o	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1235	1	1	True	wrong language and some wrong words 	some data is related to the prompt	There is wrong/irrelevant information 
+GenVRadmin/llama38bGenZ_Vikas-Merged	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	1235	2	2	False	good sentence formation 	good answer 	No wrong/irrelevant information
+Tensoic/Kan-Llama-7B-SFT-v0.5	84678da4-914e-4854-a475-f6b2a1e291f4	1235	1	1	False	repeated sentence and incompleted sentence  	Some content related to prompt and it is repeated	No wrong/irrelevant information
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	84678da4-914e-4854-a475-f6b2a1e291f4	1235	2	2	False	good sentence formation 	good answer 	No wrong/irrelevant information
+meta-llama/Llama-2-7b-chat-hf	84678da4-914e-4854-a475-f6b2a1e291f4	1235	0	0	False	wrong language and question repeated 	wrong answer and question repeated 	Question repeated
+meta-llama/Meta-Llama-3-8B-Instruct	84678da4-914e-4854-a475-f6b2a1e291f4	1235	2	1	True	good sentence formation 	Some data is related to the prompt	There is wrong/irrelevant information
+meta-llama/Meta-Llama-3-70B-Instruct	84678da4-914e-4854-a475-f6b2a1e291f4	1235	2	2	False	good sentence formation 	Right answer	No wrong/irrelevant information 
+mistralai/Mistral-7B-Instruct-v0.2	84678da4-914e-4854-a475-f6b2a1e291f4	1235	0	0	True	wrong sentence formation and wrong language 	Content is in english and kananda	Content is in english and kananda
+gpt-4	84678da4-914e-4854-a475-f6b2a1e291f4	1235	1	1	True	some words are wrong 	some content related to prompt and it is repeated	There wrong/irrelevant information 
+gpt-35-turbo	84678da4-914e-4854-a475-f6b2a1e291f4	1235	0	0	True	wrong sentence formation 	wrong answer 	There is wrong/irrelevant information  
+google/gemma-7b-it	84678da4-914e-4854-a475-f6b2a1e291f4	1235	0	0	True	incorrect words and incomplete sentence 	wrong answer and wrong words 	There is wrong/irrelevant information
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	84678da4-914e-4854-a475-f6b2a1e291f4	1235	2	2	False	good sentence formation 	Right answer	No wrong/irrelevant information
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	84678da4-914e-4854-a475-f6b2a1e291f4	1235	2	2	False	good sentence formation 	good answer 	No wrong/irrelevant information
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	84678da4-914e-4854-a475-f6b2a1e291f4	1235	2	2	False	good response 	Right answer	No wrong/irrelevant information
+GPT4o	84678da4-914e-4854-a475-f6b2a1e291f4	1235	1	1	True	some words are wrong and some words are in other language 	some content related to prompt and it is repeated	Some content is in other language
+GenVRadmin/llama38bGenZ_Vikas-Merged	84678da4-914e-4854-a475-f6b2a1e291f4	1235	1	1	False	incomplete sentence and one wrong word 	Incomplete answer	No wrong/irrelevant information
+Tensoic/Kan-Llama-7B-SFT-v0.5	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1235	2	1	False	good sentence formation 	some sentence repeated 	No wrong/irrelevant information
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1235	1	1	True	good sentence formation , some words are repeated 	some content is repeated and some are wrong 	There is wrong/irrelevant information
+meta-llama/Llama-2-7b-chat-hf	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1235	0	0	False	incompleted sentence and sentence in other language 	wrong answer and question repeated 	No extra information 
+meta-llama/Meta-Llama-3-8B-Instruct	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1235	2	1	True	good response 	Some content is correct	There is wrong/irrelevant information
+meta-llama/Meta-Llama-3-70B-Instruct	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1235	2	2	False	good response 	Right answer	No wrong/irrelevant information
+mistralai/Mistral-7B-Instruct-v0.2	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1235	0	0	True	wrong sentence formation  	wrong answer 	There is wrong/irrelevant information
+gpt-4	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1235	2	1	True	good sentence formation 	Some content is correct	There is wrong/irrelevant information
+gpt-35-turbo	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1235	1	0	True	Grammar error, no proper sentence formation	No relevant content to prompt	There is wrong/irrelevant information
+google/gemma-7b-it	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1235	0	0	True	wrong sentence formation 	wrong answer  	There is wrong/irrelevant information
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1235	1	1	False	incompleted sentence 	partially good but repeated sentence and words 	No wrong/irrelevant information
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1235	0	1	True	wrong sentence formation 	partially good but repeated words 	There is wrong/irrelevant information
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1235	2	2	False	good response 	Right answer	No wrong/irrelevant information
+GPT4o	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1235	1	1	False	Spelling mistakes	Some content is relevant to the prompt	No wrong/irrelevant information
+GenVRadmin/llama38bGenZ_Vikas-Merged	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	1235	2	2	False	good sentence formation 	Right answer	No wrong/irrelevant information
+Tensoic/Kan-Llama-7B-SFT-v0.5	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1235	2	2	False	good response 	Right answer but last one statement repeated 	No wrong/irrelevant information
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1235	1	1	False	incomplete words and sentence repeated 	partially good but repeated content	No wrong/irrelevant information
+meta-llama/Llama-2-7b-chat-hf	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1235	1	0	False	Sentence formation correct	wrong answer question repeated 	Question repeated
+meta-llama/Meta-Llama-3-8B-Instruct	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1235	0	0	True	Grammer error	wrong answer 	There is wrong/irrelevant information
+meta-llama/Meta-Llama-3-70B-Instruct	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1235	2	2	False	good response 	right answer  	No wrong/irrelevant information
+mistralai/Mistral-7B-Instruct-v0.2	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1235	0	0	False	incompleted sentence and words 	wrong answer and words are repeated not related to the prompt	No wrong/irrelevant information
+gpt-4	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1235	2	1	True	Good sentence formation and no grammar error 	some content related to prompt	There is wrong/irrelevant information
+gpt-35-turbo	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1235	2	1	False	good sentence formation 	one sentence right and some words are wrong 	No wrong/irrelevant information
+google/gemma-7b-it	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1235	0	0	True	wrong words and words are incompleted and words are in other language 	wrong answer 	There is wrong/irrelevant information
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1235	1	2	False	last sentence incomplete	right answer 	No wrong/irrelevant information
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1235	1	2	False	last sentence incompleted  	right answer 	No wrong/irrelevant information
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1235	2	2	False	good sentence formation 	right answer 	No wrong/irrelevant information
+GPT4o	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1235	1	2	True	some words spelling wrong 	good answer 	There is wrong/irrelevant information
+GenVRadmin/llama38bGenZ_Vikas-Merged	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	1235	1	2	False	Minor grammar mistakes	right answer 	No wrong/irrelevant information
+Tensoic/Kan-Llama-7B-SFT-v0.5	e41cb486-496f-465e-ad07-76fed94a4183	1235	2	1	False	good sentence formation 	partially good but repeated sentence 	No wrong/irrelevant information
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	e41cb486-496f-465e-ad07-76fed94a4183	1235	2	2	False	good response 	right answer 	No wrong/irrelevant information
+meta-llama/Llama-2-7b-chat-hf	e41cb486-496f-465e-ad07-76fed94a4183	1235	0	0	False	incompleted sentence and sentence in other language 	wrong answer and question repeated 	question repeated
+meta-llama/Meta-Llama-3-8B-Instruct	e41cb486-496f-465e-ad07-76fed94a4183	1235	2	0	True	good response 	wrong answer 	There is wrong/irrelevant information
+meta-llama/Meta-Llama-3-70B-Instruct	e41cb486-496f-465e-ad07-76fed94a4183	1235	2	2	False	good response 	good answer 	No wrong/irrelevant information
+mistralai/Mistral-7B-Instruct-v0.2	e41cb486-496f-465e-ad07-76fed94a4183	1235	0	0	False	incomplete sentence and wrong words 	wrong answer and its repeated 	No wrong/irrelevant information
+gpt-4	e41cb486-496f-465e-ad07-76fed94a4183	1235	2	0	True	good sentence formation 	wrong answer  	There is wrong/irrelevant information
+gpt-35-turbo	e41cb486-496f-465e-ad07-76fed94a4183	1235	2	0	True	good sentence formation 	wrong answer 	There is wrong/irrelevant information
+google/gemma-7b-it	e41cb486-496f-465e-ad07-76fed94a4183	1235	0	0	True	incompleted sentence and grammatical error 	wrong answer and content is not related to prompt	There is wrong/irrelevant information
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	e41cb486-496f-465e-ad07-76fed94a4183	1235	1	2	False	incompleted sentence	right answer 	No wrong/irrelevant information
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	e41cb486-496f-465e-ad07-76fed94a4183	1235	2	2	False	good response 	right answer 	No wrong/irrelevant information
+google/gemma-7b-it	829b706a-574f-45d4-bdf1-e4923db2e838	1234	1	1	True	minor mix of english letters with kannada words	the data used in comparsion is wrong data.	the data used is hallucinated.
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	829b706a-574f-45d4-bdf1-e4923db2e838	1234	0	0	True	Spelling mistakes, words are repeated	no relevant details given for the question asked	no relevant data
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	829b706a-574f-45d4-bdf1-e4923db2e838	1234	2	1	False	no grammatical errors.	facts are correct. but not correct answer to the question	not hallucinated
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	829b706a-574f-45d4-bdf1-e4923db2e838	1234	2	2	False	no grammatical errors.	correct answer	not hallucinated. facts are true.
+GPT4o	829b706a-574f-45d4-bdf1-e4923db2e838	1234	1	1	False	telgu word mixed. minor grammatical erros	facts not explained clearly	not hallucinated
+GenVRadmin/llama38bGenZ_Vikas-Merged	829b706a-574f-45d4-bdf1-e4923db2e838	1234	2	1	True	no grammatical errors.	some facts are correct	some facts are hallucinated
+Tensoic/Kan-Llama-7B-SFT-v0.5	97454a35-87fc-4b45-96c8-1b4d20c79c40	1234	0	0	True	english words used	not relevant to the question	data is hallucinated
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	97454a35-87fc-4b45-96c8-1b4d20c79c40	1234	2	0	True	no grammatical errors.	data is wrong.	data is hallucinated
+meta-llama/Llama-2-7b-chat-hf	97454a35-87fc-4b45-96c8-1b4d20c79c40	1234	1	0	False	repeated sentences.	Same prompt repeated	question repeated as answer.
+meta-llama/Meta-Llama-3-8B-Instruct	97454a35-87fc-4b45-96c8-1b4d20c79c40	1234	2	1	True	no grammatical errors.	one of the fact is true. others are wrong	some facts are hallucinated
+meta-llama/Meta-Llama-3-70B-Instruct	97454a35-87fc-4b45-96c8-1b4d20c79c40	1234	2	0	True	no grammatical errors.	wrong data	all data is hallucinated
+mistralai/Mistral-7B-Instruct-v0.2	97454a35-87fc-4b45-96c8-1b4d20c79c40	1234	2	0	True	no grammatical errors.	gibberish	hallucinated
+gpt-4	97454a35-87fc-4b45-96c8-1b4d20c79c40	1234	2	0	True	no grammatical errors.	wrong facts about the person asked in the question	hallucinated
+gpt-35-turbo	97454a35-87fc-4b45-96c8-1b4d20c79c40	1234	2	0	True	no grammatical errors.	wrong data about the person asked in the question	hallucinated
+google/gemma-7b-it	97454a35-87fc-4b45-96c8-1b4d20c79c40	1234	0	0	True	same sentece repeated.	the data is wrong and same sentences are repeated	hallucinated
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	97454a35-87fc-4b45-96c8-1b4d20c79c40	1234	0	0	True	same sentece repeated.	data is wrong.same words and sentences repeated in the answer	hallucinated
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	97454a35-87fc-4b45-96c8-1b4d20c79c40	1234	0	0	True	same sentece repeated.	same sentence repeated .	hallucinated
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	97454a35-87fc-4b45-96c8-1b4d20c79c40	1234	0	0	True	same sentece repeated.	same sentence repeated .	cricket facts are hallucinated.
+GPT4o	97454a35-87fc-4b45-96c8-1b4d20c79c40	1234	2	1	True	no grammatical errors.	some facts are correct	hallucinated
+GenVRadmin/llama38bGenZ_Vikas-Merged	97454a35-87fc-4b45-96c8-1b4d20c79c40	1234	2	0	True	no grammatical errors.	wrong data about the person asked in the question	data is hallucinated
+Tensoic/Kan-Llama-7B-SFT-v0.5	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1234	1	0	True	same sentece repeated. no grammatical errors	no relevant information is given	hallucinated
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1234	2	1	False	no grammatical errors.	Some content relevant to prompt	data not hallucinated
+meta-llama/Llama-2-7b-chat-hf	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1234	1	0	True	repeated sentence.	gibberish	Not a meaning content
+meta-llama/Meta-Llama-3-8B-Instruct	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1234	2	1	True	no grammatical errors.	facts true.but not relevent to the question.	hallucinated
+meta-llama/Meta-Llama-3-70B-Instruct	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1234	2	2	False	no grammatical errors.	data is correct.	not hallucinated
+mistralai/Mistral-7B-Instruct-v0.2	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1234	1	0	True	same sentence repeated. no grammatical error	gibberish	no data
+gpt-4	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1234	1	0	False	no data. no grammatical errors	no data	no data.
+gpt-35-turbo	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1234	1	0	True	minor grammatical error	not relevant to the question	hallucinated
+google/gemma-7b-it	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1234	0	0	True	english words used	gibberish	gibberish
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1234	1	1	False	no grammatical errors	some facts are correct.some sentences repeated.	data is correct. not hallucinated
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1234	2	2	False	no grammatical errors.	correct answer	not hallucinated
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1234	0	0	True	same sentence repeated	no relevant information is given. only repeated sentences	gibberish
+GPT4o	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1234	1	2	False	few english letters used	correct answer	not hallucinated.
+GenVRadmin/llama38bGenZ_Vikas-Merged	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1234	2	2	False	no grammatical errors.	correct answer	not hallucinated
+Tensoic/Kan-Llama-7B-SFT-v0.5	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1234	2	0	True	no grammatical errors.	wrong answer	hallucinated
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1234	2	1	True	no grammatical errors.	some facts are true	some facts are hallucinated
+meta-llama/Llama-2-7b-chat-hf	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1234	0	0	True	same sentece repeated.	gibberish	gibberish
+meta-llama/Meta-Llama-3-8B-Instruct	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1234	2	2	False	no grammatical errors.	correct answer	not hallucinated
+meta-llama/Meta-Llama-3-70B-Instruct	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1234	2	2	False	no grammatical errors.	correct answer	not hallucinated
+mistralai/Mistral-7B-Instruct-v0.2	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1234	1	0	True	same word repeated for every sentence which does not make any sense	no content	hallucinated
+gpt-4	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1234	2	1	False	no grammatical errors.	some facts are true, not much relevant data to question	Not hallucinated
+gpt-35-turbo	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1234	2	1	False	no grammatical errors.	facts not explained clearly	not hallucinated
+google/gemma-7b-it	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1234	1	0	True	words repeated.	no relevant information given	hallucinated
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1234	2	1	True	no grammatical errors.	some facts are correct	some facts are hallucinated
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1234	2	2	False	no grammatical errors.	correct answer	not hallucinated
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1234	2	0	True	no grammatical errors.	not relevant to the question	hallucinated
+GPT4o	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1234	2	1	True	no grammatical errors	not correctly explained	hallucinated
+GenVRadmin/llama38bGenZ_Vikas-Merged	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1234	2	2	False	no grammatical errors.	correct answer	not hallucinated
+Tensoic/Kan-Llama-7B-SFT-v0.5	561143a8-6533-4b06-8b28-d85c3b47e67c	1234	2	0	True	no grammatical errors.	wrong answer	hallucinated
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	561143a8-6533-4b06-8b28-d85c3b47e67c	1234	2	0	True	no grammatical errors.	not relevant to the question	hallucinated
+meta-llama/Llama-2-7b-chat-hf	561143a8-6533-4b06-8b28-d85c3b47e67c	1234	1	0	False	no grammatical errors	question repeated as answer	question repeated as answer.
+meta-llama/Meta-Llama-3-8B-Instruct	561143a8-6533-4b06-8b28-d85c3b47e67c	1234	2	0	True	no grammatical errors.	facts given are wrong	hallucinated
+meta-llama/Meta-Llama-3-70B-Instruct	561143a8-6533-4b06-8b28-d85c3b47e67c	1234	2	2	False	no grammatical errors.	correct answer	not hallucinated
+mistralai/Mistral-7B-Instruct-v0.2	561143a8-6533-4b06-8b28-d85c3b47e67c	1234	0	0	True	wrong words, spelling mistakes	gibberish	hallucinated
+gpt-4	561143a8-6533-4b06-8b28-d85c3b47e67c	1234	2	0	True	no grammatical errors.	facts mentioned are wrong	hallucinated
+gpt-35-turbo	561143a8-6533-4b06-8b28-d85c3b47e67c	1234	2	1	True	no grammatical errors.	some facts are correct	some facts are hallucinated
+google/gemma-7b-it	561143a8-6533-4b06-8b28-d85c3b47e67c	1234	1	0	False	words repeated.	no relevant information .repeated sentences	repeated sentences
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	561143a8-6533-4b06-8b28-d85c3b47e67c	1234	2	0	True	no grammatical errors.	facts are not correct	hallucinated
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	561143a8-6533-4b06-8b28-d85c3b47e67c	1234	2	1	True	no grammatical errors.	one of the fact is true. others are wrong	hallucinated
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	561143a8-6533-4b06-8b28-d85c3b47e67c	1234	2	2	False	no grammatical errors.	correct answer	not hallucinated
+GPT4o	561143a8-6533-4b06-8b28-d85c3b47e67c	1234	2	0	True	no grammatical errors.	wrong answer	hallucinated
+GenVRadmin/llama38bGenZ_Vikas-Merged	561143a8-6533-4b06-8b28-d85c3b47e67c	1234	2	0	True	no grammatical errors.	wrong facts	hallucinated
+Tensoic/Kan-Llama-7B-SFT-v0.5	9b16d388-428d-4e37-bd6e-771c309845c5	1234	1	0	True	english abbreviation used. no grammatical errors	wrong facts	hallucinated
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	9b16d388-428d-4e37-bd6e-771c309845c5	1234	0	0	True	repated words	no relevant information. repeated sentences	hallucinated
+meta-llama/Llama-2-7b-chat-hf	9b16d388-428d-4e37-bd6e-771c309845c5	1234	1	0	False	sentence not formed correctly, spelling mistakes	irrelvant to the question.	question repeated as answer.
+meta-llama/Meta-Llama-3-8B-Instruct	9b16d388-428d-4e37-bd6e-771c309845c5	1234	2	2	False	no grammatical errors.	correct answer	not hallucinated
+meta-llama/Meta-Llama-3-70B-Instruct	9b16d388-428d-4e37-bd6e-771c309845c5	1234	2	0	True	no grammatical errors.	wrong facts	hallucinated
+mistralai/Mistral-7B-Instruct-v0.2	9b16d388-428d-4e37-bd6e-771c309845c5	1234	0	0	True	english sentence used	gibberish	gibberish
+gpt-4	9b16d388-428d-4e37-bd6e-771c309845c5	1234	2	1	True	no grammatical errors.	some facts are correct	some facts are hallucinated
+gpt-35-turbo	9b16d388-428d-4e37-bd6e-771c309845c5	1234	2	0	True	no grammatical errors.	irrelvant information	hallucinated
+google/gemma-7b-it	9b16d388-428d-4e37-bd6e-771c309845c5	1234	0	0	True	no sentence formed , just words used, no meaning	gibberish	gibberish
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	9b16d388-428d-4e37-bd6e-771c309845c5	1234	2	2	False	no grammatical errors.	correct answer	not hallucinated
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	9b16d388-428d-4e37-bd6e-771c309845c5	1234	1	0	True	repeated sentence.	repeated sentence, no relevant information given	hallucinated
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	9b16d388-428d-4e37-bd6e-771c309845c5	1234	2	0	True	no grammatical errors.	wrong facts	hallucinated
+GPT4o	9b16d388-428d-4e37-bd6e-771c309845c5	1234	2	1	True	no grammatical errors.	some facts are true	hallucinated
+GenVRadmin/llama38bGenZ_Vikas-Merged	9b16d388-428d-4e37-bd6e-771c309845c5	1234	1	1	True	minor grammatical error	some facts are true	some facts are hallucinated
+Tensoic/Kan-Llama-7B-SFT-v0.5	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1234	2	1	True	no grammatical errors.	some facts are correct	hallucinated
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1234	2	1	False	no grammatical errors.	facts are correct. but not the proper answer to the question	facts are correct
+meta-llama/Llama-2-7b-chat-hf	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1234	0	0	True	no proper sentence formation	gibberish	gibberish
+meta-llama/Meta-Llama-3-8B-Instruct	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1234	2	0	True	no grammatical errors.	wrong fact.	hallucinated
+meta-llama/Meta-Llama-3-70B-Instruct	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1234	2	1	False	no grammatical errors.	facts are correct. but the answer is not much related to the question	data is true, but wrong to the question
+mistralai/Mistral-7B-Instruct-v0.2	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1234	0	0	True	english words used	gibberish	gibberish
+gpt-4	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1234	2	2	False	no grammatical errors.	correct answer	not hallucinated
+gpt-35-turbo	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1234	2	0	True	no grammatical errors.	wrong answer	hallucinated
+google/gemma-7b-it	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1234	2	0	True	no grammatical errors.	wrong answer	hallucinated
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1234	2	1	True	no grammatical errors.	some facts are true	some facts are hallucinated
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1234	2	0	True	no grammatical errors.	fact is only wrong	hallucinated
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1234	2	0	True	no grammatical errors.	fact is wrong	hallucinated
+GPT4o	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1234	2	1	True	no grammatical errors.	some facts are true	some facts are hallucinated
+GenVRadmin/llama38bGenZ_Vikas-Merged	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1234	2	0	True	no grammatical errors.	wrong answer	hallucinated
+google/gemma-7b-it	829b706a-574f-45d4-bdf1-e4923db2e838	1235	1	1	False	there is some grammar mistake and some language mismatch	answer is somewhat correct	there is no hallucination and not having any irrelevant content
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	829b706a-574f-45d4-bdf1-e4923db2e838	1235	2	1	False	no grammatical mistake and no language mismatch	answer is related to prompt but same content repeated	there is no hallucination 
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	829b706a-574f-45d4-bdf1-e4923db2e838	1235	2	2	False	no grammatical mistake and no language mismatch	answer is correct	there is no hallucination
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	829b706a-574f-45d4-bdf1-e4923db2e838	1235	2	2	False	no grammatical mistake and no language mismatch	answer is correct	there is no hallucination
+GPT4o	829b706a-574f-45d4-bdf1-e4923db2e838	1235	1	1	False	some grammatical mistakes are there  and no language mismatch	answer is correct but some gramattical mistakes changes the task quality	there is no hallucination
+GenVRadmin/llama38bGenZ_Vikas-Merged	829b706a-574f-45d4-bdf1-e4923db2e838	1235	2	2	False	no grammatical mistake and no language mismatch	answer is correct	there is no hallucination and not having any irrelevant content
+Tensoic/Kan-Llama-7B-SFT-v0.5	97454a35-87fc-4b45-96c8-1b4d20c79c40	1235	0	0	True	no  grammatical mistakes but there is a anguage mismatch	answer is wrong	there is hallucination is there is irrelevant content
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	97454a35-87fc-4b45-96c8-1b4d20c79c40	1235	2	2	False	no grammatical mistake and no language mismatch	answer is correct	there is no hallucination
+meta-llama/Llama-2-7b-chat-hf	97454a35-87fc-4b45-96c8-1b4d20c79c40	1235	1	0	True	no grammatical mistakes	answer is wrong prompt question is repeated	question is repeated
+meta-llama/Meta-Llama-3-8B-Instruct	97454a35-87fc-4b45-96c8-1b4d20c79c40	1235	2	2	False	no grammatical mistake and no language mismatch	answer is correct	there is no hallucination and not having any irrelevant content
+meta-llama/Meta-Llama-3-70B-Instruct	97454a35-87fc-4b45-96c8-1b4d20c79c40	1235	2	0	True	no grammatical mistake and no language mismatch	answer is wrong	there is hallucination
+mistralai/Mistral-7B-Instruct-v0.2	97454a35-87fc-4b45-96c8-1b4d20c79c40	1235	2	0	True	no grammatical mistake and no language mismatch	answer is wrong	there is hallucination
+gpt-4	97454a35-87fc-4b45-96c8-1b4d20c79c40	1235	2	0	True	no grammatical mistake and no language mismatch	answer is wrong	there is hallucination
+gpt-35-turbo	97454a35-87fc-4b45-96c8-1b4d20c79c40	1235	2	0	True	no grammatical mistake and no language mismatch	answer is not correct 	there is an hallucination
+google/gemma-7b-it	97454a35-87fc-4b45-96c8-1b4d20c79c40	1235	2	2	False	no grammatical mistake and no language mismatch	answer is right but some sentences are repeated	there is no hallucination
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	97454a35-87fc-4b45-96c8-1b4d20c79c40	1235	2	0	True	no grammatical mistake and no language mismatch	answer is not correct 	there is hallucination, there is irrelevant content
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	97454a35-87fc-4b45-96c8-1b4d20c79c40	1235	2	0	True	no grammatical mistake and no language mismatch	answer is not correct 	there is hallucination is there is irrelevant content
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	97454a35-87fc-4b45-96c8-1b4d20c79c40	1235	2	0	True	no grammatical mistake and no language mismatch	answer is wrong and incomplete sentence	there is hallucination
+GPT4o	97454a35-87fc-4b45-96c8-1b4d20c79c40	1235	2	2	False	no grammar mistake no langauge mismatch	answer correct	no hallucination
+GenVRadmin/llama38bGenZ_Vikas-Merged	97454a35-87fc-4b45-96c8-1b4d20c79c40	1235	2	0	True	no grammar mistake no langauge mismatch	not correct answer	hallucinaton is there 
+Tensoic/Kan-Llama-7B-SFT-v0.5	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1235	2	2	False	no grammatical mistake and no language mismatch	answer correct	no hallucination
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1235	2	1	False	no grammar mistake no langauge mismatch	only few sentence are correct rest all wrong	no hallucination
+meta-llama/Llama-2-7b-chat-hf	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1235	1	1	True	minor grammar mistakes	answer  correct not perfect 	hallucinaton is there 
+meta-llama/Meta-Llama-3-8B-Instruct	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1235	2	1	False	no grammatical mistake and no language mismatch	not perfect answer	no hallucination
+meta-llama/Meta-Llama-3-70B-Instruct	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1235	2	2	False	no grammar mistake no langauge mismatch	answer is correct	there is no hallucination
+mistralai/Mistral-7B-Instruct-v0.2	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1235	2	0	True	no grammar mistake no langauge mismatch	wrong answer	hallucinaton is there 
+gpt-4	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1235	1	0	True	no grammar mistake no langauge mismatch	tottaly wrong 	hallucinaton is there 
+gpt-35-turbo	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1235	2	1	False	no grammatical mistake and no language mismatch	not perfect and short answer	no hallucination
+google/gemma-7b-it	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1235	1	1	False	some grammatical mistakes and no language mismatch	answer correct but some language mismatch 	hallcination not there 
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1235	2	2	False	no grammar mistake no langauge mismatch	answer is correct	no hallucination
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1235	2	2	False	no grammar mistake no langauge mismatch	answer is correct	no hallucination
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1235	1	1	False	no grammatical mistake and no language mismatch but sentences are repeated	only few sentence are correct and one sentece is repeated so msny times	no hallucination
+GPT4o	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1235	2	2	False	no grammatical mistake and no language mismatch	correct answer	there is no hallucination 
+GenVRadmin/llama38bGenZ_Vikas-Merged	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	1235	2	1	False	no grammar mistake no langauge mismatch	answer correct but content is short	there is no hallucination 
+Tensoic/Kan-Llama-7B-SFT-v0.5	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1235	2	0	True	no grammar mistake no langauge mismatch	wrong answer	hallucinaton is there 
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1235	2	2	False	no grammatical mistake and no language mismatch	correct answer	no hallucination
+meta-llama/Llama-2-7b-chat-hf	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1235	1	0	True	Incomplete words and not perfect sentence formation	wrong answe, prompt question is repeated	prompt question is repeated
+meta-llama/Meta-Llama-3-8B-Instruct	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1235	2	1	False	no grammatical mistake and no language mismatch	not perfect answer	no hallucination
+meta-llama/Meta-Llama-3-70B-Instruct	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1235	2	2	False	no grammar mistake no langauge mismatch	correct answer	no hallucination
+mistralai/Mistral-7B-Instruct-v0.2	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1235	1	1	False	incomplete words and grammar mistake	not perfect answer incomplete sentence	no hallucination
+gpt-4	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1235	2	0	True	no grammar mistake no langauge mismatch	tottaly wrong 	hallucination is there
+gpt-35-turbo	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1235	2	2	False	no grammar mistake no langauge mismatch	right answer	hallcination not there 
+google/gemma-7b-it	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1235	2	1	True	no grammatical mistake and no language mismatch	not perfect answer	hallucination is there
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1235	2	2	False	no grammar mistake no langauge mismatch	right answer	no hallucination
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1235	2	2	False	no grammar mistake no langauge mismatch	answer is correct	no hallucination
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1235	2	2	False	no grammatical mistake and no language mismatch	correct answer	hallcination not there 
+GPT4o	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1235	1	1	True	somelanguage mismatch and incomplete words	not perfect answer and some langauge mismatch	hallucination is there
+GenVRadmin/llama38bGenZ_Vikas-Merged	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	1235	2	1	False	no grammatical mistake and no language mismatch	short answer there	no hallucination
+Tensoic/Kan-Llama-7B-SFT-v0.5	561143a8-6533-4b06-8b28-d85c3b47e67c	1235	2	2	False	no grammar mistake no langauge mismatch	right answer	hallucination not there
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	561143a8-6533-4b06-8b28-d85c3b47e67c	1235	2	1	True	no grammar mistake no langauge mismatch	not perfect answer 	hallucination is there
+meta-llama/Llama-2-7b-chat-hf	561143a8-6533-4b06-8b28-d85c3b47e67c	1235	2	0	True	no grammar mistake no langauge mismatch	wrong answer	hallucination is there
+meta-llama/Meta-Llama-3-8B-Instruct	561143a8-6533-4b06-8b28-d85c3b47e67c	1235	2	1	False	no grammar mistake no langauge mismatch	right answer but very less content	hallucination is not there
+meta-llama/Meta-Llama-3-70B-Instruct	561143a8-6533-4b06-8b28-d85c3b47e67c	1235	2	1	False	no grammatical mistake and no language mismatch	incomplete answer	no hallucination
+mistralai/Mistral-7B-Instruct-v0.2	561143a8-6533-4b06-8b28-d85c3b47e67c	1235	2	1	False	no grammatical mistake and no language mismatch	incomplete answer	no hallucination
+gpt-4	561143a8-6533-4b06-8b28-d85c3b47e67c	1235	2	2	False	no grammar mistake no langauge mismatch	correct answer	hallucination not there
+gpt-35-turbo	561143a8-6533-4b06-8b28-d85c3b47e67c	1235	2	1	True	no grammar mistake no langauge mismatch	not perfect	hallucination is there
+google/gemma-7b-it	561143a8-6533-4b06-8b28-d85c3b47e67c	1235	1	1	False	Grammatical errors	answer right but there is some many grammatical mistakes that affects the task quality	no hallucination
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	561143a8-6533-4b06-8b28-d85c3b47e67c	1235	2	1	False	no grammar mistake no langauge mismatch	correct answer but in complete sentence	no hallucination
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	561143a8-6533-4b06-8b28-d85c3b47e67c	1235	1	1	False	no grammar mistake no langauge mismatch but sentence is incomplete	correct answer but in complete content	hallucination not there
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	561143a8-6533-4b06-8b28-d85c3b47e67c	1235	2	2	False	no grammatical mistake and no language mismatch	correct answer	no hallucination
+GPT4o	561143a8-6533-4b06-8b28-d85c3b47e67c	1235	2	1	True	no grammatical mistake and no language mismatch	not perfect answer	some hallucination is there
+GenVRadmin/llama38bGenZ_Vikas-Merged	561143a8-6533-4b06-8b28-d85c3b47e67c	1235	1	1	False	no grammatical mistake but sentence incomplete	incomplete answer	no hallucination
+Tensoic/Kan-Llama-7B-SFT-v0.5	9b16d388-428d-4e37-bd6e-771c309845c5	1235	2	2	False	no grammar mistake no langauge mismatch	correct answer	no hallucination
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	9b16d388-428d-4e37-bd6e-771c309845c5	1235	2	2	False	no grammar mistake no langauge mismatch	correct answer	no hallucination
+meta-llama/Llama-2-7b-chat-hf	9b16d388-428d-4e37-bd6e-771c309845c5	1235	1	0	True	Sentence formation is not perfect	wrong answer beacuse prompt question is repeated	prompt question is repeated
+meta-llama/Meta-Llama-3-8B-Instruct	9b16d388-428d-4e37-bd6e-771c309845c5	1235	2	1	False	no grammatical mistake and no language mismatch	answer correct but content is short	no hallucination
+meta-llama/Meta-Llama-3-70B-Instruct	9b16d388-428d-4e37-bd6e-771c309845c5	1235	2	2	False	no grammatical mistake and no language mismatch	correct answer	no hallucination
+mistralai/Mistral-7B-Instruct-v0.2	9b16d388-428d-4e37-bd6e-771c309845c5	1235	0	0	True	langauge mismatch	wrong answer	hallucination is there
+gpt-4	9b16d388-428d-4e37-bd6e-771c309845c5	1235	2	1	True	no grammatical mistake and no language mismatch	not perfect 	some hallucination is there
+gpt-35-turbo	9b16d388-428d-4e37-bd6e-771c309845c5	1235	2	1	True	no grammar mistake no langauge mismatch	only few sentece are correct	some hallucination is there
+google/gemma-7b-it	9b16d388-428d-4e37-bd6e-771c309845c5	1235	1	0	True	grammar mistakes	wrong answer	hallucination is there
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	9b16d388-428d-4e37-bd6e-771c309845c5	1235	2	1	False	no grammar mistake no langauge mismatch	correct answer but in complete sentence	no hallucination
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	9b16d388-428d-4e37-bd6e-771c309845c5	1235	1	1	False	no grammar mistake no langauge mismatch, repeated and incomplete sentence	answer correct but some sentence are repeated more and incmplete answer	no hallucination
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	9b16d388-428d-4e37-bd6e-771c309845c5	1235	2	1	True	no grammar mistake no langauge mismatch	not perfect answer	some hallucination is there
+GPT4o	9b16d388-428d-4e37-bd6e-771c309845c5	1235	2	2	False	no grammatical mistake and no language mismatch	correct answer	no hallucination
+GenVRadmin/llama38bGenZ_Vikas-Merged	9b16d388-428d-4e37-bd6e-771c309845c5	1235	1	1	False	Grammar mistakes	some sentence correct but incmplete sentence	no hallucination
+Tensoic/Kan-Llama-7B-SFT-v0.5	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1235	2	1	False	no grammatical mistake and no language mismatch	not perfect answer	no hallucination
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1235	2	2	False	no grammatical mistake and no language mismatch	right answer	no hallucination
+meta-llama/Llama-2-7b-chat-hf	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1235	2	0	True	no grammatical mistake and no language mismatch	wrong answer	hallucination is there
+meta-llama/Meta-Llama-3-8B-Instruct	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1235	2	0	True	no grammatical mistake and no language mismatch	wrong answer	hallucination is there
+meta-llama/Meta-Llama-3-70B-Instruct	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1235	2	0	True	no grammatical mistake and no language mismatch	wrong answer	hallucination is there
+mistralai/Mistral-7B-Instruct-v0.2	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1235	0	0	True	langauge mismatch	wrong answer	hallucination is there
+gpt-4	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1235	2	1	True	no grammatical mistake and no language mismatch	not perfect answer	some hallucination is there
+gpt-35-turbo	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1235	2	1	False	no grammatical mistake and no language mismatch	answer right but content is small	no hallucination
+google/gemma-7b-it	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1235	2	1	False	no grammatical mistake and no language mismatch	not perfect answer	no hallucination
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1235	2	1	False	no grammar mistake no langauge mismatch	answer right but content is small	no hallucination
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1235	2	1	True	no grammar mistake no langauge mismatch	not perfect answer	some hallucination is there
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1235	2	1	True	no grammar mistake no langauge mismatch	not perfect answer	some hallucination is there
+GPT4o	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1235	2	1	True	no grammatical mistake and no language mismatch	not perfect answer	some hallucination is there
+GenVRadmin/llama38bGenZ_Vikas-Merged	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	1235	2	1	True	no grammatical mistake and no language mismatch	answer right but content is small	hallucination is there
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	e41cb486-496f-465e-ad07-76fed94a4183	1234	2	2	False	NO GRAMMATICAL MISTAKES	RELATED ANSWER IS GIVEN FOR THE PROMPT	NO WRONG AND IRRELEVANT CONTENT
+GPT4o	e41cb486-496f-465e-ad07-76fed94a4183	1234	2	2	False	NO GRAMMATICAL MISTAKES	RELATED ANSWER IS GIVEN FOR THE PROMPT	NO WRONG AND IRRELEVANT CONTENT
+GenVRadmin/llama38bGenZ_Vikas-Merged	e41cb486-496f-465e-ad07-76fed94a4183	1234	1	2	False	GIVEN CONTENT IS INCOMPLETE	RELATED ANSWER IS GIVEN FOR THE PROMPT	NO WRONG AND IRRELEVANT CONTENT
+Tensoic/Kan-Llama-7B-SFT-v0.5	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1234	2	0	True	NO GRAMMATICAL MISTAKES	NOT RELATED TO PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1234	2	2	False	NO GRAMMATICAL MISTAKES	CORRECT ANSWER FOR THE PROMPT	NO WRONG AND IRRELEVANT CONTENT
+meta-llama/Llama-2-7b-chat-hf	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1234	0	0	True	WORDS ARE REPEATED	NOT RELATED TO PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+meta-llama/Meta-Llama-3-8B-Instruct	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1234	2	2	False	NO GRAMMATICAL MISTAKES	CORRECT ANSWER FOR THE PROMPT	NO WRONG AND IRRELEVANT CONTENT
+meta-llama/Meta-Llama-3-70B-Instruct	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1234	2	1	True	NO GRAMMATICAL MISTAKES	ANSWER IS PARTIALLY CORRECT	WRONG AND IRRELEVANT CONTENT IS THERE
+mistralai/Mistral-7B-Instruct-v0.2	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1234	2	0	True	NO GRAMMATICAL MISTAKES	NOT RELATED TO PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+gpt-4	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1234	1	1	True	SOME GRAMMARTICAL MISTAKE FOUND	ANSWER IS PARTIALLY CORRECT	WRONG AND IRRELEVANT CONTENT IS THERE
+gpt-35-turbo	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1234	0	0	True	GRAMMARTICAL MISTAKE FOUND	NOT RELATED TO PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+google/gemma-7b-it	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1234	0	0	False	GRAMMARTICAL MISTAKE AND SENTENCE FORMATION ERROR FOUND	NOT RELATED TO PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1234	1	1	False	REPEATED WORDS AND SENTENCES ARE FOUND	ANSWER IS PARTIALLY CORRECT	NO WRONG AND IRRELEVANT CONTENT
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1234	2	2	False	NO GRAMMATICAL MISTAKES	CORRECT ANSWER FOR THE PROMPT	NO WRONG AND IRRELEVANT CONTENT
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1234	1	2	False	REPEATED WORDS AND SENTENCES ARE FOUND	CORRECT ANSWER FOR THE PROMPT	NO WRONG AND IRRELEVANT CONTENT
+GPT4o	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1234	1	2	False	MINOR SENTENCE FORMATION ERROR	CORRECT ANSWER FOR THE PROMPT	NO WRONG AND IRRELEVANT CONTENT
+GenVRadmin/llama38bGenZ_Vikas-Merged	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1234	1	2	False	SENTENCE IS INCOMPLETE	CORRECT ANSWER FOR THE PROMPT	NO WRONG AND IRRELEVANT CONTENT
+Tensoic/Kan-Llama-7B-SFT-v0.5	ab117e7f-2f06-4517-a739-8850734bcbaa	1234	1	1	False	REPEATED WORDS AND SENTENCES ARE FOUND	THE ANSWER IS PARTIALLY CORRECT	NO WRONG AND IRRELEVANT CONTENT
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	ab117e7f-2f06-4517-a739-8850734bcbaa	1234	0	0	True	REPEATED WORDS AND SENTENCES ARE FOUND	NOT RELATED TO PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+meta-llama/Llama-2-7b-chat-hf	ab117e7f-2f06-4517-a739-8850734bcbaa	1234	2	0	True	NO GRAMMATICAL MISTAKES	NOT RELATED TO PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+meta-llama/Meta-Llama-3-8B-Instruct	ab117e7f-2f06-4517-a739-8850734bcbaa	1234	1	2	False	SOME GRAMMARTICAL MISTAKE FOUND	CORRECT ANSWER FOR THE PROMPT	NO WRONG AND IRRELEVANT CONTENT
+meta-llama/Meta-Llama-3-70B-Instruct	ab117e7f-2f06-4517-a739-8850734bcbaa	1234	2	2	False	NO GRAMMATICAL MISTAKES	CORRECT ANSWER FOR THE PROMPT	NO WRONG AND IRRELEVANT CONTENT
+mistralai/Mistral-7B-Instruct-v0.2	ab117e7f-2f06-4517-a739-8850734bcbaa	1234	0	0	True	SOME MORE GRAMMARTICAL MISTAKE FOUND	NOT RELATED TO PROMPT	
+gpt-4	ab117e7f-2f06-4517-a739-8850734bcbaa	1234	2	2	False	NO GRAMMATICAL MISTAKES	CORRECT ANSWER FOR THE PROMPT	NO WRONG AND IRRELEVANT CONTENT
+gpt-35-turbo	ab117e7f-2f06-4517-a739-8850734bcbaa	1234	2	2	False	NO GRAMMATICAL MISTAKES	CORRECT ANSWER FOR THE PROMPT	NO WRONG AND IRRELEVANT CONTENT
+google/gemma-7b-it	ab117e7f-2f06-4517-a739-8850734bcbaa	1234	0	0	True	SOME GRAMMARTICAL MISTAKE FOUND	NOT RELATED TO PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	ab117e7f-2f06-4517-a739-8850734bcbaa	1234	2	2	False	the content is correct	the answer is correct	there is no hallucination
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	ab117e7f-2f06-4517-a739-8850734bcbaa	1234	2	2	False	the content is correct	the answer is correct	there is no hallucination
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	ab117e7f-2f06-4517-a739-8850734bcbaa	1234	2	2	False	NO GRAMMATICAL MISTAKES	CORRECT ANSWER FOR THE PROMPT	NO WRONG AND IRRELEVANT CONTENT
+GPT4o	ab117e7f-2f06-4517-a739-8850734bcbaa	1234	2	2	False	NO GRAMMATICAL MISTAKES	CORRECT ANSWER FOR THE PROMPT	NO WRONG AND IRRELEVANT CONTENT
+GenVRadmin/llama38bGenZ_Vikas-Merged	ab117e7f-2f06-4517-a739-8850734bcbaa	1234	1	1	False	there is gramatical mistake in words	CORRECT ANSWER FOR THE PROMPT but incomplete semtence	NO WRONG AND IRRELEVANT CONTENT
+Tensoic/Kan-Llama-7B-SFT-v0.5	de0be292-6821-4f1e-8fac-b814e88f969c	1234	2	2	False	NO GRAMMATICAL MISTAKES	CORRECT ANSWER FOR THE PROMPT	NO WRONG AND IRRELEVANT CONTENT
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	de0be292-6821-4f1e-8fac-b814e88f969c	1234	2	2	False	NO GRAMMATICAL MISTAKES	CORRECT ANSWER FOR THE PROMPT	NO WRONG AND IRRELEVANT CONTENT
+meta-llama/Llama-2-7b-chat-hf	de0be292-6821-4f1e-8fac-b814e88f969c	1234	1	0	True	NO GRAMMATICAL MISTAKES but there a language mismatch	CONTENT IS NOT RELATED TO PROMPT prompt question is reapeated	WRONG AND IRRELEVANT CONTENT IS THERE
+meta-llama/Meta-Llama-3-8B-Instruct	de0be292-6821-4f1e-8fac-b814e88f969c	1234	2	0	True	NO GRAMMATICAL MISTAKES	CONTENT IS NOT RELATED TO PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+meta-llama/Meta-Llama-3-70B-Instruct	de0be292-6821-4f1e-8fac-b814e88f969c	1234	1	1	True	SOME GRAMMARTICAL MISTAKE FOUND	THE ANSWER IS PARTIALLY CORRECT	WRONG AND IRRELEVANT CONTENT IS THERE
+mistralai/Mistral-7B-Instruct-v0.2	de0be292-6821-4f1e-8fac-b814e88f969c	1234	0	0	True	NO GRAMMATICAL MISTAKES but there a language mismatch	NOT RELATED TO PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+gpt-4	de0be292-6821-4f1e-8fac-b814e88f969c	1234	2	0	True	NO GRAMMATICAL MISTAKES	NOT RELATED TO PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+gpt-35-turbo	de0be292-6821-4f1e-8fac-b814e88f969c	1234	2	0	True	NO GRAMMATICAL MISTAKES	NOT RELATED TO PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+google/gemma-7b-it	de0be292-6821-4f1e-8fac-b814e88f969c	1234	2	0	True	NO GRAMMATICAL MISTAKES	NOT RELATED TO PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	de0be292-6821-4f1e-8fac-b814e88f969c	1234	2	0	True	NO GRAMMATICAL MISTAKES	NOT RELATED TO PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	de0be292-6821-4f1e-8fac-b814e88f969c	1234	2	0	True	NO GRAMMATICAL MISTAKES	NOT RELATED TO PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	de0be292-6821-4f1e-8fac-b814e88f969c	1234	2	1	True	NO GRAMMATICAL MISTAKES	THE ANSWER IS PARTIALLY CORRECT	WRONG AND IRRELEVANT CONTENT IS THERE
+GPT4o	de0be292-6821-4f1e-8fac-b814e88f969c	1234	2	2	False	NO GRAMMATICAL MISTAKES	CORRECT ANSWER FOR THE PROMPT	NO WRONG AND IRRELEVANT CONTENT
+GenVRadmin/llama38bGenZ_Vikas-Merged	de0be292-6821-4f1e-8fac-b814e88f969c	1234	2	0	True	NO GRAMMATICAL MISTAKES	NOT RELATED TO PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+Tensoic/Kan-Llama-7B-SFT-v0.5	b49508fd-984f-41ea-a88c-c417853f34ef	1234	2	0	True	NO GRAMMATICAL MISTAKES	WRONG INFORMATION REGARDING KAVERI RIVER'S HISTORY	WRONG AND IRRELEVANT CONTENT IS THERE
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	b49508fd-984f-41ea-a88c-c417853f34ef	1234	2	0	True	NO GRAMMATICAL MISTAKES	WRONG INFORMATION REGARDING KAVERI RIVER'S HISTORY	WRONG AND IRRELEVANT CONTENT IS THERE
+meta-llama/Llama-2-7b-chat-hf	b49508fd-984f-41ea-a88c-c417853f34ef	1234	0	0	True	WORDS AND SENTENCES ARE REPEATED	WRONG INFORMATION REGARDING KAVERI RIVER'S HISTORY	WRONG AND IRRELEVANT CONTENT IS THERE
+meta-llama/Meta-Llama-3-8B-Instruct	b49508fd-984f-41ea-a88c-c417853f34ef	1234	2	0	True	NO GRAMMATICAL MISTAKES	WRONG INFORMATION REGARDING KAVERI RIVER'S HISTORY	WRONG AND IRRELEVANT CONTENT IS THERE
+meta-llama/Meta-Llama-3-70B-Instruct	b49508fd-984f-41ea-a88c-c417853f34ef	1234	2	0	True	NO GRAMMATICAL MISTAKES	WRONG INFORMATION REGARDING KAVERI RIVER'S HISTORY	WRONG AND IRRELEVANT CONTENT IS THERE
+mistralai/Mistral-7B-Instruct-v0.2	b49508fd-984f-41ea-a88c-c417853f34ef	1234	0	0	True	WORDS ARE REPEATED	WRONG INFORMATION REGARDING KAVERI RIVER'S HISTORY	WRONG AND IRRELEVANT CONTENT IS THERE
+gpt-4	b49508fd-984f-41ea-a88c-c417853f34ef	1234	2	0	True	NO GRAMMATICAL MISTAKES	WRONG INFORMATION REGARDING KAVERI RIVER'S HISTORY	WRONG AND IRRELEVANT CONTENT IS THERE
+gpt-35-turbo	b49508fd-984f-41ea-a88c-c417853f34ef	1234	2	0	True	NO GRAMMATICAL MISTAKES	WRONG INFORMATION REGARDING KAVERI RIVER'S HISTORY	WRONG AND IRRELEVANT CONTENT IS THERE
+google/gemma-7b-it	b49508fd-984f-41ea-a88c-c417853f34ef	1234	0	0	True	THEY HAVE USED ENGLISH IN THE ANSWER	WRONG INFORMATION REGARDING KAVERI RIVER'S HISTORY	WRONG AND IRRELEVANT CONTENT IS THERE
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	b49508fd-984f-41ea-a88c-c417853f34ef	1234	2	0	True	NO GRAMMATICAL MISTAKES	WRONG INFORMATION REGARDING KAVERI RIVER'S HISTORY	WRONG AND IRRELEVANT CONTENT IS THERE
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	b49508fd-984f-41ea-a88c-c417853f34ef	1234	1	0	True	SOME GRAMMARTICAL MISTAKE FOUND	WRONG INFORMATION REGARDING KAVERI RIVER'S HISTORY	WRONG AND IRRELEVANT CONTENT IS THERE
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	b49508fd-984f-41ea-a88c-c417853f34ef	1234	2	0	True	NO GRAMMATICAL MISTAKES	WRONG INFORMATION REGARDING KAVERI RIVER'S HISTORY	WRONG AND IRRELEVANT CONTENT IS THERE
+GPT4o	b49508fd-984f-41ea-a88c-c417853f34ef	1234	1	0	True	OTHER LANGUAGE WORDS ARE FOUND	WRONG INFORMATION REGARDING KAVERI RIVER'S HISTORY	WRONG AND IRRELEVANT CONTENT IS THERE
+GenVRadmin/llama38bGenZ_Vikas-Merged	b49508fd-984f-41ea-a88c-c417853f34ef	1234	1	0	True	SOME GRAMMARTICAL MISTAKE FOUND	WRONG INFORMATION REGARDING KAVERI RIVER'S HISTORY	WRONG AND IRRELEVANT CONTENT IS THERE
+Tensoic/Kan-Llama-7B-SFT-v0.5	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1234	1	0	True	SOME GRAMMARTICAL MISTAKE FOUND	WRONG INFORMATION REGARDING THE PLACES	WRONG AND IRRELEVANT CONTENT IS THERE
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1234	2	0	True	NO GRAMMATICAL MISTAKES	WRONG INFORMATION REGARDING THE PLACES	ANSWER NOT RELATED TO PROMPT
+meta-llama/Llama-2-7b-chat-hf	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1234	1	0	True	SOME GRAMMARTICAL MISTAKE FOUND	WRONG INFORMATION REGARDING THE PLACES	WRONG AND IRRELEVANT CONTENT IS THERE
+meta-llama/Meta-Llama-3-8B-Instruct	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1234	2	1	True	NO GRAMMATICAL MISTAKES	WRONG INFORMATION REGARDING THE PLACES BUT INFORMATION REGARDING IMPORTANCE IS CORRECT	WRONG AND IRRELEVANT CONTENT IS THERE
+meta-llama/Meta-Llama-3-70B-Instruct	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1234	2	2	False	NO GRAMMATICAL MISTAKES	RELATED ANSWER IS GIVEN FOR THE PROMPT	NO WRONG AND IRRELEVANT CONTENT
+mistralai/Mistral-7B-Instruct-v0.2	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1234	0	0	True	THEY HAVE USED ENGLISH IN THE ANSWER	INELIGIBLE WORDS AND OTHER LANGUAGE IS FOUND	NO WRONG AND IRRELEVANT CONTENT
+gpt-4	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1234	1	2	False	SOME GRAMMARTICAL MISTAKE FOUND	RELATED ANSWER IS GIVEN FOR THE PROMPT	NO WRONG AND IRRELEVANT CONTENT
+gpt-35-turbo	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1234	2	0	True	NO GRAMMATICAL MISTAKES FOUND	WRONG ANSWER REGARDING PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+google/gemma-7b-it	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1234	0	0	True	GRAMMATICAL MISTAKES FOUND AND OTHER LANGUAGE USED	WRONG ANSWER REGARDING PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1234	1	0	True	SOME GRAMMARTICAL MISTAKE FOUND	WRONG ANSWER REGARDING PROMPT	ANSWER IS NOT RELATED TO PROMPT
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1234	1	0	True	REPEATED WORDS AND SENTENCES ARE FOUND	WRONG ANSWER REGARDING PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1234	2	1	True	NO GRAMMATICAL MISTAKES ARE FOUND	WRONG INFORMATION REGARDING THE PLACES BUT INFORMATION REGARDING IMPORTANCE IS CORRECT	WRONG AND IRRELEVANT CONTENT IS THERE
+GPT4o	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1234	1	0	True	OTHER LANGUAGE FOUND 	SENSIBLE ANSWER IS NOT FOUND	WRONG AND IRRELEVANT CONTENT IS THERE
+GenVRadmin/llama38bGenZ_Vikas-Merged	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1234	2	0	True	NO GRAMMATICAL MISTAKES ARE FOUND	PLACES GIVEN ARE NOT RELATED TO PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+Tensoic/Kan-Llama-7B-SFT-v0.5	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1234	2	0	True	NO GRAMMATICAL MISTAKES ARE FOUND	NO ANSWER GIVEN FOR THE PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1234	2	0	True	NO GRAMMATICAL MISTAKES ARE FOUND	WRONG ANSWER GIVEN FOR THE PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+meta-llama/Llama-2-7b-chat-hf	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1234	0	0	True	OTHER LANGUAGE FOUND 	WRONG ANSWER GIVEN FOR THE PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+meta-llama/Meta-Llama-3-8B-Instruct	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1234	1	0	True	REPEATED WORDS AND SENTENCES ARE FOUND	NOT SENSIBLE ANSWER BECAUSE OF REPEATED SENTENCES	WRONG AND IRRELEVANT CONTENT IS THERE
+meta-llama/Meta-Llama-3-70B-Instruct	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1234	2	2	False	NO GRAMMATICAL MISTAKES ARE FOUND	CORRECT ANSWER FOR THE PROMPT	NO WRONG AND IRRELEVANT CONTENT
+mistralai/Mistral-7B-Instruct-v0.2	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1234	0	0	True	REPEATED WORDS ARE FOUND	NOT SENSIBLE ANSWER BECAUSE OF REPEATED WORDS	WRONG AND IRRELEVANT CONTENT IS THERE
+gpt-4	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1234	2	1	False	NO GRAMMATICAL MISTAKES ARE FOUND	PARTLY ANSWER IS CORRECT	NO WRONG AND IRRELEVANT CONTENT
+gpt-35-turbo	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1234	2	1	False	NO GRAMMATICAL MISTAKES ARE FOUND	PARTLY ANSWER IS CORRECT	NO WRONG AND IRRELEVANT CONTENT
+google/gemma-7b-it	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1234	0	0	True	GRAMMATICAL MISTAKES ARE FOUND	SENSIBLE ANSWER IS NOT FOUND	WRONG AND IRRELEVANT CONTENT IS THERE
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1234	2	2	False	NO GRAMMATICAL MISTAKES ARE FOUND	CORRECT ANSWER FOR THE PROMPT	NO WRONG AND IRRELEVANT CONTENT
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1234	1	0	True	SOME GRAMMARTICAL MISTAKE FOUND	WRONG ANSWER FOR THE PROMPT	ANSWER IS NOT RELATED TO PROMPT
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1234	1	0	True	SOME GRAMMARTICAL MISTAKE FOUND	WRONG ANSWER FOR THE PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+GPT4o	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1234	1	1	False	FEW GRAMMATICAL MISTAKES ARE FOUND	PARTLY ANSWER IS CORRECT	NO WRONG AND IRRELEVANT CONTENT
+GenVRadmin/llama38bGenZ_Vikas-Merged	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1234	2	0	True	NO GRAMMATICAL MISTAKES ARE FOUND	WRONG ANSWER FOR THE PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+Tensoic/Kan-Llama-7B-SFT-v0.5	829b706a-574f-45d4-bdf1-e4923db2e838	1234	2	2	False	NO GRAMMATICAL MISTAKES ARE FOUND	CORRECT ANSWER FOR THE PROMPT	NO WRONG AND IRRELEVANT CONTENT
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	829b706a-574f-45d4-bdf1-e4923db2e838	1234	1	0	True	REPEATED WORDS AND SENTENCES ARE FOUND	WRONG ANSWER FOR THE PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+meta-llama/Llama-2-7b-chat-hf	829b706a-574f-45d4-bdf1-e4923db2e838	1234	1	0	True	SOME GRAMMARTICAL MISTAKE FOUND AND REPEATED WORDS	WRONG ANSWER FOR THE PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+meta-llama/Meta-Llama-3-8B-Instruct	829b706a-574f-45d4-bdf1-e4923db2e838	1234	1	2	False	SOME GRAMMARTICAL MISTAKE FOUND	CORRECT ANSWER FOR THE PROMPT	NO WRONG AND IRRELEVANT CONTENT
+meta-llama/Meta-Llama-3-70B-Instruct	829b706a-574f-45d4-bdf1-e4923db2e838	1234	1	0	True	SOME GRAMMARTICAL MISTAKE FOUND	WRONG ANSWER FOR THE PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+mistralai/Mistral-7B-Instruct-v0.2	829b706a-574f-45d4-bdf1-e4923db2e838	1234	0	0	True	OTHER LANGUAGES ARE FOOUND	WRONG ANSWER FOR THE PROMPT	WRONG AND IRRELEVANT CONTENT IS THERE
+gpt-4	829b706a-574f-45d4-bdf1-e4923db2e838	1234	2	2	False	NO GRAMMATICAL MISTAKES ARE FOUND	CORRECT ANSWER FOR THE PROMPT	NO WRONG AND IRRELEVANT CONTENT
+gpt-35-turbo	829b706a-574f-45d4-bdf1-e4923db2e838	1234	2	2	False	NO GRAMMATICAL MISTAKES ARE FOUND	CORRECT ANSWER FOR THE PROMPT	NO WRONG AND IRRELEVANT CONTENT
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	e41cb486-496f-465e-ad07-76fed94a4183	1235	2	2	False	There is no language mismatch,no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+GPT4o	e41cb486-496f-465e-ad07-76fed94a4183	1235	2	2	False	There is no language mismatch,no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+GenVRadmin/llama38bGenZ_Vikas-Merged	e41cb486-496f-465e-ad07-76fed94a4183	1235	1	1	False	There is no language mismatch,no grammatical mistakes, incomplete sentence	Answer is Right but incomplete sentence	no hallucination, no  irrelevant/ wrong information
+Tensoic/Kan-Llama-7B-SFT-v0.5	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1235	2	0	True	There is no language mismatch,no grammatical mistakes	Answer is wrong	there is  irrelevant/ wrong information
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1235	2	2	False	There is no language mismatch,no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+meta-llama/Llama-2-7b-chat-hf	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1235	2	0	False	There is no language mismatch,no grammatical mistakes	Answer is wrong prompt question is repeated 	no hallucination, no  irrelevant/ wrong information
+meta-llama/Meta-Llama-3-8B-Instruct	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1235	2	2	False	There is no language mismatch,no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+meta-llama/Meta-Llama-3-70B-Instruct	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1235	2	2	False	There is no language mismatch,no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+mistralai/Mistral-7B-Instruct-v0.2	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1235	2	0	True	There is no language mismatch,no grammatical mistakes	Answer is wrong	there is  irrelevant/ wrong information
+gpt-4	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1235	1	1	True	There is no language mismatch, some grammatical mistakes	Answer is Rightbut some of answer are wrong	there is  irrelevant/ wrong information
+gpt-35-turbo	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1235	2	1	True	There is no language mismatch,no grammatical mistakes	Answer is Rightbut some of answer are wrong	there is  irrelevant/ wrong information
+google/gemma-7b-it	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1235	1	1	True	There is no language mismatch,but more grammatical mistakes	Answer is Rightbut some of answer are incomplete and wrong	there is  irrelevant/ wrong information
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1235	1	1	False	There is no language mismatch,no grammatical mistakesand once sentence is reapted	Answer is Rightbut some of answer are reapted more	no hallucination, no  irrelevant/ wrong information
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1235	2	2	False	There is no language mismatch,no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1235	2	1	False	There is no language mismatch,no grammatical mistakes	Answer is Rightbut some of answer are reapted more	no hallucination, no  irrelevant/ wrong information
+GPT4o	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1235	2	2	False	There is no language mismatch,no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+GenVRadmin/llama38bGenZ_Vikas-Merged	bcb30da8-d92d-4fa5-b26e-9f98873c762a	1235	2	2	False	There is no language mismatch,no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+Tensoic/Kan-Llama-7B-SFT-v0.5	ab117e7f-2f06-4517-a739-8850734bcbaa	1235	2	1	False	There is no language mismatch,no grammatical mistakes	Answer is Rightbut some of answer are reapted more	no hallucination, no  irrelevant/ wrong information
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	ab117e7f-2f06-4517-a739-8850734bcbaa	1235	0	0	True	There is no language mismatch,but more grammatical mistakes	Answer is wrong	there is  irrelevant/ wrong information
+meta-llama/Llama-2-7b-chat-hf	ab117e7f-2f06-4517-a739-8850734bcbaa	1235	2	0	True	There is no language mismatch,no grammatical mistakes	Answer is wrong,prompt question is repeated	there is  irrelevant/ wrong information
+meta-llama/Meta-Llama-3-8B-Instruct	ab117e7f-2f06-4517-a739-8850734bcbaa	1235	2	2	False	There is no language mismatch,no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+meta-llama/Meta-Llama-3-70B-Instruct	ab117e7f-2f06-4517-a739-8850734bcbaa	1235	2	2	False	There is no language mismatch,no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+mistralai/Mistral-7B-Instruct-v0.2	ab117e7f-2f06-4517-a739-8850734bcbaa	1235	1	1	True	There is no language mismatch but grammatical mistakes	Answer is Right but some answers wrong	there is  irrelevant/ wrong information
+gpt-4	ab117e7f-2f06-4517-a739-8850734bcbaa	1235	2	2	False	There is no language mismatch,no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+gpt-35-turbo	ab117e7f-2f06-4517-a739-8850734bcbaa	1235	2	1	False	There is no language mismatch,no grammatical mistakes	Answer is Right there is small contentof answer	no hallucination, no  irrelevant/ wrong information
+google/gemma-7b-it	ab117e7f-2f06-4517-a739-8850734bcbaa	1235	1	1	False	There is no language mismatch,no grammatical mistakes but incomplete sentence	Answer is Right but incomplete sentence	no hallucination, no  irrelevant/ wrong information
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	ab117e7f-2f06-4517-a739-8850734bcbaa	1235	1	1	False	There is no language mismatch,no grammatical mistakes but incomplete sentence	Answer is Right but incomplete sentence	no hallucination, no  irrelevant/ wrong information
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	ab117e7f-2f06-4517-a739-8850734bcbaa	1235	1	1	False	There is no language mismatch,no grammatical mistakes but incomplete sentence	Answer is Right but incomplete sentence	no hallucination, no  irrelevant/ wrong information
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	ab117e7f-2f06-4517-a739-8850734bcbaa	1235	1	1	False	There is no language mismatch,no grammatical mistakes but incomplete sentence	Answer is Right but incomplete sentence	no hallucination, no  irrelevant/ wrong information
+GPT4o	ab117e7f-2f06-4517-a739-8850734bcbaa	1235	2	2	False	There is no language mismatch,no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+GenVRadmin/llama38bGenZ_Vikas-Merged	ab117e7f-2f06-4517-a739-8850734bcbaa	1235	1	1	False	There is no language mismatch,no grammatical mistakes but incomplete sentence	Answer is Right but incomplete sentence	no hallucination, no  irrelevant/ wrong information
+Tensoic/Kan-Llama-7B-SFT-v0.5	de0be292-6821-4f1e-8fac-b814e88f969c	1235	2	2	False	There is no language mismatch,no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	de0be292-6821-4f1e-8fac-b814e88f969c	1235	2	2	False	There is no language mismatch,no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+meta-llama/Llama-2-7b-chat-hf	de0be292-6821-4f1e-8fac-b814e88f969c	1235	2	0	False	There is no language mismatch,no grammatical mistakes	Answer is wrong,prompt question is repeated	no hallucination, no  irrelevant/ wrong information
+meta-llama/Meta-Llama-3-8B-Instruct	de0be292-6821-4f1e-8fac-b814e88f969c	1235	2	0	True	There is no language mismatch,no grammatical mistakes	Answer is wrong	there is  irrelevant/ wrong information
+meta-llama/Meta-Llama-3-70B-Instruct	de0be292-6821-4f1e-8fac-b814e88f969c	1235	2	2	False	There is no language mismatch,no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+mistralai/Mistral-7B-Instruct-v0.2	de0be292-6821-4f1e-8fac-b814e88f969c	1235	1	0	True	There is  language mismatch,no grammatical mistakes	Answer is wrong	there is  irrelevant/ wrong information
+gpt-4	de0be292-6821-4f1e-8fac-b814e88f969c	1235	2	2	False	There is no language mismatch,no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+gpt-35-turbo	de0be292-6821-4f1e-8fac-b814e88f969c	1235	2	0	True	There is no language mismatch,no grammatical mistakes	Answer is wrong	there is  irrelevant/ wrong information
+google/gemma-7b-it	de0be292-6821-4f1e-8fac-b814e88f969c	1235	2	0	True	There is no language mismatch,no grammatical mistakes	Answer is wrong	there is  irrelevant/ wrong information
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	de0be292-6821-4f1e-8fac-b814e88f969c	1235	2	2	False	There is no language mismatch,no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	de0be292-6821-4f1e-8fac-b814e88f969c	1235	2	2	False	There is no language mismatch,no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	de0be292-6821-4f1e-8fac-b814e88f969c	1235	2	1	False	There is no language mismatch,no grammatical mistakes	Answer is Right but some sentence are wrong	no hallucination, no  irrelevant/ wrong information
+GPT4o	de0be292-6821-4f1e-8fac-b814e88f969c	1235	2	2	False	There is no language mismatch,no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+GenVRadmin/llama38bGenZ_Vikas-Merged	de0be292-6821-4f1e-8fac-b814e88f969c	1235	2	0	True	There is no language mismatch,no grammatical mistakes	Answer is wrong	there is  irrelevant/ wrong information
+Tensoic/Kan-Llama-7B-SFT-v0.5	b49508fd-984f-41ea-a88c-c417853f34ef	1235	2	2	False	There is no language mismatch,no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	b49508fd-984f-41ea-a88c-c417853f34ef	1235	2	0	True	There is no language mismatch,no grammatical mistakes	Answer is wrong	there is  irrelevant/ wrong information
+meta-llama/Llama-2-7b-chat-hf	b49508fd-984f-41ea-a88c-c417853f34ef	1235	2	0	True	There is no language mismatch,no grammatical mistakes	Answer is wrong	there is  irrelevant/ wrong information
+meta-llama/Meta-Llama-3-8B-Instruct	b49508fd-984f-41ea-a88c-c417853f34ef	1235	2	2	False	There is no language mismatch,no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+meta-llama/Meta-Llama-3-70B-Instruct	b49508fd-984f-41ea-a88c-c417853f34ef	1235	2	2	False	There is no language mismatch,no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+mistralai/Mistral-7B-Instruct-v0.2	b49508fd-984f-41ea-a88c-c417853f34ef	1235	2	0	True	There is no language mismatch,no grammatical mistakes	Answer is wrong	there is  irrelevant/ wrong information
+gpt-4	b49508fd-984f-41ea-a88c-c417853f34ef	1235	2	2	False	There is no language mismatch,no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+gpt-35-turbo	b49508fd-984f-41ea-a88c-c417853f34ef	1235	2	1	False	There is no language mismatch,no grammatical mistakes	Answer is Right some senetence are wrong	no hallucination, no  irrelevant/ wrong information
+google/gemma-7b-it	b49508fd-984f-41ea-a88c-c417853f34ef	1235	1	1	False	There is language mismatch,no grammatical mistakes	Not a perfect answer	no hallucination, no  irrelevant/ wrong information
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	b49508fd-984f-41ea-a88c-c417853f34ef	1235	1	1	False	There is no language mismatch,no grammatical mistakes but incomplete sentence	Answer is Right but incomplete sentence	no hallucination, no  irrelevant/ wrong information
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	b49508fd-984f-41ea-a88c-c417853f34ef	1235	2	2	False	There is no language mismatch,no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	b49508fd-984f-41ea-a88c-c417853f34ef	1235	2	1	False	There is no language mismatch,no grammatical mistakes	Not a perfect answer	no hallucination, no  irrelevant/ wrong information
+GPT4o	b49508fd-984f-41ea-a88c-c417853f34ef	1235	2	2	False	There is no language mismatch,no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+GenVRadmin/llama38bGenZ_Vikas-Merged	b49508fd-984f-41ea-a88c-c417853f34ef	1235	2	0	True	There is no language mismatch,no grammatical mistakes	Answer is wrong	there is  irrelevant/ wrong information
+Tensoic/Kan-Llama-7B-SFT-v0.5	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1235	2	2	False	There is no language mismatch,no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1235	2	2	False	There is no language mismatch,no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+meta-llama/Llama-2-7b-chat-hf	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1235	2	0	True	There is no language mismatch,no grammatical mistakes	Answer is wrong	there is  irrelevant/ wrong information
+meta-llama/Meta-Llama-3-8B-Instruct	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1235	2	1	False	There is no language mismatch,no grammatical mistakes	Answer is Right but very less content	no hallucination, no  irrelevant/ wrong information
+meta-llama/Meta-Llama-3-70B-Instruct	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1235	2	1	False	There is no language mismatch,no grammatical mistakes	Answer is Right but very less content	no hallucination, no  irrelevant/ wrong information
+mistralai/Mistral-7B-Instruct-v0.2	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1235	0	0	True	There is language mismatch,there is grammatical mistakes	Answer is Right but content is in other language as well	there is  irrelevant/ wrong information
+gpt-4	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1235	2	1	False	There is no language mismatch,there is no grammatical mistakes	not 100% right answer	no hallucination, no  irrelevant/ wrong information
+gpt-35-turbo	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1235	2	1	False	There is no language mismatch,there is no grammatical mistakes	Answer is Right but very less content	no hallucination, no  irrelevant/ wrong information
+google/gemma-7b-it	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1235	0	0	True	There is language mismatch,there is grammatical mistakes	Answer is wrong	there is  irrelevant/ wrong information
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1235	2	2	False	There is no language mismatch,there is no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1235	2	1	False	There is no language mismatch,there is no grammatical mistakes	not 100% answer right and some sentence are repeated	no hallucination, no  irrelevant/ wrong information
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1235	2	2	False	There is no language mismatch,there is no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+GPT4o	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1235	1	1	False	There is language mismatch,there is grammatical mistakes	not 100% right answer	no hallucination, no  irrelevant/ wrong information
+GenVRadmin/llama38bGenZ_Vikas-Merged	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	1235	2	1	False	There is no language mismatch,there is no grammatical mistakes	Not a perfect answer	no hallucination, no  irrelevant/ wrong information
+Tensoic/Kan-Llama-7B-SFT-v0.5	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1235	2	0	True	There is no language mismatch,there is no grammatical mistakes	Answer is wrong	there is  irrelevant/ wrong information
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1235	2	2	False	There is no language mismatch,there is no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+meta-llama/Llama-2-7b-chat-hf	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1235	1	0	True	There is language mismatch,there is grammatical mistakes	Answer is wrong	there is  irrelevant/ wrong information
+meta-llama/Meta-Llama-3-8B-Instruct	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1235	2	0	True	There is no language mismatch,there is no grammatical mistakes	Answer is wrong 	there is  irrelevant/ wrong information
+meta-llama/Meta-Llama-3-70B-Instruct	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1235	2	1	False	There is no language mismatch,there is no grammatical mistakes	partially correct answer	no hallucination, no  irrelevant/ wrong information
+mistralai/Mistral-7B-Instruct-v0.2	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1235	1	0	True	There is no language mismatch,there is no grammatical mistakes but words are repeated	Answer is wrong 	there is  irrelevant/ wrong information
+gpt-4	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1235	2	1	False	There is no language mismatch,there is no grammatical mistakes	Not a perfect answer	no hallucination, no  irrelevant/ wrong information
+gpt-35-turbo	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1235	2	1	False	There is no language mismatch,there is no grammatical mistakes	Answer is Right but very less content	no hallucination, no  irrelevant/ wrong information
+google/gemma-7b-it	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1235	1	1	False	There is language mismatch,there is grammatical mistakes	Not a perfect answer	no hallucination, no  irrelevant/ wrong information
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1235	2	1	False	There is no language mismatch,there is no grammatical mistakes	not 100% answer right	no hallucination, no  irrelevant/ wrong information
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1235	2	2	False	There is no language mismatch,there is no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1235	2	1	False	There is no language mismatch,there is no grammatical mistakes	not 100% answer right,incomplete sentence	no hallucination, no  irrelevant/ wrong information
+GPT4o	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1235	2	1	False	There is no language mismatch,there is no grammatical mistakes	not 100% answer right	no hallucination, no  irrelevant/ wrong information
+GenVRadmin/llama38bGenZ_Vikas-Merged	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	1235	2	1	False	There is no language mismatch,there is no grammatical mistakes	not 100% answer right,incomplete sentence	no hallucination, no  irrelevant/ wrong information
+Tensoic/Kan-Llama-7B-SFT-v0.5	829b706a-574f-45d4-bdf1-e4923db2e838	1235	2	2	False	There is no language mismatch,there is no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	829b706a-574f-45d4-bdf1-e4923db2e838	1235	1	1	False	There is no language mismatch,there is no grammatical mistakes but sentence is repeated	Answer is Right but some answer are repeated	no hallucination, no  irrelevant/ wrong information
+meta-llama/Llama-2-7b-chat-hf	829b706a-574f-45d4-bdf1-e4923db2e838	1235	2	0	True	There is no language mismatch,there is no grammatical mistakes	Answer is wrong 	there is  irrelevant/ wrong information
+meta-llama/Meta-Llama-3-8B-Instruct	829b706a-574f-45d4-bdf1-e4923db2e838	1235	2	2	False	There is no language mismatch,there is no grammatical mistakes	Answer is Right	no hallucination, no  irrelevant/ wrong information
+meta-llama/Meta-Llama-3-70B-Instruct	829b706a-574f-45d4-bdf1-e4923db2e838	1235	1	1	False	There is no language mismatch,there is no grammatical mistakes but sentence is incomplete	not 100% answer right,incomplete sentence	no hallucination, no  irrelevant/ wrong information
+mistralai/Mistral-7B-Instruct-v0.2	829b706a-574f-45d4-bdf1-e4923db2e838	1235	0	0	True	There is language mismatch,there is grammatical mistakes	Answer is wrong 	there is  irrelevant/ wrong information
+gpt-4	829b706a-574f-45d4-bdf1-e4923db2e838	1235	2	1	False	There is no language mismatch,there is no grammatical mistakes	Answer is Right but very less content	no hallucination, no  irrelevant/ wrong information
+gpt-35-turbo	829b706a-574f-45d4-bdf1-e4923db2e838	1235	2	1	False	There is no language mismatch,there is no grammatical mistakes	Answer is Right but very less content	no hallucination, no  irrelevant/ wrong information
+meta-llama/Meta-Llama-3-70B-Instruct	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	9657	2	2	False	none	none	none
+meta-llama/Meta-Llama-3-70B-Instruct	829b706a-574f-45d4-bdf1-e4923db2e838	9657	1	1	False	none	none	none
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	9657	2	2	False	none	none	none
+gpt-4	9b16d388-428d-4e37-bd6e-771c309845c5	9657	2	2	False	none	none	none
+GPT4o	bcb30da8-d92d-4fa5-b26e-9f98873c762a	9657	1	1	False	none	none	none
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	9657	2	2	False	none	none	none
+GPT4o	b49508fd-984f-41ea-a88c-c417853f34ef	9657	1	0	True	none	none	none
+gpt-35-turbo	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	9657	2	1	False	none	none	none
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	9657	2	0	False	none	none	none
+Tensoic/Kan-Llama-7B-SFT-v0.5	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	9657	2	1	False	none	none	none
+GenVRadmin/llama38bGenZ_Vikas-Merged	561143a8-6533-4b06-8b28-d85c3b47e67c	9657	2	0	True	none	none	none
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	bc293bda-e649-46f7-9fef-2d208160b32d	9657	2	2	False	none	none	none
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	9657	2	2	False	none	none	none
+GenVRadmin/llama38bGenZ_Vikas-Merged	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	9657	2	1	False	none	none	none
+meta-llama/Meta-Llama-3-70B-Instruct	e41cb486-496f-465e-ad07-76fed94a4183	9657	2	2	False	none	none	none
+GenVRadmin/llama38bGenZ_Vikas-Merged	e41cb486-496f-465e-ad07-76fed94a4183	9657	1	1	False	none	none	none
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	97454a35-87fc-4b45-96c8-1b4d20c79c40	9657	2	0	True	none	none	none
+GPT4o	829b706a-574f-45d4-bdf1-e4923db2e838	9657	1	1	False	none	none	none
+gpt-4	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	9657	1	2	False	none	none	none
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	de0be292-6821-4f1e-8fac-b814e88f969c	9657	2	1	False	none	none	none
+meta-llama/Meta-Llama-3-8B-Instruct	b49508fd-984f-41ea-a88c-c417853f34ef	9657	2	1	False	none	none	none
+meta-llama/Meta-Llama-3-8B-Instruct	829b706a-574f-45d4-bdf1-e4923db2e838	9657	2	2	False	none	none	none
+gpt-4	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	9657	2	1	False	none	none	none
+meta-llama/Meta-Llama-3-8B-Instruct	9b16d388-428d-4e37-bd6e-771c309845c5	9657	2	0	False	none	none	none
+GPT4o	de0be292-6821-4f1e-8fac-b814e88f969c	9657	2	2	False	none	none	none
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	84678da4-914e-4854-a475-f6b2a1e291f4	9657	2	2	False	none	none	none
+Tensoic/Kan-Llama-7B-SFT-v0.5	b49508fd-984f-41ea-a88c-c417853f34ef	9657	2	0	True	none	none	none
+GenVRadmin/llama38bGenZ_Vikas-Merged	97454a35-87fc-4b45-96c8-1b4d20c79c40	9657	2	0	True	none	none	none
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	e41cb486-496f-465e-ad07-76fed94a4183	9657	2	2	False	none	none	none
+gpt-4	829b706a-574f-45d4-bdf1-e4923db2e838	9657	2	2	False	none	none	none
+GenVRadmin/llama38bGenZ_Vikas-Merged	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	9657	2	0	True	none	none	none
+gpt-4	ab117e7f-2f06-4517-a739-8850734bcbaa	9657	0	0	True	none	none	none
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	ab117e7f-2f06-4517-a739-8850734bcbaa	9657	2	2	False	none	none	none
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	561143a8-6533-4b06-8b28-d85c3b47e67c	9657	2	0	True	none	none	none
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	561143a8-6533-4b06-8b28-d85c3b47e67c	9657	1	1	False	none	none	none
+GPT4o	bc293bda-e649-46f7-9fef-2d208160b32d	9657	2	2	False	none	none	none
+meta-llama/Meta-Llama-3-70B-Instruct	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	9657	2	2	False	none	none	none
+gpt-35-turbo	b49508fd-984f-41ea-a88c-c417853f34ef	9657	2	0	True	none	none	none
+meta-llama/Meta-Llama-3-70B-Instruct	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	9657	2	2	False	none	none	none
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	9657	2	0	True	none	none	none
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	829b706a-574f-45d4-bdf1-e4923db2e838	9657	1	0	True	none	none	none
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	97454a35-87fc-4b45-96c8-1b4d20c79c40	9657	2	0	True	none	none	none
+gpt-4	e41cb486-496f-465e-ad07-76fed94a4183	9657	2	1	False	none	none	none
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	ab117e7f-2f06-4517-a739-8850734bcbaa	9657	1	1	True	none	none	none
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	9b16d388-428d-4e37-bd6e-771c309845c5	9657	1	1	True	none	none	none
+meta-llama/Meta-Llama-3-70B-Instruct	2dc0c075-62cf-472e-b6bc-18a4361667de	9657	2	2	False	none	none	none
+GPT4o	97454a35-87fc-4b45-96c8-1b4d20c79c40	9657	2	2	False	none	none	none
+Tensoic/Kan-Llama-7B-SFT-v0.5	829b706a-574f-45d4-bdf1-e4923db2e838	9657	2	2	False	none	none	none
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	9657	2	0	True	none	none	none
+gpt-35-turbo	9b16d388-428d-4e37-bd6e-771c309845c5	9657	1	0	True	none	none	none
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	9657	1	1	False	none	none	none
+gpt-35-turbo	561143a8-6533-4b06-8b28-d85c3b47e67c	9657	2	2	False	none	none	none
+meta-llama/Meta-Llama-3-70B-Instruct	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	9657	2	0	True	none	none	none
+gpt-4	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	9657	2	2	False	none	none	none
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	de0be292-6821-4f1e-8fac-b814e88f969c	9657	2	2	False	none	none	none
+meta-llama/Meta-Llama-3-8B-Instruct	84678da4-914e-4854-a475-f6b2a1e291f4	9657	2	1	False	none	none	none
+meta-llama/Meta-Llama-3-8B-Instruct	2dc0c075-62cf-472e-b6bc-18a4361667de	9657	2	2	False	none	none	none
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	e41cb486-496f-465e-ad07-76fed94a4183	9657	2	2	False	none	none	none
+gpt-35-turbo	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	9657	2	0	True	none	none	none
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	9657	2	0	True	none	none	none
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	9657	2	0	True	none	none	none
+gpt-35-turbo	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	9657	2	0	True	none	none	none
+meta-llama/Meta-Llama-3-70B-Instruct	bcb30da8-d92d-4fa5-b26e-9f98873c762a	9657	2	2	False	none	none	none
+meta-llama/Meta-Llama-3-8B-Instruct	ab117e7f-2f06-4517-a739-8850734bcbaa	9657	2	2	False	none	none	none
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	9657	2	2	False	none	none	none
+meta-llama/Meta-Llama-3-8B-Instruct	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	9657	2	1	False	none	none	none
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	9657	2	1	False	none	none	none
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	2dc0c075-62cf-472e-b6bc-18a4361667de	9657	2	2	False	none	none	none
+GPT4o	561143a8-6533-4b06-8b28-d85c3b47e67c	9657	2	2	False	none	none	none
+meta-llama/Meta-Llama-3-70B-Instruct	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	9657	2	2	False	none	none	none
+gpt-4	de0be292-6821-4f1e-8fac-b814e88f969c	9657	1	1	False	none	none	none
+meta-llama/Meta-Llama-3-70B-Instruct	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	9657	2	2	False	none	none	none
+Tensoic/Kan-Llama-7B-SFT-v0.5	de0be292-6821-4f1e-8fac-b814e88f969c	9657	2	0	True	none	none	none
+GenVRadmin/llama38bGenZ_Vikas-Merged	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	9657	2	0	True	none	none	none
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	bcb30da8-d92d-4fa5-b26e-9f98873c762a	9657	2	2	False	none	none	none
+gpt-35-turbo	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	9657	2	0	True	none	none	none
+GPT4o	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	9657	1	2	False	none	none	none
+meta-llama/Meta-Llama-3-70B-Instruct	9b16d388-428d-4e37-bd6e-771c309845c5	9657	2	0	True	none	none	none
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	bc293bda-e649-46f7-9fef-2d208160b32d	9657	2	2	False	none	none	none
+GenVRadmin/llama38bGenZ_Vikas-Merged	bcb30da8-d92d-4fa5-b26e-9f98873c762a	9657	1	1	False	none	none	none
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	e41cb486-496f-465e-ad07-76fed94a4183	9657	2	2	False	none	none	none
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	9657	1	0	True	none	none	none
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	de0be292-6821-4f1e-8fac-b814e88f969c	9657	2	0	True	none	none	none
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	84678da4-914e-4854-a475-f6b2a1e291f4	9657	2	2	False	none	none	none
+meta-llama/Meta-Llama-3-70B-Instruct	97454a35-87fc-4b45-96c8-1b4d20c79c40	9657	2	0	True	none	none	none
+gpt-35-turbo	829b706a-574f-45d4-bdf1-e4923db2e838	9657	2	2	False	none	none	none
+gpt-35-turbo	ab117e7f-2f06-4517-a739-8850734bcbaa	9657	2	2	False	none	none	none
+meta-llama/Meta-Llama-3-8B-Instruct	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	9657	2	0	True	none	none	none
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	84678da4-914e-4854-a475-f6b2a1e291f4	9657	2	2	False	none	none	none
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	9657	1	1	False	none	none	none
+meta-llama/Meta-Llama-3-8B-Instruct	b67b4668-90c1-45d4-ad99-2d4fb2eb470b	9657	2	2	False	none	none	none
+GPT4o	9b16d388-428d-4e37-bd6e-771c309845c5	9657	2	1	False	none	none	none
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	b49508fd-984f-41ea-a88c-c417853f34ef	9657	2	0	True	none	none	none
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	9657	2	0	True	none	none	none
+gpt-35-turbo	bcb30da8-d92d-4fa5-b26e-9f98873c762a	9657	2	0	True	none	none	none
+GenVRadmin/llama38bGenZ_Vikas-Merged	84678da4-914e-4854-a475-f6b2a1e291f4	9657	1	1	False	none	none	none
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	9657	2	0	True	none	none	none
+gpt-4	97454a35-87fc-4b45-96c8-1b4d20c79c40	9657	1	0	True	none	none	none
+GenVRadmin/llama38bGenZ_Vikas-Merged	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	9657	2	1	False	none	none	none
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	bc293bda-e649-46f7-9fef-2d208160b32d	9657	2	2	False	none	none	none
+gpt-35-turbo	97454a35-87fc-4b45-96c8-1b4d20c79c40	9657	2	0	True	none	none	none
+GenVRadmin/llama38bGenZ_Vikas-Merged	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	9657	2	2	False	none	none	none
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	2dc0c075-62cf-472e-b6bc-18a4361667de	9657	1	1	False	none	none	none
+Tensoic/Kan-Llama-7B-SFT-v0.5	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	9657	2	0	True	none	none	none
+meta-llama/Meta-Llama-3-8B-Instruct	de0be292-6821-4f1e-8fac-b814e88f969c	9657	2	0	True	none	none	none
+gpt-35-turbo	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	9657	2	0	True	none	none	none
+GPT4o	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	9657	2	0	True	none	none	none
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	de0be292-6821-4f1e-8fac-b814e88f969c	9657	2	2	False	none	none	none
+gpt-35-turbo	de0be292-6821-4f1e-8fac-b814e88f969c	9657	2	0	True	none	none	none
+meta-llama/Meta-Llama-3-8B-Instruct	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	9657	2	1	False	none	none	none
+GenVRadmin/llama38bGenZ_Vikas-Merged	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	9657	1	0	True	none	none	none
+meta-llama/Meta-Llama-3-70B-Instruct	bc293bda-e649-46f7-9fef-2d208160b32d	9657	2	2	False	none	none	none
+meta-llama/Meta-Llama-3-70B-Instruct	b49508fd-984f-41ea-a88c-c417853f34ef	9657	2	0	True	none	none	none
+gpt-4	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	9657	2	2	False	none	none	none
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	84678da4-914e-4854-a475-f6b2a1e291f4	9657	1	1	False	none	none	none
+meta-llama/Meta-Llama-3-8B-Instruct	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	9657	2	0	True	none	none	none
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	b49508fd-984f-41ea-a88c-c417853f34ef	9657	1	0	True	none	none	none
+GenVRadmin/AryaBhatta-GemmaOrca-Merged	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	9657	2	2	False	none	none	none
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	9657	2	0	True	none	none	none
+Tensoic/Kan-Llama-7B-SFT-v0.5	9b16d388-428d-4e37-bd6e-771c309845c5	9657	2	0	True	none	none	none
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	9657	1	1	False	none	none	none
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	829b706a-574f-45d4-bdf1-e4923db2e838	9657	2	2	False	none	none	none
+meta-llama/Meta-Llama-3-8B-Instruct	561143a8-6533-4b06-8b28-d85c3b47e67c	9657	2	2	False	none	none	none
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	2dc0c075-62cf-472e-b6bc-18a4361667de	9657	2	2	False	none	none	none
+GenVRadmin/llama38bGenZ_Vikas-Merged	b49508fd-984f-41ea-a88c-c417853f34ef	9657	1	0	True	none	none	none
+meta-llama/Meta-Llama-3-8B-Instruct	97454a35-87fc-4b45-96c8-1b4d20c79c40	9657	2	0	True	none	none	none
+meta-llama/Meta-Llama-3-70B-Instruct	ab117e7f-2f06-4517-a739-8850734bcbaa	9657	2	2	False	none	none	none
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	561143a8-6533-4b06-8b28-d85c3b47e67c	9657	2	0	True	none	none	none
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	e41cb486-496f-465e-ad07-76fed94a4183	9657	2	2	False	none	none	none
+gpt-35-turbo	e41cb486-496f-465e-ad07-76fed94a4183	9657	2	0	True	none	none	none
+meta-llama/Meta-Llama-3-8B-Instruct	bc293bda-e649-46f7-9fef-2d208160b32d	9657	2	1	False	none	none	none
+meta-llama/Meta-Llama-3-70B-Instruct	de0be292-6821-4f1e-8fac-b814e88f969c	9657	2	2	False	none	none	none
+GenVRadmin/llama38bGenZ_Vikas-Merged	2dc0c075-62cf-472e-b6bc-18a4361667de	9657	1	1	False	none	none	none
+meta-llama/Meta-Llama-3-8B-Instruct	1f175a88-fa1f-4f6f-9a31-3d06b1339f5b	9657	2	1	False	none	none	none
+GenVRadmin/llama38bGenZ_Vikas-Merged	829b706a-574f-45d4-bdf1-e4923db2e838	9657	1	1	False	none	none	none
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	9b16d388-428d-4e37-bd6e-771c309845c5	9657	2	0	True	none	none	none
+GenVRadmin/llama38bGenZ_Vikas-Merged	de0be292-6821-4f1e-8fac-b814e88f969c	9657	1	1	False	none	none	none
+meta-llama/Meta-Llama-3-70B-Instruct	84678da4-914e-4854-a475-f6b2a1e291f4	9657	2	2	False	none	none	none
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e	9657	2	0	True	none	none	none
+meta-llama/Meta-Llama-3-70B-Instruct	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	9657	2	1	False	none	none	none
+GenVRadmin/AryaBhatta-GemmaUltra-Merged	c2528d0a-a9c4-4171-b8c7-73ed9681bad0	9657	2	1	False	none	none	none
+Cognitive-Lab/Ambari-7B-Instruct-v0.1	2dc0c075-62cf-472e-b6bc-18a4361667de	9657	2	2	False	none	none	none
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	b49508fd-984f-41ea-a88c-c417853f34ef	9657	2	0	True	none	none	none
+GenVRadmin/llama38bGenZ_Vikas-Merged	311ee5b1-19ef-4bf9-9c7f-9f5757acf265	9657	2	0	True	none	none	none
+gpt-35-turbo	140ad248-4fd4-4e03-a8bc-65a6cd7428b8	9657	2	2	False	none	none	none
+Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0	1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9	9657	1	1	False	none	none	none
+meta-llama/Meta-Llama-3-70B-Instruct	f4925ee5-e448-41ac-9315-c8fb13ac5ff3	9657	2	2	False	none	none	none

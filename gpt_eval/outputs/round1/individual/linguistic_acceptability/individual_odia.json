@@ -1,0 +1,1242 @@
+[
+    {
+        "prompt_id": "23a265c1-0b34-49aa-8165-4b1a80fd4bc6",
+        "prompt": "ମୁଁ କିପରି ଷ୍ଟକ୍ ମାର୍କେଟରେ ଇନଭେଷ୍ଟ କରିପାରିବି?",
+        "prompt_type": "finance",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 1,
+            "justification": "The response is generally linguistically acceptable, with clear syntactic structure and appropriate word choices. However, it ends abruptly with a string of unrecognized characters, which can be considered as a minor error that does not impede understanding. The response is not overly verbose or stilted, but the error at the end is noticeable and affects the overall linguistic acceptability of the response."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide a coherent answer to the question. The response is repetitive and does not provide any useful information on how to invest in the stock market, which was the original question. The response also uses the phrase 'I don't know how to do that' which is not appropriate in this context. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and provides a comprehensive answer to the question."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it doesn't have any grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. Therefore, it gets a score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable in the context of the question. The question asks about how to invest in the stock market, but the response talks about the inability to perform every task in a Shakti-like manner, which is unrelated to the question. The response lacks clear syntactic structure and is grossly inappropriate for the given context, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it does not contain any grammatical errors that could impede understanding. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. Therefore, the response gets a score of 2."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it does not contain any grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response fully aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, providing a comprehensive answer to the question about how to invest in the stock market."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response to the question is linguistically unacceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is also not contextually appropriate as it does not provide any information on how to invest in the stock market, which was the question asked. The response also includes repeated phrases and words that do not make sense in the context of the question. Therefore, the score is 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, providing a comprehensive answer to the question about how to invest in the stock market."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it does not contain any grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. Therefore, according to the provided metric, the response receives a score of 2."
+        }
+    },
+    {
+        "prompt_id": "e44ca11b-3fb0-48e2-86c7-a08007b7488b",
+        "prompt": "ମୁଁ କିପରି ମୋ ସିବିଲ୍ ସ୍କୋର ଦେଖି କରିପାରିବି?",
+        "prompt_type": "finance",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive. The same sentence is repeated three times without providing any meaningful or relevant information to the question asked. The question is about how to check one's credit score, but the response does not provide any steps or methods to do so. It just repeats that the person needs to have a conversation with the responder, which is not relevant or helpful. Therefore, the score is 0 as per the metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It repeats the same sentence three times without providing any useful information or answering the question. This is a clear violation of the implicit norms and rules of a native speaker's linguistic intuition. The response lacks clear syntactic structure and does not fit within the natural, expected, and intuitive contours of fluent human language. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it doesn't have any grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. Therefore, according to the linguistic acceptability metric, the response gets a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it does not contain any grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. Therefore, according to the provided metric, the response receives a score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response does not provide a coherent or meaningful answer to the question about how to check one's civil score. The response seems to be a random collection of words and phrases, making it difficult to understand. It does not adhere to the implicit norms and rules of a native speaker's linguistic intuition. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language, making it easy to understand and follow. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It uses contextually relevant vocabulary and the sentence structure aligns with the implicit norms and rules of a native Odia speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, incorrect words, or inappropriate word choices. The response reflects the natural rhythm, emphasis, and intonation of spoken Odia language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it doesn't contain any grammatical errors that could impede understanding. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. Therefore, according to the linguistic acceptability metric, the response gets a score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it does not contain any grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response receives a score of 2."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about how to check one's credit score, providing multiple methods and additional information about the factors that can affect the score. Overall, the response aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it doesn't have any grammatical errors that could impede understanding. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. Therefore, according to the linguistic acceptability metric, the response gets a score of 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response does not provide a coherent or meaningful answer to the question about how to check one's credit score. The repeated phrases and words do not make sense in the context of the question. Therefore, according to the metric, the response receives a score of 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It provides a detailed and step-by-step guide on how to check one's CIBIL score, using appropriate vocabulary and sentence structure. The response is fluent, idiomatic, and contextually appropriate. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response reflects the natural rhythm, emphasis, and intonation of spoken Odia language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in Odia language. It has a clear syntactic structure, uses correct and existent words, and is appropriate for the given context. The response is not overly verbose or stilted, and it doesn't have any grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm and intonation of the Odia language. Therefore, according to the linguistic acceptability metric, the response gets a score of 2."
+        }
+    },
+    {
+        "prompt_id": "941b3300-4d8a-4258-91e0-e57608c57561",
+        "prompt": "ମୁଁ ଦଶ ବର୍ଷ ପାଇଁ ଏଫଡି ରେ ସଂଚୟ କରିପାରିବି କି?",
+        "prompt_type": "finance",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The translation provided in the response is incorrect. The question 'ମୁଁ ଦଶ ବର୍ଷ ପାଇଁ ଏଫଡି ରେ ସଂଚୟ କରିପାରିବି କି?' translates to 'Can I save in FD for ten years?' and not 'I don't have any money to spend.' This is a grossly inappropriate translation for the given context, which falls under the scoring rubric's category of 0(c)."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary, the sentence structure is clear and it aligns with the implicit norms and rules of a native speaker's linguistic intuition. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response reflects the natural rhythm, emphasis, and intonation of spoken language, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary, maintains the natural rhythm of the language, and is free from any grammatical errors. The response is also clear, concise, and provides a comprehensive answer to the question. It does not use overly verbose or stilted phrasing, and all the words used are appropriate for the context."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is also not relevant to the question asked. The question is about saving in a Fixed Deposit for ten years, but the response talks about an Electronic Funds Transfer at the Point of Sale machine, which is unrelated. The response also contains repeated phrases and words, making it incoherent and difficult to understand."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentence structure is clear and there is no usage of non-existent or incorrect words. The word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary in the context of the question. The response is fluent, idiomatic, and fits naturally within the contours of the Odia language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question about saving in an FD for ten years, providing additional information about the benefits of FDs and suggesting the user to consider the reputation and interest rates of the FD institution. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it doesn't have any grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. Therefore, according to the linguistic acceptability metric, the response gets a score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Odia language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and answers the question effectively."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it doesn't contain any grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. Therefore, according to the provided metric, the response gets a score of 2."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response to the question is completely empty. There is no linguistic structure, no words, and no context. Therefore, according to the linguistic acceptability metric, it scores a 0 as it lacks clear syntactic structure and usage of words."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is also not relevant to the question asked about saving in a fixed deposit for ten years. The repeated phrases and words do not make any sense in the context of the question. Therefore, the score is 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate words, and aligns with the norms and rules of the Odia language. The response is not verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentence reflects the natural rhythm and intonation of the Odia language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary, maintains the natural rhythm of the language, and is free from any grammatical errors. The response is also clear and concise, making it easy to understand. It provides a detailed explanation on how to save in an FD for ten years, which directly answers the question asked. Therefore, it scores 2 on the linguistic acceptability scale."
+        }
+    },
+    {
+        "prompt_id": "f553030e-6caf-4e4c-aa7c-f2744b4a758e",
+        "prompt": "ମୁଁ କିପରି ଟଙ୍କା ସଞ୍ଚୟ କରିପାରିବି ସେ ବିଷୟରେ ଆପଣ ପରାମର୍ଶ ଦେଇ ପାରିବେ କି?",
+        "prompt_type": "finance",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and provides a relevant answer to the question."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it does not answer the question asked. The question is asking for advice on how to save money, but the response is providing advice on how to alleviate stomach pain after overeating. This is a grossly inappropriate response for the given context, which is a criterion for a score of 0 in the provided metric. The response also includes a translation of the question that is incorrect, further demonstrating a lack of linguistic acceptability."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it doesn't have any grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. Therefore, according to the metric, the response gets a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and is appropriate for the given context. The response is not overly verbose or stilted, and it doesn't contain any grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. Therefore, according to the linguistic acceptability metric, the response gets a score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. The response starts off relevant to the question but then devolves into a repetition of the same word 'ତାଳେ' (meaning 'then') multiple times, which does not make any sense in the context of the question. This falls under the category of 'Sentences that lack clear syntactic structure' and 'Usage of non-existent or incorrect words' in the scoring rubric. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it doesn't have any grammatical errors that could impede understanding. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. Therefore, the response gets a score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, especially towards the end where the same advice about keeping an eye on expenses is repeated multiple times. This redundancy makes the response sound unnatural and stilted. However, the response does provide relevant advice and there are no major grammatical errors or inappropriate word choices, so it is still understandable and contextually appropriate."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, providing a comprehensive answer to the question asked."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and provides a comprehensive answer to the question."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and appropriate words, and does not contain any grammatical errors. The response is not overly verbose or stilted, and it uses contextually relevant vocabulary effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. Therefore, according to the provided metric, the response deserves a score of 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and uses non-existent or incorrect words. The response does not provide any meaningful or relevant information in response to the question about how to save money. It seems to be a random collection of words and phrases, many of which are not in the Odia language. Therefore, according to the provided metric, the response receives a score of 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and provides a comprehensive answer to the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, especially in the first point where the same phrase 'keep an eye on your expenses' is repeated multiple times without adding any new information. This makes the response sound stilted and unnatural. However, the response does provide relevant advice to the question asked, so it's not completely unacceptable linguistically."
+        }
+    },
+    {
+        "prompt_id": "c740587b-1953-47f1-8254-d149d34d03b0",
+        "prompt": "ଯଦି ମୁଁ ମୋର atm କାର୍ଡ ହରାଇବି, ତେବେ ମୁଁ କ’ଣ କରିବି?",
+        "prompt_type": "finance",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it does not answer the question asked. The question is about what to do if an ATM card is lost, but the response talks about using an ATM card for modern purchases and how long one has for this purchase. This is a clear case of grossly inappropriate word choices for a given context, hence the score of 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question is about what to do if an ATM card is lost, but the response is nonsensical and does not provide any useful information. The response also contains repeated phrases that do not make sense in the context of the question. This falls under the '0' category of the scoring rubric, as the sentences lack clear syntactic structure and the usage of words is incorrect for the given context."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary, the sentences reflect the natural rhythm, emphasis, and intonation of spoken language, and there are no grammatical errors. The response is also clear, concise, and provides a direct answer to the question."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It provides a clear and concise answer to the question, using appropriate vocabulary and sentence structure. The response is fluent, idiomatic, and appropriate in the given context. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken Odia language."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is also not contextually appropriate to the question asked. The question asks about what to do if an ATM card is lost, but the response does not provide any relevant information or advice. Instead, it contains repeated and nonsensical phrases. Therefore, according to the linguistic acceptability metric, the response receives a score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and is appropriate for the given context. The response is not overly verbose or stilted, and it doesn't contain any grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary, the sentence structure is clear and it aligns with the implicit norms and rules of a native speaker's linguistic intuition. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it doesn't have any grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. Therefore, it gets a score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is repetitive and lacks clear structure. The same sentence is repeated six times with no variation or additional information. This does not align with the implicit norms and rules of a native speaker's linguistic intuition, as it is not natural or expected for a person to repeat the same sentence multiple times in a conversation. Therefore, the response scores 0 on the linguistic acceptability scale."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it doesn't have any grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. Therefore, according to the linguistic acceptability metric, the response gets a score of 2."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The third point in the response is a repetition of the same phrase, which lacks clear syntactic structure and does not make sense in the context of the question. This is a violation of the implicit norms and rules of a native speaker's linguistic intuition, as described in the metric. Therefore, the score is 0 according to the scoring rubric, specifically reason (a) - 'Sentences that lack clear syntactic structure.'"
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response does not provide a coherent or meaningful answer to the question about what to do if an ATM card is lost. The response seems to be a random collection of words and symbols, which makes it incomprehensible and irrelevant to the question asked. Therefore, according to the linguistic acceptability metric, the response receives a score of 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and provides a comprehensive answer to the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        }
+    },
+    {
+        "prompt_id": "9d6b5704-99da-49af-b341-2458c8365903",
+        "prompt": "ମୋତେ କାଳି ରାତି ରୁ ଅଣ୍ଟା ଦରଦ ହେଉଛି, ମୁଁ କଣ କରିବି?",
+        "prompt_type": "health",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it does not answer the question asked. The question is about what to do if someone is having a toothache at night, but the response is about the description of an ant. The response is not relevant to the question and does not provide any solution or advice for the toothache. Therefore, it falls under the category of 'Grossly inappropriate word choices for a given context' in the scoring rubric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. The response is repetitive and does not provide a clear answer to the question. The response lacks clear syntactic structure and does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response does not fit within the natural, expected, and intuitive contours of fluent human language. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary and the sentence structure aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in context. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary, maintains the natural rhythm of the language, and is free from any grammatical errors. The response is also clear, concise, and provides a comprehensive answer to the question. It provides a step-by-step guide on what to do when experiencing leg pain, starting from seeking medical help to trying some home remedies. The language used is appropriate and idiomatic, reflecting the natural intonation of spoken Odia language."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. It lacks a clear syntactic structure and is repetitive, making it difficult to understand. The response does not provide a clear answer to the question asked. It also uses incorrect words and phrases that do not make sense in the given context. Therefore, according to the linguistic acceptability metric, the response scores a 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and provides a comprehensive answer to the question asked."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response is generally acceptable in terms of linguistic norms. However, there are minor issues with the phrasing and word choice. The phrase 'ଭାଲ ପାଇବେ ପାଇବେ' is repetitive and unnecessary. Also, the word 'armorନୀଦରେ' seems to be a typo or an incorrect word. Despite these issues, the overall meaning of the response is clear and it provides a relevant answer to the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, which makes it sound unnatural. The same advice about cleaning the affected area with a clean cloth or paper towel is repeated four times, which is unnecessary and disrupts the flow of the text. However, the response does not contain any grammatical errors or inappropriate word choices, and it is understandable and relevant to the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The response does not answer the question asked. The question is about what to do about an ant bite at night, but the response is about how to keep ants out of your house. Additionally, the response is repetitive, with the same advice repeated multiple times. This does not align with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The same phrase 'ଏକ କାଳି ରାତି ସଫେଇ କରିବା' is repeated multiple times without any context or reason, making the response nonsensical and not understandable. This repetition lacks clear syntactic structure and does not align with the implicit norms and rules of a native speaker's linguistic intuition. Therefore, the score is 0 according to the 'linguistic_acceptability' metric."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response to the question is completely empty. There is no linguistic structure, no words, and no context. Therefore, according to the linguistic acceptability metric, the score is 0."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response does not make sense in the context of the question and does not adhere to the norms and rules of the Odia language. It does not fit within the natural, expected, and intuitive contours of fluent human language. Therefore, according to the scoring rubric, the response receives a score of 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and provides a comprehensive answer to the question asked."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It provides a clear and concise answer to the question, using appropriate vocabulary and idiomatic expressions. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, and the word choices are appropriate for the context. The response also provides useful advice for dealing with leg pain at night, which directly addresses the question. Therefore, the response receives a score of 2."
+        }
+    },
+    {
+        "prompt_id": "bf7f9d34-95ed-4193-863e-df37c286f337",
+        "prompt": "ମୋ ପିଲାରେ କାଶ ବନ୍ଦ କରିବାର ପ୍ରାକୃତିକ ଉପାୟ କ’ଣ?",
+        "prompt_type": "health",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is also not contextually appropriate as it does not provide a natural or expected answer to the question about natural ways to stop a child's cough. Instead, it talks about an international director conducting five observations, which is irrelevant to the question. The response also ends abruptly with a string of unrecognized characters, further reducing its linguistic acceptability."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. The response is repetitive and lacks clear syntactic structure. The same phrase is repeated multiple times without providing any meaningful or relevant information to the question asked. The response does not provide any natural or intuitive contours of fluent human language. Therefore, according to the metric, the response gets a score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It provides a clear and concise answer to the question, using appropriate vocabulary and sentence structure. The response is fluent and idiomatic, reflecting the natural rhythm, emphasis, and intonation of spoken Odia. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively integrates contextually relevant vocabulary and uses idiomatic expressions without sounding forced. Therefore, it receives a score of 2 according to the linguistic acceptability metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It provides a clear and concise answer to the question, using appropriate vocabulary and sentence structure. The response is fluent, idiomatic, and appropriate in context. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also effectively integrates contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Odia language."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is filled with non-existent words and lacks a clear syntactic structure. It does not provide a coherent or relevant answer to the question asked. The response also includes repeated phrases and words that do not make sense in the given context. Therefore, according to the linguistic acceptability metric, the response scores a 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is written in fluent Odia, with appropriate use of vocabulary and idiomatic expressions. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, and the phrasing is not overly verbose or stilted. The word choices are appropriate for the context, and there is no usage of non-existent or incorrect words. The response also aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary in the context of the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary, maintains the natural rhythm, emphasis, and intonation of spoken language, and effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and provides a comprehensive answer to the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It contains a repeated phrase, which lacks clear syntactic structure and does not make sense in the context of the question. The repetition of the phrase 'ଶ୍ୱାସକ୍ରିୟାରେ ବାୟୁ ପ୍ରବାହ ହ୍ରାସ ପାଇବା କାରଣରୁ' does not provide any meaningful information or answer to the question asked. This falls under the scoring rubric 0(a) - 'Sentences that lack clear syntactic structure.'"
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language, making it sound fluent and idiomatic. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response does not provide any meaningful or relevant information to the question asked. It seems like a random collection of words and phrases, making it incomprehensible. Therefore, according to the metric, the response receives a score of 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and provides a comprehensive answer to the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary and maintains the natural rhythm and intonation of the Odia language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in context."
+        }
+    },
+    {
+        "prompt_id": "0fe72837-3a12-41ba-89b1-0774b7a96806",
+        "prompt": "ଓଜନ କମାଇବା ପାଇଁ କେଉଁ ଯୋଗ ସବୁଠୁ ଭଲ ?",
+        "prompt_type": "health",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 0,
+            "justification": "The response to the question 'Which yoga is best for weight loss?' is not linguistically acceptable. The response is a repetition of the same word 'sabutharu' multiple times, which does not provide any meaningful answer to the question. It lacks clear syntactic structure and does not adhere to the implicit norms and rules of a native speaker's linguistic intuition. Therefore, according to the provided metric, the score is 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. The response is repetitive and lacks clear syntactic structure. The same phrase is repeated multiple times without providing any meaningful or relevant information to the question asked. This falls under the category of 'Sentences that lack clear syntactic structure' as per the scoring rubric. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. The response starts off well, but then devolves into a repetition of the same phrase over and over again, which lacks clear syntactic structure and does not make sense in the context of the question. This falls under the scoring rubric of 0(a) - 'Sentences that lack clear syntactic structure.'"
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary, the sentence structure is clear and it aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in context. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Odia language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response is also contextually relevant and effectively answers the question. There are no grammatical errors or inappropriate word choices. The response is not overly verbose or stilted, and it uses idiomatic expressions effectively without sounding forced."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it does not contain any grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. Therefore, the response gets a score of 2 according to the linguistic acceptability metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it doesn't contain any grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. Therefore, the response gets a score of 2."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response to the question is completely empty. There is no linguistic structure, no words, and no context. Therefore, according to the linguistic acceptability metric, it scores 0 as it lacks clear syntactic structure and usage of words."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. It lacks a clear syntactic structure and uses non-existent or incorrect words. The response is not related to the question asked, which is about the best exercise for weight loss. The response seems to be a random collection of words and phrases, making it incomprehensible and irrelevant to the question. Therefore, the score is 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary in the context of the question. The sentences reflect the natural rhythm and intonation of the Odia language. There are no grammatical errors, and the phrasing is not overly verbose or stilted. The response effectively answers the question about which yoga poses are best for weight loss, providing specific examples of poses and explaining their benefits. The language used is fluent and idiomatic, fitting well within the natural contours of the Odia language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it doesn't contain any grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. Therefore, according to the linguistic acceptability metric, the response gets a score of 2."
+        }
+    },
+    {
+        "prompt_id": "340c480f-5959-4fba-a306-145e4d127c86",
+        "prompt": "ମୋ ଭଉଣୀ ପାଇଁ କେଶ ଝଡ଼ିବା ଚିକିତ୍ସା କରିବାର ପ୍ରାକୃତିକ ଉପାୟ କ’ଣ?",
+        "prompt_type": "health",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive, with the same phrase 'କେଶ ଝୁଲାଇବା' (hair falling) repeated multiple times without providing any meaningful or relevant information. Additionally, the response does not answer the question about natural remedies for hair fall, instead it just repeats the problem of hair fall. This makes the response inappropriate for the given context."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. The response is a repetition of the same phrase 'ଏକ ବାକିତ କରିବା' multiple times, which does not provide any meaningful or relevant information to the question asked. This falls under the category of 'Sentences that lack clear syntactic structure' and 'Usage of non-existent or incorrect words' as per the scoring rubric. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it doesn't have any grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. Therefore, it gets a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand for native Odia speakers."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is also not contextually appropriate as it does not provide any natural remedies for hair fall, which was the question asked. The repeated use of '��������������wortେ' makes the response incomprehensible and it does not align with the implicit norms and rules of a native speaker's linguistic intuition. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand for native Odia speakers."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and easy to understand for a native Odia speaker."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of the Odia language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, which makes it sound stilted. The same phrases are repeated multiple times without adding any new information or context. However, the response does not contain any non-existent or incorrect words, and the word choices are appropriate for the given context. The response also aligns with the implicit norms and rules of a native speaker's linguistic intuition. Therefore, according to the linguistic acceptability metric, the response receives a score of 1."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive. The same sentence about preparing a mixture of honey and turmeric and applying it to the hair is repeated multiple times without any variation or additional information. This redundancy makes the response sound unnatural and stilted, which is why it receives a score of 1 according to the linguistic acceptability metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively provides natural and intuitive solutions for hair fall treatment, making it a perfect fit within the expected contours of fluent human language."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is also repetitive and does not provide any meaningful or relevant information in response to the question about natural remedies for hair fall. Therefore, according to the metric, the score is 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and easy to understand, providing a comprehensive answer to the question asked."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is overly repetitive, with the same phrase repeated multiple times. This does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response does not fit within the natural, expected, and intuitive contours of fluent human language."
+        }
+    },
+    {
+        "prompt_id": "00d8e76e-39f6-4540-aa45-8da80db4ad11",
+        "prompt": "ମୋ ପିତାମାତା କେତେଥର ରକ୍ତଚାପ ପରୀକ୍ଷା କରିବା ଉଚିତ୍ ?",
+        "prompt_type": "health",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Odia language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is contextually relevant and effectively answers the question."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. The response is repetitive and does not provide a clear answer to the question. The repeated phrases do not make sense in the context of the question. Additionally, the response ends with a string of unrecognizable characters, which further reduces its linguistic acceptability. Therefore, the score is 0 as per the metric 'linguistic_acceptability'."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it does not contain any grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. Therefore, according to the linguistic acceptability metric, the response gets a score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is also repetitive and does not provide a clear answer to the question asked. The response does not align with the implicit norms and rules of a native speaker's linguistic intuition. It does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Odia language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and provides a clear answer to the question asked."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it doesn't contain any grammatical errors that could impede understanding. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. Therefore, the response gets a score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any non-existent or incorrect words, and the word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors that could impede understanding. The response also effectively uses idiomatic expressions without sounding forced, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response receives a score of 2."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The phrasing is not overly verbose or stilted, and there are no grammatical errors that impede understanding. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response also effectively uses idiomatic expressions without sounding forced."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is also not relevant to the question asked, which is about how often one's parents should have their blood pressure checked. The response does not provide any meaningful or understandable answer to this question. Therefore, according to the linguistic acceptability metric, the response receives a score of 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it doesn't contain any grammatical errors that could impede understanding. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. Therefore, according to the linguistic acceptability metric, the response gets a score of 2."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        }
+    },
+    {
+        "prompt_id": "f19cb582-0788-4dd3-8a5d-764f0c8cf84b",
+        "prompt": "ଓଡିଶା ପନି ପରିବା ଯୁକ୍ତ ଖାଦ୍ୟ ଯାହା କି ସରଳ କିନ୍ତୁ ସ୍ୱାସ୍ଥ୍ୟକର ଓ ସ୍ୱାଦିଷ୍ଠ ପାଇଁ ପ୍ରସିଦ୍ଧ | ଡାଲ୍ମା, ସନ୍ତୁଳା, ବେସର, ରାଇ ଆଦି ବ୍ୟଞ୍ଜନ ବିଷୟରେ କୁହନ୍ତୁ |",
+        "prompt_type": "culture",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in Odia. It has a clear syntactic structure, uses correct and existent words, and is appropriate for the given context. The response is not overly verbose or stilted, and it doesn't have any grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm and intonation of the Odia language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is a direct repetition of the question without providing any new information or answering the question. It lacks clear syntactic structure as it does not form a coherent response to the question. The response does not provide any information about the Odia dishes that are simple yet healthy and tasty, which was asked in the question. Therefore, the score is 0 as per the linguistic acceptability metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. It seamlessly integrates contextually relevant vocabulary, effectively uses idiomatic expressions without sounding forced, and reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have clear syntactic structure, correct words are used, and the word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response contains non-existent or incorrect words, which is a criterion for a score of 0 according to the linguistic acceptability metric. The last part of the response is filled with non-readable characters, which do not align with the implicit norms and rules of a native speaker's linguistic intuition. Therefore, the response is not linguistically acceptable."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it does not contain any grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. The response also effectively uses idiomatic expressions without sounding forced. Therefore, the response gets a score of 2 according to the linguistic acceptability metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. It seamlessly integrates contextually relevant vocabulary, effectively uses idiomatic expressions without sounding forced, and reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question asked. The question is about Odisha's water-based food that is simple yet healthy and tasty, and asks to talk about dishes like Dalma, Santula, Besara, Rai etc. However, the response is just a repetition of the word 'map' in a different language, which is not related to the question at all. Therefore, the response lacks clear syntactic structure and uses inappropriate words for the given context, which leads to a score of 0 according to the linguistic acceptability metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the norms and rules of the Odia language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The vocabulary used is contextually relevant and the response effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The same phrase 'ପନି ଏବଂ ପରିବା ପ୍ରସ୍ତୁତ କରିବା ପାଇଁ' is repeated multiple times without any context or relevance, making the sentence lack clear syntactic structure. This repetition does not contribute to the meaning or context of the response, and it does not align with the implicit norms and rules of a native speaker's linguistic intuition. Therefore, the score is 0 according to the 'linguistic_acceptability' metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is well-structured and aligns with the norms and rules of the Odia language. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. There are no grammatical errors, and the phrasing is not overly verbose or stilted. The words used are appropriate for the context."
+        },
+        "SamwaadLLM": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, especially towards the end where the same phrase is repeated multiple times. This makes the response sound unnatural and stilted. However, the response does not contain any non-existent or incorrect words, and the word choices are appropriate for the given context. The response also provides relevant information in response to the question, despite the verbosity and repetition. Therefore, the score for linguistic acceptability is 1."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. It seamlessly integrates contextually relevant vocabulary, effectively uses idiomatic expressions without sounding forced, and reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand."
+        }
+    },
+    {
+        "prompt_id": "74c33fa5-fb68-4262-8af8-6a9e2e17aa03",
+        "prompt": "କୋଣାର୍କ ମନ୍ଦିର ର ବିଶେଷଜ୍ଞତା କଣ ଯାହା କି ତାକୁ ଅନ୍ୟ ମନ୍ଦିର ମାନଙ୍କ ଠୁ ଅଲଗା କରେ? ତାହାର ନିର୍ମାଣ ଓ ବିନାଶ ର କାହାଣୀ କୁହନ୍ତୁ.",
+        "prompt_type": "culture",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it lacks clear syntactic structure and uses non-existent or incorrect words. The response is repetitive and does not provide any specific information about the Konark temple, which was asked in the question. The response also ends with a series of unrecognizable characters, which further reduces its linguistic acceptability."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It does not answer the question about the unique features of the Konark Temple and its construction and destruction story. Instead, it talks about land ownership and government rights, which is completely unrelated to the question. The response lacks clear syntactic structure and contextually appropriate vocabulary, leading to a score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is written in fluent Odia, with appropriate use of vocabulary and grammar. The sentences are well-structured and reflect the natural rhythm and intonation of the language. The response is also contextually relevant and answers the question effectively, providing information about the unique features of the Konark Temple and its construction and destruction story. There are no errors or inappropriate word choices, and the language does not sound forced or stilted."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is difficult to understand. The sentences are not well-structured and the usage of words is incorrect in many places. The response also contains non-existent words and symbols, making it incomprehensible. Therefore, according to the metric, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about the unique features of the Konark temple and its construction and destruction story, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary and idiomatic expressions. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors or inappropriate word choices. The response is not overly verbose or stilted, and it effectively answers the question about the unique features of the Konark Temple and its construction and destruction story."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is a mix of Odia and non-Odia words, and it does not make any sense in the context of the question. The question asks about the unique features of Konark Temple and its construction and destruction story, but the response does not provide any relevant information. Therefore, the score is 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the grammatical norms of the Odia language. The sentences flow naturally and are contextually relevant to the question asked. There are no errors or inappropriate word choices. The response also effectively uses idiomatic expressions and reflects the natural rhythm, emphasis, and intonation of spoken Odia language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure due to the repetition of the phrase 'ବିଶାଳ ମସୃଣ ପଥର ପ୍ରାଚୀର' multiple times without any context or reason. This repetition makes the response incoherent and difficult to understand. Additionally, the response does not fully answer the question as it does not provide information about the construction and destruction story of the Konark temple, which was asked in the question. Therefore, the score is 0 according to the 'linguistic_acceptability' metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The same sentence is repeated multiple times without any variation or additional information. This repetition does not align with the implicit norms and rules of a native speaker's linguistic intuition. It lacks clear syntactic structure and does not provide a coherent answer to the question asked. The response does not provide any information about the unique features of the Konark Temple or its construction and destruction story, which was asked in the question. Therefore, the score is 0."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, and the response is not overly verbose or stilted. The response also effectively answers the question, providing information about the unique features of the Konark Temple and its construction history, which aligns with the question asked."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the norms and rules of the Odia language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response is also contextually relevant and provides a comprehensive answer to the question asked. There are no grammatical errors or inappropriate word choices. The response is fluent and idiomatic, and it fits within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Odia language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context, providing a detailed explanation about the unique features of Konark Temple and its construction and destruction story, which directly answers the question."
+        }
+    },
+    {
+        "prompt_id": "898f419b-5783-43dc-91f2-5efe4073f8ed",
+        "prompt": "ପଟଚିତ୍ର, ଢୋକ୍ରା, ତାରକସି ଆଦି ପ୍ରସିଦ୍ଧ କାରୁକାର୍ଯ୍ୟ ବିଷୟରେ ବର୍ଣନା କରନ୍ତୁ",
+        "prompt_type": "culture",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 1,
+            "justification": "The response is generally well-structured and uses appropriate vocabulary. However, it ends abruptly with an incomplete sentence and includes some non-existent or incorrect words, which affects its linguistic acceptability. The response starts to describe the importance of 'Pattachitra' but does not provide any information about 'Dhokra' and 'Taracasi'. Therefore, it only partially answers the question."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful information in response to the question. The repeated phrase 'ଏକ ପରିବା କରନ୍ତୁ' does not make sense in the context of the question. The response does not describe the famous works like 'ପଟଚିତ୍ର', 'ଢୋକ୍ରା', 'ତାରକସି' as asked in the question. Therefore, it does not align with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the norms and rules of the Odia language. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Odia language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is a good fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is written in fluent Odia, with correct grammar and syntax. The sentences are well-structured and reflect the natural rhythm and intonation of the Odia language. The vocabulary used is contextually relevant and appropriate. The response also effectively describes the art forms of Pattachitra, Dhokra, and Tarakasi, which is what the question asked for. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is also repetitive and does not provide any meaningful information in response to the question. The response does not describe the famous works like 'Pattachitra', 'Dhokra', 'Taracasi' etc. as asked in the question. Therefore, according to the metric, the response gets a score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary to describe the art forms 'Pattachitra', 'Dhokra' and 'Tarakasi'. The sentences reflect the natural rhythm and intonation of the Odia language. There are no grammatical errors, and the phrasing is not overly verbose or stilted. The response also effectively uses idiomatic expressions without sounding forced. Overall, the response aligns with the implicit norms and rules of a native Odia speaker's linguistic intuition."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Odia language. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively describes the popularity of the art forms mentioned in the question, such as painting, Dhokra, and Tarakasi, in the context of Odia cinema. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response does not provide any meaningful information related to the question asked. The words used in the response do not make sense in the context of the question. The response does not adhere to the implicit norms and rules of a native speaker's linguistic intuition. Therefore, the score is 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the norms and rules of the Odia language, and is fluent, idiomatic, and appropriate in the given context. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia. The vocabulary used is contextually relevant and the idiomatic expressions are used effectively without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and easy to understand, making it a good fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Odia language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively describes the concept of sculpture, which is the topic of the question, in a fluent and idiomatic manner."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the norms and rules of the Odia language. The sentences have a clear syntactic structure, and there is no usage of non-existent or incorrect words. The word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the norms and rules of the Odia language. The sentences are fluent, idiomatic, and appropriate in the given context. The response effectively describes the traditional Odia arts of Pattachitra, Dhokra, and Tarakasi, providing a brief explanation of each. There are no grammatical errors, incorrect words, or inappropriate word choices. The response reflects the natural rhythm, emphasis, and intonation of spoken Odia language."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the norms and rules of the Odia language. The sentences are fluent, idiomatic, and appropriate in the given context. The response effectively describes the traditional arts of Pattachitra, Dhokra, and Tarakasi, providing relevant details about each. There are no grammatical errors, incorrect words, or inappropriate word choices. The response reflects the natural rhythm, emphasis, and intonation of spoken Odia language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the norms and rules of the Odia language. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Odia language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is a good fit within the natural, expected, and intuitive contours of fluent human language."
+        }
+    },
+    {
+        "prompt_id": "8e2fd3de-86f6-4441-b1f4-4219f91f3cf0",
+        "prompt": "ଫକୀର ମୋହନ ସେନାପତି କିଏ ? ଓଡ଼ିଆ ସାହିତ୍ୟ ରେ ତାଙ୍କର ଅବଦାନ କଣ ?",
+        "prompt_type": "culture",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in Odia language. It has a clear syntactic structure, uses correct and existent words, and is appropriate in the given context. The response is not overly verbose or stilted, and it doesn't have any grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm of the Odia language."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. The response does not provide any meaningful information about Fakir Mohan Senapati or his contributions to Odia literature. Instead, it repeats the phrase 'ବୁକ୍ତା' multiple times, which does not make sense in this context. Additionally, the response ends with a series of nonsensical characters. This violates the norms and rules of a native speaker's linguistic intuition, as described in the metric. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary in context. The sentences reflect the natural rhythm and intonation of the Odia language. There are no grammatical errors, and the phrasing is not overly verbose or stilted. The response effectively answers the question about Fakir Mohan Senapati and his contribution to Odia literature, demonstrating a seamless integration of contextually relevant vocabulary."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the norms and rules of the Odia language. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is a good fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and uses non-existent or incorrect words. The response does not provide any information about Fakir Mohan Senapati or his contributions to Odia literature. Instead, it repeats a nonsensical phrase multiple times, which does not align with the implicit norms and rules of a native speaker's linguistic intuition. Therefore, the score is 0 according to the linguistic acceptability metric."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the norms and rules of the Odia language. The response uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and is contextually appropriate. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm of the Odia language. Therefore, according to the linguistic acceptability metric, the response gets a score of 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response to the question is completely irrelevant and nonsensical. It repeatedly uses the phrase '地图 କି', which does not provide any information about Fakir Mohan Senapati or his contributions to Odia literature. This response lacks clear syntactic structure and uses non-existent or incorrect words, which are reasons for a score of 0 according to the linguistic acceptability metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The same phrase 'କବିତା ସଂଗ୍ରହଃ ସେ ଅନେକ କବିତା ସଂଗ୍ରହ ଲେଖିଥିଲେ, ଯେଉଁଥିରେ ସାମିଲ ରହିଛି:' is repeated multiple times without any context or additional information. This repetition lacks clear syntactic structure and does not provide a coherent response to the question. Therefore, it falls under the '0' scoring category as per the metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It repeats the same sentence over and over again, which lacks clear syntactic structure and does not provide a coherent answer to the question. The response does not provide any information about Fakir Mohan Senapati's contribution to Odia literature, which was asked in the question. Therefore, it falls under the category of 'Sentences that lack clear syntactic structure' in the scoring rubric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the norms and rules of the Odia language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response is also contextually relevant and provides a comprehensive answer to the question asked. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about Fakir Mohan Senapati and his contribution to Odia literature."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. There are no grammatical errors, and the sentences reflect the natural rhythm and intonation of the Odia language. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively answers the question about who Fakir Mohan Senapati was and his contribution to Odia literature."
+        }
+    },
+    {
+        "prompt_id": "d2d3d6b9-29c8-4943-bb8f-fdb9ea99b4ba",
+        "prompt": "ଯେବେ ପୁରା ଦୁନିଆ ଋତୁସ୍ରାବଠୁ ଦୁରେଇ ରୁହେ, ଓଡିଶା ରେ ତାହା ରଜ ଉତ୍ସବ ଆକାର ରେ ପାଳନ କର ଯାଏ | ନିଜର ସ୍ମୃତି ଓ ଅଭିଜ୍ଞତା ବିଷୟରେ ବର୍ଣନା କରନ୍ତୁ |",
+        "prompt_type": "culture",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question asks the respondent to describe their memories and experiences about the celebration of the Raj festival in Odisha, but the response talks about the world being ancient and its most prosperous species. The response is not contextually appropriate and does not align with the implicit norms and rules of a native speaker's linguistic intuition in the given context."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is a repetition of the question itself, without providing any new information or answering the question. Additionally, the response ends with a string of unrecognized characters, which is a clear violation of linguistic acceptability. The response lacks clear syntactic structure and uses non-existent words, which corresponds to a score of 0 according to the provided metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is a seamless integration of contextually relevant vocabulary and idiomatic expressions without sounding forced."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is a good fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The sentence is not coherent and does not make sense in the context of the question. The response does not provide any meaningful information or personal experiences about the 'Raja' festival in Odisha, which was asked in the question. The repeated phrases and words do not contribute to the meaning of the sentence. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the Odia language. It adheres to the syntactic structure of the language, uses correct and existent words, and is appropriate for the given context. The response is not overly verbose or stilted, and it does not contain any grammatical errors. The vocabulary used is contextually relevant and the sentence reflects the natural rhythm, emphasis, and intonation of spoken Odia language. However, it does not answer the question asked, but this does not affect the linguistic acceptability score."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the norms and rules of the Odia language. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Odia language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is a good fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question asked. The question asks the respondent to describe their memories and experiences about the celebration of the Raj Utsav in Odisha, but the response is a nonsensical repetition of the same phrase in a different language (Chinese). This violates the norms of linguistic acceptability as it lacks clear syntactic structure, uses non-existent or incorrect words, and is grossly inappropriate for the given context."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The same phrase is repeated multiple times without any clear syntactic structure or context. This repetition does not contribute to the overall meaning or coherence of the response. It seems like an error or glitch rather than a deliberate choice of phrasing. This falls under the category of 'Sentences that lack clear syntactic structure' in the scoring rubric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive. The same sentence is repeated multiple times without adding any new information or context. This makes the response sound unnatural and forced. However, the response does not contain any grammatical errors or inappropriate word choices, and it does adhere to the norms and rules of the Odia language. Therefore, the score is 1 according to the linguistic acceptability metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The same sentence is repeated multiple times without any variation or additional information. This repetition does not align with the implicit norms and rules of a native speaker's linguistic intuition. It lacks clear syntactic structure and does not fit within the natural, expected, and intuitive contours of fluent human language. Furthermore, the response does not answer the question asked, which was to describe the respondent's memories and experiences related to the 'Raja' festival in Odisha."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the syntactic structure of the Odia language, uses appropriate words, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively describes the respondent's memories and experiences of the Raja festival in Odisha, making it contextually appropriate and fluent."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the norms and rules of the Odia language, and is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is a good fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is a good fit within the natural, expected, and intuitive contours of fluent human language."
+        }
+    },
+    {
+        "prompt_id": "56050471-0437-4818-9365-78ee88aab7dc",
+        "prompt": "\nପ୍ରଭୁ ଶ୍ରୀ ଜଗନ୍ନାଥ ନିଜ ଭକ୍ତ ଯେପରି ସାଲବେଗ, ରଘୁ ଦାସ, ମାଣିକ ଗଉଡ଼ୁଣୀ ଙ୍କୁ ଭଲ ପାଇବା ପାଇ ଜଣାଶୁଣା | ଆଉ କେଉଁ ଭକ୍ତ ଙ୍କ ବିଷୟରେ ଆପଣ ଜାଣିଛନ୍ତି? ପ୍ରଭୁ ଙ୍କ ପାଇ ତାଙ୍କ ଭକ୍ତି ର ଉଦାହରଣ ଦିଅନ୍ତୁ |",
+        "prompt_type": "culture",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 0,
+            "justification": "The response contains non-existent or incorrect words, which is a criterion for a score of 0 according to the linguistic acceptability metric. The last part of the response is filled with non-existent characters, which makes the response linguistically unacceptable. The response also lacks clear syntactic structure, which is another criterion for a score of 0. The response does not provide a clear and coherent answer to the question asked."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it does not provide any new information or answer to the question asked. It simply repeats the question verbatim without adding any value or providing any answer. This is a clear violation of the norms and rules of a native speaker's linguistic intuition, as it does not contribute to the conversation in a meaningful way. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it doesn't contain any grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. Therefore, according to the provided metric, the response gets a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary. The sentences reflect the natural rhythm, emphasis, and intonation of the Odia language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent and idiomatic, fitting well within the expected contours of the Odia language."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is also not contextually appropriate as it does not answer the question asked. The question asks for examples of Lord Jagannath's devotees and their devotion, but the response does not provide any such examples. Instead, it seems to be a random collection of words and phrases that do not form a coherent answer. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it does not contain any grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. The response also effectively uses idiomatic expressions without sounding forced. Therefore, according to the linguistic acceptability metric, the response deserves a score of 2."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and is appropriate for the given context. The response is not overly verbose or stilted, and it doesn't contain any grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. Therefore, according to the provided metric, the response gets a score of 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question asked. It does not provide any information about the devotees of Lord Jagannath as asked in the question. Moreover, the response is not in Odia language and consists of a repeated non-sensical phrase. It lacks clear syntactic structure and uses non-existent words, which makes it linguistically unacceptable."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, which makes it sound stilted. The same sentence is repeated multiple times without adding any new information or context. This repetition does not contribute to the overall understanding of the response and could have been avoided for a more concise and clear answer. However, the response does not contain any grammatical errors or inappropriate word choices, and it is generally understandable despite its verbosity."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the syntactic structure of the Odia language, uses appropriate words, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively uses idiomatic expressions without sounding forced. Therefore, it gets a score of 2."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The same sentence is repeated multiple times, which is not natural in conversation and does not align with the implicit norms and rules of a native speaker's linguistic intuition. This repetition lacks clear syntactic structure and is overly verbose, which are reasons for a score of 0 according to the provided metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existing words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it does not contain any grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. Therefore, the response gets a score of 2."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as per the norms and rules of the Odia language. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and is contextually appropriate. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm and intonation of the Odia language. Therefore, the response gets a score of 2."
+        }
+    },
+    {
+        "prompt_id": "82e7c2c7-c513-4410-80d7-3a7f9036882c",
+        "prompt": "ଓଡିଶୀ ଯାହା କି ଭାରତ ର 8 ଟି ଶାସ୍ତ୍ରୀୟ ନୃତ୍ୟ ମଧ୍ୟ ରୁ ଏକ | ଓ ଅନ୍ୟ ଲୋକ ନୃତ୍ୟ ମଧ୍ୟ ଦେଖିବାକୁ ମିଳିଥାଏ | ଓଡିଶା ରେ ଥିବା ଏହି ସବୁ ବିଭିନ୍ନ ପାରମ୍ପରିକ ନୃତ୍ୟ ବିଷୟରେ କୁହନ୍ତୁ |",
+        "prompt_type": "culture",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 1,
+            "justification": "The response is somewhat related to the question but it does not directly answer the question. The question asks about the traditional dances in Odisha, but the response talks about the music of Odisha. The response is grammatically correct and uses appropriate words, but it does not provide the information asked for in the question. Therefore, the score is 1, as per the metric 'linguistic_acceptability', which indicates minor errors that do not impede understanding but the response is not the most appropriate for the context."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the norms and rules of the Odia language. The sentences have a clear syntactic structure, and there is no usage of non-existent or incorrect words. The word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. It seamlessly integrates contextually relevant vocabulary, effectively uses idiomatic expressions without sounding forced, and reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Odia language. The response effectively answers the question by listing various traditional dances of Odisha, including Odissi, which is one of the eight classical dances of India. The response also mentions that these dances represent the traditional practices of the people of Odisha. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response reflects the natural rhythm, emphasis, and intonation of the Odia language."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The last part of the response is filled with non-readable characters, which makes it impossible to understand the intended message. Therefore, according to the provided metric, the response gets a score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the norms and rules of the Odia language. The sentences reflect the natural rhythm and intonation of spoken language. The response also effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent and intuitive, fitting well within the natural contours of the Odia language."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the norms and rules of the Odia language. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Odia language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is a good fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response does not provide any relevant information to the question asked. It seems to be a random collection of words and symbols, which makes it incomprehensible. Therefore, according to the metric, the score is 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response is linguistically acceptable in terms of grammar and syntax. However, it is overly verbose and repetitive, with the same phrases being repeated multiple times. This repetition does not add any new information or context to the response, making it sound stilted and unnatural. Therefore, the response gets a score of 1 according to the linguistic acceptability metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of the Odia language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively describes different traditional dances of Odisha, which aligns with the question asked."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is repetitive and does not provide any meaningful information in response to the question. The phrase 'କଳା କଳା' is repeated multiple times without any context or meaning. This makes the response incoherent and difficult to understand. Therefore, the score is 0 as per the metric 'linguistic_acceptability'."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Odia language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response is also contextually relevant and provides a detailed explanation about the traditional dances in Odisha, which is exactly what the question asked for. There are no grammatical errors or inappropriate word choices. The response is not overly verbose or stilted, and it effectively uses idiomatic expressions without sounding forced."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary and idiomatic expressions. The sentences reflect the natural rhythm, emphasis, and intonation of the Odia language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent and fits within the natural, expected, and intuitive contours of the Odia language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary. There are no grammatical errors, and the sentences reflect the natural rhythm and intonation of the Odia language. The response is also contextually relevant to the question asked, discussing the traditional dances of Odisha, which is what the question was about. Therefore, it scores 2 on the linguistic acceptability scale."
+        }
+    },
+    {
+        "prompt_id": "800c2e2a-63d4-4816-92c5-cee12a119513",
+        "prompt": "ଓଡିଶା ର ସବୁ ଅଞ୍ଚଳ ନିଜ ନିଜ ଆଞ୍ଚଳିକ ଖାଦ୍ୟ ପାଇଁ ପ୍ରସିଦ୍ଧ | ଯେମିତି ପାହାଳ ଓ ସାଲେପୁର ରସଗୋଲା ପାଇଁ, ଢେଙ୍କାନାଳ ଓ ବରଗଡ ବରା ପାଇଁ | ନିଜ ଅଞ୍ଚଳ ର ବିଶେଷ ଖାଦ୍ୟ ବିଷୟରେ କୁହନ୍ତୁ |",
+        "prompt_type": "culture",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 2,
+            "justification": "The response is a perfect match to the question. It is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. It seamlessly integrates contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is concise, clear, and easy to understand."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response is in Odia and it is grammatically correct. However, it does not provide any new information or answer the question. It just repeats the question. The response is also cut off at the end, which makes it incomplete. Therefore, it gets a score of 1 for linguistic acceptability, as it is overly verbose and does not provide a clear answer to the question."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. It seamlessly integrates contextually relevant vocabulary, effectively uses idiomatic expressions without sounding forced, and reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is grammatically correct and fits within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary and phrases that are contextually relevant. The sentences reflect the natural rhythm and intonation of the Odia language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question by providing examples of regional foods from different parts of Odisha, which aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is also not contextually appropriate as it does not provide any specific regional food of Odisha, which was asked in the question. Moreover, the response ends with a series of unrecognizable characters, which further reduces its linguistic acceptability."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary and phrases that are contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response is generally acceptable in terms of linguistic structure and usage of words. However, it contains a phrase 'ଘରେ ତାତେ ସପ୍ତମୀ A ପିଟାଳିନିଆକସ ପଡ଼' which seems to be out of context and doesn't make sense in the given scenario. This phrase appears to be a random collection of words and doesn't contribute to the overall meaning of the response. Therefore, the response gets a score of 1 for linguistic acceptability, as it contains a phrase that is technically correct but not the most appropriate for the context."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response does not provide any relevant information to the question asked. It seems like a random collection of words and symbols, which makes it incomprehensible. Therefore, according to the metric, the score is 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The same sentence is repeated multiple times, which is not natural or expected in fluent human language. This repetition does not provide any new information or context, and it does not align with the implicit norms and rules of a native speaker's linguistic intuition. Therefore, the score is 0 according to the provided metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the norms and rules of the Odia language. The sentences are well-structured and use appropriate vocabulary. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, and the response fits within the natural, expected, and intuitive contours of fluent human language. The response also effectively integrates contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. It seamlessly integrates contextually relevant vocabulary, effectively uses idiomatic expressions without sounding forced, and reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the syntactic structure of the Odia language, uses appropriate words, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response also effectively uses idiomatic expressions without sounding forced."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary and idiomatic expressions. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response is contextually relevant and provides a detailed description of the regional food of the Bargad region in Odisha, which is the 'Bara'. There are no grammatical errors or inappropriate word choices. The response is fluent and fits within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is grammatically correct, uses appropriate words, and is contextually relevant. It reflects the natural rhythm, emphasis, and intonation of spoken language. The response is not overly verbose or stilted, and it does not contain any non-existent or incorrect words. The response is also not grossly inappropriate for the given context. Therefore, the response gets a score of 2."
+        }
+    },
+    {
+        "prompt_id": "f5f76a43-bc4c-4988-adce-0c861e0190d2",
+        "prompt": "ସୁଦର୍ଶନ ପଟନାୟକ ଓଡିଶାବାସୀ ମାନଙ୍କ ତଥା କଳାକାର ମାନଙ୍କ ମଧ୍ୟ ରେ ଜଣାଶୁଣା | ତାଙ୍କ ଜୀବନ, କାମ ଏବଂ କାରୁକାର୍ଯ୍ୟ ବିଷୟରେ ବର୍ଣନା କରନ୍ତୁ |",
+        "prompt_type": "culture",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentence structure is clear and there is no usage of non-existent or incorrect words. The word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentence reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is a direct repetition of the question without providing any new information or answering the question. It does not provide any details about Sudarshan Patnaik's life, work, or achievements. Therefore, it does not meet the criteria for linguistic acceptability as it does not provide an appropriate response in context."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Odia language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context, providing information about Sudarshan Patnaik's life, work, and contributions."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is also not coherent and does not provide any meaningful information about Sudarshan Patnaik's life, work, and achievements. The last part of the response is completely unintelligible, with a series of repeated words and a string of unrecognizable characters. Therefore, according to the scoring rubric, the response receives a score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively describes Sudarshan Patnaik's life, work, and contributions, as asked in the question."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary and idiomatic expressions. The sentences reflect the natural rhythm, emphasis, and intonation of the Odia language. There are no grammatical errors, and the response is not overly verbose or stilted. The response is contextually relevant and provides a brief description of Sudarshan Patnaik's life, work, and achievements, as requested in the question."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response does not provide any information about Sudarshan Patnaik's life, work, and achievements, which was asked in the question. The response is not in Odia language and does not make any sense. Therefore, the score is 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Odia language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively describes Sudarshan Patnaik's life, work, and contributions, providing a comprehensive answer to the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The same sentence is repeated multiple times without any variation or additional information. This repetition does not align with the implicit norms and rules of a native speaker's linguistic intuition. It lacks clear syntactic structure and does not provide a fluent and natural language output. Therefore, the score is 0."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The same sentence 'He was well known for his work' is repeated multiple times without any variation or additional information. This repetition does not align with the implicit norms and rules of a native speaker's linguistic intuition. It lacks clear syntactic structure and does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the norms and rules of the Odia language. The sentences are fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Odia language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response provides a clear and concise description of Sudarshan Patnaik's life, work, and achievements, as requested in the question."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of the Odia language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively describes Sudarshan Pattnaik's life, work, and achievements, as requested in the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response is linguistically acceptable in terms of syntax and word usage. However, it is overly verbose with the repeated phrase 'ମୁହାଁଇ' which is not contextually relevant and impedes the overall understanding of the response. This repetition seems to be an error and does not fit within the natural contours of fluent human language. Therefore, the response gets a score of 1 according to the linguistic acceptability metric."
+        }
+    },
+    {
+        "prompt_id": "3fb28006-52a8-4f13-935a-4ae7df851859",
+        "prompt": "\n\nଭାଇ ଭଉଣୀ ଙ୍କ ଭଲ ପାଇବା ଓଡ଼ିଆ ପରମ୍ପରା ରେ ପ୍ରମୁଖ | ଆପଣ ନିଜ ଭାବନା ଖୁଦୁରୁକୁଣୀ, ରାଖୀ ପୁର୍ଣିମା, ଓ ଭାଇ ଜିଉଁନ୍ତିଆ ଆଦି ପର୍ବ ବିଷୟରେ କୁହନ୍ତୁ |",
+        "prompt_type": "culture",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary and maintains the natural rhythm and intonation of the Odia language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It does not provide any new information or answer the question asked. Instead, it simply repeats the question verbatim, which does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response lacks clear syntactic structure and does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is grammatically correct, uses appropriate vocabulary, and is contextually relevant to the question. It reflects the natural rhythm, emphasis, and intonation of spoken language. The response is also fluent and idiomatic, fitting well within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it doesn't have any grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response also effectively uses idiomatic expressions without sounding forced. Therefore, according to the linguistic acceptability metric, the response gets a score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and is appropriate for the given context. The response is not overly verbose or stilted, and it doesn't contain any grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. Therefore, according to the provided metric, the response gets a score of 2."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question asked. It does not provide any information about the Odia traditions related to the well-being of brothers and sisters. Moreover, the response is not in Odia language and consists of repeated non-existent words, which makes it linguistically unacceptable. Therefore, according to the metric, it falls under the category of 'Sentences that lack clear syntactic structure' and 'Usage of non-existent or incorrect words'."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It has a clear syntactic structure, uses correct and appropriate words, and is contextually relevant. The response is not overly verbose or stilted, and there are no grammatical errors. The response uses idiomatic expressions effectively and reflects the natural rhythm, emphasis, and intonation of spoken language. It provides a detailed explanation of the traditions and festivals related to the love between brothers and sisters in Odia culture, as asked in the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive. The same sentences are repeated three times without adding any new information or context. This makes the response seem unnatural and forced. However, the response does not contain any grammatical errors or inappropriate word choices, and it is understandable and relevant to the question asked. Therefore, according to the linguistic acceptability metric, the response receives a score of 1."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The same sentence is repeated multiple times without any variation or additional information. This repetition does not align with the implicit norms and rules of a native speaker's linguistic intuition. It lacks clear syntactic structure and does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary, idiomatic expressions, and maintains the natural rhythm and intonation of the Odia language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the context of the question about Odia traditions related to the relationship between brothers and sisters."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the Odia language. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it does not contain any grammatical errors that could impede understanding. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Odia language. The response also effectively uses idiomatic expressions without sounding forced. Therefore, the response gets a score of 2."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is a seamless integration of the question's context and provides a comprehensive answer."
+        }
+    }
+]

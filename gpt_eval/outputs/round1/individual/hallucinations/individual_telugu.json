@@ -1,0 +1,1322 @@
+[
+    {
+        "prompt_id": "774b4848-424f-4709-b633-e693aa41288f",
+        "prompt": "ధూమపానం, ఉబ్బసం లేదా మధుమేహం వంటి ఇప్పటికే ఉన్న వైద్య పరిస్థితులను మరింత దిగజార్చగలదా?",
+        "prompt_type": "health",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response provided by the model is strictly aligned with and grounded in the information provided in the input. The model accurately explains how smoking can exacerbate existing health conditions such as high cholesterol and diabetes, which is consistent with the question asking whether smoking can worsen existing medical conditions. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The model maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The question asks whether smoking, obesity, or diabetes can worsen existing medical conditions. However, the response talks about the sun and pollution, which are not mentioned or implied in the question. Therefore, the response demonstrates unexplained deviations and interpretations not grounded in the provided data."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response to the question is not coherent and does not provide a clear answer to the question asked. The response contains repeated phrases and nonsensical characters, which were not present or implied in the input. This indicates that the model is hallucinating, introducing statements and details that weren't present in the input. Therefore, according to the hallucinations metric, the score is 1."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It does not introduce any new statements, claims, or details that weren't present or implied in the question. It also maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it scores 0 on the hallucinations metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It does not introduce any new statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response is not coherent and does not provide a clear answer to the question. It contains repeated phrases and words that are not related to the question. The question asks whether smoking, obesity, or diabetes can worsen existing medical conditions, but the response does not address this. Instead, it repeats phrases about 'Dhumapana' (smoking), 'Ubbhasana' (obesity), and 'Mahametha' (diabetes) without providing any meaningful information. Therefore, the response introduces statements and details that weren't present or implied in the input, leading to a score of 1 for hallucinations."
+        },
+        "gpt-4": {
+            "justification": "The response provided by the model is strictly aligned with and grounded in the information provided in the input. The model's output does not add, omit, or distort facts that weren't part of the original content. It maintains the integrity of the original information without any unwarranted extrapolations. The response accurately addresses the question about whether existing medical conditions like smoking, obesity, or diabetes can be further deteriorated, and provides relevant advice on how to manage these conditions.",
+            "score": 0
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It does not introduce any new statements, claims, or details that weren't present or implied in the question. It also maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it gets a score of 0 for hallucinations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of how smoking, asthma, or diabetes can worsen existing medical conditions. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it scores 0 on the hallucinations metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response provided is strictly aligned with and grounded in the information provided in the input. It does not add, omit, or distort facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. It accurately explains how smoking, obesity, or diabetes can worsen existing medical conditions, which is exactly what the question asked."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any new information that wasn't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There are no hallucinations present in the response, as it does not add, omit, or distort facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any new facts or details that were not present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There are no hallucinations present in the response, as it does not contain any counterfactual information that directly conflicts with the question content. The response is consistent with the input content provided."
+        },
+        "google/gemma-7b-it": {
+            "justification": "The response provided by the model is strictly aligned with the information provided in the input. The model correctly answers the question, stating that smoking, obesity, or diabetes cannot worsen existing medical conditions. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The model maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It does not introduce any new statements, claims, or details that weren't present or implied in the question. It also maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing detailed information on how smoking can exacerbate existing medical conditions such as asthma, diabetes, and certain types of cancer. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "e4a7ba5b-491f-4ae9-95e2-ff23cdddabb6",
+        "prompt": "తరచుగా దగ్గు ఏదైనా సమస్యకు సంకేతమా?",
+        "prompt_type": "health",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of the various health issues that can cause frequent coughing. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "justification": "The response to the question is not coherent and does not provide a clear answer to the question asked. The response seems to be a repetition of the same phrase, which does not make sense in the context of the question. This indicates that the model's output has deviated from the input content, introducing statements that weren't present or implied in the input.",
+            "score": 1
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response to the question is not coherent and does not provide a clear answer. It contains repeated phrases and unintelligible characters, which are not related to the original question. This is a clear case of hallucination, as the response introduces statements and details that were not present or implied in the input. Therefore, the score for hallucination is 1."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately answers the question about whether frequent coughing can be a sign of any problem, explaining that it can be a symptom of allergies or respiratory issues. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately answers the question about whether frequent coughing can be a sign of any problem, explaining that it can be due to various reasons such as cold, cough, allergies, respiratory problems, throat problems, and virus infections like COVID-19. It also mentions that frequent coughing can sometimes be a sign of a problem that needs to be diagnosed. Therefore, the response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response to the question is not coherent and does not provide a clear answer to the question. It seems to be repeating the same phrase over and over again without providing any meaningful information. This is a clear case of hallucination where the model's output is not grounded in the information provided in the input and introduces statements that weren't present or implied in the input."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of how frequent coughing can be a sign of various respiratory problems. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "justification": "The response provided by the model is strictly aligned with and grounded in the information provided in the input. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "justification": "The response provided is strictly aligned with and grounded in the information provided in the question. The question asks if frequent coughing is a sign of any problem, and the response accurately explains that frequent coughing can indeed be a sign of a problem in the respiratory system, and also lists some common causes of coughing. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides a detailed explanation of how coughing can be a symptom of various health issues. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it does not contain any hallucinations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of how frequent coughing can be a sign of a problem, such as an infection in the respiratory system. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it scores 0 on the hallucinations metric."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It does not add, omit, or distort any facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. It accurately answers the question about whether frequent coughing can be a sign of any problem, explaining that it could be a sign of various health issues, including respiratory problems, heart problems, or other health issues, and even mental health issues. Therefore, the response does not demonstrate any unexplained deviations, extrapolations, or interpretations not grounded in the provided data."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the input. The question asks if frequent coughing is a sign of any problem, but the response provides a general problem-solving process without addressing the specific question about coughing. This is a clear deviation from the input content, hence the score of 1 for hallucinations."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response accurately answers the question about whether frequent coughing could be a sign of any problem, explaining that it could be a symptom of respiratory diseases, asthma, allergies, or immune system disorders, and advises to consult a doctor to determine the cause."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation about the potential implications of frequent coughing. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no counterfactual information or unexplained deviations. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "b5d49672-a2c1-4c02-a45b-8d1d9535750a",
+        "prompt": "కిడ్నీలో రాళ్లు కరిగిపోవాలంటే ఎలాంటి ఆహారం తీసుకోవాలి",
+        "prompt_type": "health",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response is not aligned with the question. The question asks for the type of food to be consumed to dissolve kidney stones, but the response repeatedly mentions 'fish' without providing any other types of food or explaining why fish would be beneficial. This is a hallucination as it introduces a claim that wasn't present or implied in the question. The response also lacks variety and depth, repeating the same information multiple times, which is not helpful or informative for the user."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the question. The question asks about the type of diet to be followed to dissolve kidney stones, but the response talks about long-term kidney programs, kidney regeneration, and reflection of their necessary division, which are not related to the question. Also, the response is incomplete and does not provide a clear answer to the question. Therefore, the score is 1 for hallucinations."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response does not provide any new or relevant information to the question asked. It simply repeats the question multiple times without providing an answer. This is a clear case of hallucination as the model is generating text that is not grounded in the input content. The response does not maintain the integrity of the original information and demonstrates unexplained deviations. Therefore, the score is 1."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing information on what kind of food should be consumed to dissolve kidney stones. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There are no hallucinations present in the response."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed answer on what kind of diet should be followed to dissolve kidney stones. It does not introduce any statements, claims, or details that weren't present or implied in the question. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it gets a score of 0 for hallucinations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response is not coherent and does not provide any relevant information to the question asked. It seems to be a repetition of a single word or phrase, which does not make sense in the context of the question. This is a clear case of hallucination where the model's output is not aligned with the input and introduces statements that weren't present or implied in the input."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response provided is strictly aligned with and grounded in the information provided in the input. The question asks about the type of diet to be followed to dissolve kidney stones, and the response accurately provides a list of foods and drinks that can help in dissolving kidney stones. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is consistent with the question asked. The question asks about the type of diet to be followed to prevent kidney stones, and the response correctly advises to follow a healthy diet and to adhere to the doctor's advice. There are no hallucinations, as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response provided is strictly aligned with the question asked. The question asks about the type of diet to be taken to dissolve kidney stones, and the response accurately provides information about the importance of drinking more water and including certain nutrients in the diet. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response provided is strictly aligned with the question asked. The question asks about the type of diet to be taken to dissolve kidney stones, and the response accurately provides information about the foods that can help in dissolving kidney stones. It also advises to reduce the intake of sugar and salt as they can contribute to the formation of stones. The response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation on what kind of diet should be taken to dissolve kidney stones. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it gets a score of 0 for hallucinations."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, which asks about the type of diet to follow to dissolve kidney stones. The response provides relevant information about increasing water intake, consuming foods rich in potassium, and foods low in protein. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the input. The response contains a list of foods, but the names of the foods are not clear and seem to be distorted or incorrectly translated. This makes the response factually incorrect and misleading. The response also contains repeated phrases, which were not present in the question. Therefore, the response is not strictly aligned with and grounded in the information provided in the input."
+        },
+        "GPT4o": {
+            "justification": "The response provided is strictly aligned with the question asked. The question asks for dietary advice to prevent kidney stones, and the response provides a detailed list of dietary changes that can help prevent kidney stones. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "justification": "The response provided is strictly aligned with the question asked. The question asks for the type of food to be consumed to dissolve kidney stones, and the response accurately provides a list of foods that can help in dissolving kidney stones. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        }
+    },
+    {
+        "prompt_id": "53b78a0e-81af-472c-8d76-ae92a949cf8f",
+        "prompt": "వెన్ను నొప్పి తగ్గాలంటే ఎలాంటి జాగ్రత్తలు తీసుకోవాలి?",
+        "prompt_type": "health",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the question. The question asks for precautions to be taken to avoid back pain, but the response provides a list of teas to drink, which is not directly related to the question. Therefore, the response contains counterfactual information that directly conflicts with the input content."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the question. The question asks for precautions to be taken to reduce back pain, but the response does not provide any specific precautions or measures. Instead, it repeats phrases about reducing causes and opportunities, which are not directly related to the question. Therefore, the response contains hallucinations and unexplained deviations not grounded in the provided data."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response to the question 'What precautions should be taken to reduce back pain?' in Telugu is not providing any relevant information. Instead, it is repeating the same phrase 'What precautions should be taken to protect?' multiple times. This is a clear case of hallucination as the model is introducing statements that were not present or implied in the input. The response is not grounded in the provided data and does not answer the question asked."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing relevant advice on how to alleviate back pain. It does not introduce any statements, claims, or details that weren't present or implied in the question. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It provides relevant information on how to prevent back pain, which is exactly what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response is not aligned with the question. The question asks for precautions to be taken to reduce back pain, but the response does not provide any relevant information or precautions. Instead, it seems to be a repetition of unrelated phrases, which can be considered as hallucinations. Therefore, the score is 1 as the response introduces statements that weren't present or implied in the question."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing detailed measures to prevent back pain. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. It does not introduce any statements, claims, or details that weren't present or implied in the question. There is no counterfactual information that directly conflicts with the question content. The response does not demonstrate any unexplained deviations, extrapolations, or interpretations not grounded in the provided data."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing advice on how to alleviate back pain. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response maintains the integrity of the original information without any unwarranted extrapolations. It does not contain any counterfactual information that directly conflicts with the question content."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response introduces a repeated statement about using warm compresses or baths to alleviate back pain, which is not present or implied in the question. This repetition is a form of hallucination as it distorts the information and does not provide a coherent and meaningful answer to the question. Therefore, the score is 1."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response introduces repetitive statements that weren't present or implied in the input. The same advice is repeated multiple times with slight variations, which can be considered as a hallucination. The response could have been more concise and to the point, avoiding unnecessary repetition."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing detailed steps on how to alleviate back pain. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it scores 0 on the hallucinations metric."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing detailed steps on how to take precautions to reduce back pain. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, the score for hallucinations is 0."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response provided is strictly aligned with and grounded in the information provided in the input. The question asks for precautions to be taken to reduce back pain, and the response accurately provides several steps such as regular exercise, a healthy diet, stress management, good sleep, and medical consultation. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides relevant information on how to alleviate back pain. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, counterfactual information, or unexplained deviations from the question. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "justification": "The response provided is directly related to the question asked. The question asks for precautions to be taken to reduce back pain, and the response provides relevant and appropriate advice. There are no hallucinations present in the response as it does not introduce any statements, claims, or details that weren't present or implied in the question. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        }
+    },
+    {
+        "prompt_id": "098f2ecd-3e28-4c02-b8a7-dfdc084edaca",
+        "prompt": "ఏ ఔషధం కడుపు నొప్పిని తగ్గిస్తుంది",
+        "prompt_type": "health",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, which asks for a medicine that can reduce stomach pain. The response provides a list of medicines that can help with stomach pain, and does not introduce any statements, claims, or details that weren't present or implied in the question. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The question asks for a specific medication that can alleviate stomach pain, but the response does not provide any specific medication. Instead, it talks about pollution and carbon experiences, which are not related to the question. Therefore, the response contains hallucinations and is not grounded in the provided data."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response introduces statements that weren't present or implied in the input. The question asks for a medicine that can relieve stomach pain, but the response does not provide any specific medicine. Instead, it repeats the same phrase multiple times, which is not relevant to the question. Therefore, the response contains hallucinations and is not grounded in the provided data."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "justification": "The response provided by the model is strictly aligned with the information provided in the input. The question asked for a medicine that can reduce stomach pain, and the model provided a list of medicines that can do so. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The model maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, which asks for a medicine that can reduce stomach pain. The response provides a list of medicines that can help reduce stomach pain, which is exactly what the question is asking for. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the input. The question asks about a medicine that can relieve stomach pain, but the response talks about 'Eastham' being the president of a parishad, which is completely unrelated to the question. Therefore, the response contains counterfactual information that directly conflicts with the input content."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. The question asks about which medicine can reduce stomach pain, and the response accurately provides information about over-the-counter and prescription medicines that can help with this issue. The response does not introduce any statements, claims, or details that weren't present or implied in the input. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response introduces statements that weren't present or implied in the input. The question asks for a specific medication that can alleviate stomach pain, but the response does not provide any specific medication. Instead, it advises to consult a doctor for health advice about the stomach pain, which is a deviation from the original question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is consistent with the question asked. The question asks about a medicine that can reduce stomach pain, and the response provides information about the causes of stomach pain and suggests that tablets or medicines can be taken to alleviate it. There are no hallucinations, as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question content. Therefore, the score is 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It does not add, omit, or distort any facts. The question asks for a medicine that can reduce stomach pain, and the response accurately provides information about a medicine, 'peptic acid blocker', that can help reduce stomach pain. Therefore, the response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response provided is strictly aligned with the information provided in the question. The question asks about a medicine that can reduce stomach pain, and the response accurately provides information about over-the-counter nonsteroidal anti-inflammatory drugs (NSAIDs) that can help reduce inflammation and pain in the stomach. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "SamwaadLLM": {
+            "justification": "The response provided is strictly aligned with the information provided in the question. The question asks for a medicine that can reduce stomach pain, and the response accurately provides a list of medicines that can help with this issue. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response provided is strictly aligned with the information provided in the question. The question asks for a medicine that can reduce stomach pain, and the response accurately lists several medications that can help reduce inflammation and pain. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response provided is strictly aligned with and grounded in the information provided in the input. The question asks for a medicine that can relieve stomach pain, and the response accurately lists several medications that can be used for this purpose, such as Paracetamol, Antacids, Ibuprofen, and Omeprazole. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "justification": "The response provided is strictly aligned with the information provided in the question. The question asks for a medicine that can reduce stomach pain, and the response accurately provides information about medicines and lifestyle changes that can help reduce stomach pain. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        }
+    },
+    {
+        "prompt_id": "05c369b4-6b21-4485-81e5-60b5e860259d",
+        "prompt": "క్రిప్టోకరెన్సీలలో పెట్టుబడి పెట్టడం వల్ల కలిగే ప్రయోజనాలు మరియు నష్టాలు ఏమిటి?",
+        "prompt_type": "finance",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is well-grounded in the information provided in the question. It accurately describes the benefits and risks of investing in cryptocurrencies, which is exactly what the question asked for. There are no hallucinations, as the response doesn't introduce any statements, claims, or details that weren't present or implied in the question. It also doesn't contain any counterfactual information that directly conflicts with the question. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response provided by the model is a repetition of the question itself without providing any new information or answering the question. This is a clear case of hallucination as the model is not providing any factual information in response to the question. It is simply repeating the question, which is a deviation from the expected behavior of providing an answer. Therefore, the score is 1 as per the hallucination metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response provided by the model is strictly aligned with the information provided in the input. The question asks for the benefits and losses of investing in cryptocurrencies, and the model provides a list of both, without adding, omitting, or distorting any facts. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response accurately answers the question about the benefits and risks of investing in cryptocurrencies. It does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it scores 0 on the hallucinations metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response to the question is filled with unintelligible characters and does not provide any information related to the question asked. This is a clear case of hallucination as the output introduces statements that weren't present or implied in the input. The response is not grounded in the provided data and does not maintain the integrity of the original information."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of the benefits and risks of investing in cryptocurrencies. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it scores 0 on the hallucinations metric."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The question asks about the benefits and losses of investing in cryptocurrencies, but the response talks about interest and health benefits, which are not related to the question. It also mentions control mechanisms and commercial supervision, which are not directly related to the benefits and losses of investing in cryptocurrencies. Therefore, the response contains hallucinations and is not strictly aligned with the information provided in the input."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response accurately answers the question, providing a detailed explanation of the benefits and drawbacks of investing in cryptocurrencies. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it scores 0 on the hallucinations metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of the benefits and risks of investing in cryptocurrencies. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It accurately provides the benefits and losses of investing in cryptocurrencies, which is exactly what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is well-aligned with the question, providing a detailed explanation of the benefits and risks of investing in cryptocurrencies. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no counterfactual information or unexplained deviations. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "justification": "The response provided is strictly aligned with the question asked. The question asks for the benefits and risks of investing in cryptocurrencies, and the response accurately provides a list of potential benefits and risks associated with investing in cryptocurrencies. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of the benefits and risks of investing in cryptocurrencies. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it scores 0 on the hallucinations metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing information about the benefits and risks of investing in cryptocurrencies. It does not introduce any statements, claims, or details that weren't present or implied in the question. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it gets a score of 0 for hallucinations."
+        }
+    },
+    {
+        "prompt_id": "7e9416e1-462d-4836-8d99-9b2098738fad",
+        "prompt": "సిస్టమాటిక్ ఇన్వెస్ట్‌మెంట్ ప్లాన్ (SIP) అంటే ఏమిటి మరియు అది ఎలా పని చేస్తుంది?",
+        "prompt_type": "finance",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response accurately explains what a Systematic Investment Plan (SIP) is and how it works, which is exactly what the question asked. There are no hallucinations present in the response, as all the information provided is relevant and accurate in relation to the question. The response does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question. Therefore, the score for hallucinations is 0."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The question asks about the definition and functioning of Systematic Investment Plan (SIP), but the response talks about it working in 'stocks interactive plans' and supporting 'social changes', which is not related to the concept of SIP. Therefore, the response contains hallucinations and is not grounded in the provided data."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response provided by the model is not aligned with the input question. The question asks for an explanation of what a Systematic Investment Plan (SIP) is and how it works. However, the response is repetitive and does not provide any meaningful or factual information about SIP. Therefore, the model's output introduces statements that weren't present or implied in the input, leading to a score of 1 for hallucinations."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "justification": "The response provided is strictly aligned with the question asked. The question asks for an explanation of what a Systematic Investment Plan (SIP) is and how it works, and the response accurately provides this information. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response accurately explains what a Systematic Investment Plan (SIP) is and how it works, which is exactly what the question asked for. There are no hallucinations present in the response, as all the information provided is directly related to the question and does not introduce any new, unrelated, or counterfactual information. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The response is not related to the question about Systematic Investment Plan (SIP) and how it works. Instead, it mentions 'Breakeven Point' and repeats the phrase 'పొద్దుపేట్' multiple times, which is not relevant to the question. Therefore, the response contains hallucinations and is scored 1."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response accurately explains what a Systematic Investment Plan (SIP) is and how it works, which is exactly what the question asked for. There are no hallucinations present in the response, as all the information provided is relevant and accurate in relation to the question. The response does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question content. Therefore, the score for hallucinations is 0."
+        },
+        "gpt-35-turbo": {
+            "justification": "The response provided is strictly aligned with the question asked. The question asks for an explanation of what a Systematic Investment Plan (SIP) is and how it works, and the response accurately provides this information. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response accurately explains what a Systematic Investment Plan (SIP) is and how it works, which is exactly what the question asked for. There are no hallucinations present in the response, as all the information provided is relevant and accurate in relation to the question. The response does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question. Therefore, the score for hallucinations is 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response accurately explains what a Systematic Investment Plan (SIP) is and how it works, which is exactly what the question asked for. There are no hallucinations present in the response, as all the information provided is relevant and accurate in relation to the question. The response does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question. Therefore, the score for hallucinations is 0."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response accurately explains what a Systematic Investment Plan (SIP) is and how it works, which is exactly what the question asked for. There are no hallucinations present in the response, as all the information provided is relevant and accurate in relation to the question. The response does not introduce any statements, claims, or details that weren't present or implied in the question, and it maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response accurately explains what a Systematic Investment Plan (SIP) is and how it works, which is exactly what the question asked for. There are no hallucinations present in the response, as all the information provided is directly related to the question and does not introduce any new, unrelated, or counterfactual information. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "justification": "The response provided by the model is not aligned with the question asked. The question asks for an explanation of what a Systematic Investment Plan (SIP) is and how it works. However, the response provided by the model seems to be a mix of unrelated financial terms and concepts, which do not accurately explain what a SIP is or how it works. The response introduces statements and details that weren't present or implied in the input.",
+            "score": 1
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response accurately explains what a Systematic Investment Plan (SIP) is and how it works, which is exactly what the question asked for. There are no hallucinations present in the response, as all the information provided is relevant and directly related to the question. The response does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question. Therefore, the score for hallucinations is 0."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response accurately explains what a Systematic Investment Plan (SIP) is and how it works, which is exactly what the question asked for. There are no hallucinations present in the response, as all the information provided is relevant and directly related to the question. The response does not introduce any statements, claims, or details that weren't present or implied in the question, and it maintains the integrity of the original information without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "146939a9-f233-4e9b-bdf7-45f45ec91420",
+        "prompt": "పర్సనల్ లోన్ కోసం అప్లై చేయడానికి ఏ డాక్యుమెంటేషన్ అవసరం?",
+        "prompt_type": "finance",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response introduces repetitive information that wasn't present in the question. The same set of documents (Aadhar card, bank account details, income verification letter, and other necessary documents) are mentioned multiple times under different categories, which is unnecessary and confusing. This can be considered as a hallucination as it adds details that weren't implied in the question."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 1,
+            "justification": "The response is not aligned with the question. The question asks for the documentation required to apply for a personal loan, but the response talks about applying for a number, traveling, and applying for a personal loan, which are not related to the question. Therefore, the response introduces statements and details that weren't present or implied in the question, leading to a score of 1 for hallucinations."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response provided by the model is not aligned with the question asked. The question is asking for the documentation required to apply for a personal loan, but the response does not provide any information related to this. Instead, it repeats a phrase that does not make sense in the context of the question. This is a clear case of hallucination, as the model is introducing statements that were not present or implied in the input, hence the score of 1."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response accurately lists the documents required to apply for a personal loan, which is exactly what the question asked for. There are no hallucinations present as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question. The response is strictly aligned with and grounded in the information provided in the question, maintaining the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response accurately lists the documents required to apply for a personal loan, which is exactly what the question asked for. There are no hallucinations present as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question. The response is strictly aligned with and grounded in the information provided in the question, maintaining the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response to the question about the necessary documentation for a personal loan application is nonsensical and does not provide any relevant or factual information. It seems to be a repetition of unrelated words and phrases, which indicates a hallucination. This is a clear deviation from the input content, as it does not provide any information about the required documentation for a personal loan application, which was asked in the question. Therefore, the score is 1, as the response introduces statements that weren't present or implied in the input and demonstrates unexplained deviations not grounded in the provided data."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response accurately lists the documents required to apply for a personal loan, which is exactly what the question asked for. There are no hallucinations present in the response, as it does not introduce any statements, claims, or details that weren't present or implied in the question. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing information about the documentation required to apply for a personal loan. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response provided is strictly aligned with the question asked. The question asks for the documentation required to apply for a personal loan, and the response accurately lists and explains the various documents typically required, such as identification proof, income proof, asset proof, bank statements, and credit report. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response accurately and comprehensively answers the question about the necessary documentation for applying for a personal loan. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response is strictly aligned with the information provided in the question, and it maintains the integrity of the original information without any unwarranted extrapolations. Therefore, a score of 0 is justified."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response accurately answers the question about the necessary documentation for applying for a personal loan. It does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question. The response is strictly aligned with and grounded in the information provided in the question, maintaining the integrity of the original information without any unwarranted extrapolations."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It provides the necessary documentation required to apply for a personal loan, which is exactly what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response accurately provides the information asked in the question without any hallucinations. It lists the documents required to apply for a personal loan, which is exactly what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response accurately lists the documents required to apply for a personal loan, which is exactly what the question asked for. There are no hallucinations present in the response, as it does not introduce any statements, claims, or details that weren't present or implied in the question. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response provided is strictly aligned with the question asked. The question asks for the documentation required to apply for a personal loan, and the response accurately provides a list of documents typically required, such as balance sheets, necessary income proofs, credit reports showing their income and expenses, and a form filled with personal information like name, address, and social security number. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "f928b08e-061c-412c-9650-568234094c1c",
+        "prompt": "నేను నా జీరో బ్యాలెన్స్ ఖాతాను జీతం ఖాతాగా మార్చవచ్చా?",
+        "prompt_type": "finance",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response is factually correct and consistent with the input content provided."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question. The response maintains the integrity of the original question without any unwarranted extrapolations. Therefore, the score for hallucinations is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the input. The question asks if a zero balance account can be converted into a salary account, but the response talks about making a profit from investment in shares, which is unrelated to the question. Therefore, the response contains counterfactual information that directly conflicts with the input content."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It also maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response introduces a statement that wasn't present or implied in the input. The question asks about converting a zero balance account to a joint account, but the response includes a sentence in Vietnamese, which is not related to the question or the rest of the response. This is a hallucination as it is an addition that is not based on the input content."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        }
+    },
+    {
+        "prompt_id": "6b0c19d3-455c-4e40-b9bc-09c33cf028bb",
+        "prompt": "ఏ పెట్టుబడి 100% పన్ను రహితం?",
+        "prompt_type": "finance",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the input. The question asks for a 100% tax-free investment, but the response repeatedly mentions mutual funds, which are not necessarily 100% tax-free. The response also repeats the same information about mutual funds multiple times, which can be considered as a hallucination. Therefore, the score is 1."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the question. The question asks about a 'pesticide-free' method, but the response talks about general benefits without specifying any method. The response also ends abruptly, indicating incomplete information. Therefore, the response contains hallucinations and is not strictly aligned with the information provided in the question."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response to the question 'Which investment is 100% risk-free?' is not coherent or meaningful. It repeats the same phrase multiple times without providing any relevant information or answering the question. This is a clear case of hallucination, as the response introduces statements that weren't present or implied in the input, and demonstrates unexplained deviations not grounded in the provided data."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. The question asks about investments that are 100% tax-free and the response correctly provides examples of such investments. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It does not add, omit, or distort any facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. It accurately answers the question about which investments are 100% tax-free in India, providing examples of such investments, and does not deviate from the topic."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response is not coherent and does not provide a clear answer to the question asked. It seems to be a random collection of words and phrases, which indicates hallucination. The question asks about a pollution-free building, but the response does not provide any relevant information or details about this. Therefore, the score is 1 as the output introduces statements and details that weren't present or implied in the input."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. The question asks for a pollution-free power plant and the response correctly mentions a solar energy-based power plant, which is indeed pollution-free. There are no hallucinations, as the response doesn't introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response 'నాటు పారు.' does not align with the question 'ఏ పెట్టుబడి 100% పన్ను రహితం?'. The question asks for a type of investment that is 100% risk-free, but the response is unrelated and does not provide any information about investments. Therefore, the response introduces a statement that wasn't present or implied in the input, leading to a score of 1 for hallucinations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation about the fact that there is no investment that is 100% tax-free. It also provides examples of investments that offer tax benefits. There are no hallucinations, as the response doesn't introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. The question asks about a type of investment that is 100% tax-free, and the response provides a relevant answer, mentioning 'Mars Planet Investment' as a tax-free investment. There are no hallucinations, as the response doesn't introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "justification": "The response provided is strictly aligned with the question asked. The question asks about what is a 100% tax-free investment and the response accurately explains what it is, how it works, and under what circumstances it can be obtained. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "SamwaadLLM": {
+            "justification": "The response provided is strictly aligned with the question asked. The question asks about a diet that is 100% disease-free, and the response accurately explains that while all diets can potentially be disease-free, it is not typically the case. The response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response introduces statements that weren't present or implied in the input. The terms 'careouscareous' and 'மற்றும் சிறப்பு பந்நுலு விதே' are not related to the question and seem to be hallucinations, as they are not grounded in the provided data. The response deviates from the question about a tax-free investment, introducing unrelated and unclear terms."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. The question asks about an investment that is 100% tax-free, and the response correctly provides an example of such an investment, the Prime Minister Vaya Vandana Yojana (PMVVY) in India, without adding, omitting, or distorting any facts. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "justification": "The response provided by the model is strictly aligned with the information provided in the question. The question asks about the possibility of a 100% tax-free income, and the response accurately explains why it is not possible, providing relevant examples. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        }
+    },
+    {
+        "prompt_id": "1d8be2e5-30b3-4d73-9c5d-b734d5ad4286",
+        "prompt": "తెలుగు వివాహాలు ఇతర భారతీయ సంస్కృతులో వివాహాలకు ఎలా భిన్నంగా ఉంటాయి?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides a detailed explanation of how Telugu weddings differ from other Indian weddings. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it scores 0 on the hallucination metric."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "justification": "The response introduces statements that weren't present or implied in the input. The question asks about the differences between Telugu weddings and other Indian weddings, but the response talks about the British system, which is not relevant to the question. Therefore, the response contains counterfactual information that directly conflicts with the input content.",
+            "score": 1
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response does not provide any meaningful or relevant information to the question asked. It merely repeats the question and then ends with a string of nonsensical characters. This is a clear case of hallucination as the response introduces statements that weren't present or implied in the input and demonstrates unexplained deviations not grounded in the provided data."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It provides a clear and concise explanation of how Telugu weddings differ from other Indian weddings, which is exactly what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing specific examples of how Telugu weddings differ from other Indian weddings. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response to the question is completely irrelevant and nonsensical. It does not provide any information on how Telugu weddings differ from other Indian weddings, which was the original question. Instead, it seems to be a random string of words and phrases that do not form a coherent or meaningful answer. This is a clear case of hallucination, as the response introduces statements and details that were not present or implied in the input, and demonstrates unexplained deviations not grounded in the provided data."
+        },
+        "gpt-4": {
+            "justification": "The response provided is factually correct and consistent with the question asked. It does not introduce any statements, claims, or details that weren't present or implied in the question. It does not contain any counterfactual information that directly conflicts with the question content. The response does not demonstrate any unexplained deviations, extrapolations, or interpretations not grounded in the provided data. It accurately describes how Telugu weddings differ from other Indian weddings, which is exactly what the question asked for.",
+            "score": 0
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of how Telugu weddings differ from other Indian weddings. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the input. The response contains multiple languages (Telugu, Bengali, Korean, Tamil, Polish, Russian, Ukrainian, and Bengali again) which were not present or implied in the input. This is a clear hallucination as the question was asked in Telugu and expected a response in the same language. The response also contains counterfactual information that directly conflicts with the input content. The response demonstrates unexplained deviations, extrapolations, or interpretations not grounded in the provided data."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response accurately answers the question about how Telugu weddings differ from other Indian weddings. It provides detailed information about the rituals, decorations, food, and music involved in Telugu weddings, and how these aspects make them unique compared to other Indian weddings. There are no hallucinations, as all the information provided is relevant and consistent with the question. There are no added, omitted, or distorted facts, and the response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is well-grounded in the question asked. It provides a detailed explanation of how Telugu weddings differ from other Indian weddings, focusing on the importance of the wedding ceremony, the rituals and customs involved, and the emphasis on family and society. There are no hallucinations present in the response, as it does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original question without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of how Telugu weddings differ from other Indian weddings. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There are no hallucinations present in the response."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed comparison of Telugu weddings with other Indian cultures. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response accurately describes the unique aspects of Telugu weddings, as asked in the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question. The response is strictly aligned with and grounded in the information provided in the question, maintaining the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "justification": "The response provided is consistent with the question asked. The question asks for differences between Telugu weddings and other Indian weddings, and the response accurately provides these differences, such as the emphasis on family and society in Telugu weddings, the responsibility of the family to provide for the wedding, and the complexity and large gatherings of Telugu weddings. There are no hallucinations present in the response, as all the information provided is relevant and accurate to the question asked. There are no additions, omissions, or distortions of facts, and the response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        }
+    },
+    {
+        "prompt_id": "300c0783-5a8a-4535-8f26-059d1d1a9d5e",
+        "prompt": "తెలుగు సంస్కృతిలో ఆచరించే కొన్ని సాంప్రదాయక కళారూపాలు ఏమిటి మరియు అవి ఆధునిక యుగంలో ఎలా భద్రపరచబడ్డాయి?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the input. The question asks about traditional art forms in Telugu culture and how they have been preserved in the modern era. The response provides a list of art forms but repeats the same descriptions for each one, which is not accurate or informative. Furthermore, the response does not adequately address how these art forms have been preserved in the modern era, only mentioning digital formats in a general sense without specific examples or details. Therefore, the response contains unexplained deviations and interpretations not grounded in the provided data."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "justification": "The response provided by the model does not align with the question asked. The question is asking about traditional art forms in Telugu culture and how they have been preserved in the modern era. However, the response talks about human behavior and their complexities, which is not related to the question. Therefore, the response introduces statements and details that weren't present or implied in the input.",
+            "score": 1
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response does not provide any information or answer to the question asked. It merely repeats the question and then ends abruptly with unintelligible characters. This is a clear case of hallucination as the output introduces statements that weren't present or implied in the input and demonstrates unexplained deviations not grounded in the provided data."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "justification": "The response provided is strictly aligned with and grounded in the information provided in the input. It does not add, omit, or distort facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. It accurately lists some traditional art forms practiced in Telugu culture and explains how they have been preserved in the modern era.",
+            "score": 0
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It lists some traditional art forms practiced in Telugu culture and explains how they have been preserved in the modern era. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response introduces names and terms that were not present or implied in the question. The question asks about traditional art forms in Telugu culture and how they have been preserved in the modern era. However, the response talks about 'Pejawar Koppeshwar, Shashivar, Shashiprash, Shashipradhan, Shashipramohan' and 'Sadashivahooda Swaroopas' which are not related to the question. This is a clear case of hallucination where the model's output is not anchored to the input content provided."
+        },
+        "gpt-4": {
+            "justification": "The response provided is strictly aligned with the question asked. The question asks about the traditional art forms in Telugu culture and how they have been preserved in the modern era. The response accurately describes several traditional art forms and explains how they have been preserved through government efforts, institutions, and individual initiatives. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides a detailed explanation of traditional art forms in Telugu culture and how they have been preserved in the modern era. There are no hallucinations, as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. Therefore, the score for hallucinations is 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response is a clear example of hallucination. The model repeats the word 'నాటకం' (drama) multiple times without providing any other forms of traditional arts or explaining how they have evolved in the modern era, which was the main focus of the question. This repetition of a single term is not grounded in the input and introduces a distortion that wasn't present in the original content."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of various traditional art forms in Telugu culture and how they have been preserved in the modern era. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response is repetitive and does not provide a clear answer to the question. The same phrase 'కథ చెప్పే కళ' (storytelling art) is repeated multiple times without providing any additional information or context. This repetition is not grounded in the input and can be considered as a hallucination. The response also does not address the second part of the question about how these traditional art forms have evolved in the modern era. Therefore, the score is 1 as per the hallucination metric."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is well-aligned with the question, providing information about traditional art forms in Telugu culture and how they have been preserved in the modern era. There are no hallucinations present in the response, as all the information provided is relevant and directly related to the question. The response does not introduce any new claims, statements, or details that were not implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response accurately lists some traditional art forms in Telugu culture and explains how they have been preserved in the modern era. It does not introduce any statements, claims, or details that weren't present or implied in the question. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it gets a score of 0 for hallucinations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "justification": "The response provided by the model is strictly aligned with the information provided in the input. The question asks about traditional art forms in Telugu culture and how they have been preserved in the modern era. The response accurately describes some traditional art forms such as Kallam Chupulu, Pettelu, and Calligraphy, which are indeed part of Telugu culture. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        }
+    },
+    {
+        "prompt_id": "471bbcd5-88ca-4a17-b38c-414ea4df5073",
+        "prompt": "తెలుగు సంస్కృతిలో పూర్వీకులను గౌరవించడంతో సంబంధం ఉన్న నిర్దిష్ట ఆచారాలు ఏమైనా ఉన్నాయా?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "justification": "The response provided by the model is a clear case of hallucination. The question asks about specific customs related to honoring ancestors in Telugu culture. However, the response is just a repeated phrase mentioning 'Sri Krishna Devaraya', which is not related to the question at all. The response introduces statements that weren't present or implied in the input and demonstrates unexplained deviations not grounded in the provided data.",
+            "score": 1
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The question asks about specific customs related to honoring ancestors in Telugu culture, but the response talks about health and affection, which are not related to the question. Therefore, the response contains hallucinations and is not grounded in the provided data."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response does not provide any specific customs related to honoring ancestors in Telugu culture, as asked in the question. Instead, it simply repeats the question multiple times without providing any new or relevant information. This is a clear case of hallucination, as the response introduces statements that were not present or implied in the input, and demonstrates unexplained deviations not grounded in the provided data."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response accurately answers the question about specific rituals in Telugu culture related to honoring ancestors, providing examples such as 'Pitru Paksha', 'Shraddha', and 'Tarpana'."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response to the question is completely unintelligible and does not provide any relevant information to the question asked. It seems to be a repetition of a nonsensical phrase, which can be considered as a hallucination. Therefore, the score is 1 as the output introduces statements that weren't present or implied in the input."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response accurately answers the question about specific customs related to honoring ancestors in Telugu culture. It provides detailed examples such as 'Pithru Tarpanam', 'Shraddha', and 'Peddala Dinotsavam', which are all relevant to the question. There are no hallucinations present in the response, as all the information provided is consistent with the question and does not introduce any new, unrelated, or counterfactual details."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, which asks about specific customs related to honoring ancestors in Telugu culture. The response provides a relevant example of such a custom, which is the honoring of cows. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the input. The response is in a mix of Telugu and another language, which is not consistent with the input content that is entirely in Telugu. The response also contains information about rituals and traditions that are not verifiable or grounded in the provided data. Therefore, the score for hallucinations is 1."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "justification": "The response provided is strictly aligned with and grounded in the information provided in the input. The question asks about specific rituals in Telugu culture related to honoring ancestors, and the response accurately provides examples of such rituals, including ancestor worship and commemorating the birth and death anniversaries of ancestors. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing specific practices related to honoring ancestors in Telugu culture. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it gets a score of 0 for hallucinations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "justification": "The response provided by the model is strictly aligned with and grounded in the information provided in the input. The model accurately describes a specific tradition in Telugu culture related to honoring ancestors, which is directly relevant to the question asked. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The model maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing detailed information about the customs related to honoring ancestors in Telugu culture. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it gets a score of 0 for hallucinations."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing specific rituals in Telugu culture that honor ancestors, such as Pindi Pandlu (Shraddha), Tarpanam, and annual Shraddha. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing specific practices related to honoring ancestors in Telugu culture. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "e531f435-ebf7-47be-8d3f-4f4bc06b94ad",
+        "prompt": "తెలుగు సంస్కృతికి మరియు సమాజానికి గొప్పగా దోహదపడిన కొంతమంది ప్రసిద్ధ చారిత్రక వ్యక్తి లేదా వ్యక్తుల గురించి నాకు చెప్పండి?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response introduces a statement that wasn't present in the input. The response mentions a historical figure named 'Srinath' from the 17th century who had a great influence on Telugu literature. However, this information is not accurate or relevant to the question asked. The question asked for some famous historical figures who contributed greatly to Telugu culture and society, but the response provided information about a figure who influenced Telugu literature. This is a hallucination as it introduces a detail that wasn't present or implied in the input."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 1,
+            "justification": "The response introduces statements that weren't present or implied in the input. The question asks for some famous historical figures who have greatly contributed to Telugu culture and society, but the response does not provide any such figures. Instead, it starts to talk about Telugu culture itself, which is not what the question asked for. Therefore, the response contains unexplained deviations and interpretations not grounded in the provided data."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response does not provide any information or answer to the question asked. It simply repeats the question, and then ends abruptly with an incomplete sentence. This is a clear case of hallucination, as the response introduces a statement that wasn't present or implied in the input, and demonstrates an unexplained deviation not grounded in the provided data. Therefore, according to the hallucination metric, the score is 1."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It lists out some of the prominent historical figures who have contributed significantly to Telugu culture and society, as asked in the question. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the question. The question asks for some famous historical figures who have greatly contributed to Telugu culture and society. However, the response provides a list of names that seem to be nonsensical and not related to any known historical figures. Therefore, the response contains hallucinations and is not grounded in the provided data."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response accurately lists several historical figures who have significantly contributed to Telugu culture and society, as asked in the question. The information provided about each individual is factually correct and does not introduce any hallucinations, distortions, or omissions. The response remains strictly aligned with the input and maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "justification": "The response provided by the model is factually correct and directly related to the question asked. The question asks for a famous historical figure who contributed greatly to Telugu culture and society, and the model correctly mentions Dr. Sarvepalli Radhakrishnan, who is a renowned figure in Indian history and has contributed significantly to the society. There are no hallucinations present in the response as there are no additions, omissions, or distortions of facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response introduces a character named 'Bhakti Rayalu' who is not a known historical figure in Telugu culture or society. The claims about this character's contributions to Telugu literature and dance are not grounded in the input content, hence the score of 1 for hallucinations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing detailed information about historical figures who have significantly contributed to Telugu culture and society. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing detailed information about a historical figure who significantly contributed to Telugu culture and society, as asked in the question. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response introduces a character named 'Penkoor' who is repeatedly mentioned as a famous playwright and actor. However, there is no evidence or context provided in the question that suggests the existence of such a character. This is a clear case of hallucination where the model has introduced a character that wasn't present or implied in the input. Therefore, the score is 1."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It does not add, omit, or distort any facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. It provides a list of historical figures who have significantly contributed to Telugu culture and society, as asked in the question. Therefore, there are no hallucinations present in the response."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response provided is strictly aligned with the question asked. The question asks for some famous historical figures who have greatly contributed to Telugu culture and society, and the response provides a list of such figures along with a brief description of their contributions. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response provided by the model is strictly aligned with the information provided in the input. The question asks for some famous historical figures who have greatly contributed to Telugu culture and society, and the response accurately provides information about two such figures. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "c10b05ba-9cf3-40ef-b7a9-b91b714c29b3",
+        "prompt": "తెలుగు సాంస్కృతిక కార్యక్రమాలలో సంగీతం మరియు సంగీత వాయిద్యాల పాత్రను వివరించండి?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is well-grounded in the information provided in the question. It provides a detailed explanation of the role of music and musical instruments in Telugu cultural events, which is exactly what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The question asks to describe the role of music and musical instruments in Telugu cultural events, but the response talks about the importance of music and musical instruments in conveying information, which is not directly related to the question. Also, the response ends abruptly with unintelligible characters, indicating a possible distortion of information."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response is a repetition of the question itself and does not provide any new information or answer to the question asked. It introduces statements that were not present or implied in the input, hence it scores 1 on the hallucination metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It accurately describes the role of music and musical instruments in Telugu cultural programs, without adding, omitting, or distorting any facts. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of the role of music and musical instruments in Telugu cultural events. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response is not aligned with the question. The question asks to describe the role of music and musical instruments in Telugu cultural events. However, the response does not provide any relevant information about the role of music or musical instruments in Telugu cultural events. Instead, it seems to be a repetition of unrelated words or phrases, which can be considered as a hallucination. Therefore, the score is 1 as per the hallucination metric, which indicates that the output introduces statements or details that weren't present or implied in the input."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of the role of music and musical instruments in Telugu cultural events. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no counterfactual information or unexplained deviations. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing an explanation of the role of music and musical instruments in Telugu cultural events. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response provided is strictly aligned with and grounded in the information provided in the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. The response maintains the integrity of the original information without any unwarranted extrapolations. It does not contain any counterfactual information that directly conflicts with the question content."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is well-grounded in the information provided in the question. It accurately describes the role of music and musical instruments in Telugu cultural events, without introducing any statements, claims, or details that weren't present or implied in the question. There are no counterfactual information or unexplained deviations from the provided data. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of the role of music and musical instruments in Telugu cultural events. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is well-grounded in the information provided in the question. It accurately describes the role of music and musical instruments in Telugu cultural events, without introducing any statements, claims, or details that weren't present or implied in the question. There are no counterfactual information or unexplained deviations from the provided data. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of the role of music and musical instruments in Telugu cultural events. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response accurately describes the role of music and musical instruments in Telugu cultural events, as asked in the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question. The response is strictly aligned with and grounded in the information provided in the question, maintaining the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is well-aligned with the question, providing a detailed explanation of the role of music and musical instruments in Telugu cultural events. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no counterfactual information or unexplained deviations. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "efc05b73-aba6-4d2c-93dd-6f7dd0ad5d31",
+        "prompt": "తెలుగు సంస్కృతి ఎప్పుడు మొదలైంది దాని యొక్క విశిష్టత ఏమిటి?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response accurately answers the question about when Telugu culture began and its unique features. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There are no hallucinations present in the response."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 1,
+            "justification": "The response introduces statements and details that were not present or implied in the question. The question asks about the origin and unique features of Telugu culture, but the response talks about health and national conditions, which are not directly related to the question. Therefore, the response contains hallucinations and is not strictly aligned with the information provided in the question."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response provided by the model is not aligned with the question asked. The question is about when Telugu culture started and what its uniqueness is. However, the response is repetitive and does not provide any factual information related to the question. It introduces statements that were not present or implied in the input, hence the score of 1 for hallucinations."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It accurately answers when Telugu culture started and what its uniqueness is, without adding, omitting, or distorting any facts. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "justification": "The response is strictly aligned with the question. The question asks about when Telugu culture began and what its unique features are. The response accurately provides that Telugu culture is ancient and is believed to have started around the 2nd century BC. It also lists the unique features of Telugu culture such as language, literature, arts, music, dance, customs, and cuisine. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response is completely unrelated to the question asked. The question is about the origin and uniqueness of Telugu culture, but the response is a nonsensical repetition of words and symbols. This is a clear case of hallucination as the model's output is not grounded in the information provided in the input and introduces statements that weren't present or implied in the input."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing information about when Telugu culture began and its unique features. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "justification": "The response provided by the model is strictly aligned with the information provided in the input. The question asks about when Telugu culture began and its uniqueness. The response correctly states that Telugu culture began around 2,500 years ago and is one of the ancient cultures in India. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "google/gemma-7b-it": {
+            "justification": "The response provided is strictly aligned with the information provided in the question. The question asks about when Telugu culture began and its unique features. The response accurately provides a timeline of the development of Telugu culture and then goes on to list the unique features of Telugu culture, including literature, music, dance, cuisine, and customs. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing information about when Telugu culture began and its unique characteristics. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It accurately answers when Telugu culture began and what its uniqueness is, without adding, omitting, or distorting any facts. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "justification": "The response accurately answers the question about when Telugu culture began and what its unique features are. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It provides information about when Telugu culture began and what its unique features are, which is exactly what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of when Telugu culture began and its unique features. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "justification": "The response provided is strictly aligned with the information given in the question. The question asks about when Telugu culture began and what its uniqueness is. The response accurately provides the approximate time of the inception of Telugu culture and goes on to describe its uniqueness in terms of its complex and sophisticated artistic representations, particularly through its music, dramas, poetry, and literature. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        }
+    },
+    {
+        "prompt_id": "ca10c31a-7ad5-4e2c-b591-190a0b61ff67",
+        "prompt": "సంక్రాంతిని తెలుగువారి పండుగ అని ఎందుకు అంటారు, అసలు ఎప్పుడు మొదలైంది?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response contains hallucinations. The question asks why Sankranti is considered a Telugu festival and when it started, but the response does not provide a clear answer to these questions. Instead, it provides a repetitive and confusing explanation about Telugu-speaking regions and their cultural, linguistic, and historical relations. The response also incorrectly refers to Sankranti as 'Srirama navami' at the beginning, which is a different festival. Therefore, the response introduces statements and details that weren't present or implied in the input, leading to a score of 1."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 1,
+            "justification": "The response does not provide any factual information related to the question. It merely repeats the question without providing any meaningful or relevant information. The response also contains unintelligible characters, which further detracts from its quality. Therefore, it introduces statements that weren't present or implied in the input and demonstrates unexplained deviations, not grounded in the provided data."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response provided by the model does not answer the question asked. The question is about why Sankranti is called a Telugu festival and when it started. However, the response is just a repetition of the question itself without providing any new information or answering the question. This is a clear case of hallucination where the model is generating text that is not grounded in the input content."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It explains why Sankranti is called a Telugu festival and when it started, which is exactly what the question asked. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It explains why Sankranti is considered a Telugu festival and also mentions that the exact origin of the festival is not known, but it has been celebrated since around 1000 BC. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the question. The question asks why Sankranti is considered a Telugu festival and when it started. However, the response does not provide any information related to this. Instead, it mentions a series of names that are not relevant to the question. Therefore, the response contains hallucinations as it introduces unrelated and baseless information."
+        },
+        "gpt-4": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the question. The question asks why Sankranti is considered a Telugu festival and when it started. The response, however, talks about the festival being a farmer's festival, the worship of certain deities during the festival, and the start of the festival according to the Gregorian calendar in England, which are not directly related to the question asked. Therefore, the score is 1 as per the hallucinations metric."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The question asks why Sankranti is considered a Telugu festival and when it started, but the response talks about the celebration of the festival and its relation to the month of Vaishakha, which is not directly related to the question. Therefore, the response demonstrates unexplained deviations and interpretations not grounded in the provided data."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The question asks why Sankranti is considered a Telugu festival and when it started. The response, however, does not provide a clear answer to these questions. Instead, it introduces unrelated information such as 'Litecoin' and '16-17 January', which were not mentioned or implied in the question. Therefore, the response demonstrates unexplained deviations and interpretations not grounded in the provided data, earning it a score of 1 according to the hallucinations metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of why Sankranti is considered a Telugu festival and when it originated. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it scores 0 on the hallucinations metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response contains a significant hallucination. While the initial part of the response correctly explains why Sankranti is celebrated by Telugu people and what it signifies, the latter part of the response repeats the phrase 'క్రీస్తుపూర్వం 1 వ శతాబ్దంలో' multiple times without providing any meaningful or factual information about when the celebration of Sankranti began. This repetition is not based on the input and does not provide a correct answer to the question, hence the score of 1 for hallucination."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "justification": "The response is strictly aligned with the question. The question asks why Sankranti is considered a Telugu festival and when it started. The response correctly states that Sankranti is a Telugu festival celebrated every year, and it occurs from January 14th to 15th. However, the response does not provide information on when the festival started, which was part of the question. Despite this omission, the response does not introduce any hallucinations - there are no added, omitted, or distorted facts that weren't part of the original content.",
+            "score": 0
+        },
+        "SamwaadLLM": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The question asks why Sankranti is called a festival of Telugu people and when it started. However, the response talks about the word 'festival' and its origin, which is not relevant to the question. It does not provide any information on why Sankranti is significant to Telugu people or when it started. Therefore, the response contains unexplained deviations and interpretations not grounded in the provided data."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response accurately answers the question, providing reasons why Sankranti is considered a Telugu festival and explaining its origins. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no counterfactual information or unexplained deviations. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "justification": "The response introduces statements and details that weren't present or implied in the question. The response provides incorrect information stating that the festival started in 1955 and was initiated by the Martiri Gardens Methodist community, which is not accurate. Sankranti is a traditional Indian festival celebrated in many parts of India, not just by Telugu people, and it has been celebrated for centuries, not just since 1955. Therefore, the response contains counterfactual information that directly conflicts with the input content.",
+            "score": 1
+        }
+    },
+    {
+        "prompt_id": "037bd3f4-0069-488f-9f2e-232e6e7f82dd",
+        "prompt": "తెలుగు సంప్రదాయంలో ఆడపిల్లల తల్లితండ్రులు పిల్లల మొదటి జన్మకు ఎందుకు డబ్బు చెల్లిస్తారు?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the input. The question asks why parents give money to their children during their first birth in Telugu tradition. However, the response talks about child marriages, which is not related to the question. The response also repeats the same information multiple times, which is not grounded in the provided data. Therefore, the score is 1 for hallucinations."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 1,
+            "justification": "The response introduces statements that weren't present or implied in the input. The question asks why parents give money to their daughters at their first birth in Telugu tradition, but the response does not provide a clear answer to this. Instead, it repeats the question and adds some unrelated and unclear statements. The response also ends with a string of unrecognizable characters, which can be considered as a hallucination."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response does not answer the question asked. It merely repeats the question and then provides a series of nonsensical and repetitive phrases. This is a clear case of hallucination, as the model is generating content that is not grounded in the input. It introduces statements and details that were not present or implied in the input, hence the score of 1."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any new facts or details that were not present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There are no hallucinations present in the response."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response is not aligned with the question. The question asks why parents give money to their daughters at the time of their first birth in Telugu tradition. However, the response is not coherent and does not provide any relevant information to the question. It seems to be a repetition of unrelated words and phrases, which can be considered as a hallucination. Therefore, the score is 1 as per the hallucination metric."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response provided is strictly aligned with the information given in the question. It does not add, omit, or distort any facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. It accurately explains why parents give money to their daughters at their first birth in Telugu tradition, which is exactly what the question asked."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately explains why parents give money to their children at their first birth in Telugu tradition, which is exactly what the question asked. There are no added, omitted, or distorted facts that weren't part of the original content. The integrity of the original information is maintained without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately explains why parents give money to their children during their first birth in Telugu tradition, without adding, omitting, or distorting any facts. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any new information that wasn't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately explains why parents give money during the first birth of a child in Telugu tradition, which is exactly what the question asked. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "SamwaadLLM": {
+            "justification": "The response provided is strictly aligned with the information provided in the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content.",
+            "score": 0
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides a detailed explanation of why parents give money to their children at their first birth in Telugu tradition. There are no hallucinations present in the response, as it does not introduce any statements, claims, or details that weren't present or implied in the question. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "cf80f8a0-fb64-4db0-927a-b7ad1b13cdad",
+        "prompt": "తెలుగు సంస్కృతిలో గమనించిన కొన్ని సాధారణ మూఢనమ్మకాలు లేదా నమ్మకాలు ఏమిటి?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response accurately lists several superstitions and beliefs in Telugu culture, which is exactly what the question asked for. There are no hallucinations present in the response, as all the information provided is relevant and directly related to the question. The response does not introduce any statements, claims, or details that weren't present or implied in the question, and it does not contain any counterfactual information that directly conflicts with the question. Therefore, the score for hallucinations is 0."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The question asks for common superstitions or beliefs in Telugu culture, but the response talks about economic industries and primary analysis, which are not related to the question. Additionally, the response ends with a string of nonsensical characters, further demonstrating a deviation from the provided data."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response introduces statements that weren't present or implied in the input. The response is repetitive and does not provide any specific examples or details about common superstitions or beliefs in Telugu culture, which was the main focus of the question. Therefore, the response contains hallucinations and is not grounded in the provided data."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing examples of common superstitions or beliefs in Telugu culture. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "justification": "The response provided by the model is strictly aligned with the information provided in the input. The question asks for some common superstitions or beliefs in Telugu culture, and the model provides a list of such beliefs, without adding, omitting, or distorting any facts. The integrity of the original information is maintained without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response is not coherent and does not provide any meaningful information related to the question. It seems to be a random collection of words and phrases, and it also contains unreadable characters. This indicates that the model has hallucinated, introducing statements and details that weren't present or implied in the question. Therefore, the score for hallucinations is 1."
+        },
+        "gpt-4": {
+            "justification": "The response provided is in line with the question asked. The question asks for some common superstitions or beliefs in Telugu culture, and the response provides a list of such beliefs. There are no additions, omissions, or distortions in the response that deviate from the question's context. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, which asks for common superstitions or beliefs in Telugu culture. The response provides examples of such beliefs related to ghosts, the evil eye, pickle devotion, clothing purity, and whiteness. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the question. The question asks for common superstitions or beliefs in Telugu culture, but the response provides information about various aspects of Telugu culture such as dance forms, music, literature, etc., which are not related to superstitions or beliefs. Therefore, the response contains information that directly conflicts with the input content."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response introduces a hallucination by repeating the same superstition from points 2 to 10. The repetition of the same superstition is not grounded in the input content and is an unwarranted extrapolation. The response should have provided different superstitions or beliefs as per the question, but it failed to do so."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response provided by the model is not aligned with the question. The question asks for some common superstitions or beliefs in Telugu culture, but the response is repetitive and does not provide any meaningful information. The model repeats the same phrase multiple times, which is not related to the question. This is a clear case of hallucination, where the model's output is not grounded in the input content and introduces statements that weren't present or implied in the input."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of some common superstitions or beliefs in Telugu culture. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, according to the hallucinations metric, the response gets a score of 0."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, which asks for common superstitions or beliefs in Telugu culture. The response provides examples of such beliefs, without adding, omitting, or distorting facts. It maintains the integrity of the original information without any unwarranted extrapolations. Therefore, there are no hallucinations present in the response."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response accurately lists some common superstitions or beliefs in Telugu culture, as asked in the question. There are no hallucinations present in the response, as all the information provided is directly related to the question and does not introduce any new, unrelated, or counterfactual information. The response maintains the integrity of the original question without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "justification": "The response provided is in line with the question asked. The question asks for some common superstitions or beliefs in Telugu culture, and the response provides a detailed explanation of the importance of family and society in Telugu culture, which is a common belief. There are no hallucinations present in the response, as it does not introduce any statements, claims, or details that weren't present or implied in the input. It also does not contain any counterfactual information that directly conflicts with the input content.",
+            "score": 0
+        }
+    },
+    {
+        "prompt_id": "cf55bb94-a94d-4462-8aba-bd3c2ca179f1",
+        "prompt": "తెలుగువారు వంటల్లో మిరపకాయలు ఎక్కువగా వాడటానికి కారణం ఏమైనా ఉందా?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response is completely irrelevant to the question asked. The question asks for a reason why Telugu people use a lot of chillies in their cooking, but the response is just a repetition of the word 'Telugu' without providing any meaningful or factual information. This is a clear case of hallucination as the response introduces statements that weren't present or implied in the input and demonstrates unexplained deviations not grounded in the provided data."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 1,
+            "justification": "The response introduces statements and details that were not present or implied in the input question. The question asks for the reason why Telugu people use a lot of chillies in their cooking, but the response talks about the production and analysis of chillies, which is not relevant to the question. Therefore, the response contains hallucinations and is not grounded in the provided data."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response provided by the model is a clear case of hallucination. It repeats the question multiple times without providing any actual answer or information. This is a clear deviation from the input content, as it introduces a repetition that was not present or implied in the input. Therefore, according to the hallucination metric, the score is 1."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response does not contain any counterfactual information that directly conflicts with the question. It does not demonstrate any unexplained deviations, extrapolations, or interpretations not grounded in the provided data."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response accurately explains why Telugu people use more chillies in their cooking, which is exactly what the question asked for."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response to the question is not coherent and does not provide a valid answer to the question asked. It seems to be a random string of words and phrases that do not make sense in the context of the question. This is a clear case of hallucination where the model's output is not grounded in the information provided in the input and introduces statements and details that weren't present or implied in the input."
+        },
+        "gpt-4": {
+            "justification": "The response is strictly aligned with the question and does not introduce any statements, claims, or details that weren't present or implied in the question. It accurately explains why Telugu people use a lot of chillies in their cooking, stating that chillies add flavor to the dishes and contain many beneficial nutrients. There are no hallucinations, as the response does not add, omit, or distort facts that weren't part of the original content. It maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response introduces details that were not present or implied in the question. The question asks for the reason why Telugu people use a lot of chillies in their cooking. However, the response talks about the protein 'capsaicin' found in chillies and its benefits, which is not directly related to the question asked. Therefore, the response contains unexplained extrapolations not grounded in the provided data."
+        },
+        "google/gemma-7b-it": {
+            "justification": "The response provided a recipe for making a dish with mirpakayalu (chillies) instead of answering the question about why Telugu people use chillies extensively in their cooking. This is a clear deviation from the question asked, introducing details that weren't present or implied in the input.",
+            "score": 1
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response provided is strictly aligned with and grounded in the information provided in the question. The question asks for the reason why Telugu people use chillies extensively in their cooking, and the response accurately provides reasons such as enhancing taste, adding a kick to the dishes, and health benefits. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response provided is strictly aligned with and grounded in the information provided in the question. The question asks for the reason why Telugu people use chillies extensively in their cooking, and the response accurately provides reasons such as health benefits, taste enhancement, and cultural significance. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "justification": "The response is strictly aligned with and grounded in the information provided in the question. It does not add, omit, or distort facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. The question asks for the reason why Telugu people use chillies in their cooking, and the response accurately provides the reasons, stating that chillies add flavor and spice to the dishes, and also have health benefits.",
+            "score": 0
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing reasons why Telugu people use a lot of chillies in their cooking. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, the score for hallucinations is 0."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a reason for the extensive use of chillies in Telugu cuisine. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no counterfactual information or unexplained deviations. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response does not contain any counterfactual information that directly conflicts with the question content. Therefore, the score for hallucinations is 0."
+        }
+    }
+]

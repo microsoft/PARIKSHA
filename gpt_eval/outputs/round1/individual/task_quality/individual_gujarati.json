@@ -1,0 +1,1162 @@
+[
+    {
+        "prompt_id": "6743a998-8274-4ac3-8d0c-1928096e099e",
+        "prompt": "હું ક્રેડીટકાર્ડ કઈ રીતે મેળવી શકું?",
+        "prompt_type": "finance",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks 'How can I get a credit card?' but the response is just a repetition of the word 'crore' (billion), which does not provide any information or answer to the question. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt. There is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how to obtain a credit card. It provides a clear method, which involves establishing a relationship with a credit card company and applying for a card. The response is directly related to the user's instruction and addresses all aspects of the question without any deviation or omission. Therefore, it scores 2 on the task quality metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and completely answers the question about how to obtain a credit card. It provides a step-by-step guide, from preparing necessary documents to the final receipt of the card, which aligns perfectly with the question. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about how to obtain a credit card, but the response does not provide any information related to this. Instead, it seems to be a nonsensical repetition of phrases that do not make sense in the context of the question. Therefore, the score is 0 as per the 'task_quality' metric, as there is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about how to obtain a credit card. It provides a step-by-step guide, covering all aspects from contacting the bank, deciding the type of card, filling out the application form, submitting necessary documents, to the bank's verification process. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric perfectly."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to obtain a credit card. It suggests contacting the bank and understanding their eligibility criteria, which is a valid and direct answer to the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric perfectly."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how to obtain a credit card. It provides a detailed step-by-step process, from filling out an application form with personal information, to checking credit score and history, to the company reviewing the application and deciding whether to offer a credit card. The response is in complete alignment with the question and does not deviate from the topic. Therefore, it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how to obtain a credit card. It mentions the importance of a good credit score, how to check and improve it, and then how to apply for a credit card either through a bank, credit union, or online. The response is directly related to the user's instruction and addresses all aspects of the question without any deviation or extraneous details. Therefore, it scores 2 on the task quality metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how to obtain a credit card. It provides a detailed step-by-step process, including applying online or in an office, providing personal information, and submitting credit score and history. It also mentions the delivery timeline after the application process is complete. Therefore, the response adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about how to obtain a credit card. It provides a step-by-step guide, detailing the process and the necessary documents required. It also mentions the possibility of applying online and the factors that banks consider when reviewing an application. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, a score of 2 is justified."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately answers the question on how to obtain a credit card. It provides a detailed step-by-step guide on how to apply for a credit card online, at a banking institution, and through a financial advisor. The response is in line with the question and does not deviate from the topic. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about how to obtain a credit card. It provides a step-by-step guide, covering all aspects from researching various banks and their offers, filling out the application form, providing necessary documents, maintaining a good credit score, to the interview or verification process, and finally the approval and distribution of the card. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to obtain a credit card. It provides a detailed explanation, including contacting a bank or credit card company, providing personal information and income proof, and possibly undergoing a credit check. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence the score of 2."
+        }
+    },
+    {
+        "prompt_id": "3a238ab2-2a97-4e20-ae8b-d5e2b292a3cb",
+        "prompt": "ક્રેડીટ સ્કોરેને જાળવી રાખવાના ઉપાયો કયા કયા છે?",
+        "prompt_type": "finance",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not provide any methods to maintain a credit score, which was the main directive of the prompt. Instead, it repeats the same phrase multiple times without providing any relevant information. Therefore, the model's response is entirely irrelevant to the prompt and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response provides some ways to maintain a credit score, which is the main theme of the question. However, some of the suggestions, such as 'keep the credit score in proper storage' and 'include the credit score in a proper credit report', are not relevant or practical ways to maintain a credit score. Therefore, while the response partially aligns with the prompt, it includes extraneous details not asked for, which is why it receives a score of 1 according to the 'task_quality' metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to maintain a credit score and the model provides a detailed list of methods to do so. It covers all aspects of the question without any deviation or extraneous details. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not relevant to the question asked. The question asks for ways to maintain a credit score, but the response does not provide any specific methods or strategies. Instead, it vaguely mentions 'dos and don'ts' without elaborating on what these are. The response is also repetitive and does not provide any useful information. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks for ways to maintain a credit score and the model provides a detailed list of methods to do so. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing several ways to maintain a credit score. It adheres to the instructions given in the prompt, demonstrating a clear understanding of the question. The response is directly related to the user's instruction, with no aspect of the instruction left unaddressed. Therefore, it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response provided by the model is repetitive and does not provide a variety of ways to maintain a credit score as asked in the question. The model only repeats the same method of keeping credit card balances low, which does not fully answer the question. Therefore, the score is 0 as there is a clear disconnect between the user's request and the model's response."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response starts off well by providing some ways to maintain a credit score, which is what the question asked for. However, after the fourth point, the response becomes repetitive and does not provide any new or useful information. The same point about making minimum payments is repeated multiple times, which does not add any value to the response. Therefore, the response only partially aligns with the prompt and misses out on finer details or nuances, which is why it receives a score of 1 according to the task quality metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a comprehensive list of ways to maintain a credit score. It includes paying bills on time, improving credit history, increasing credit limit, improving credit openings, and improving credit card payments. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus demonstrating a precise understanding and adherence to the prompt's instructions."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to maintain a good credit score and the model provides a detailed list of methods to do so. It covers all aspects of the question without any deviation or extraneous details. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not relevant to the question asked. The question asks for ways to maintain a credit score, but the response is incoherent and includes irrelevant information. It also contains words from different languages which makes it difficult to understand. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and completely addresses the question. It provides several ways to maintain a credit score, which is exactly what the question asked for. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about ways to maintain a credit score. It provides several methods such as avoiding unemployment on your credit card, managing your credit card properly, regularly checking your credit report, using your entire credit limit, and properly maintaining your credit. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric perfectly."
+        }
+    },
+    {
+        "prompt_id": "e51494c0-25ad-43a0-81b4-0ed61afbd192",
+        "prompt": "મ્યુચ્યુઅલફંડ શું છે અને એ કેવી રીતે કામ કરે છે?",
+        "prompt_type": "finance",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for an explanation of what a mutual fund is and how it works, but the response simply repeats the phrase 'તેમણે કરી શકો છો. અને કરી શકો છો.' (They can do it. And you can do it.) multiple times. This is completely irrelevant to the question and does not provide any information about mutual funds. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately explains what a mutual fund is and how it works, which directly addresses the question. It provides a clear and comprehensive explanation, demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, it holistically satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and completely answers the question. It explains what a mutual fund is and how it works, which is exactly what the question asked for. The response is directly relevant to the question and does not include any extraneous or irrelevant information. Therefore, it fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about mutual funds and how they work, but the response talks about MySQL, a database management system. Furthermore, the response is incoherent and does not provide any meaningful information. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and completely answers the question about what a mutual fund is and how it works. It explains that a mutual fund is a type of investment plan where many investors pool their money together to invest in various assets, such as stocks, bonds, market indices, etc. The response also explains that these funds are managed by investment experts. Furthermore, it describes the functioning of a mutual fund, where investors invest their money in the fund and the fund manager invests it in various assets. The generated income can then be distributed among the investors. Therefore, the response adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It provides a general definition of a mutual fund, but it does not explain how a mutual fund works, which is a key part of the question. The response also includes some extraneous details about shares and bonds that were not specifically asked for in the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately explains what a mutual fund is and how it works, which is exactly what the question asked for. It covers all aspects of the question, providing a comprehensive explanation of the concept of mutual funds, their operation, and their benefits. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed. Therefore, the response fully adheres to the task quality metric and earns a score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately explains what a mutual fund is and how it works, which is exactly what the question asked for. It covers the concept of pooling money from multiple investors and investing it in various assets like stocks and bonds. It also explains how the returns from these investments are distributed among the investors. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding and adherence to the question's instructions. Hence, the score of 2 is justified."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately explains what a mutual fund is and how it works, which is exactly what the question asked for. It provides a detailed explanation of the concept, including how investors come together to invest in a single security, how the mutual fund is managed by a professional investor, and how it allows investors to own a portion of the security. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding and adherence to the question's instructions."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about what a mutual fund is and how it works. It explains the concept of a mutual fund, how it operates, the role of fund managers, and the process of investing in a mutual fund. It also provides information about different types of mutual funds, which, while not explicitly asked for, adds value to the response. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is in Hindi, not Gujarati, which is the language specified in the prompt. Additionally, the response does not accurately answer the question about what a mutual fund is and how it works. Instead, it provides a vague and incorrect explanation of mutual funds, mentioning concepts like 'policy investors' and 'financial advice of resources', which are not relevant to the functioning of mutual funds. Therefore, the response does not adhere to the specific directives given in the prompt, resulting in a score of 0 for task quality."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about what a mutual fund is and how it works. It provides a detailed explanation of the concept, the process of pooling funds, the role of fund managers, portfolio diversification, and potential returns. It also mentions that mutual funds are suitable for all types of investors, especially those who want to invest in small amounts. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding of the question and providing a thorough answer."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately explains what a mutual fund is and how it works, which is exactly what the question asked for. It covers the concept of pooling money from individuals and institutions, investing in various types of stocks and bonds, managing risks, and making decisions based on the portfolio and its performance. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        }
+    },
+    {
+        "prompt_id": "dbd46ba8-b911-4b70-8156-76ad3fef3c52",
+        "prompt": "બેંકમાં કેટલા પ્રકારના ખાતા હોય છે?",
+        "prompt_type": "finance",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the types of accounts in a bank, but the response just repeats the same phrase over and over again without providing any information about the types of bank accounts. Therefore, the model disregards the instructions entirely, leading to a score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the types of accounts in a bank. It lists several types of accounts such as general accounts, organizational accounts, contractual accounts, public accounts, and distressed accounts. The response also acknowledges that the list is not exhaustive, which aligns with the nuance of the question that there could be more types of accounts. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the types of accounts in a bank. It lists four types of accounts: Savings Account, Current Account, Fixed Deposit Account, and Recurring Deposit Account, and provides a brief description of each. This shows a clear understanding and adherence to the prompt's instructions. The output satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the types of accounts in a bank, but the response talks about counters in a bank or a bench, which is not related to the question at all. Therefore, the model disregards the instructions entirely, leading to a score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question by listing the four main types of bank accounts. It also provides additional information about each type of account, which was not explicitly asked for in the question but adds value to the response. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question by listing the three main types of bank accounts - current account, savings account, and fixed deposit account. It adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the types of accounts in a bank. It mentions saving accounts, checking accounts, and CD accounts, which are common types of bank accounts. The response also provides additional information about each type of account, such as the fact that interest is earned in saving and CD accounts but not in checking accounts. This shows a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the types of accounts in a bank. It provides a detailed explanation of the two main types of accounts: checking and savings. The response is directly related to the question and does not deviate from the topic. It also provides additional information about the functionality of these accounts, which adds value to the response. Therefore, the response fully satisfies the prompt's instructions and demonstrates a clear understanding of the question."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the types of accounts in a bank. It mentions checking and savings accounts, and also provides additional information about deposit accounts, debit cards, and credit cards. The response is directly related to the user's instruction and addresses all aspects of the question, demonstrating a precise understanding and adherence to the prompt's instructions."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the types of accounts in a bank. It lists four main types of accounts: Saving Account, Current Account, Recurring Deposit, and Fixed Deposit, and provides a brief description of each. This shows a clear understanding and adherence to the prompt's instructions. The output satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the types of accounts in a bank. It lists various types of accounts such as general, miscellaneous, personal, and collection accounts, and provides examples for each. This shows a clear understanding and adherence to the prompt's instructions. The output satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question by listing the different types of bank accounts. It adheres to the prompt's instructions and provides a comprehensive answer without any deviation or omission. Therefore, it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the types of accounts in a bank. It lists various types of accounts such as savings account, checking account, mortgage account, credit card account, loan account, stock account, Roth account, and routing account. The response is in line with the question and does not deviate from the topic. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        }
+    },
+    {
+        "prompt_id": "032d77c2-b350-412b-866f-ff944cb74e40",
+        "prompt": "હું મારા ક્રેડીટ કાર્ડને કઈ રીતે બંદ કરાવી શકું?",
+        "prompt_type": "finance",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for a method to cancel a credit card, but the response is nonsensical and does not provide any useful information or steps to cancel a credit card. It seems like the response is just repeating the same phrase over and over again, which does not make any sense in the context of the question. Therefore, the score is 0 as per the 'task_quality' metric, as there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to cancel a credit card. It provides a clear and direct method, suggesting to log into the credit card's website and enter the card number and password. This response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation. Therefore, it scores 2 on the task quality metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and completely addresses the question about how to cancel a credit card. It provides a detailed step-by-step guide, covering different methods such as calling the credit card company, applying online, or visiting a branch office. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about how to cancel a credit card, but the response is nonsensical and does not provide any information on how to cancel a credit card. It seems like the response is just a repetition of unrelated phrases. Therefore, the score is 0 as per the 'task_quality' metric, which states that a score of 0 is given when 'The model disregards the instructions entirely' or 'The output is entirely irrelevant to the prompt'."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and completely addresses the question about how to cancel a credit card. It provides a step-by-step guide, which is exactly what the question asked for. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to cancel a credit card. It correctly suggests contacting the bank and providing the necessary information to cancel the credit card. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to cancel a credit card. It provides a detailed step-by-step process, including visiting the card provider's website, finding information about their services, looking for options to close the account, and the possibility of needing to call the provider or fill out an online form. The response is completely relevant to the question and does not deviate from the instruction, hence it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how to cancel a credit card. It provides a clear and direct instruction to contact the bank or credit card company and request them to cancel the card. The response does not deviate from the question and does not leave any aspect of the instruction unaddressed. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to cancel a credit card. It provides a detailed explanation, suggesting to contact the credit card company for information about the cancellation process and mentioning the possibility of using an online platform for the same. It also mentions the need to provide certain information such as the credit card number, name, and other identifying information. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately and completely addresses the question. It provides a detailed step-by-step process on how to close a credit card, which is exactly what the question asked for. The response includes all necessary information such as contacting the bank, providing necessary details, and what to expect after the card is closed. Therefore, it adheres to the prompt's instructions perfectly, demonstrating a precise understanding of the task."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response provided by the model is partially aligned with the prompt. The model does address the main theme of the instruction, which is how to cancel a credit card. However, the response includes extraneous details not asked for, such as the process of blocking a card on the Bank of India website, which is not relevant to the general question of how to cancel a credit card. Furthermore, the response is written in a mix of Gujarati and Hindi, which could potentially cause confusion for a Gujarati-speaking user."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about how to cancel a credit card. It provides a detailed step-by-step guide, covering various methods such as contacting customer service, visiting the bank branch, writing a request, and using online services. It also advises to ensure no outstanding balance remains before cancellation. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, a score of 2 is justified."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to cancel a credit card. It provides a detailed step-by-step process, including gathering credit card information, following the instructions provided with the card, and contacting the credit card company. The response is directly relevant to the question and does not include any extraneous details. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        }
+    },
+    {
+        "prompt_id": "0a113b91-81f1-4ef9-a082-da80b83c92a5",
+        "prompt": "માણસના જીવનમાં કસરતનું શું મહત્વ છે?",
+        "prompt_type": "health",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the importance of exercise in a person's life, but the response is just a repetition of the same phrase without providing any meaningful information. It does not address the question at all, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the importance of exercise in a person's life. It mentions that exercise keeps a person healthy and strong, improves physical and mental health, and enables a person to be competent in social and economic relationships. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding and adherence to the prompt's instructions. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the importance of exercise in a person's life. It provides a comprehensive explanation, discussing both physical and mental health benefits of exercise, such as improved heart function, controlled blood pressure, better sleep, reduced stress, and increased self-confidence. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding of the question and providing a complete and relevant answer."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the importance of exercise in human life, but the response talks about the weight and size of a 'Mansa' in a body, which doesn't make sense in the context of the question. There is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the importance of exercise in a person's life. It provides a comprehensive explanation, discussing the benefits of exercise for physical health, mental well-being, and disease prevention. The response is directly related to the question and does not deviate from the topic, hence it adheres to the prompt's instructions completely."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the importance of exercise in a person's life. It mentions the benefits of exercise such as improving health, preparing the body physically and mentally, and helping to prevent major diseases like heart disease, diabetes, high blood pressure, and obesity. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the importance of exercise in a person's life. It provides a comprehensive explanation, covering both physical and mental health benefits of regular exercise. It mentions how exercise can improve energy levels, strengthen the heart and lungs, reduce the risk of chronic diseases, improve mental health by reducing stress and improving concentration, strengthen muscles, improve balance and coordination, and improve sleep quality. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the importance of exercise in a person's life. It provides a comprehensive explanation, discussing the physical and mental health benefits, stress reduction, concentration improvement, and overall well-being. It also mentions the strengthening of the heart, lungs, and muscles, and the release of endorphins. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the importance of exercise in a person's life. It provides a comprehensive explanation, detailing the physical and mental health benefits of exercise, including strengthening the heart and muscles, improving breathing, enhancing mood, reducing stress, improving concentration, and boosting the immune system. The response is directly relevant to the question and does not deviate from the topic, thus fully adhering to the prompt's instructions."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the importance of exercise in a person's life. It provides a comprehensive explanation, detailing the physical, mental, and emotional benefits of exercise. The response is directly relevant to the question and does not deviate from the topic. It does not omit any requested specifics or include extraneous details. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the importance of exercise in human life. It provides a comprehensive explanation, covering various aspects such as physical health, mental health, energy and vitality, self-esteem, and social well-being. The response is in line with the prompt's instructions and there is a clear and direct correlation between the user's instruction and the model's response. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the importance of exercise in a person's life. It provides a comprehensive explanation, detailing how exercise contributes to physical health, mental well-being, weight control, and improved sleep. The response is directly relevant to the question and does not deviate from the topic, hence it fully adheres to the prompt's instructions."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the importance of exercise in a person's life. It provides a comprehensive explanation, covering various aspects such as physical health, mental health, stress reduction, energy levels, heart health, prevention of health issues, self-confidence, concentration, memory, sleep quality, and responsibility towards one's health. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        }
+    },
+    {
+        "prompt_id": "8a4f9f9c-a8a6-4a7f-a014-aa54859b962f",
+        "prompt": "નજરને વધુ સારી કરવા મને કયા ફળો ખાવા જોઈએ?",
+        "prompt_type": "health",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for fruits that should be eaten to improve eyesight, but the response does not mention any fruits or provide any information related to improving eyesight. Instead, it seems to be a repetition of nonsensical phrases. Therefore, the score is 0 as per the 'task_quality' metric, as there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a list of fruits that can improve eyesight, such as kiwi, potato, and cherry. It also explains that these fruits contain certain nutrients beneficial for eyesight. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a list of fruits that are beneficial for improving eyesight. It also explains why these fruits are beneficial, mentioning the presence of Vitamin A and antioxidants. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for fruits that should be eaten to improve eyesight, but the response does not mention any fruits or provide any relevant information. It seems to be a repetition of nonsensical phrases. Therefore, the score is 0 as per the 'task_quality' metric, indicating that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question by providing a list of fruits that can improve eyesight. It not only lists the fruits but also explains why each fruit is beneficial for eyesight, which shows a precise understanding and adherence to the prompt's instructions. The response holistically satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question by providing a list of fruits that can improve eyesight. It directly addresses the user's instruction and there is a clear correlation between the question and the response. No aspect of the instruction is left unaddressed, hence the score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a list of fruits that can improve eye health. It also explains why these fruits are beneficial, mentioning the presence of vitamins A and C, antioxidants, and phytochemicals. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus fully satisfying the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for specific fruits that should be eaten to improve eyesight, but the response simply repeats the same sentence over and over again without providing any specific fruits. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a list of fruits that can improve eyesight. It also explains why these fruits are beneficial, which aligns with the question's intent. The response does not deviate from the question's directive and does not include any extraneous details. Therefore, it fully satisfies the task_quality metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a list of fruits that can improve eyesight. It also explains how each fruit helps, which shows a clear understanding and adherence to the prompt's instructions. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus satisfying all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. It does mention fruits that are beneficial for improving eyesight, which is what the question asked for. However, the response includes some words that are not translated properly into Gujarati and are not recognizable as fruits (e.g., 'inyl', 'Figs', 'Apple', 'Banana'). This makes the response somewhat confusing and incomplete. Therefore, the score is 1, indicating that the model grasps and addresses the main theme of the instruction but may miss out on finer details or nuances."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question by providing a list of fruits that can improve eyesight. It also explains why these fruits are beneficial, which aligns with the question's intent. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for fruits that should be consumed to improve eyesight. The response lists a variety of fruits such as bananas, oranges, kiwi, pears, pineapple, grains, blueberries, strawberries, and raspberries, explaining that they contain vitamins, minerals, antioxidants, and fiber. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence the score of 2."
+        }
+    },
+    {
+        "prompt_id": "99dbbe30-a7db-4fb4-b41a-e138bd079314",
+        "prompt": "હું માથાના દુખાવાને કઈ રીતે દુર કરી શકું?",
+        "prompt_type": "health",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for ways to alleviate a headache, but the response is nonsensical and does not provide any useful information or advice. It does not adhere to the specific directives given in the prompt, thus the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to alleviate a headache. It provides a general advice about self-care and maintaining a calm and certain mindset, which can be helpful in managing pain. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to alleviate a headache, and the model provides a detailed list of methods to do so, such as drinking water, resting, applying cold water, and massaging the head. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for ways to alleviate a headache, but the response is nonsensical and repetitive, with no clear advice or information provided. It does not adhere to the instructions given in the prompt, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to alleviate a headache, and the model provides a detailed list of methods to do so, including rest, medication, hydration, sleep, exercise, and stress relief techniques. It also advises to consult a doctor if the pain is severe or persistent. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to alleviate a headache. It provides several suggestions such as meditation, pranayama, getting enough sleep, and maintaining a nutritious diet. It also suggests changing habits and spending more time on good conversations and seeking help. Therefore, the response is in complete alignment with the question, demonstrating a precise understanding and adherence to the prompt's instructions. Hence, the score of 2 is justified as per the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to alleviate a headache. It provides several methods, such as resting, drinking plenty of water, using a warm compress, taking over-the-counter medications like ibuprofen or acetaminophen, and consulting a doctor if necessary. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus demonstrating a precise understanding and adherence to the prompt's instructions."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response initially addresses the question by providing some general advice on how to alleviate headaches, such as getting enough sleep and eating a healthy diet. However, the response then repeats the same advice about participating in calming activities like origami, yoga, or meditation multiple times, which is unnecessary and does not add any new or useful information. Therefore, while the response is partially aligned with the prompt and contains some relevant information, it also includes extraneous details and repetitions, which is why it receives a score of 1 according to the task quality metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response initially addresses the question by providing some methods to alleviate a headache, such as getting plenty of sleep and practicing deep breathing. However, the response then repeats the same advice about practicing slow walking and meditation multiple times, which is unnecessary and does not provide any additional information or help. Therefore, while the response is partially aligned with the prompt and addresses the main theme, it includes extraneous details and repetitions not asked for, which is why it receives a score of 1 according to the 'task_quality' metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to alleviate a headache, and the model provides a detailed list of methods to do so, including drinking water, having a balanced diet, getting enough rest, practicing yoga and pranayama, taking necessary nutrients, and massaging the head. The response is comprehensive and directly addresses the question, leaving no aspect of the instruction unaddressed. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response provided by the model is partially aligned with the question. The question asks for ways to alleviate a headache in Gujarati, and the model provides a response that includes strategies for alleviating a headache. However, the response is not entirely in Gujarati, as it includes words and phrases in other languages, such as Hindi. This indicates that the model has grasped and addressed the main theme of the instruction but has missed out on the finer detail of providing the response entirely in Gujarati."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to alleviate a headache. It provides a comprehensive list of methods, including rest, controlling light and noise, using hot or cold compresses, avoiding caffeine, drinking more water, gentle head massage, yoga and meditation, and taking pain relievers if necessary. It also advises to consult a doctor if the headache persists or worsens. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for ways to alleviate a headache, and the response provides several potential solutions, such as identifying the cause, avoiding certain foods, improving daily routines, regular exercise, getting enough sleep, and consulting a doctor if the problem persists. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        }
+    },
+    {
+        "prompt_id": "97f771e9-88ce-4222-9157-7a28566c933b",
+        "prompt": "શરીરમાં કેલ્શિયમના સ્તરમાં અચાનક ઘટાડો થાય ત્યારે શું થાય છે?",
+        "prompt_type": "health",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the effects of a sudden decrease in calcium levels in the body, but the response does not provide any information related to this. Instead, it seems to be a repetition of phrases that do not make sense in the context of the question. Therefore, the score is 0 as per the 'task_quality' metric, indicating that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what happens when there is a sudden decrease in calcium levels in the body. It mentions that various problems arise in the body, including hypertrophy. This shows a clear understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Therefore, the score is 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what happens when there is a sudden decrease in calcium levels in the body. It provides a detailed explanation, mentioning the condition known as hypocalcemia, the level at which calcium decreases, and the symptoms that can be observed. The response is directly related to the user's instruction and addresses all aspects of the question without any deviation or omission. Therefore, it scores 2 on the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the effects of a sudden decrease in calcium levels in the body, but the response does not provide any meaningful or coherent information related to this. It seems to be a repetition of unrelated words and phrases, and does not address the question at all. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what happens when there is a sudden decrease in calcium levels in the body. It provides a detailed explanation, mentioning various symptoms and conditions that can occur, such as bone loss, weakness, pain, mental confusion, increased risk of bone-related problems, respiratory obstruction, and increased heart disease. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding and adherence to the prompt's instructions. Hence, a score of 2 is justified."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially aligns with the question. The question asks about what happens when there is a sudden decrease in calcium levels in the body, but the response advises to contact a doctor without providing any information about the potential symptoms or effects of such a decrease. Therefore, the response misses out on the finer details or nuances of the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about what happens when there is a sudden decrease in calcium levels in the body. It explains the importance of calcium for various body structures like bones, teeth, and nerves, and the potential problems that can arise due to a decrease in calcium levels, such as weakened bones, nerve-related issues, and impacts on heart health, immune strength, and bone development. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about what happens when there is a sudden decrease in calcium levels in the body. It mentions various potential issues such as weakened bones, heart rate changes, damage to blood vessels, and imbalances in other body systems. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what happens when there is a sudden decrease in calcium levels in the body. It provides a detailed explanation of the various health issues that can arise, such as weakened bones, muscle pain, heart palpitations, sleep disturbances, and increased risk of diabetes and high blood pressure. The response is directly related to the question and does not deviate from the topic, thus fully adhering to the prompt's instructions."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what happens when there is a sudden decrease in calcium levels in the body. It provides a detailed explanation of the condition known as calcium deficiency, including its main symptoms. The response is directly related to the user's instruction and addresses all aspects of the question without any deviation. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what happens when there is a sudden decrease in calcium levels in the body. It lists the symptoms such as muscle weakness, fatigue, tingling sensation, numbness, constipation, and abdominal pain, which aligns perfectly with the question. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about what happens when there is a sudden decrease in calcium levels in the body. It lists out the various symptoms that can occur, providing a detailed and thorough answer. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what happens when there is a sudden decrease in calcium levels in the body. It mentions potential harm to the nerves, weight loss, weakening of bones, and general ill health, which are all relevant to the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric perfectly."
+        }
+    },
+    {
+        "prompt_id": "b4f324bb-64b5-475e-97e9-84ae6f69d8be",
+        "prompt": "વધુ માત્રામાં દવાઈઓના સેવનથી કયા કયા નુકસાન થાય છે?",
+        "prompt_type": "health",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the harms of taking medicines in excess, but the response just repeats the question without providing any information on the topic. Therefore, the model disregards the instructions entirely, leading to a score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks about the potential harms of overusing medication. The response lists several potential harms, including headaches, sleep disturbances, changes in liver function, changes in kidney function, changes in digestion, changes in mood, changes in family relationships, and changes in work performance. This response fully adheres to the prompt's instructions and provides a comprehensive answer to the question."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks about the potential harms of taking medications in excess. The response provides a comprehensive list of potential harms, including digestive issues, vomiting, diarrhea, stomach pain, liver damage, kidney damage, blood pressure issues, and even life-threatening harm. The response also advises that medications should be taken as per the doctor's advice and instructions. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is largely incoherent and does not provide a clear answer to the question about the potential harms of taking medications in excess. The response seems to be repeating phrases and words without forming a meaningful sentence or providing relevant information. Therefore, it does not adhere to the specific directives given in the prompt, resulting in a score of 0 for task quality."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the potential harms of consuming medications in excess. It lists several possible negative effects, such as decreased kidney function, increased pressure on the heart, memory issues, dietary problems, skin rashes or mouth ulcers, decreased immunity, and sleep problems. This response fully adheres to the prompt's instructions and provides a detailed answer to the question, demonstrating a clear understanding of the task. Therefore, it earns a score of 2 according to the 'task_quality' metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the potential harms of taking medication in excess. It provides specific examples of possible side effects, such as increased worry, unusual taste, and sugar cravings, as well as potential symptoms like lethargy, vomiting, headaches, and dizziness. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response provided by the model is not in line with the question asked. The question asks about the harms caused by taking medicines in excess, and the model starts off correctly by stating that taking medicines in excess can cause various types of harm to the body. However, it then goes on to repeat the word 'ઉબકા' (vomit) multiple times, which is not only irrelevant but also makes the response nonsensical. Therefore, the score is 0 as per the 'task_quality' metric, as there is a clear disconnect between the user's request and the model's response."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response starts off well by addressing the question, but then it devolves into a repetition of the word 'ઝાડા' (faint), which is not relevant to the question. This repetition does not provide any additional information about the harmful effects of taking medication in excess. Therefore, the response does not adhere to the specific directives given in the prompt, resulting in a score of 0."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response starts off by correctly addressing the question, mentioning the negative effects of taking medication in excess. However, it then becomes repetitive and incoherent, mentioning the same effect ('ઊંઘની ગુણવત્તામાં ઘટાડો' - decrease in sleep quality) multiple times. This indicates that the model grasps the main theme of the instruction but misses out on finer details or nuances, hence the score of 1."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, which asks about the potential harms of taking medications in excess. The response lists several potential harms, including adverse reactions, varying effects on different individuals, potential for infection, related diseases, and severe potential effects. The response also emphasizes the importance of using medications responsibly and consulting with doctors. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question asks about the harms caused by the consumption of medicines in excess, but the response given by the model is a nonsensical repetition of unrelated words and phrases. There is a clear disconnect between the user's request and the model's response."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the potential harms of overusing medication. It lists several possible negative effects, including damage to the liver and kidneys, stomach ulcers, heart problems, nervous system effects, digestive system issues, allergic reactions, and even death. This response fully adheres to the prompt's instructions and addresses all aspects of the question, demonstrating a clear and direct correlation between the user's instruction and the model's response."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks about the negative effects of taking medication in excess. The response provides a comprehensive list of potential health issues that can arise from overconsumption of medication, including digestive problems, mood disorders, headaches, bad breath, and potential negative impacts on the heart, lungs, and other organs. It also mentions the possibility of long-term health issues such as heart disease and diabetes. Therefore, the response fully adheres to the prompt's instructions and provides a detailed and relevant answer to the question."
+        }
+    },
+    {
+        "prompt_id": "245182f4-9873-476c-90b6-95f9ac624cb7",
+        "prompt": "ગુજરાતમાં મુખ્યત્વે કયા કયા તહેવારો ઉજવવામાં આવે છે જે ગુજરાતની એક અલગ ઓળખ આપે છે?",
+        "prompt_type": "culture",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about the main festivals celebrated in Gujarat that give it a unique identity, but the response does not mention any festivals. Instead, it repeats the question and provides irrelevant information. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response lists several festivals celebrated in Gujarat, which is in line with the question. However, the question specifically asks for festivals that give Gujarat a unique identity. The response includes festivals like Dussehra, Navratri, Ganpati Bappa Morya, Lakshmi Puja, Sankranti, Holi, which are celebrated all over India and do not specifically give Gujarat a unique identity. Therefore, the response partially aligns with the prompt but misses out on the unique aspect of the question."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately lists the main festivals celebrated in Gujarat that give the state a unique identity, as asked in the question. It includes Navratri, Diwali, Holi, Rakshabandhan, Janmashtami, Ganesh Chaturthi, Nag Panchami, Uttarayan, and Vasant Panchami. The response also correctly states that these festivals reflect Gujarati culture and traditions and provide a sense of unity and cultural identity to Gujaratis. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding and execution of the task."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the main festivals celebrated in Gujarat that give it a unique identity, but the response talks about a person coming to 'Ujjwana' at different times of the day, which doesn't make sense in the context of the question. Therefore, the model disregards the instructions entirely, and there is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately lists the main festivals celebrated in Gujarat that give the state a unique identity, as per the question's instructions. It includes Navratri, Uttarayan, Janmashtami, Diwali, and Holi, and provides a brief description of each, which aligns with the question's request. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately lists the main festivals celebrated in Gujarat, which is exactly what the question asked for. The festivals mentioned are indeed unique and representative of Gujarati culture, thus fulfilling the question's requirement of festivals that give Gujarat a distinct identity. Therefore, the response perfectly adheres to the prompt's instructions, demonstrating a precise understanding and execution of the task."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response does not answer the question correctly. The question asks for the main festivals celebrated in Gujarat that give it a unique identity, but the response talks about a historic town named 'Dholiya' in Gujarat, which is not relevant to the question. Therefore, the score is 0 as there is a clear disconnect between the user's request and the model's response."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the main festivals celebrated in Gujarat that give the state a unique identity. It mentions several festivals such as Navaratri's Vasant Yatra, Golipoti, Golodiya Poti, Dhol Poti, and others, providing details about each one. The response also highlights the cultural significance of these festivals, which was an implicit aspect of the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is not relevant to the question. The question asks for the main festivals celebrated in Gujarat that give it a unique identity, but the response just repeats the same word 'ગોરિયાન' multiple times without providing any meaningful information. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for specific festivals that are celebrated in Gujarat that give it a unique identity, but the response does not mention any specific festival. Moreover, the response is repetitive and does not provide any new or relevant information. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question. The question asks for the main festivals celebrated in Gujarat that give the state a unique identity, and the response provides a detailed list of such festivals, including Gandhi Jayanti, Panchayat Day, various religious festivals, Rasulebai Day, Gujarati Day, and Porbandari Day. Each festival is explained in the context of its significance to Gujarati culture, which aligns perfectly with the question's request. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding of the question and providing a complete and relevant answer."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately lists the main festivals celebrated in Gujarat that give the state a unique identity, as asked in the question. It includes festivals like Uttarayan, Navratri, Diwali, Ganesh Chaturthi, and others. The response also adds that these festivals are an important part of Gujarat's cultural and social life, which aligns with the nuance of the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. The question asks for specific festivals that are celebrated in Gujarat and give it a unique identity. While the response does mention some festivals like 'Ganesh Chaturthi' and 'Holi', it spends a lot of time discussing the cultural aspects of Gujarat and its traditions. The response could have been more direct and specific in listing the unique festivals celebrated in Gujarat."
+        }
+    },
+    {
+        "prompt_id": "011bf952-c6bd-440a-ba6b-02205861093d",
+        "prompt": "ગુજરાતમાં શા માટે નવરાત્રીનું તહેવાર ઉજવવામાં આવે છે?",
+        "prompt_type": "culture",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks why the festival of Navratri is celebrated in Gujarat, but the response provides the meaning of 'Navratri' in Gujarati and a general explanation of how it is celebrated. The response does not address the specific reason why this festival is celebrated in Gujarat, which is what the question is asking for. Therefore, the model disregards the instructions entirely, leading to a score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why the festival of Navratri is celebrated in Gujarat. It mentions that the festival is celebrated to worship Goddess Mahakali in her nine forms, which is a key aspect of Navratri. The response is directly related to the question and does not deviate from the topic, hence it adheres to the prompt's instructions completely."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why the festival of Navratri is celebrated in Gujarat. It explains that the festival is associated with the worship of Goddess Amba, who is believed to be the embodiment of all powers and that her worship brings prosperity and happiness. The response also mentions the activities carried out during the festival, such as fasting and playing Garba, which are directly related to the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks why the festival of Navratri is celebrated in Gujarat, but the response talks about an unidentified festival not being celebrated in Gujarat. There is a clear disconnect between the question and the response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why the festival of Navratri is celebrated in Gujarat. It mentions that the festival is celebrated for the worship of Goddess Durga, which aligns perfectly with the question. The response also provides additional information about the duration of the festival and the activities performed during this period, which adds value to the response without deviating from the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why the festival of Navratri is celebrated in Gujarat. It mentions that it is celebrated for the worship of the Goddess Adyashakti and also includes details about the activities during the festival such as dance, music, and Garba. Therefore, the response adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response does address the question about why the Navratri festival is celebrated in Gujarat, providing religious, cultural, and touristic reasons. However, the response is partially in Hindi and English, not fully in Gujarati as the question was. Additionally, the response includes some nonsensical phrases and words, such as 'như ધમનેર, માંડુ, ધોલા, ઇંદોર,' which do not make sense in the context of the response. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response provides a detailed description of the Navratri festival in Gujarat, including its duration, start date, and significance in Gujarati culture. However, the question asks why the festival is celebrated in Gujarat, and this specific information is not addressed in the response. Therefore, while the response is partially aligned with the prompt and provides relevant information, it does not fully answer the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. The question asks why the festival of Navratri is celebrated in Gujarat, and the response does provide some information about the festival, such as it being a celebration of Lord Shiva, lasting for 9 days, and involving various events. However, the response does not directly answer why the festival is specifically celebrated in Gujarat. It mentions that the festival is important in Gujarat and is celebrated in some parts of India, but it does not provide a specific reason for its celebration in Gujarat. Therefore, the response misses out on the finer details or nuances of the question."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response partially aligns with the question. The question asks why the festival of Navratri is celebrated in Gujarat, and the response mentions that it is celebrated to worship the deity Shiva. However, traditionally, Navratri is celebrated in honor of the goddess Durga, not Shiva. The response also includes some extraneous details about the duration and timing of the festival, which were not asked for in the question. Therefore, the response demonstrates a grasp of the main theme of the question but misses out on some finer details and nuances."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why the festival of Navratri is celebrated in Gujarat. It provides a detailed explanation about the significance of the festival, the rituals performed, and the cultural aspects associated with it. The response is directly related to the question and does not deviate from the topic. Therefore, it adheres to the prompt's instructions completely and satisfies all aspects of the given directive."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why the festival of Navratri is celebrated in Gujarat. It mentions that the festival is celebrated to worship the nine forms of Goddess Durga, and it also includes additional details about the festival, such as the significance of the garba dance and the festival's representation of the victory of truth over evil. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why the festival of Navratri is celebrated in Gujarat. It provides a detailed explanation, mentioning that it is an important festival in Hinduism, a time to praise and pray to Goddess Lakshmi, and a time for people to participate in various rituals. It also mentions that it is a time for people to spend time with family and friends, and that the evenings of the festival are usually filled with music, dance, and joy. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question."
+        }
+    },
+    {
+        "prompt_id": "43f5b8fd-51c8-48c4-b51a-551efcfb87e0",
+        "prompt": "નવરાત્રીના તહેવારમાં લોકો શા માટે નવ દિવસ ગરબા રમે છે અને નવરાત્રી માત્ર નવ દિવસ જ કેમ ઉજવવામાં આવે છે?",
+        "prompt_type": "culture",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks why people dance Garba for nine days during Navratri and why Navratri is only celebrated for nine days. However, the response simply repeats the question without providing any answer. Therefore, the model disregards the instructions entirely and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why people dance Garba for nine days during Navratri and why Navratri is celebrated for nine days only. It explains that the nine days are dedicated to worshipping the nine forms of Goddess Mahakali, and that these days bring protection, hope, and peace to people. The response fully adheres to the prompt's instructions and addresses all aspects of the question, demonstrating a clear and direct correlation between the question and the response."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why people celebrate Navratri for nine days and why it is only celebrated for nine days. It explains that the festival is celebrated in honor of Goddess Durga and commemorates her victory over the demon Mahishasura, which took nine days. This directly aligns with the user's instruction and leaves no aspect of the instruction unaddressed, hence the score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks why people play garba for nine days during Navratri and why Navratri is celebrated for only nine days. However, the response does not provide any information related to this. It seems to be a random collection of words and phrases that do not make sense in the context of the question. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why people celebrate Navratri for nine days and why it is only celebrated for nine days. It explains that the term 'Navratri' means 'nine nights' and that during this time, Hindus worship Goddess Durga for 'nine' nights. The main purpose of this celebration is to remember and worship the Goddess. Therefore, the response fully adheres to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It explains why people dance Garba for nine days during Navratri, as a form of worship and celebration. However, it does not explain why Navratri is celebrated for nine days specifically, which was the second part of the question. Therefore, the response is not a complete match to the question."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not in the correct language, it is in Hindi instead of Gujarati. Additionally, the response does not answer the question about why Navratri is celebrated for nine days. Therefore, the response does not adhere to the instructions given in the prompt."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It explains why people dance Garba for nine days during Navratri, stating that it is to remember the blessings of the nine days mentioned in the first book of religion. However, the response does not fully answer why Navratri is celebrated for only nine days. Additionally, the response is repetitive, stating the same point about remembering the blessings of the nine days three times. Therefore, the response does not completely align with the prompt and misses out on some details, warranting a score of 1 according to the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, explaining why people dance Garba for nine days during Navratri and why Navratri is celebrated for nine days only. It mentions the religious belief that these days are for meeting the deities on earth, which is the reason for the nine-day celebration. The response does not deviate from the question and does not include any extraneous details. Therefore, it fully adheres to the prompt's instructions, demonstrating a precise understanding of the question."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question asks why people play Garba for nine days during Navratri and why Navratri is celebrated for nine days. The response, however, simply states that Navratri is a religious festival that lasts for 10 days and each day has its own religious and cultural significance. The response repeats this information twice, but does not address the specific question asked. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, explaining why people dance Garba for nine days during Navratri and why Navratri is celebrated for nine days. It provides a detailed explanation, stating that the nine days are associated with new beginnings, basic auspicious needs, and natural effects. It also mentions that these days reflect the power, happiness, success, and protection needs of the goddesses. The response is in complete alignment with the question, providing all the necessary details without any deviation or omission."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why people dance Garba for nine days during Navratri and why Navratri is celebrated for nine days. It explains that the festival is dedicated to the worship and adoration of Goddess Durga, and it is believed that she defeated demons and negative forces during these nine days. The response also mentions that the nine forms of the Goddess are worshipped over these days, which is why Garba and other folk dances are organized, allowing people to celebrate with joy and enthusiasm. Therefore, the response fully adheres to the prompt's instructions and addresses all aspects of the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why people dance Garba for nine days during Navratri and why Navratri is celebrated for nine days only. It explains that the festival is a remembrance of Lord Rama's victory against the evil king Ravana, and that people dance Garba every night for nine days to commemorate this. The response also mentions that the festival reminds people of truth and courage, and gives them a sense of hope and a new beginning. Therefore, the response fully adheres to the prompt's instructions and addresses all aspects of the question."
+        }
+    },
+    {
+        "prompt_id": "ca6bdfba-559b-4026-8c64-870cc5333f9b",
+        "prompt": "ગુજરાતમાં મુખ્યત્વે કેટલા નૃત્ય થાય છે અને કયા કયા અને તેનું મુખ્ય હેતુ શું છે?",
+        "prompt_type": "culture",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about the types of dances in Gujarat and their main purpose, but the response simply repeats the question without providing any information. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt. There is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. The question asks for the number and types of dances in Gujarat and their main purpose. The response mentions that there are three main types of dances in Gujarat, but does not specify what these dances are. It also mentions that Karnataka and Odissi dances are popular, but these are not specific to Gujarat. The response correctly identifies the main purpose of these dances as cultural and religious. However, due to the lack of specifics on the types of dances, the response does not fully satisfy the prompt."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question by listing the three main dances in Gujarat: Garba, Dandiya, and Bhavai. It also provides the main purpose of each dance, which was asked in the question. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence it scores 2 on the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the main dances in Gujarat and their main purpose, but the response provides nonsensical words and does not provide any meaningful information about the dances or their purpose. Therefore, the score is 0 as per the 'task_quality' metric, as there is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question by identifying the two main types of dances in Gujarat, Garba and Raas, and explaining their main purpose. It adheres to the prompt's instructions and provides a comprehensive answer without any deviation. Therefore, it scores 2 on the task quality metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question by listing the seven main dances in Gujarat and their main purpose. It adheres to the prompt's instructions and provides a comprehensive answer without any deviation or omission. Therefore, it scores 2 on the task quality metric."
+        },
+        "google/gemma-7b-it": {
+            "justification": "The response provided by the model is not relevant to the question asked. The question asks about the main dances in Gujarat and their main purpose. However, the response provided by the model is repetitive and does not provide any meaningful information about the dances or their purpose. Therefore, the score is 0 as there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is not relevant to the question. The question asks about the types of dances in Gujarat and their main purpose, but the response just repeats the phrase 'Gujarati Kathakatha' multiple times without providing any meaningful information. There is a clear disconnect between the user's request and the model's response."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is not relevant to the question. The question asks about the types of dances in Gujarat and their main purpose, but the response just repeats the word 'Gujarati' multiple times without providing any meaningful information. There is a clear disconnect between the user's request and the model's response."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is not relevant to the question. The question asks about the types of dances in Gujarat and their main purpose, but the response is just a repetition of the same word 'કોઠા' (Kotha) multiple times, which doesn't make sense. It doesn't provide any information about the types of dances or their purpose. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately answers the question by listing the three main dances in Gujarat - Garba, Raas, and Dandiya, and also explains the main purpose of each dance. It adheres to the instructions given in the prompt and provides a comprehensive answer without any deviation. Therefore, it scores 2 on the task quality metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question by listing the four main dances in Gujarat and their main purposes. It adheres to the prompt's instructions and provides a comprehensive answer without any deviation. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question by providing the names of two main dances in Gujarat - Girabadhi and Raas-Raas, and also explains their main purpose. The response is in line with the question and adheres to the instructions given in the prompt. It does not deviate from the topic and provides a comprehensive answer to the question. Therefore, it scores 2 on the task quality metric."
+        }
+    },
+    {
+        "prompt_id": "346149bc-0a12-4c87-9b13-4e144176f2f8",
+        "prompt": "ગુજરાતમાં કયા મેળા પ્રખ્યાત છે અને તે ક્યારે ઉજવવામાં આવે છે?",
+        "prompt_type": "culture",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about famous fairs in Gujarat and when they are celebrated, but the response talks about the best time to plant a tree. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question by providing a list of famous fairs in Gujarat and the months in which they are celebrated. It adheres to the prompt's instructions and provides a comprehensive answer without any deviation. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question by providing a list of famous fairs in Gujarat and the times they are celebrated. It adheres to the prompt's instructions and provides a comprehensive answer, covering all aspects of the question. Therefore, it scores 2 on the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about a famous fair in Gujarat and when it is celebrated, but the response states that it does not know the answer. This shows a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question by providing the names of famous fairs in Gujarat and when they are celebrated. It mentions 'Tarnetar Mela' celebrated on Basant Panchami in March and 'Bhavna Mela' and 'Kathiawad Literature Seminar' celebrated in May. The response is in line with the question and provides all the necessary details, hence adhering to the prompt's instructions completely."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response correctly identifies two famous fairs in Gujarat, Ghudhi Pongal and Taj Mela. However, it fails to provide the specific time when these fairs are celebrated, which was a part of the question. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately answers the question by providing the name of a famous fair in Gujarat, 'Dholiya Mela', and also mentions when it is held, which is in the first week of the month every year in Dholiya village. Therefore, the response adheres to the prompt's instructions completely and satisfies all aspects of the given directive without any deviation. Hence, a score of 2 is justified."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response does mention a famous fair in Gujarat and when it is held, which aligns with the question. However, the response does not specify the name of the fair, which is a key detail asked in the question. Additionally, the response includes information about other fairs in Gujarat, which was not asked for in the question. Therefore, the response partially aligns with the prompt but misses out on some specifics and includes extraneous details."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response correctly identifies a famous fair in Gujarat and when it is held, which aligns with the question. However, the response includes a repetitive phrase about the timing of the fair, which is not asked for in the question and is irrelevant. This repetition detracts from the overall quality of the response, hence the score is 1."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately answers the question by providing the name of a famous fair in Gujarat, the 'Poshak Mela', and the time it is celebrated, from July 10th to July 15th. It also provides additional information about the fair, such as its dedication to the deity of Poshak and its celebration in both Ahmedabad and the Bomara district of Gujarat. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asked for famous fairs in Gujarat and when they are celebrated. The model provided a detailed response, mentioning several fairs and festivals celebrated in Gujarat, such as Gandhi Jayanti, Panchayati Day, and various Hindu festivals like Ram Navami, Guru Purnima, Diwali, Holi, Ras Purnima, and Shivratri. The model also mentioned when these fairs and festivals are celebrated, thus adhering to the specific directives given in the prompt. Therefore, the score is 2."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question by providing a list of famous fairs in Gujarat and the times they are celebrated. It adheres to the prompt's instructions and provides a comprehensive answer, covering all aspects of the question. Therefore, it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question by providing the names of two famous fairs in Gujarat, the Gujarat Carnival and the Gujarat Mahengama, and also mentions when they are held, which is in August and February respectively. The response also provides additional information about what these fairs are known for, which adds value to the response. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        }
+    },
+    {
+        "prompt_id": "c7903597-9dd3-4e53-86f0-af5158f4a365",
+        "prompt": "પાટણનું પટોળું સાળી શા માટે વિશ્વભરમાં પ્રખ્યાત છે એની વિશેષ ઓળખ શું છે?",
+        "prompt_type": "culture",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for the special recognition of Patan's Patola Sari, but the response simply repeats the question without providing any information. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt. There is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The question asks for the unique characteristics of the Patan's Patola Sari, which is famous worldwide. However, the response does not provide any specific characteristics of the Patola Sari. Instead, it talks about the cultural institution and the collection of Gujarati literature and culture, which is not relevant to the question. Therefore, the response is not aligned with the question and does not adhere to the prompt's instructions."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the special recognition of Patan's Patola Saree worldwide. It explains the unique production process and the use of special metal by the artisans of Patan, which makes the saree strong. It also mentions the comfort it provides to the wearer, which is a part of its special recognition. Therefore, the response adheres to the prompt's instructions completely, satisfying all aspects of the given directive without any deviation."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about the special recognition of Patan's Patola saree worldwide, but the response talks about patent numbers and their significance in the engineering field. There is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the special recognition of Patan's Patola saree worldwide. It mentions the unique features of the saree such as its beautiful patterns, colors, and craftsmanship, which are the reasons for its global fame. The response also provides additional details about the iconic touch given by the line drawings on the body and border of the saree, and the animals that are often depicted in the design. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the special recognition of Patan's Patola Saree. It mentions that the saree is famous for its superior fabric quality and that it is a descendant of Sonpur and spreads in a very thin area, which are unique characteristics of the saree. Therefore, the response adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for the special recognition of Patan's Patola saree worldwide, but the response talks about Patan as a religious and historical city, which is not related to the question. Therefore, the model disregards the instructions entirely, and there is a clear disconnect between the user's request and the model's response."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for the special recognition of Patan's Patola Sari worldwide, but the response talks about various dishes in Patan, which is not related to the question at all. Moreover, the response is repetitive and does not provide any meaningful information. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the special recognition of Patan's Patola saree worldwide. It explains that the saree is unique due to its distinct taste and aroma, which is achieved through a mixture of honey, sweet, and spices. The response also mentions that the saree is typically used as a sweet, but can also be used in drinks and other dishes. This information aligns perfectly with the question, addressing all aspects of the prompt without any deviation or omission. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for the special recognition of Patan's Patola Saree worldwide, but the response talks about the taste and aroma of some food item, which is not related to the question at all. Therefore, the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for the special recognition of Patan's Patola Saree worldwide. The response provides a detailed explanation of the cultural and historical significance of the Patola Saree, its role in ancient Indian society, and its representation of the diversity of ancient Indian culture. It also mentions the city of Patan as a cosmopolitan city that played a significant role in the establishment of various sciences, exchange, and various universities. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding of the question and providing a comprehensive answer."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing detailed information about the unique characteristics of the Patola saree from Patan. It mentions the advanced and complex design, the 'double ikat' weaving method, the equal appearance on both sides, and the handcrafted nature of each piece. These details align perfectly with the question, which asked for the special recognition of the Patola saree. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response partially addresses the question. The question asks for the special recognition of Patan's Patola saree worldwide. The response mentions that the saree is famous for its unique sound that resonates in various cultures and is often used to enhance cultural awareness and connection with various types of music among students. However, the response does not provide specific details about the unique recognition of the saree, such as its unique weaving technique, design, or cultural significance, which are key aspects of its worldwide recognition. Therefore, the response only partially aligns with the question."
+        }
+    },
+    {
+        "prompt_id": "2c6387a0-dd4c-4bfa-a56e-a61a7cee7c6d",
+        "prompt": "ગુજરાતમાં ઉજવવામાં આવતા અષાઢી બીજનું શું મહત્વ છે અને તે શા માટે ઉજવવામાં આવે છે?",
+        "prompt_type": "culture",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "justification": "The response provided by the model does not answer the question at all. The question asks about the significance of the festival 'Ashadhi Beej' in Gujarat and why it is celebrated. However, the model's response merely repeats the question without providing any information or answering the question. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining the significance of Ashadhi Beej in Gujarati culture and why it is celebrated. It adheres to the prompt's instructions and provides a comprehensive answer without any deviation or omission. Therefore, it scores 2 on the task quality metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and completely addresses the question. It explains the significance of Ashadhi Beej in Gujarat, stating that it marks the end of the Chaturmas period, during which holy men stay in one place and then move on. It also explains that people give alms and serve these holy men on this day, and that they also observe a fast, which is referred to as Ashadhi Beej. The response also mentions that the holy men accept these alms and consider them as prasad. Therefore, the response adheres to the prompt's instructions and respects its nuances and subtleties, satisfying all aspects of the given directive without any deviation."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the significance of the festival 'Ashadhi Bij' in Gujarat and why it is celebrated. However, the response talks about a person coming to Gujarat with a certain amount of money, which is not related to the question at all. Therefore, the model disregards the instructions entirely, leading to a score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the significance of Ashadhi Bij in Gujarat and why it is celebrated. It explains that the festival is based on the monsoon cycle and is celebrated in anticipation of the rains which are crucial for the seeds in the soil. It also mentions that the day is considered as the first day of rain and marks the beginning of the farming season. The response is in line with the prompt and does not deviate from the instructions, hence the score of 2."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It mentions the importance of Ashadhi Beej in terms of agriculture and its potential impact on farming. However, the question asks for the significance of Ashadhi Beej in Gujarat and why it is celebrated, which the response does not fully address. The response does not provide specific details about the celebration of Ashadhi Beej in Gujarat, which is a key aspect of the question. Therefore, the response is somewhat aligned with the prompt but does not completely satisfy all aspects of the question."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the significance of Ashadhi Beej in Gujarat and why it is celebrated. It provides a detailed explanation from religious, cultural, and economic perspectives, which aligns with the question's request. The response does not deviate from the question's instruction and does not include any extraneous details. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response does address the main theme of the question, which is the significance of the festival of Ashadhi Beej in Gujarat and why it is celebrated. However, the response is repetitive and lacks finer details or nuances. The response repeats the same information about the festival being a time for Gujarati people to connect with their ancestors and descendants, without providing any additional details or context. The response could have included more specific information about the rituals, traditions, or cultural significance of the festival, as well as the reasons why it is celebrated, to fully address the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining the significance of the Ashadhi Beej festival in Gujarat and why it is celebrated. It provides a detailed explanation of the festival, including when it is celebrated, its purpose, and the rituals involved. The response is in line with the prompt's instructions and does not deviate from the topic. Therefore, it scores 2 on the task quality metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response does address the main theme of the question, which is about the significance of the festival 'Ashadhi Bij' in Gujarat and why it is celebrated. However, the response contains repeated information about the festival, which is not necessary and does not add any new or relevant details. The response also does not provide a clear explanation of why the festival is celebrated, which was a part of the question. Therefore, the response partially aligns with the prompt but does not completely match it."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining the importance of the Ashadhi Beej festival in Gujarat and why it is celebrated. It provides detailed information about the festival's significance in agriculture, the nutrients it provides, and its impact on crop production. It also explains how the festival contributes to solving various environmental issues in agriculture and provides financial benefits to farmers. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining the significance of Ashadhi Beej in Gujarat and why it is celebrated. It mentions that the festival marks the beginning of the farming season and is of great importance to farmers as it signifies the start of a new farming season. It also describes the rituals performed by farmers on this day, such as starting agricultural activities in their fields and offering the first crop to God. The response is in line with the prompt's instructions and does not deviate from the topic, hence the score of 2."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining the significance of Ashadhi Beej in Gujarat and why it is celebrated. It mentions that Ashadhi Beej marks the beginning of the monsoon season and the start of the agricultural season in Gujarat. It also mentions that various events and parades are organized to mark the beginning of this festival and to bring the community together. The response also highlights that this festival focuses on the agricultural culture of Gujarat and its ancient values. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question."
+        }
+    },
+    {
+        "prompt_id": "2283a2f5-c200-4f95-a8a1-7ec0535ebb8b",
+        "prompt": "ગુજરાતમાં લોકો અલગ અલગ તહેવારે કેવા પ્રકારનું ભોજન તૈયાર કરે છે?",
+        "prompt_type": "culture",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the types of food prepared during different festivals in Gujarat, but the response provides incorrect translations of the words in the question, which are not related to the question at all. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt, and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the types of food prepared during different festivals in Gujarat. It provides specific examples of food prepared during Navratri and Dussehra, which aligns with the question's request for information about different festivals. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the types of food prepared during different festivals in Gujarat. It provides specific examples of food items prepared during Navratri, Diwali, and Janmashtami, which aligns perfectly with the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to and executes the specific directives given in the prompt, demonstrating a precise understanding of the prompt's instructions."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the types of food prepared during different festivals in Gujarat, but the response does not provide any information related to this. Instead, it seems to be a repetition of nonsensical phrases. Therefore, the score is 0 as per the 'task_quality' metric, indicating that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question. It provides detailed information about the types of food prepared during different festivals in Gujarat, which is exactly what the question asked for. The response includes specific examples of dishes for each festival, demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, it scores 2 on the task quality metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the types of food prepared during different festivals in Gujarat. It lists various dishes such as fafda, dhokla, vadelu dhokri, shekhmand, fallo, and chola puri, which are indeed prepared during different festivals in Gujarat. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. It starts off by addressing the question about the types of food prepared during different festivals in Gujarat. However, it then deviates and starts discussing about the types of food in general in Gujarat, such as seafood and traditional Gujarati food, which is not specifically related to the festivals. Therefore, while the response is partially relevant, it does not completely adhere to the specific directives given in the prompt."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the types of food prepared for different festivals in Gujarat. It provides specific examples of dishes prepared for various occasions, such as pancakes and vegetable dishes for the festival of Golali, dosa and vegetable brown rice for other festivals, and desserts like Golali. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response does address the main theme of the question, which is about the types of food prepared during different festivals in Gujarat. However, it lacks the finer details and nuances. The response repeats the same ingredients (cashews, soybeans, and other components) for all the festivals mentioned, which is not accurate as different festivals have unique dishes associated with them. Therefore, the response partially aligns with the prompt but does not provide a complete match."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. It does mention that people in Gujarat prepare different types of food for different festivals, and gives an example of Diwali. However, the response lacks variety and depth, as it only talks about pastries, desserts, and sticks, and repeats these items multiple times. The response could have included more examples of different types of food prepared for different festivals in Gujarat, as per the question's requirement."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the types of food prepared during different festivals in Gujarat. It provides specific examples of food items prepared during Navratri and Diwali, and also mentions traditional dishes prepared during festivals. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the prompt's instructions and respects its nuances, earning a score of 2 according to the 'task_quality' metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question about the types of food prepared during different festivals in Gujarat. It provides a detailed list of dishes associated with each major festival, demonstrating a precise understanding and adherence to the prompt's instructions. The response holistically satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the types of food prepared during different festivals in Gujarat. It provides specific examples of food items prepared during the 'Gulaal' and 'Anand' festivals, which aligns with the question's request for information about different types of food prepared during various festivals. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        }
+    },
+    {
+        "prompt_id": "82218f85-5d5b-46a1-a57b-a6e709bc4d23",
+        "prompt": "ગુજરાતી લોકો કેવા પ્રકારના કપડા પહેરવાનું પસંદ કરે છે જે તેઓની અલગ ઓળખ આપે છે?",
+        "prompt_type": "culture",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about the type of clothes Gujarati people prefer to wear that gives them a unique identity, but the response simply repeats the question without providing any information or answer. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt. There is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the type of clothes Gujarati people prefer to wear that gives them a unique identity. The response mentions specific types of clothes like 'Mukhwas', 'Gajaras', and 'Jada' clothes, which are part of their culture and tradition. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the type of clothes Gujarati people prefer to wear that gives them a unique identity. It mentions traditional clothes like Chaniya, Kediya, and Saree, which are indeed unique to Gujarati culture. The response also correctly identifies that Chaniya and Kediya are mostly worn by men, while Sarees are worn by women. It further emphasizes that these clothes represent their culture and tradition, which aligns with the question's requirement. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about the type of clothes that Gujarati people prefer to wear that gives them a unique identity, but the response talks about a traditional cloth measuring ceremony. There is a clear disconnect between the question and the response, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the type of clothes Gujarati people prefer to wear that gives them a unique identity. It mentions 'Hori' and 'Chaniyo' for men and 'Saree' and 'Choli' for women, which are traditional Gujarati attire. Therefore, the response adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the type of clothes Gujarati people prefer to wear that gives them a unique identity. The response mentions 'saree' and 'lehenga' which are traditional Gujarati attire. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not relevant to the question. The question asks about the types of clothes that Gujarati people prefer to wear that give them a unique identity. However, the response only mentions 'Patta' and then repeats a series of unrelated words multiple times. There is a clear disconnect between the question and the response, hence the score of 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is not relevant to the question. The question asks about the type of clothes Gujarati people prefer to wear that gives them a unique identity, but the response is repetitive and does not provide any specific information about the type of clothes. The response just repeats the word 'ડોલ્બા' multiple times, which does not make sense in the context of the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the types of clothes Gujarati people prefer to wear that give them a unique identity. It provides a detailed description of the clothing preferences of men, women, and children, mentioning that they usually wear colorful clothes with intricate designs. This aligns perfectly with the question, demonstrating a clear understanding and adherence to the prompt's instructions. Therefore, the response satisfies all aspects of the given directive without any deviation."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "justification": "The response partially aligns with the prompt, indicating some elements of relevance, but not a complete match. The response does mention the types of clothes Gujarati people prefer to wear to represent their unique identity, such as colorful and vibrant clothes, use of patterns and designs, and representation of their culture and religion. However, the response repeats the same information about women and men wearing watches in their clothes, which seems irrelevant and incorrect. Therefore, the response includes extraneous details not asked for.",
+            "score": 1
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the types of clothes Gujarati people prefer to wear that reflect their unique identity. It provides a detailed description of the various types of clothes worn by both men and women, the colors they prefer, and how these choices reflect their culture and identity. The response is in line with the prompt's instructions and does not deviate from the topic. Therefore, it scores 2 on the task quality metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the types of clothes Gujarati people prefer to wear that give them a unique identity. It mentions traditional sarees like Bandhani, Patola, and Benarasi for women, and Kurtas, Dhotis, Kediyas, and Chachiyas for men. The response is in line with the question and does not deviate from the topic, hence it adheres to the prompt's instructions completely."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the types of clothes Gujarati people prefer to wear that give them a unique identity. It provides a detailed description of the traditional clothing styles, including long shirts, shorts, pants, dresses, skirts, pajamas, and blouses. It also mentions the use of vibrant colors and patterns, and the inclusion of cat-eye designs in their attire. The response is in line with the prompt's instructions and does not deviate from the topic. Therefore, it scores 2 on the task quality metric."
+        }
+    },
+    {
+        "prompt_id": "4c4174b3-769c-4dc6-a98d-867b7bd903f4",
+        "prompt": "ગુજરાતમાં લગ્ન સમયે કરવામાં આવતી વિવિધ વિધિઓ જણાવો",
+        "prompt_type": "culture",
+        "language": "gujarati",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not provide any information about the various rituals performed during a wedding in Gujarat, as asked in the question. Instead, it repeats the question itself in a loop, which is irrelevant and does not adhere to the instructions given in the prompt. Therefore, the score is 0 as per the 'task_quality' metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response does mention different rituals performed during a wedding in Gujarat, which is what the question asked for. However, it does not provide any details about these rituals, which is a significant omission. The response only lists the names of the rituals without explaining what they are or how they are performed. Therefore, the response partially aligns with the prompt but does not completely satisfy the instructions given in the question."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question. The question asks for various rituals performed during a wedding in Gujarat, and the response provides a detailed list of these rituals, including Ganesh Sthapana, Mehendi, Haldi, Sankalp, Kanyadaan, Fera, and Ashirwad. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the various rituals performed during a wedding in Gujarat, but the response talks about business personalities and other unrelated topics. There is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, which asked for various rituals performed during a wedding in Gujarat. The response lists ten different rituals, providing a brief explanation for each. This shows a clear understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Therefore, the response earns a score of 2 according to the 'task_quality' metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by listing various rituals performed during a wedding in Gujarat, such as Purnima, Garba, Mandap, Chaudhara, Varsadi, Patoli, and Mandavelo. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric and scores 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, which asked for various rituals performed during a wedding in Gujarat. The response lists and explains several rituals, such as the wedding ceremony, the celebration, and the post-wedding rituals. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response starts off by addressing the question, but then it becomes repetitive and nonsensical. The phrase 'સાંજે' (evening) is repeated excessively without any context or meaning. This makes the response irrelevant and disconnected from the question, which asked for various rituals performed during a wedding in Gujarat. Therefore, the score is 0 as per the 'task_quality' metric, because the model disregards the instructions entirely and the output is irrelevant to the prompt."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response starts off well by describing some of the rituals that take place during a wedding in Gujarat. However, it then repeats the same sentence multiple times, which does not provide any new or relevant information. This repetition does not adhere to the specific directives given in the prompt, which asked for various rituals during a wedding in Gujarat. Therefore, the response only partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is not relevant to the question. The question asks for various rituals performed during a wedding in Gujarat, but the response only repeats the same phrase 'સંજ્ઞાસૂચિ' multiple times without providing any information about the rituals. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, which asks for various rituals performed during a wedding in Gujarat. The response lists out eight different rituals, providing a detailed description for each, and also mentions that these rituals may vary slightly in different rural and urban regions. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, which asked for various rituals performed during a wedding in Gujarat. The response lists and explains 11 different rituals, from the engagement to the bride's entry into her new home. It adheres to the prompt's instructions and provides a detailed and relevant answer, demonstrating a clear understanding of the question. Therefore, it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response does not adhere to the question's instructions. The question asks for various rituals performed during a wedding in Gujarat, but the response only talks about the preparation of the wedding venue (mandap) and removing any obstacles. The response repeats the same information multiple times, which does not provide any new or relevant information about the wedding rituals. Therefore, the score is 0 as there is a clear disconnect between the user's request and the model's response."
+        }
+    }
+]

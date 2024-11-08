@@ -1,0 +1,1162 @@
+[
+    {
+        "prompt_id": "3445bb57-c9d5-4cae-965f-224b14dc2a57",
+        "prompt": "ਮੈਂ ਬੈਂਕ ਵਿੱਚ ਖਾਤਾ ਕਿਵੇਂ ਖੋਲ ਸਕਦੀ ਹਾਂ?",
+        "prompt_type": "finance",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response to the question 'How can I open an account in a bank?' is not providing any useful information. Instead, it is repeating the same phrase 'How can I open an account in a bank?' multiple times, which is not present or implied in the input. This is a clear case of hallucination where the model is introducing statements that are not grounded in the provided data. Therefore, the score is 1."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any statements, claims, or details that weren't present or implied in the question. It provides a clear and direct answer to the question about how to open a bank account, without any hallucinations, distortions, or unwarranted extrapolations. The information provided in the response is consistent with the input content, maintaining the integrity of the original information."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides a detailed step-by-step guide on how to open a bank account, which is exactly what the question asked for. There are no hallucinations present in the response, as it doesn't introduce any statements, claims, or details that weren't present or implied in the question. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response introduces a statement that wasn't present or implied in the question. The question asks 'how can I open a bank account?' and the response is 'I can't open a bank account.' which is a counterfactual information that directly conflicts with the input content. Therefore, the score is 1 according to the hallucinations metric."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response accurately and completely answers the question about how to open a bank account. It does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question. The response is strictly aligned with and grounded in the information provided in the question, maintains the integrity of the original information without any unwarranted extrapolations, and does not demonstrate any unexplained deviations, extrapolations, or interpretations not grounded in the provided data."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. The question asks about how to open a bank account and the response accurately provides information on how to do so. There are no hallucinations present in the response, as it does not introduce any statements, claims, or details that weren't present or implied in the question. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response accurately provides information on how to open a bank account, which is exactly what the question asked. There are no hallucinations present in the response, as all the information provided is relevant and factual. The response does not introduce any statements, claims, or details that weren't present or implied in the question, nor does it contain any counterfactual information that directly conflicts with the question. Therefore, the score for hallucinations is 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response accurately provides information on how to open a bank account, which is exactly what the question asked for. There are no hallucinations present in the response, as all the information provided is relevant and factual. The response does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question. Therefore, the score for hallucinations is 0."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It provides a detailed step-by-step process on how to open a bank account, which is exactly what the question asked for. There are no hallucinations present in the response, as it doesn't introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "SamwaadLLM": {
+            "score": 1,
+            "justification": "The response starts off well by providing steps on how to open a bank account, which is relevant to the question. However, it then introduces a hallucination by mentioning irrelevant details about 'daily information', 'letters', 'ideal letters', 'greetings', 'requests', and 'education'. These details were not present or implied in the question and do not make sense in the context of opening a bank account. Therefore, the response contains added information that is not grounded in the provided data, leading to a score of 1."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response contains hallucinations as it introduces statements, claims, or details that weren't present or implied in the input. The response is written in a mix of Punjabi and Hindi, which is not consistent with the input language, Punjabi. This is a clear deviation from the input content. The response also contains a word 'langkah' which is not in Punjabi or Hindi, and it's not clear what it refers to. Therefore, the score for hallucinations is 1."
+        },
+        "GPT4o": {
+            "justification": "The response provided is strictly aligned with the question asked. The question asks about how to open a bank account and the response provides a detailed step-by-step guide on how to do so. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It provides a detailed explanation on how to open a bank account, which is exactly what the question asked for. There are no hallucinations, as the response doesn't introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "87d8f8f4-bbf2-4b3b-ac05-8c6ea4de4792",
+        "prompt": "ਕੀ ਡਾਇਬਿਟਿਕ ਪੇਸ਼ਂਟ ਨੂੰ ਹੈਲਥ ਇੰਸ਼ੋਰਂਸ ਮਿਲ ਸਕਦੀ ਹੈ?",
+        "prompt_type": "finance",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response introduces a repeated phrase that wasn't present or implied in the question. The phrase 'ਕਿਉਂ ਹੋਆਂ ਦੇ ਪ੍ਰਾਣਹਾਂ ਦੀ ਵੱਲੋਂ ਹੈ' is repeated three times without any clear context or relevance to the question about health insurance for diabetic patients. This repetition is a form of hallucination as it introduces statements that weren't present in the input."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It correctly answers the question about whether a diabetic patient can get health insurance, and does not add, omit, or distort any facts. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately answers the question about whether a diabetic patient can get health insurance, explaining that it is possible but there are certain conditions that need to be met. The response does not add, omit, or distort any facts and maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The response is not clear and contains repeated phrases that do not make sense in the context of the question. It also contains counterfactual information that directly conflicts with the input content. The response demonstrates unexplained deviations, extrapolations, or interpretations not grounded in the provided data."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. The question asks whether a diabetic patient can get health insurance, and the response correctly states that they can, but also adds relevant information about potential policy considerations from insurance companies. There are no hallucinations present as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response is factually correct and consistent with the input content provided."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately answers the question about whether a diabetic patient can get health insurance, explaining that it is possible but the coverage and type can vary. It also mentions that some companies may provide health insurance that covers diabetic patients, while others may not, and some may charge separate coverage fees for diabetic patients. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides accurate information. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response does not contain any counterfactual information that directly conflicts with the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately answers the question about whether a diabetic patient can get health insurance, explaining that it is possible but depends on various factors and policies of the insurance companies. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The question asks whether a diabetic patient can get health insurance, and the response correctly answers this. However, it then goes on to discuss additional charges for certain diseases related to diabetes, which is not asked for in the question. This is an unwarranted extrapolation and thus, the score is 1."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response does not contain any counterfactual information that directly conflicts with the question content."
+        }
+    },
+    {
+        "prompt_id": "b46934a0-03d9-4b69-9164-f462a4162012",
+        "prompt": "ਮੈਂ ਆਪਣੀ ਕ੍ਰੈਡਿਟ ਕਾਰਡ ਲਿਮਿਟ ਨੂੰ ਕਿਵੇਂ ਵਧਾ ਸਕਦੀ ਹਾਂ?",
+        "prompt_type": "finance",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response to the question 'How can I increase my credit card limit?' is not providing any new or relevant information. Instead, it is simply repeating the question over and over again. This is a clear case of hallucination as the model is generating text that is not grounded in the input content. The response does not provide any steps or advice on how to increase a credit card limit, which is what the question is asking for. Therefore, the score for hallucination is 1, as the output introduces statements that weren't present or implied in the input."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It provides a detailed answer on how to increase the credit card limit, which is exactly what the question asked. There are no hallucinations present in the response, as it doesn't introduce any statements, claims, or details that weren't present or implied in the question. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It provides a detailed answer on how to increase the credit card limit, which is exactly what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response introduces statements that weren't present or implied in the input. The question asks about how to increase the credit card limit, but the response talks about not knowing the name of the limit and suggests checking it oneself. This is a deviation from the original question and does not provide a relevant answer."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It provides a detailed and accurate answer on how to increase the credit card limit, which is exactly what the question asked. There are no hallucinations, as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It provides a direct and factual answer to the question about how to increase a credit card limit, without adding, omitting, or distorting any facts. There are no hallucinations present in the response."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It provides relevant information on how to increase the credit card limit, which is exactly what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response starts off well by providing relevant information on how to increase the credit card limit. However, it then starts to repeat the same sentence about reducing the credit card balance multiple times. This repetition is not present or implied in the question, and it does not provide any additional useful information. Therefore, the response introduces details that weren't present or implied in the input, which is a form of hallucination."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It provides a detailed explanation on how to increase the credit card limit, which is exactly what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It provides a detailed answer on how to increase the credit card limit, which is exactly what the question asked. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response introduces a repeated phrase 'ੈਪੈਂਡ ਐਪਲੈਕੈशन (CIB)' that wasn't present or implied in the input. This repeated phrase doesn't provide any meaningful information or context to the question asked. It seems like a hallucination where the model has generated text that is not grounded in the input content. Therefore, the score is 1 as per the hallucination metric."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed answer on how to increase a credit card limit. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as all the information provided in the response is relevant and accurate in relation to the question. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response introduces a repeated phrase that wasn't present or implied in the question. The phrase 'ਤੁਸੀਂ ਉਹਨਾਂ ਦੇ ਨਾਲ ਵਧੇਰੇ ਆਰਡਰ ਕਰਨ ਦੇ ਯੋਗ ਹੋਵੋਗੇ' is repeated multiple times without any context or relevance to the question about increasing credit card limit. This repetition is a form of hallucination as it introduces statements that weren't present in the input and it deviates from the provided data."
+        }
+    },
+    {
+        "prompt_id": "b1c5759a-f9d4-495a-98ec-b44452dc40b4",
+        "prompt": "ਅਗਰ ਮੈਂ ਐਫਡੀ ਖਤਮ ਹੋਣ ਤੋਂ ਪਹਿਲੇ ਤੁੜਵਾ ਲੈਨੀ ਹਾਂ ਤੇ ਮੈਨੂੰ ਕੀ ਪੈਨਲਟੀ ਪਏਗੀ?",
+        "prompt_type": "finance",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response does not provide any new or relevant information to the question asked. It simply repeats the question, which is a hallucination as it introduces a statement that wasn't present or implied in the input. The response does not answer the question about whether there would be a penalty for withdrawing a fixed deposit before its maturity, which is the information asked for in the question. Therefore, it scores 1 on the hallucination metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. The question asks if there will be a penalty for withdrawing a Fixed Deposit (FD) before its maturity, and the response correctly states that there is no legal penalty for doing so. There are no hallucinations present in the response, as it does not introduce any statements, claims, or details that weren't present or implied in the question. It also maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It accurately answers the question about whether there will be a penalty for withdrawing a Fixed Deposit (FD) before its maturity, and provides additional information about how the penalty is calculated, which is implied in the question. There are no hallucinations, as the response doesn't introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the input. The question is about the penalty for withdrawing a Fixed Deposit (FD) before its maturity, but the response talks about an older iPad and a new Turtle line with the Panjabis in the village, which is completely unrelated to the question. Therefore, the response contains counterfactual information that directly conflicts with the input content."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately answers the question about whether there would be a penalty for withdrawing a Fixed Deposit (FD) before its maturity, and provides additional information about the penalty being dependent on the bank's rules and could be applied on a significant part of the FD amount. The response does not add, omit, or distort any facts that weren't part of the original content, and maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It also maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it gets a score of 0 for hallucinations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. The question asks about the penalty for withdrawing a Fixed Deposit (FD) before its maturity, and the response accurately provides information about the penalty. There are no hallucinations, as the response doesn't introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. The question asks about the penalty for withdrawing a Fixed Deposit (FD) before its maturity, and the response accurately provides information about the penalty that would be incurred. There are no hallucinations, as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "justification": "The response is strictly aligned with the information provided in the question. The question asks about the penalty for withdrawing a Fixed Deposit (FD) before its maturity, and the response accurately explains that there would indeed be a penalty. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response does not contain any counterfactual information that directly conflicts with the question content. Therefore, the score for hallucinations is 0."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response to the question is not coherent and does not provide any meaningful information. It seems to be a repetition of the same phrase over and over again, which does not answer the question about the penalty for withdrawing a Fixed Deposit (FD) before its maturity. This is a clear case of hallucination as the output introduces statements that weren't present or implied in the input and demonstrates unexplained deviations not grounded in the provided data."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        }
+    },
+    {
+        "prompt_id": "7b40d61d-47f4-4cd2-b3bc-5bc09c9ad810",
+        "prompt": "ਕੀ ਮੈਨੂੰ ਐਫਡੀ ਤੇ ਲੋਨ ਮਿਲ ਸਕਦਾ ਹੈਂ ?",
+        "prompt_type": "finance",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response to the question 'Can I get a loan on FD?' is not clear and introduces statements that weren't present or implied in the input. The response seems to be repeating the same phrase about the Punjabi language, which is not relevant to the question asked. This is a clear case of hallucination as the model's output is not aligned with the information provided in the input and contains counterfactual information that directly conflicts with the input content."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. The question asks if it's possible to get a loan on FD (Fixed Deposit), and the response correctly states that it is possible, while also providing additional relevant information about the conditions that might be required for the loan. There are no hallucinations, as the response doesn't introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response does not contain counterfactual information that directly conflicts with the question. It does not demonstrate unexplained deviations, extrapolations, or interpretations not grounded in the provided data."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response to the question starts off correctly by stating that a loan cannot be obtained on an FD. However, the rest of the response is nonsensical and does not provide any relevant or factual information related to the question. It seems to be a repetition of unrelated words and phrases, which can be considered as hallucinations. Therefore, the score is 1 as per the hallucinations metric, which indicates that the output introduces statements or details that weren't present or implied in the input."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. The question asks if the person can get a loan on their FD (Fixed Deposit), and the response correctly states that yes, they can take a loan by using their FD as collateral. There are no hallucinations present in the response as it doesn't introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. The question asks if the person can get a loan on FD, and the response correctly affirms that it is possible and provides additional information on how to do it. There are no hallucinations, as the response doesn't introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. The question asks if the user can get a loan on FD, and the response correctly states that one can get a loan from the Federal Reserve Bank, which is a possible interpretation of 'FD'. The response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. Therefore, the score for hallucinations is 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. The question asks if the person can get a loan on FD (Fixed Deposit), and the response correctly states that yes, one can get a loan from FD. The response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. Therefore, there are no hallucinations present in the response."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "SamwaadLLM": {
+            "justification": "The response provided is strictly aligned with the information provided in the question. The question asks whether the user can get a loan on the basis of an Aadhaar card (FDI), and the response accurately explains the role of Aadhaar in the loan application process, without adding, omitting, or distorting any facts. It maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response starts off by correctly answering the question, stating that a loan can be obtained on an FD. However, the rest of the response is nonsensical and repetitive, introducing statements that were not present or implied in the question. This is a clear case of hallucination, as the model is generating text that is not grounded in the input data."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. The question asks if one can get a loan on a fixed deposit (FD), and the response correctly states that yes, one can get a loan on an FD as many banks and financial institutions provide this facility. There are no hallucinations present in the response, as it doesn't introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. The question asks if the user can get a loan on FD, and the response correctly affirms that it is possible, and also provides additional relevant information about the process. There are no hallucinations, as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "ff3c3a8f-5a17-4580-94fa-8d072ea43982",
+        "prompt": "ਮੈਂ ਆਪਣੇ ਵਾਲਾਂ ਤੋਂ ਸਿਕਰੀ ਨੂੰ ਕਿਵੇਂ ਖਤਮ ਕਰ ਸਕਦੀ ਹਾਂ?",
+        "prompt_type": "health",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response does not provide any meaningful or relevant information to the question asked. The response is essentially a repetition of the question itself, without providing any solution or advice on how to eliminate dandruff from hair. This is a clear case of hallucination, as the model is generating text that is not grounded in the input content, hence the score of 1."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response introduces a detail that wasn't present or implied in the question. The question asks for ways to eliminate dandruff from hair, but the response suggests talking to one's father about the dandruff issue, which is an unexplained deviation not grounded in the provided data. The response is linguistically fluent but factually baseless in relation to the input, hence the score of 1 for hallucinations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides relevant information on how to get rid of tangles in hair. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response maintains the integrity of the original information without any unwarranted extrapolations or distortions."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response to the question is not coherent and does not provide a clear answer to the question asked. It contains repeated phrases and sentences that do not make sense in the context of the question. This indicates that the model is hallucinating, introducing statements and details that were not present or implied in the input. Therefore, the score for hallucinations is 1."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response provided is strictly aligned with the question asked. The question asks for ways to eliminate dandruff, and the response provides several methods to do so, such as maintaining a proper diet, using neem leaves, and brushing hair properly. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. The question asks for a way to get rid of dandruff and the response provides a solution for the same. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It provides a method to eliminate frizz from hair, which is exactly what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It provides a method to remove dandruff from hair, which is exactly what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides a detailed method to remove tangles from hair, which is what the question asked for. There are no hallucinations present in the response, as it doesn't introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is directly related to the question and provides a detailed answer on how to eliminate a firewall. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response does not contain any counterfactual information that directly conflicts with the question. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the question. The question asks for ways to eliminate 'sikri' from walls, but the response provides a list of 'sikri' tablets, ointments, and other treatments with time durations, which are not relevant to the question. The response also includes some sentences that are not coherent or meaningful, indicating a possible hallucination. Therefore, the score is 1 as per the hallucination metric."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides relevant information on how to get rid of dandruff. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response maintains the integrity of the original information without any unwarranted extrapolations. It does not contain any counterfactual information that directly conflicts with the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It provides a relevant answer to the question about how to remove split ends from hair, without adding, omitting, or distorting any facts. There are no hallucinations present in the response, as it maintains the integrity of the original information without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "c975d2d9-99de-4ca3-8cdb-4a13af6810bb",
+        "prompt": "ਹਾਈ ਬੀਪੀ ਨੂੰ ਘੱਟ ਕਰਨ ਦਾ ਘਰੇਲੂ ਇਲਾਜ?",
+        "prompt_type": "health",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response introduces statements that weren't present or implied in the input. The response is not providing any specific home remedies to reduce high blood pressure, which was the main point of the question. Instead, it is repeating the question itself in a slightly different way. This is a clear case of hallucination, as the model is generating text that is not grounded in the input data."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, which asks for a home remedy to reduce high blood pressure. The response provides advice on maintaining a regular diet, drinking plenty of water, and seeking medical advice, which are all relevant to the question. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing home remedies for reducing high blood pressure. It does not introduce any statements, claims, or details that weren't present or implied in the question. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it gets a score of 0 for hallucinations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response to the question about home remedies for high blood pressure is nonsensical and does not provide any relevant or factual information. It seems to be a random collection of words and phrases, which indicates that the model is hallucinating. The response does not align with the input question and introduces statements that were not present or implied in the input. Therefore, the score for hallucinations is 1."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing home remedies for high blood pressure, which is exactly what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing home remedies for reducing high blood pressure, as asked. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a home remedy for high blood pressure, which is what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. The question asks for home remedies to reduce high blood pressure and the response accurately provides various methods such as reducing sodium intake, quitting smoking, regular exercise, and increasing physical activity. It also advises to consult with health professionals before starting these methods. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, which asks for a home remedy to reduce high blood pressure. The response provides a detailed home remedy, suggesting a vegetarian diet, regular exercise, and avoiding smoking. There are no hallucinations, as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "SamwaadLLM": {
+            "score": 1,
+            "justification": "The response introduces a hallucination towards the end, where it repeats the word 'ਸੁਪ੍ਰੀਮ' multiple times. This repetition is not related to the question about home remedies for high blood pressure, and it was not implied in the input. Therefore, the response contains an unexplained deviation not grounded in the provided data."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the input. The question asks for home remedies to reduce high blood pressure, but the response includes the use of medications and surgery, which are not considered home remedies. Additionally, the response is written in a mix of Punjabi and Hindi, which could lead to confusion for a Punjabi-speaking audience. Therefore, the score for hallucinations is 1."
+        },
+        "GPT4o": {
+            "justification": "The response provided is strictly aligned with the question asked. The question asks for home remedies to reduce high blood pressure and the response provides a list of home remedies for the same. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed answer on how to reduce high blood pressure using home remedies. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no counterfactual information or unexplained deviations. The response maintains the integrity of the original question without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "f0b3cebf-b0aa-4326-9a4a-c98fd5a62147",
+        "prompt": "ਮੈਂ ਅੱਖਾਂ ਦੀ ਰੋਸ਼ਨੀ ਨੂੰ ਕਿਵੇਂ ਵਧਾ ਸਕਦੀ ਹਾਂ?",
+        "prompt_type": "health",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response does not provide any relevant information to the question asked. It seems to be a repetition of the same phrase, which does not make sense in the context of the question. This is a clear case of hallucination, as the model is generating text that is not grounded in the input content. Therefore, the score is 1."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It provides ways to improve eye brightness, which is exactly what the question asked for. There are no hallucinations present in the response, as it doesn't introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing relevant information on how to increase eye brightness. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response does not contain any counterfactual information that directly conflicts with the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The question asks about how to increase the brightness of eyes, but the response talks about the age of 'roshni' which is not relevant to the question. The response also mentions parents and growing older, which are not related to the question. Therefore, the response contains hallucinations and is not grounded in the provided data."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides relevant information on how to improve eye health, which can lead to improved vision. There are no hallucinations present as all the information provided is factually correct and does not deviate from the context of the question. The response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is consistent with the question asked. The question asks for ways to increase the brightness of eyes and the response provides suggestions such as using lamps or tables with light, reducing the use of books, wearing tinted glasses, and consulting with a specialist if needed. There are no hallucinations present in the response as it does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response introduces a repeated statement about wearing a hat or cap for eye protection, which was not present or implied in the question. The repetition of the same statement multiple times is a form of hallucination, as it deviates from the original content of the question. The question was about increasing the brightness of the eyes, and the response, while providing a valid point about eye protection, does not directly address the question and repeats the same point excessively."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It provides relevant information on how to increase eye brightness, which is exactly what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response introduces a repeated statement that wasn't present in the question. The suggestion to wear a hat under the sunglasses to block sunlight is repeated four times, which is a hallucination as it adds unnecessary repetition that wasn't implied in the question."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It provides a detailed answer on how to increase the brightness of eyes, which is exactly what the question asked. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response to the question 'How can I increase the light of my eyes?' is not coherent or meaningful. It seems to be a random collection of words and phrases, which do not provide any useful or relevant information to the question asked. This is a clear case of hallucination, as the response introduces statements and details that weren't present or implied in the question. Therefore, the score for hallucination is 1."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing relevant and accurate information on how to improve eye health, which is the main focus of the question. There are no hallucinations present as all the facts provided in the response are grounded in the question and do not introduce any new, unrelated, or counterfactual information. The response maintains the integrity of the original question without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It provides relevant information on how to increase the brightness of eyes without adding, omitting, or distorting any facts. The response maintains the integrity of the original question without any unwarranted extrapolations. Therefore, it gets a score of 0 as per the hallucinations metric."
+        }
+    },
+    {
+        "prompt_id": "b52315f0-2bcc-4e05-805c-f084e4b4e56d",
+        "prompt": "ਕਦ ਨੂੰ ਕਿਵੇਂ ਵਧਾਇਆ ਜਾ ਸਕਦਾ ਹੈ?",
+        "prompt_type": "health",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response to the question 'How can height be increased?' is not coherent or meaningful. It repeats the same phrase over and over again without providing any useful information or answering the question. This is a clear case of hallucination, as the output introduces statements that weren't present or implied in the input and demonstrates unexplained deviations not grounded in the provided data."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The question asks 'how can time be increased?' but the response talks about people solving their problems and making their lives comfortable in productive time, which is not related to the question. Therefore, the response contains hallucinations and is not grounded in the provided data."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. The question asks about ways to increase height and the response provides relevant and factual information on how to do so. There are no hallucinations present in the response, as it does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response to the question 'How can height be increased?' is not coherent and does not provide any meaningful information. It seems to be a repetition of the same phrase or word, which is not related to the question. This is a clear case of hallucination as the output introduces statements that weren't present or implied in the input. The response is not grounded in the provided data and demonstrates unexplained deviations."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It provides a detailed answer on how to increase height, which is exactly what the question asked for. There are no hallucinations present in the response, as it doesn't introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the question. The question asks about how to increase height, but the response talks about increasing senses and learning new and difficult tasks. This is a clear deviation from the question and is not grounded in the provided data."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It provides a detailed explanation on how to increase height, which is exactly what the question asked for. There are no hallucinations present in the response, as it doesn't introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. The question asks about how to increase height, and the response accurately provides information on maintaining a healthy diet and regular exercise, which are commonly recommended methods for height increase. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It provides a detailed and relevant answer to the question about how to increase height, mentioning a healthy lifestyle, regular exercise, balanced diet, sufficient sleep, stress management, surrounding oneself with positive people, and using positive words for self-motivation. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "SamwaadLLM": {
+            "justification": "The response provided by the model is strictly aligned with the question asked. The question asks for ways to increase height, and the response provides a detailed explanation of the same. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The question asks about how to increase height, but the response talks about physical fitness, age, diet, sleep, stress, and weight loss. These factors are not directly related to increasing height. The response also contains counterfactual information that directly conflicts with the input content. For example, it suggests that regular exercise can lead to weight loss, which is not related to the question about increasing height. Therefore, the response demonstrates unexplained deviations, extrapolations, or interpretations not grounded in the provided data."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response accurately answers the question about how to increase height. It provides relevant and factual information such as balanced diet, regular exercise, proper sleep and posture, playing games like chess, getting natural Vitamin D, and avoiding substances like tobacco and alcohol. There are no hallucinations, as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is consistent with the question asked. The question asks about how a celebration can be extended, and the response provides a detailed explanation of various ways in which a celebration can be extended, such as including a party, an outdoor ceremony, a meal, or a celebration. There are no hallucinations present in the response, as it does not introduce any statements, claims, or details that weren't present or implied in the question. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "7e29b798-1e02-4711-af51-ac8f537c9c87",
+        "prompt": "ਕੀ ਸੈਲ ਫੋਨ ਇਸਤੇਮਾਲ ਕਰਨ ਨਾਲ ਬਰੇਨ ਕੈਂਸਰ ਹੋ ਸਕਦਾ ਹੈ?",
+        "prompt_type": "health",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the input. The question asks if cell phone usage can cause brain cancer, but the response talks about which phone is best for gaming. This is a clear deviation from the original question and introduces information that is not relevant to the input content. Therefore, the score is 1 as per the hallucinations metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. The question asks whether cell phone usage can cause brain cancer, and the response accurately states that it can, explaining that the radiofrequency radiation from cell phones can penetrate the human brain and potentially cause cancer. There are no hallucinations present in the response, as it does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It does not add, omit, or distort any facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. It accurately answers the question about the possibility of cell phones causing brain cancer, stating that there is no scientific evidence to support this claim, but caution is advised due to the potential effects of cell phone radiation on the brain."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response to the question is not coherent and does not provide a clear answer to the question about the link between cell phone use and brain cancer. The response contains repeated phrases and words that do not make sense in the context of the question. This indicates that the model has introduced statements and details that were not present or implied in the input, thus scoring 1 on the hallucinations metric."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It does not add, omit, or distort any facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. It accurately addresses the question about the potential link between cell phone use and brain cancer, acknowledging the existence of differing scientific opinions on the matter and advising caution in cell phone use."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. The question asks whether using a cell phone can cause brain cancer, and the response accurately states that there is no direct link between cell phone use and brain cancer according to their knowledge. The response does not introduce any new facts or details that weren't present or implied in the question, and it does not contain any counterfactual information that directly conflicts with the question. Therefore, the response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. The question asks whether using a cell phone can cause brain cancer, and the response accurately states that there is no direct link between cell phone use and brain cancer. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. The question asks whether using cell phones can cause brain cancer, and the response accurately states that using cell phones does not cause brain cancer. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It does not introduce any new facts or details that were not present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response does not contain counterfactual information that directly conflicts with the question content. It does not demonstrate unexplained deviations, extrapolations, or interpretations not grounded in the provided data."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response introduces statements that weren't present or implied in the input. The question asks if cell phone usage can cause brain cancer, and the response affirms this. However, it goes on to mention other risk factors for brain cancer such as smoking, radiation, and alcohol use, which were not asked for in the question. This is an unwarranted extrapolation and not grounded in the provided data."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It does not add, omit, or distort any facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. It accurately addresses the question about the potential link between cell phone use and brain cancer, stating that there is no definitive evidence, but acknowledging some concerns and studies suggesting potential risks. Therefore, it gets a score of 0 as per the hallucinations metric."
+        }
+    },
+    {
+        "prompt_id": "6909d7fe-5144-4dff-bae7-e45a24a129d1",
+        "prompt": "ਸਿੱਖ ਮੁਗਲਾਂ ਨਾਲ ਕਿਉਂ ਲੜੇ ਅਤੇ ਇਹਦਾ ਕੀ ਨਤੀਜਾ ਨਿਕਲਿਆ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response is completely unrelated to the question asked. The question is about why Sikhs fought with the Mughals and what was the outcome, but the response is about different types of punishments in Punjabi. This is a clear case of hallucination as the model introduces statements and details that weren't present or implied in the input. The response contains counterfactual information that directly conflicts with the input content."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It accurately explains why the Sikhs fought against the Mughals and what the outcome was, without introducing any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response does not contain any counterfactual information that directly conflicts with the question, nor does it demonstrate any unexplained deviations, extrapolations, or interpretations not grounded in the provided data."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately explains why the Sikhs fought against the Mughals and what the outcome of the fight was, which is exactly what the question asked. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response is not coherent and does not provide any factual information related to the question. It seems to be a random collection of words and phrases, which makes it difficult to understand. The response does not answer why Sikhs fought with the Mughals and what was the outcome of it. Therefore, it introduces statements and details that weren't present or implied in the input, hence the score of 1 for hallucinations."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It accurately explains why the Sikhs fought against the Mughals and what the outcome was, without introducing any hallucinations. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a reason for the Sikhs fighting the Mughals and the outcome of this conflict. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of why the Sikhs fought with the Mughals and the outcomes of these conflicts. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, according to the hallucinations metric, the response gets a score of 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a clear explanation of why the Sikhs fought with the Mughals and what the outcome was. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It provides a clear reason why the Sikhs fought against the Mughals and also mentions the outcome of the fight, which is exactly what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a clear explanation of why the Sikhs fought against the Mughals and what the outcome was. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of why the Sikhs fought against the Mughals and what the outcome was. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it scores 0 on the hallucinations metric."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of why the Sikhs fought against the Mughals and what the outcome was. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it does not contain any hallucinations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It explains why the Sikhs fought against the Mughals and what was the outcome of this conflict, which is exactly what the question asked. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "4f22a432-c8c9-4cb9-9d5a-5bec0ff18d94",
+        "prompt": "ਸਿੱਖ ਧਰਮ ਦੀ ਨੀਂਹ ਕਿਸ ਨੇ ਰੱਖੀ ਸੀ ਅਤੇ ਖਾਲਸਾ ਪੰਥ ਦੀ ਸਥਾਪਨਾ ਕਿਸ ਨੇ ਕੀਤੀ ਸੀ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response is completely unrelated to the question. The question asks about the foundation of Sikhism and the establishment of the Khalsa Panth, but the response talks about the difference between a wife and a life partner. This is a clear case of hallucination as the model introduces statements and details that weren't present or implied in the input, and contains counterfactual information that directly conflicts with the input content."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response contains counterfactual information that directly conflicts with the input content. While the response correctly states that Guru Nanak Dev Ji laid the foundation of Sikhism, it incorrectly attributes the establishment of the Khalsa Panth to Guru Arjan Dev Ji. In fact, it was Guru Gobind Singh Ji who established the Khalsa Panth. Therefore, the response is not strictly aligned with and grounded in the information provided in the input, leading to a score of 1 for hallucinations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It correctly states that Guru Nanak Dev Ji laid the foundation of Sikhism and Guru Gobind Singh Ji established the Khalsa Panth. There are no hallucinations, as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response is not aligned with the question. The question asks about who laid the foundation of Sikhism and who established the Khalsa Panth. However, the response is not clear and does not provide any factual information related to the question. It introduces statements and details that were not present or implied in the question. Therefore, it scores 1 on the hallucination metric as it contains counterfactual information that directly conflicts with the input content and demonstrates unexplained deviations not grounded in the provided data."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It correctly states that the foundation of Sikhism was laid by Guru Nanak Dev Ji and the Khalsa Panth was established by Guru Gobind Singh Ji. There are no hallucinations, as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It correctly identifies Guru Nanak Dev Ji as the founder of Sikhism and Guru Gobind Singh Ji as the founder of the Khalsa Panth. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It correctly states that the foundation of Sikhism was laid by Guru Nanak Dev Ji and the Khalsa Panth was established by Guru Gobind Singh Ji. There are no hallucinations, as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response contains counterfactual information. While the response correctly states that Guru Nanak Dev Ji laid the foundation of Sikhism, it incorrectly attributes the establishment of the Khalsa Panth to him. In reality, the Khalsa Panth was established by Guru Gobind Singh Ji, the tenth Sikh Guru. Therefore, the response deviates from factual accuracy, leading to a score of 1 according to the hallucinations metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response introduces statements that weren't present or implied in the input. The question asks about who laid the foundation of Sikhism and who established the Khalsa Panth. However, the response incorrectly states that the 'Gurmukhi curriculum' established both, which is factually incorrect and not mentioned in the question. The correct answers are Guru Nanak Dev Ji and Guru Gobind Singh Ji respectively. Therefore, the response contains counterfactual information that directly conflicts with the input content."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "justification": "The response correctly identifies Guru Nanak as the founder of Sikhism and Guru Gobind Singh as the founder of the Khalsa Panth, which is consistent with the question. There are no hallucinations present in the response, as it does not introduce any statements, claims, or details that weren't present or implied in the input. It also does not contain any counterfactual information that directly conflicts with the input content.",
+            "score": 0
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It correctly states that Guru Nanak Dev Ji laid the foundation of Sikhism and Guru Gobind Singh Ji established the Khalsa Panth. There are no hallucinations, as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It correctly states that the foundation of Sikhism was laid by Guru Nanak Dev Ji and the Khalsa Panth was established by Guru Gobind Singh Ji in 1699 at Talwandi Sabo, Muktsar. There are no hallucinations, as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It correctly states that the foundation of Sikhism was laid by Guru Nanak and the Khalsa Panth was established by Guru Gobind Singh. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "5ecfc3ba-b507-4a18-9b9a-326d2fff0345",
+        "prompt": "ਹਰਿਮੰਦਰ ਸਾਹਿਬ ਦੀ ਨੀਂਹ ਕਿਸਨੇ ਰੱਖੀ ਸੀ ਅਤੇ ਇਸ ਦੇ ਚਾਰ ਦਰਵਾਜ਼ੇ ਕਿਉਂ ਨੇ? ਚਾਰੋਂ ਦਰਵਾਜੇ ਹਰਿਮੰਦਰ ਸਾਹਿਬ ਤੋਂ ਉੱਚੇ ਕਿਉਂ ਨੇ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response does not provide any information or answer to the question asked. It merely repeats the question multiple times without providing any factual information or details. This is a clear case of hallucination as the output introduces statements that weren't present or implied in the input. The response is not grounded in the provided data and does not maintain the integrity of the original information."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It correctly states that the foundation of Harmandir Sahib was laid by Sadhu Arjan and the four doors were made by Sikh Guru Ram Das. It also correctly explains the reason for the doors being higher than Harmandir Sahib, which is to welcome the devotees into Harmandir Sahib. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It accurately answers who laid the foundation of Harmandir Sahib, why it has four doors, and why the doors are higher than the Harmandir Sahib itself. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The question asks about who laid the foundation of Harmandar Sahib and why its four doors are higher than Harmandar Sahib. However, the response talks about some new and old gates of Harmandar Sahib without providing any factual information about who laid the foundation or why the doors are higher. Thus, the response contains hallucinations and is not strictly aligned with the information provided in the question."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It correctly identifies Baba Budha Ji as the one who laid the foundation of Harmandir Sahib and explains the reason for the four doors and their height. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response introduces statements that weren't present or implied in the input. The question asks about who laid the foundation of Harmandir Sahib and why its four doors are higher than the temple itself. However, the response incorrectly states that Guru Angad Dev Ji laid the foundation and Guru Ramdas Ji built the four doors. In reality, the foundation of Harmandir Sahib was laid by Mian Mir, a Muslim saint, and the four doors were designed to symbolize the openness of Sikhism towards all people and religions. The doors being higher than the temple itself is not mentioned in the question or the response, hence the response contains counterfactual information that directly conflicts with the input content."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response contains a significant hallucination. The question asks about who laid the foundation of Harmandir Sahib and why its four doors are higher than the Harmandir Sahib itself. However, the response only provides incorrect information about who laid the foundation (it was Guru Arjan Dev, not Guru Nanak Dev) and does not address the second part of the question at all. Furthermore, the response contains a repeated phrase in Hindi, which is not relevant to the question and does not make sense in the context."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response is completely irrelevant to the question. The question asks about who laid the foundation of Harmandir Sahib and why its four doors are higher than Harmandir Sahib itself. However, the response is just a repetition of the word 'Raja' (King), which does not provide any information related to the question. Therefore, the response introduces statements that weren't present or implied in the input, and it contains counterfactual information that directly conflicts with the input content. Hence, the score is 1 according to the hallucinations metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the question. The question asks about who laid the foundation of Harmandir Sahib and why its four doors are higher than the temple itself. However, the response incorrectly states that the foundation was laid by members of the royal family and the doors are higher to provide security to them. This is factually incorrect and not aligned with the question. The foundation of Harmandir Sahib was laid by a Muslim saint, Mian Mir, and the four doors symbolize the openness of the Sikhs towards all people and religions. The doors being higher than the temple itself is not related to providing security to any royal family. Therefore, the response contains hallucinations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response introduces statements that weren't present or implied in the input. The question asks about who laid the foundation of Harmandir Sahib and why its four doors are higher than the Harmandir Sahib itself. However, the response incorrectly states that the foundation and the doors were laid by Rangia Singh in 1762 after sunset. This is factually incorrect and not implied in the question. Therefore, the response demonstrates unexplained deviations and contains counterfactual information that directly conflicts with the input content."
+        },
+        "SamwaadLLM": {
+            "score": 1,
+            "justification": "The response introduces statements and details that were not present or implied in the question. The names of the four doors of Harmandir Sahib are not mentioned in the question, and the explanation about the doors being higher than Harmandir Sahib and representing royal peace is not accurate or related to the question. The response also contains repeated phrases that do not make sense in the context of the question or the response itself, indicating hallucination."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It correctly identifies Sheikh Miyan Mir as the person who laid the foundation stone of Harmandir Sahib and explains the significance of the four doors and their height in relation to the temple. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response contains hallucinations. The response claims that the foundation of Harmandir Sahib was laid by Emperor Babur, which is factually incorrect. The foundation stone of Harmandir Sahib was actually laid by a Muslim saint, Hazrat Mian Mir, in 1588. The response also does not answer why there are four doors in Harmandir Sahib. Therefore, the response introduces statements that weren't present or implied in the input and contains counterfactual information that directly conflicts with the input content."
+        }
+    },
+    {
+        "prompt_id": "b65cb4b6-d2b8-444c-87b3-e8a1616119a8",
+        "prompt": "ਪੰਜਾਬ ਦੀਆਂ ਔਰਤਾਂ ਤੇ ਆਦਮੀਆਂ ਦਾ ਮੁੱਖ ਗਹਿਣਾ ਅਤੇ ਪਹਿਰਾਵਾ ਕਿਹੜਾ ਹੈ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response does not provide any information about the traditional attire and jewelry of men and women in Punjab, which was asked in the question. Instead, it just repeats the question itself. This is a clear case of hallucination as the model is introducing statements that were not present or implied in the input."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response accurately describes the traditional attire of men and women in Punjab, which is the question's main focus. There are no hallucinations present as the response does not introduce any statements, claims, or details that weren't present or implied in the input. It also does not contain any counterfactual information that directly conflicts with the input content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response accurately answers the question about the main jewelry and attire of Punjabi men and women. It does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the question. The question asks about the main attire and jewelry of men and women in Punjab, but the response talks about a metaphorical expression used in Punjabi literature and conversations, which is not related to the question. Therefore, the response contains counterfactual information that directly conflicts with the question content."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response accurately describes the traditional attire and jewelry of men and women in Punjab, which is what the question asked for. There are no hallucinations present in the response, as it does not introduce any statements, claims, or details that weren't present or implied in the question. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It accurately provides the main jewelry and attire of men and women in Punjab, which is what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response introduces statements and details that were not present or implied in the question. The question asks about the main attire and jewelry of men and women in Punjab, but the response talks about the qualities and contributions of Punjabi men and women in various fields, which is not related to the question. Therefore, the response contains hallucinations and is not grounded in the provided data."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the input. The response contains repeated words like 'ਪਹਿਰਾਵੇ' and 'ਚੰਦਲ' which do not provide any specific information about the traditional attire or jewelry of Punjabi men and women. This is a clear case of hallucination where the model is generating linguistically fluent but factually baseless content."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing information about the traditional attire and jewelry of Punjabi men and women. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response introduces a hallucination by repeating the word 'ਨਕਸ਼ੀ' (nakshi) multiple times without providing any meaningful or factual information about the main jewelry and attire of men and women in Punjab. This repetition is not grounded in the question and does not provide a valid answer. Therefore, the score is 1 as per the hallucination metric."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, which asks about the main attire and jewelry of men and women in Punjab. The response provides a detailed explanation of the significance of attire and jewelry in the Punjabi society, without introducing any statements, claims, or details that weren't present or implied in the question. There are no added, omitted, or distorted facts, and the response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, the score for hallucinations is 0."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response accurately answers the question about the traditional attire and jewelry of men and women in Punjab. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it scores 0 on the hallucination metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response accurately describes the traditional attire of men and women in Punjab, which is the question's main focus. There are no hallucinations present as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question. The response is strictly aligned with and grounded in the information provided in the question, maintaining the integrity of the original information without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "f967c063-eb48-4a6d-9ae2-86dbfcd4fa4b",
+        "prompt": "ਪੰਜਾਬ ਵਿੱਚ ਵਿਸਾਖੀ ਕਿਉਂ ਮਨਾਈ ਜਾਂਦੀ ਹੈ ਅਤੇ ਵੈਸਾਖੀ ਨੂੰ ਮਨਾਉਣ ਦਾ ਮੁੱਖ ਕਾਰਨ ਕੀ ਹੈ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response does not provide any factual information related to the question. It merely repeats the question without providing any answer. This is a clear case of hallucination as the model's output is not grounded in the information provided in the input and introduces statements that weren't present or implied in the input."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response introduces statements that weren't present or implied in the question. The question asks why Vaisakhi is celebrated in Punjab and the main reason for celebrating it. The response, however, talks about Vaisakhi being the longest day of the year, which is factually incorrect and not related to the question. Vaisakhi is actually a harvest festival and also significant in Sikhism as it marks the formation of Khalsa. The response demonstrates unexplained deviations and interpretations not grounded in the provided data."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately explains why Vaisakhi is celebrated in Punjab and the main reason for celebrating it, which is the establishment of the Khalsa Panth and the promotion of Sikhism. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the question. The question asks why Vaisakhi is celebrated in Punjab and the main reason for celebrating Vaisakhi. However, the response lists names that are not related to the celebration of Vaisakhi in Punjab. Therefore, the response contains hallucinations as it introduces irrelevant information that is not grounded in the question."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It accurately explains why Vaisakhi is celebrated in Punjab, mentioning the harvest of the main crop and the establishment of the Khalsa Panth. There are no hallucinations, as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately explains why Vaisakhi is celebrated in Punjab, which is to mark the beginning of the new harvest season. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the question. The question asks why Vaisakhi is celebrated in Punjab and the main reason for celebrating it. The response, however, goes into details about the religious significance of Punjab and the growth of religious teachings in the 20th century, which is not directly related to the celebration of Vaisakhi. The response also mentions social and economic reasons for the growth of Vaisakhi celebrations, but does not clearly explain what these reasons are. Therefore, the response contains unexplained deviations and interpretations not grounded in the provided question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It accurately explains why Vaisakhi is celebrated in Punjab and the main reason for celebrating it, without adding, omitting, or distorting any facts. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response introduces a factual error that wasn't present in the question. The response claims that Vaisakhi is celebrated as the birth anniversary of Guru Nanak, which is incorrect. Vaisakhi is actually celebrated to mark the formation of the Khalsa Panth by Guru Gobind Singh. This is a significant hallucination as it introduces a fact that is not only absent from the question but also incorrect in the context of Sikh history and traditions."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response introduces a repeated statement that wasn't present or implied in the input. The same sentence 'ਇਹ ਸੰਸਾਰ ਵਿੱਚ ਸ਼ਾਂਤੀ ਅਤੇ ਸਮਝ ਦੀ ਸ਼ੁਰੂਆਤ ਦਾ ਪ੍ਰਤੀਕ ਹੈ' is repeated multiple times which is not grounded in the provided data. This repetition is a form of hallucination as it distorts the information provided in the input."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is well aligned with the question and does not introduce any hallucinations. It accurately explains why Vaisakhi is celebrated in Punjab and the main reason for celebrating it, without adding, omitting, or distorting any facts. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately explains why Vaisakhi is celebrated in Punjab, mentioning both the agricultural significance and the religious significance for Sikhs, which are the main reasons for the celebration. There are no added, omitted, or distorted facts that weren't part of the original content. The integrity of the original information is maintained without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It correctly explains why Vaisakhi is celebrated in Punjab, which is the arrival of the harvest season. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "2b1b00cb-fef9-40a6-ac93-8a4dfa5a6ebe",
+        "prompt": "ਮੀਰੀ ਪੀਰੀ ਦੀਆਂ ਤਲਵਾਰਾਂ ਕਿਸ ਗੁਰੂ ਸਾਹਿਬਾਨ ਨੇ ਧਾਰਨ ਕੀਤੀਆਂ ਸੀ ਅਤੇ ਇਸ ਨੂੰ ਧਾਰਨ ਕਰਨ ਦਾ ਕੀ ਉਦੇਸ਼ ਸੀ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response is a repetition of the question itself and does not provide any new information or answer to the question. It introduces a statement that wasn't present or implied in the input, which is a form of hallucination. Therefore, according to the hallucination metric, the score is 1."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response introduces a factual error that wasn't present in the question. The question asks about the Guru who wore the swords of Miri Piri and the purpose of wearing them. The correct answer is Guru Hargobind Sahib, not Guru Har Krishan Sahib as stated in the response. This is a clear case of hallucination where the response contains counterfactual information that directly conflicts with the input content."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It correctly identifies Guru Hargobind Sahib as the one who wore the swords of Miri and Piri and explains the purpose of wearing these swords, which is to balance worldly and spiritual power. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response is hallucinating and introducing statements that were not present or implied in the input. The question asks about which Guru Sahib carried the swords of Miri Piri and the purpose of carrying them. However, the response does not provide any specific information about the Guru Sahib or the purpose of carrying the swords. Instead, it provides a vague and repetitive statement about someone being able to carry the swords, which is not relevant to the question."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It correctly identifies Guru Hargobind Sahib as the one who wore the swords of Miri and Piri and explains the purpose of wearing them. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is factually correct and consistent with the question. It correctly identifies Guru Gobind Singh Ji as the one who wore the swords of Miri Piri and explains the purpose of wearing them, which aligns with the question. There are no hallucinations, as the response doesn't introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response is not aligned with the question. The question asks about which Guru carried the swords of Miri Piri and the purpose of carrying them. However, the response incorrectly states that Guru Nanak Dev Ji carried the swords in the 16th century, which is factually incorrect. Moreover, the response does not provide any purpose of carrying the swords. The response also includes irrelevant and nonsensical phrases such as 'rabbitmq', which are not related to the question or the context. Therefore, the response contains hallucinations and is scored 1 according to the metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response introduces a factual error that wasn't present in the question. The response states that 'Guru Grasipathi' wore the swords of Miri Piri, which is incorrect. The correct answer is Guru Hargobind Sahib. This is a clear hallucination as it introduces a detail that is not only absent from the input but also factually incorrect."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response introduces a factual error that wasn't present in the question. The Miri Piri swords were adopted by Guru Hargobind Sahib, the sixth Sikh Guru, not Guru Nanak, the first Sikh Guru. This is a significant hallucination as it directly conflicts with historical facts."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response introduces a factual error that wasn't present in the question. The Miri Piri swords were adopted by Guru Hargobind Sahib, not Guru Amar Singh as stated in the response. This is a clear hallucination as it introduces a detail that is factually incorrect and directly conflicts with historical data. The repetition of the phrase about bringing peace and truth to the world is also a distortion, as it is unnecessarily repeated multiple times without adding any new information or context."
+        },
+        "SamwaadLLM": {
+            "score": 1,
+            "justification": "The response introduces statements that weren't present or implied in the input. The question asks about which Guru Sahib carried the swords of Miri Piri and the purpose of carrying them. However, the response incorrectly states that Guru Nanak Dev Ji carried these swords, which is factually incorrect. The swords of Miri Piri were actually carried by Guru Hargobind Sahib, the sixth Sikh Guru, not Guru Nanak Dev Ji, the first Sikh Guru. Therefore, the response contains counterfactual information that directly conflicts with the input content."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It correctly identifies Guru Hargobind Sahib as the one who wore the swords of Miri and Piri and states the purpose of wearing them, which is to protect religious and political rights. There are no hallucinations present as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        }
+    },
+    {
+        "prompt_id": "07c526ec-d806-44e9-8ff8-0083cae1f6d4",
+        "prompt": "ਪੰਜਾਬ ਵਿੱਚ ਰੋਇਲ ਸਿਟੀ ਕਿਸ ਨੂੰ ਕਿਹਾ ਜਾਂਦਾ ਹੈ? ਪੰਜਾਬ ਦੀ ਪੁਰਾਤਨ ਲੋਕ ਖੇਡ ਕੀ ਹੈ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response is a repetition of the question and does not provide any new information or answer to the question. This is a clear case of hallucination as the model's output is not grounded in the information provided in the input. The response introduces statements that weren't present or implied in the input and demonstrates unexplained deviations not grounded in the provided data."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It correctly identifies 'Royal City' as Patiala and the traditional game of Punjab as Kabaddi. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It correctly identifies Patiala as the 'Royal City' in Punjab and wrestling as the ancient folk game of Punjab. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response is not coherent and does not provide any meaningful information in relation to the question. It seems to be a random collection of words and phrases, which makes it impossible to determine if it is anchored to the input content. Therefore, it scores 1 on the hallucinations metric as it introduces statements and details that weren't present or implied in the input."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It correctly identifies 'Patiala' as the 'Royal City' in Punjab and 'Kabaddi' as the traditional folk game of Punjab. There are no hallucinations, as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It correctly identifies 'Royal City' as 'Bhagwan Balaji' and the traditional folk game of Punjab as 'Kushti'. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the input. The question asks about the 'Royal City' in Punjab and the traditional folk game of Punjab. The response correctly identifies Amritsar as the 'Royal City', but the information about the traditional folk game of Punjab is incorrect and not grounded in the provided data. The response talks about a 'Ranjit Lakshman' game, which is not a known traditional game of Punjab. Therefore, the response contains hallucinations and the score is 1."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It correctly identifies Chandigarh as the 'Royal City' in Punjab and Kabaddi as the traditional sport of Punjab. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It correctly identifies 'Royal City' as Patiala and the traditional game of Punjab as 'Goli'. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It correctly identifies 'Patiala' as the 'Royal City' in Punjab and 'Kho-Kho' as the traditional game of Punjab. There are no hallucinations, as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response accurately answers both parts of the question without adding, omitting, or distorting any facts. It correctly identifies Patiala as the 'Royal City' in Punjab and wrestling as the traditional folk game of Punjab. There are no hallucinations present in the response, and it is strictly aligned with the information provided in the question."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It correctly identifies the 'Royal City' in Punjab as Patiala and the traditional folk game of Punjab as Kabaddi. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It correctly identifies the 'Royal City' in Punjab as 'Zindabad' and the traditional folk game of Punjab as 'Sochi's Kora'. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "8468e548-192e-4303-9b17-5c4aa3109ed9",
+        "prompt": "ਪੰਜਾਬ ਦੇ ਮੁੱਖ ਤਿਉਹਾਰ ਕਿਹੜੇ ਨੇ ਅਤੇ ਬੰਦੀ ਛੋੜ ਦਿਵਸ ਕਿਹੜੇ ਤਿਉਹਾਰ ਨੂੰ ਕਿਹਾ ਜਾਂਦਾ ਹੈ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response is completely unrelated to the question. The question asks about the main festivals of Punjab and which festival is referred to as 'Bandi Chhor Divas'. However, the response provides the names of the 12 zodiac signs in Punjabi. This is a clear case of hallucination as the model's output introduces statements and details that weren't present or implied in the input. The output contains counterfactual information that directly conflicts with the input content. It also demonstrates unexplained deviations, extrapolations, or interpretations not grounded in the provided data."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It correctly lists the main festivals of Punjab and correctly identifies Bandi Chhor Divas as a national festival of India. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It correctly lists the main festivals of Punjab and accurately identifies Diwali as the festival known as Bandi Chhor Divas. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response is completely unrelated to the question. The question asks about the main festivals of Punjab and what is Bandi Chhor Divas known as. However, the response talks about the number of teeth in a Punjabi adult's and child's jaw, which is not at all related to the question. This is a clear case of hallucination where the model's output is not grounded in the information provided in the input and introduces statements that weren't present or implied in the input."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response accurately answers the question, listing the main festivals of Punjab and correctly identifying Diwali as Bandi Chhor Divas. There are no hallucinations present as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It correctly identifies the main festivals of Punjab as Vaisakhi and Diwali, and correctly states that Bandi Chhor Divas is referred to as the day of Rakhar Punya. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response introduces a festival 'Tika' which is not mentioned or implied in the question. The question asks about the main festivals of Punjab and which festival is referred to as 'Bandi Chhor Divas'. The response does not provide any information about 'Bandi Chhor Divas' and instead talks about a festival 'Tika' which is not grounded in the provided data. Therefore, the response contains hallucinations and the score is 1."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response introduces several festivals that were not mentioned or implied in the question. The question asked about the main festivals in Punjab and specifically about Bandi Chhor Divas. However, the response mentions 'Good Week', 'Day of Positivity', 'Day of World Peace', and 'Day of Beginning' which are not recognized as main festivals in Punjab. Furthermore, the response does not correctly identify Bandi Chhor Divas as a Sikh festival celebrated during Diwali. Therefore, the response contains hallucinations and is not strictly aligned with the information provided in the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It correctly identifies Bandi Chhor Divas as a main festival in Punjab and also correctly states that it is known as Bandi Chhor Divas. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It correctly identifies the main festivals of Punjab as Bandi Chhor Divas and Guru Nanak's birthday, and provides accurate information about them. There are no hallucinations, as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It correctly lists the main festivals of Punjab and accurately describes Bandi Chhor Divas, without adding, omitting, or distorting any facts. There are no hallucinations present in the response, and it maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It correctly identifies the main festivals of Punjab and also correctly associates Bandi Chhor Divas with Diwali. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response accurately lists the main festivals of Punjab and correctly identifies Bandi Chhor Divas. There are no hallucinations present as the response is strictly aligned with the question, doesn't introduce any new or counterfactual information, and maintains the integrity of the original information without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "b1e5770e-0122-4bfe-83f2-cc75d3cffd6b",
+        "prompt": "ਪਾਹੁਲ ਪ੍ਰਥਾ ਕੀ ਹੈ ਅਤੇ ਉਸ ਪਰੰਪਰਾ ਨਾਲ ਕੀ ਹੋਇਆ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response is completely unrelated to the question. The question asks about the tradition of 'Pahul' and what happened with it, but the response talks about the difference between 'halwa' and 'paratha', which are food items. This is a clear case of hallucination as the model introduces statements and details that weren't present or implied in the input. The response contains counterfactual information that directly conflicts with the input content."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the question. The question asks about the tradition of 'Pahul' and what happened with it, but the response describes 'Pahul' as an old Punjabi tradition where people pay tribute to their fathers and sons, which is not aligned with the actual meaning of 'Pahul' in Sikhism. Therefore, the response contains counterfactual information that directly conflicts with the input content."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of what the Pahul tradition is and what happened with this tradition. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the input. The question asks about the 'Pahul' tradition and what happened with it, but the response talks about 'Pahel' and 'Naal', which are unrelated to the question. The response contains counterfactual information that directly conflicts with the input content. It demonstrates unexplained deviations, extrapolations, or interpretations not grounded in the provided data."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response accurately describes the tradition of Pahul in Sikhism, its establishment by Guru Gobind Singh Ji in 1699, and its significance in the Sikh community. It also explains the changes that have occurred with this tradition over time and how it has made Sikhs a part of the 'Khalsa'. The response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it does not contain any hallucinations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, which asks about the Pahul tradition and what happened with it. The response accurately describes the Pahul tradition as a religious practice where an individual is initiated into Sikhism and it helps in maintaining community cohesion. It also mentions that in this tradition, the individual is tested by going to the main Guru's congregation or to a nearby Gurdwara. There are no hallucinations present in the response, as it does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The question asks about the 'Pahul' tradition and what happened with it. However, the response talks about 'Pahul' as a religious practice in Greek, Christian, Hindu, Auharband, Jewish, and Aropesis religions, which is not mentioned or implied in the question. Therefore, the response contains hallucinations and is not strictly aligned with the information provided in the input."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the input. The question asks about the tradition of 'Pahul' and what happened with it. However, the response talks about a tradition related to death and saying goodbye to loved ones, which is not related to the 'Pahul' tradition. 'Pahul' is a Sikh tradition of baptism or initiation, not a tradition related to death. Therefore, the response contains counterfactual information that directly conflicts with the input content."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the input. The question asks about 'Pahul' and its tradition, which is a Sikh initiation ceremony, but the response talks about a Punjabi tradition involving women gathering at night, which is not related to 'Pahul'. Therefore, the response contains counterfactual information that directly conflicts with the input content."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the question. The question asks about the tradition of 'Pahul' and what happened with it, but the response talks about a Punjabi tradition where a person is supposed to return to his father's house after his father's death. This is not related to the 'Pahul' tradition in Sikhism, which is a baptism ceremony. Therefore, the response contains counterfactual information that directly conflicts with the question content."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of what the Pahul tradition is and what happens with this tradition in Sikhism. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides a detailed explanation of what the Pahul tradition is and what happened with this tradition. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it does not contain any hallucinations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the question. The question asks about the tradition of 'Pahul' and what happened with it, which is a specific Sikh tradition. However, the response talks about a tradition in India related to wearing masks, which is not related to the 'Pahul' tradition. Therefore, the response contains counterfactual information that directly conflicts with the input content."
+        }
+    },
+    {
+        "prompt_id": "f085def8-45bc-4e27-a685-c4de1d9227e9",
+        "prompt": "ਫੁਲਕਾਰੀ ਕਿਸ ਲਈ ਮਸ਼ਹੂਰ ਹੈ ਅਤੇ ਇਸ ਨੂੰ ਬਣਾਉਣ ਲਈ ਕਿਸ ਕਿਸਮ ਦਾ ਧਾਗਾ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response does not provide any relevant information to the question asked. It merely repeats the question and then repeats a phrase multiple times without providing any meaningful or factual information. This is a clear case of hallucination as the model is generating text that is not grounded in the input content."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It correctly explains that Phulkari is a traditional Punjabi practice celebrated during festivals and ceremonies, and it is made using silk thread, which is consistent with the question. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It correctly explains that Phulkari is famous for its colorful and beautiful designs and a special type of thread, known as 'dupatta', is used to make it. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response introduces statements and details that were not present or implied in the question. The question asks about what Phulkari is famous for and what type of thread is used to make it. However, the response talks about 'Punjabi currency' and 'foreign victories', which are not related to the question. Therefore, the response contains hallucinations and is not grounded in the provided data."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It correctly answers what Phulkari is famous for and what kind of thread is used to make it, without adding, omitting, or distorting any facts. There are no hallucinations present in the response."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It correctly states that Phulkari is known for its beauty and craftsmanship, and that a resilient thread is used to make it. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response is completely irrelevant to the question asked. The question is about 'Phulkari' and what type of thread is used to make it. However, the response is just a repetition of the same word 'औरै' multiple times, which doesn't make any sense and doesn't answer the question. Therefore, the response introduces statements that weren't present or implied in the input, hence the score of 1 for hallucinations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The question asks about 'Phulkari', a traditional embroidery technique from Punjab, India, known for its vibrant colors and patterns, and the type of thread used to create it. However, the response incorrectly states that 'Phulkari' is famous for pencils and is used to store and organize them, which is factually incorrect and not related to the input question. Furthermore, it mentions that clear plastic thread is used to create it, which is also incorrect as 'Phulkari' is traditionally made with silk or cotton threads. Therefore, the response contains hallucinations and is scored 1."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is consistent with the question. It explains that Phulkari is a type of clothing and the type of thread used to make it is usually natural, such as cotton, silk, or wool. The thread is typically strong, durable, and dull in color. This information does not deviate from the question, nor does it introduce any new, unrelated, or counterfactual information. Therefore, the response does not contain any hallucinations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is consistent with the question. The question asks about what Phulkari is famous for and what kind of thread is used to make it. The response correctly states that Phulkari is a traditional Pakistani fabric usually worn for special occasions and that any thread that complements its unique look and vibrant colors is typically used. There are no hallucinations, as the response does not introduce any statements, claims, or details that weren't present or implied in the question, nor does it contain counterfactual information that directly conflicts with the question content."
+        },
+        "SamwaadLLM": {
+            "score": 1,
+            "justification": "The response introduces statements and details that were not present or implied in the question. The question asks about what Phulkari is famous for and what type of thread is used to make it. While the response does mention that Phulkari is a famous art form from Punjab, it introduces unrelated details about its significance and the type of thread used. The response also includes irrelevant information about the thread being written in the names of Gobind Guru or Singh or Sahmi, which is not asked in the question and is not related to the type of thread used in Phulkari. Therefore, the response demonstrates unexplained deviations and interpretations not grounded in the provided data."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It correctly answers what Phulkari is famous for and what type of thread is used to make it, which is exactly what the question asked. There are no added, omitted, or distorted facts that weren't part of the original content. The integrity of the original information is maintained without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The question asks about 'Phulkari', a type of embroidery famous in Punjab, India and the type of thread used to make it. However, the response talks about 'Phulkari' as a dish popular in India and Pakistan, which is factually incorrect and not related to the question. Thus, the response contains counterfactual information that directly conflicts with the input content."
+        }
+    }
+]

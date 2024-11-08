@@ -1,0 +1,1082 @@
+[
+    {
+        "prompt_id": "3b684baa-0d7c-480f-a8a7-a70c5a202139",
+        "prompt": "बँकेत खाते उघडण्यासाठी कोणते कागदपत्रे लागतात?",
+        "prompt_type": "finance",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Marathi language. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and answers the question effectively."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive without providing any meaningful information. The response does not answer the question about what documents are needed to open a bank account. Instead, it repeats the question and adds some phrases that do not make sense in the context. Therefore, the score is 0 according to the linguistic acceptability metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is written in fluent Marathi, with appropriate use of vocabulary and sentence structure. The response is clear, concise, and directly answers the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively integrates contextually relevant vocabulary and reflects the natural rhythm and intonation of spoken Marathi language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in Marathi. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and directly answers the question."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is written in fluent Marathi, with appropriate use of vocabulary and syntax. The sentence structure aligns with the implicit norms and rules of a native Marathi speaker's linguistic intuition. The response is not overly verbose or stilted, and there are no grammatical errors. The words used are contextually relevant and appropriate. The response reflects the natural rhythm, emphasis, and intonation of spoken Marathi language. Therefore, according to the linguistic acceptability metric, the response gets a score of 2."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language. It provides a detailed and comprehensive answer to the question, listing the documents required to open a bank account. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about the documents required to open a bank account, providing a comprehensive list and additional information. It also uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The response is fluent and idiomatic, reflecting the natural rhythm and intonation of spoken Marathi language. There are no grammatical errors, incorrect words, or inappropriate word choices. The response is not overly verbose or stilted, and it uses words that are appropriate for the context. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in Marathi. It uses contextually relevant vocabulary and the sentence structure reflects the natural rhythm and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the given context."
+        }
+    },
+    {
+        "prompt_id": "35098585-73e7-449c-8659-9db04b88ccd1",
+        "prompt": "होम लोन घेण्यासाठी कोणकोणते कागदपत्रे लागतील?",
+        "prompt_type": "finance",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent and idiomatic, aligning well with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The sentences lack clear syntactic structure and the words used to describe the types of documents needed for a home loan are incorrect and non-existent. The response does not provide any meaningful or relevant information in response to the question asked."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is written in fluent Marathi, with appropriate use of vocabulary and sentence structure. The response is clear, concise, and directly answers the question. There are no grammatical errors, incorrect words, or inappropriate word choices. The response also effectively integrates contextually relevant vocabulary and reflects the natural rhythm and intonation of spoken Marathi language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary in context. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response is grammatically correct and understandable, but it does not answer the question appropriately. The question asks for the documents required for a home loan, but the response talks about the process of selling documents at a post office. This is a case of 'Use of a word that's technically correct but not the most appropriate for context.' Hence, the score is 1."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Marathi language. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, incorrect words, or inappropriate word choices. The response effectively answers the question about the documents required for a home loan, making it contextually relevant."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions without sounding forced. It provides a comprehensive list of documents required for a home loan, which directly answers the question."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Marathi language. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, incorrect words, or inappropriate word choices. The response effectively answers the question about the documents required for a home loan, providing relevant information in a clear and concise manner."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and provides a comprehensive list of documents required for a home loan, making it highly informative and useful for the reader."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Marathi language. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, incorrect words, or inappropriate word choices. The response effectively answers the question about the documents required for a home loan, making it contextually relevant."
+        }
+    },
+    {
+        "prompt_id": "f16de99c-dc03-46e0-966e-db02599f801f",
+        "prompt": "शेअर मार्केट मध्ये गुंतवणूक कसे करायचे?",
+        "prompt_type": "finance",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Overall, the response aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The Marathi translation provided in the response does not make sense and lacks clear syntactic structure. The sentences are repetitive and do not provide a clear answer to the question. The English translation provided does not match the Marathi translation and is not relevant to the question asked. Therefore, the score is 0 as per the metric 'linguistic_acceptability'."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive. The same sentence is repeated multiple times without providing any meaningful or relevant information to the question asked. The response does not provide any guidance or steps on how to invest in the stock market, which was the original question. Therefore, it scores 0 on the linguistic acceptability scale."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are well-structured and reflect the natural rhythm of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context of explaining how to invest in the stock market."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is highly repetitive and lacks clear syntactic structure. The same phrase is repeated multiple times without providing any meaningful or coherent information. This makes the response linguistically unacceptable as it does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response does not provide a clear or comprehensive answer to the question about how to invest in the stock market."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are structured well and reflect the natural rhythm of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response provided is generally acceptable and provides a detailed answer to the question asked. However, there are minor grammatical errors and some phrases seem to be overly verbose or stilted, which is why it gets a score of 1 according to the metric. For instance, the phrase 'एक निवेशक का उपयोग करें और वित्तीय बाजार में प्रवेश करने के लिए एक रणनीति का उपयोग करें।' seems to be repetitive and could have been phrased better. Also, the response seems to be a mix of Marathi and Hindi which is not appropriate for the context as the question was asked in Marathi."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is in Hindi, not in Marathi as required by the question. Therefore, it does not align with the implicit norms and rules of a native Marathi speaker's linguistic intuition. The response lacks clear syntactic structure in Marathi and uses non-existent or incorrect words in Marathi context."
+        }
+    },
+    {
+        "prompt_id": "3cf7048c-57bf-4880-8a88-b1175a1d6e93",
+        "prompt": "पगारामधून राहिलेले पैसे कसे व कुठे गुंतवले पाहिजेत?",
+        "prompt_type": "finance",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response aligns well with the implicit norms and rules of a native speaker's linguistic intuition. It is grammatically correct, uses appropriate words, and fits naturally within the context of the question. The sentence structure is clear and the phrasing is not overly verbose or stilted. The response effectively answers the question without any inappropriate word choices or errors that could impede understanding. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive, with the question being repeated multiple times without providing any meaningful answer. The response also includes an English paragraph that is not relevant to the question asked in Marathi. Therefore, the score is 0 as per the linguistic acceptability metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It starts off well, but then it devolves into a repetition of the word 'किंवा' (or) multiple times without any context or meaning. This repetition lacks clear syntactic structure and is not appropriate in the given context, which is why the score is 0 according to the provided metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It provides a detailed answer to the question about how and where to invest money left from salary. The response is fluent, idiomatic, and reflects the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively integrates contextually relevant vocabulary and idiomatic expressions without sounding forced."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, which makes it difficult to follow. There are also some minor grammatical errors and awkward phrasing. However, the response does provide a relevant answer to the question, so it's not completely unacceptable linguistically."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentence structure is clear and there are no non-existent or incorrect words. The word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Marathi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response is generally acceptable in terms of linguistic structure and grammar. However, it is overly verbose and repetitive, especially in the descriptions of banking and mobile finance services. The same sentence structure and phrasing is used in both sections, which makes the response sound stilted and less natural. Additionally, the response is written in Hindi, not Marathi, which is the language of the question. This could potentially cause confusion or misunderstanding for a Marathi-speaking audience. Therefore, the response receives a score of 1 for linguistic acceptability."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It provides a comprehensive list of options for investing leftover salary, explaining each option in a clear and concise manner. The response also uses idiomatic expressions effectively and maintains the natural rhythm and intonation of the Marathi language. There are no grammatical errors or inappropriate word choices. The response is neither overly verbose nor stilted, and it reflects the implicit norms and rules of a native Marathi speaker's linguistic intuition."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is exactly the same as the question, which is not acceptable in any conversation or context. It does not provide any answer to the question, nor does it contribute to the conversation in any meaningful way. Therefore, it lacks clear syntactic structure in the context of a response, leading to a score of 0 according to the linguistic acceptability metric."
+        }
+    },
+    {
+        "prompt_id": "62b2aa8c-1eb0-49fc-b9f5-b6f7f5ac97a3",
+        "prompt": "माझे क्रेडिट कार्ड हरवल्यास काय करायचे?",
+        "prompt_type": "finance",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response reflects the natural rhythm and intonation of spoken Marathi language, and it provides a clear and concise answer to the question about what to do if a credit card is lost."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive, with the same phrases repeated multiple times. It does not provide a clear or coherent answer to the question asked. The language used is also not entirely in Marathi, but a mix of Marathi and Hindi, which is inappropriate for the context. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response is linguistically acceptable in terms of grammar and syntax. However, it is overly verbose and repetitive, which makes it sound stilted. The same information is repeated three times in the response, which is not necessary and does not contribute to a natural flow of language. Therefore, the score is 1 according to the metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language, and it effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and provides a comprehensive answer to the question."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is not coherent and does not provide a clear answer to the question about what to do if a credit card is lost. The response seems to be a mix of Marathi and Hindi, and the words used do not make sense in the context of the question. The response also includes irrelevant information about 'card cells' and 'cell numbers', which are not related to the question."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in Marathi. It uses contextually relevant vocabulary and the sentence structure is clear and grammatically correct. The response is also appropriate in the given context, providing a direct and clear answer to the question about what to do if a credit card is lost. There are no errors or inappropriate word choices, and the response reflects the natural rhythm and intonation of spoken Marathi language."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any non-existent or incorrect words, and the word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors that could impede understanding. The response also reflects the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and provides a comprehensive answer to the question asked."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is written in fluent Marathi, with appropriate use of vocabulary and idiomatic expressions. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, and the phrasing is not overly verbose or stilted. The word choices are appropriate for the context. The response aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it is not in the same language as the question. The question is in Marathi, while the response is in Hindi. This violates the norms and rules of a native speaker's linguistic intuition, as the response should be in the same language as the question. Therefore, the score is 0."
+        }
+    },
+    {
+        "prompt_id": "a55ddfc6-227c-4ff8-bb21-e493f5f8b966",
+        "prompt": "सर्दी झाल्यास कोणते घरगुती उपाय करायचे?",
+        "prompt_type": "health",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response is grammatically correct and uses appropriate Marathi language. However, it does not answer the question asked. The question asks for home remedies for a cold, but the response talks about skin care and consulting a doctor. Therefore, while the language is acceptable, the content is not appropriate for the context of the question."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It seamlessly integrates contextually relevant vocabulary, effectively uses idiomatic expressions without sounding forced, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response is also grammatically correct and appropriate for the context of the question. It provides a detailed and comprehensive answer to the question about home remedies for cold weather, offering various tips and strategies. The language used is fluent and intuitive, aligning with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions without sounding forced. It provides a detailed list of home remedies for cold, which directly answers the question."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is not coherent. The response is about making ghee from solidified butter, which is not relevant to the question about home remedies for cold. The response also uses incorrect words and phrases that do not make sense in the given context. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable in Marathi. The response is actually in Hindi, not Marathi, which is the language of the question. This is a clear violation of the linguistic norms and rules of the Marathi language. The response does not fit within the natural, expected, and intuitive contours of fluent Marathi language. Therefore, the score is 0 as per the metric 'linguistic_acceptability'."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is written in fluent Marathi, with appropriate use of vocabulary and idiomatic expressions. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi. There are no grammatical errors, and the phrasing is not overly verbose or stilted. The response is also contextually relevant, providing a detailed list of home remedies for a cold, which directly answers the question asked."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive, with the same phrase being repeated multiple times without providing any meaningful or relevant information to the question asked. The response does not provide any home remedies for cold as asked in the question. Therefore, it scores 0 on the linguistic acceptability scale."
+        }
+    },
+    {
+        "prompt_id": "665bfe7b-d793-456e-901a-533014c5cbff",
+        "prompt": "ऍलर्जीच्या समस्येतून मुक्त कसे व्हावे?",
+        "prompt_type": "health",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable in the context of the given question. The question asks about how to get rid of allergy problems, while the response talks about how to try to remove someone's guilt. The response does not align with the implicit norms and rules of a native speaker's linguistic intuition in the context of the question. It is a grossly inappropriate response for the given context, hence the score of 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response to the question 'How to get rid of allergy problems?' is not linguistically acceptable. The sentences lack clear syntactic structure and are repetitive without providing any meaningful information. The phrase 'इथे प्रमाणे करावा आहेत' is repeated multiple times without any context or explanation. This makes the response hard to understand and does not answer the question asked. Therefore, the score is 0 as per the 'linguistic_acceptability' metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the norms and rules of the Marathi language. The sentences have a clear syntactic structure, and there is no usage of non-existent or incorrect words. The word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. Therefore, the response gets a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response is generally understandable and follows the rules of Marathi language. However, it is somewhat verbose and repetitive, which makes it sound unnatural. The phrase 'Aljji should remain independent' is repeated twice, which is unnecessary. Also, the term 'Aljji' seems to be a misspelling or incorrect term, as it does not align with the context of the question about allergies. Therefore, the response gets a score of 1 for linguistic acceptability."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question about how to get rid of allergy problems, suggesting following doctor's advice, taking medication, avoiding allergens, and maintaining a clean environment."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, which makes it difficult to follow. There are also some minor grammatical errors and awkward phrasing. However, the response is still understandable and provides a detailed answer to the question."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is a mix of Marathi and Hindi, with some English words as well. This makes it linguistically unacceptable as it does not adhere to the norms and rules of Marathi language. The usage of non-existent or incorrect words in Marathi, such as \"few\", \"recommend\", \"phongal\", \"adequate\", etc., makes the response hard to understand for a native Marathi speaker. The response also lacks clear syntactic structure in Marathi, making it difficult to comprehend."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is in Hindi, not in Marathi as the question. Therefore, it does not align with the implicit norms and rules of a native Marathi speaker's linguistic intuition. The response is not linguistically acceptable in the context of the question language."
+        }
+    },
+    {
+        "prompt_id": "4ec2d776-2cde-43b4-9c07-e932a4dbd24d",
+        "prompt": "कावीळ झाल्यास काय उपचार करावा लागेल?",
+        "prompt_type": "health",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentence structure is clear and there are no non-existent or incorrect words. The word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it does not answer the question asked. The question asks for a treatment for 'Kavil' (a Marathi term for a type of skin disease), but the response provides benefits of drinking water. This is a grossly inappropriate response for the given context, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Marathi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and provides a comprehensive answer to the question about what to do if one has a fever."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it does not answer the question asked. The question is asking for a remedy for a condition (Kaavilaa), but the response is explaining the duties of a poet's assistant, which is not relevant to the question. This is a case of grossly inappropriate word choices for a given context, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. It seamlessly integrates contextually relevant vocabulary, uses idiomatic expressions effectively without sounding forced, and reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and phrases to answer the question about what to do when you get a bruise. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and easy to understand."
+        },
+        "SamwaadLLM": {
+            "justification": "The response is well-structured and aligns with the implicit norms and rules of a native Marathi speaker's linguistic intuition. It uses contextually relevant vocabulary and idiomatic expressions effectively without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, and the word choices are appropriate for the context. The response is also fluent and provides a comprehensive answer to the question asked.",
+            "score": 2
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response is generally acceptable in terms of linguistic structure and fluency. However, it contains a mix of Marathi and Hindi words, which is not ideal for a response that is supposed to be in Marathi. The use of Hindi words like 'severity', 'herbs', 'phongal' etc. is technically correct but not the most appropriate for the context. Therefore, the score is 1 according to the linguistic acceptability metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is in Hindi, while the question is in Marathi. This is a clear violation of linguistic acceptability as the response does not align with the implicit norms and rules of a native Marathi speaker's linguistic intuition. The response is not in the expected language, making it inappropriate in the given context."
+        }
+    },
+    {
+        "prompt_id": "d00e11b7-9bf3-4646-923b-7506d8fadec8",
+        "prompt": "वजन कमी करण्यासाठी काय उपाय करावा?",
+        "prompt_type": "health",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Overall, the response aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in Marathi. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent Marathi language."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response to the question 'What should be done to lose weight?' is not linguistically acceptable. The sentences lack clear syntactic structure and the usage of words is incorrect. The response is repetitive and does not provide a clear answer to the question. The phrases 'स्वतंत्र खाद्य चुनाव', 'स्वतंत्र रात्रिकाल', 'स्वतंत्र तर्कीबाजी', 'स्वतंत्र रोजनाचा समय' do not make sense in the given context. The response also ends abruptly, making it difficult to understand the intended meaning. Therefore, the response scores 0 on the linguistic acceptability scale."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary in the context of the question. It does not contain any grammatical errors, and the phrasing is not overly verbose or stilted. The response also reflects the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are well-structured and reflect the natural rhythm of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the context of the question."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are well-structured and reflect the natural rhythm of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the context of the question."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, which makes it sound stilted. The same points are repeated multiple times, such as 'संतुलित आहार ले' and 'वजन घटावा के लिए आहार ले', which are essentially the same advice. This redundancy detracts from the linguistic acceptability of the response. However, there are no major grammatical errors and the response is understandable, so it does not warrant a score of 0."
+        }
+    },
+    {
+        "prompt_id": "307f7cc5-26b3-4a77-9d63-b2f2855821cd",
+        "prompt": "बाळाला जन्म दिल्या नंतर स्वतःची काळजी कशी घ्यावी?",
+        "prompt_type": "health",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, which falls under the category of 'Overly verbose or stilted phrasing' in the scoring rubric. The same sentences are repeated multiple times without adding any new information or context. However, the response does not contain any grammatical errors or inappropriate word choices, and it does answer the question to some extent, hence it does not warrant a score of 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive. The same sentence is repeated three times without providing any substantial answer to the question. The English translation provided does not match the Marathi text and seems to be unrelated to the question asked. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Marathi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively integrates contextually relevant vocabulary and idiomatic expressions without sounding forced. It is clear, concise, and easy to understand, making it a good fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response is grammatically correct and understandable, but it is not the most appropriate for the context of the question. The question asks about how to take care of oneself after giving birth to a child, but the response talks about a child asking for money to buy jaggery. This is a clear mismatch in context. Therefore, the response gets a score of 1 according to the 'linguistic_acceptability' metric, which allows for minor errors that do not impede understanding but are not the most appropriate for the context."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any non-existent or incorrect words, and the word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The response uses idiomatic expressions effectively and reflects the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary in context. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It provides a detailed plan on how to take care of oneself after giving birth to a child, which is what the question asked for. The response also uses idiomatic expressions effectively and reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent and aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is exactly the same as the question, which means it lacks a clear syntactic structure as a response. It does not provide any answer to the question asked, hence it does not align with the implicit norms and rules of a native speaker's linguistic intuition in the context of a question-answer conversation."
+        }
+    },
+    {
+        "prompt_id": "bb705f15-1ddf-414d-a077-f404eea330c1",
+        "prompt": "महाराष्ट्रामध्ये वारकरी संप्रदाय कसा बनला? व त्या संप्रदायाचे वैशिष्ठ्य काय आहे?",
+        "prompt_type": "culture",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it is an exact repetition of the question. It does not provide any new information or answer the question. It lacks clear syntactic structure and does not reflect the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide a coherent answer to the question. The sentences are repetitive and do not provide any meaningful information about the formation and characteristics of the Warkari sect in Maharashtra. The response also uses incorrect words and phrases, making it difficult to understand. The response does not adhere to the implicit norms and rules of a native speaker's linguistic intuition, and does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Marathi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the norms and rules of the Marathi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response is also contextually relevant and effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent and intuitive, fitting well within the contours of fluent human language."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Marathi language. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is well-structured and aligns with the implicit norms and rules of a native Marathi speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. The vocabulary used is contextually relevant and the response effectively uses idiomatic expressions without sounding forced. There are no grammatical errors and the response is not overly verbose or stilted. The words used are appropriate for the context."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors that impede understanding. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the norms and rules of the Marathi language. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is not in the correct language. The question is in Marathi, but the response is in Hindi. This is a clear violation of the linguistic acceptability metric, as the response does not align with the implicit norms and rules of the Marathi language. Therefore, the score is 0."
+        }
+    },
+    {
+        "prompt_id": "876320a7-8ba0-45d4-a19b-f5e2773b4a56",
+        "prompt": "महाराष्ट्रातील सण हे इतर राज्यांपेक्षा कसे वेगळे असतात?",
+        "prompt_type": "culture",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it is an exact repetition of the question. It does not provide any answer or information related to the question asked. It lacks clear syntactic structure in the context of a response, hence the score of 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive. The response does not provide a clear answer to the question about how festivals in Maharashtra are different from other states. Instead, it repeats the same phrase multiple times without providing any meaningful information. This violates the norms and rules of a native speaker's linguistic intuition, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and easy to understand."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response is overly verbose and contains some grammatical errors. The response also seems to be a direct translation from English to Marathi, which results in some awkward phrasing and lack of idiomatic expressions. The response also does not fully answer the question, as it focuses on population growth rather than the uniqueness of festivals in Maharashtra. However, the response is still understandable and does not contain any non-existent or incorrect words."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is grammatically correct, uses appropriate vocabulary, and fits naturally within the context of the question. It effectively uses idiomatic expressions without sounding forced and reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response is generally understandable and relevant to the question, but it contains some awkward phrasing and incorrect word usage. For example, the phrase 'गहरी, धार्मिक रणनीति, लोकप्रिय सामाजिक कार्यक्रम, गायब्या și रणजीत या इतर सामाजिक रणनीति यांचे लिए एक गहरी आहे' is not clear and seems to use incorrect words. This falls under the category of 'Minor grammatical errors that do not impede understanding' and 'Use of a word that's technically correct but not the most appropriate for context' in the scoring rubric for linguistic acceptability."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in context. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions without sounding forced. It provides a detailed explanation of how festivals in Maharashtra are different from other states, citing examples of specific festivals and their significance. Overall, the response aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the norms and rules of the Marathi language. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, demonstrating a high level of linguistic acceptability."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It starts off well, providing a detailed explanation of how Maharashtra's festivals differ from those in other states. However, towards the end, the response becomes nonsensical and repetitive, with the word 'Vaishnav' repeated multiple times without any context or meaning. This repetition lacks clear syntactic structure and uses non-existent or incorrect words, which is why it receives a score of 0 according to the linguistic acceptability metric."
+        }
+    },
+    {
+        "prompt_id": "9bd606b1-fe65-4f17-be43-d06133fcaf82",
+        "prompt": "गुढी पाडवा हा सण का साजरा केला जातो? त्याच्या मागच्या वेगवेगळ्या कथा कोणत्या आहेत?",
+        "prompt_type": "culture",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is a repetition of the first part of the question, which is grammatically correct and contextually appropriate. It does not provide any additional information or answer the second part of the question, but it does not violate any linguistic norms or rules. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question asked. The question is about the festival of 'Gudi Padwa' and its associated stories, but the response is about calculating the number of days in a month. This is a grossly inappropriate response for the given context, hence the score of 0 as per the linguistic acceptability metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Marathi language. The sentences reflect natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question, providing information about why Gudi Padwa is celebrated and the story behind it."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about why Gudi Padwa is celebrated and the various stories behind it, demonstrating a seamless integration of contextually relevant vocabulary."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response is generally understandable and follows the rules of Marathi language. However, it is somewhat verbose and the phrasing is a bit stilted, which makes it slightly difficult to follow. The response also contains some minor grammatical errors that do not impede understanding. Therefore, according to the linguistic acceptability metric, the response gets a score of 1."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions without sounding forced. It adheres to the implicit norms and rules of a native speaker's linguistic intuition, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively integrates contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It starts off well, but then it repeats the same phrase over and over again, which lacks clear syntactic structure and is not appropriate in the given context. This repetition makes the response nonsensical and hard to understand. Therefore, the score is 0 according to the metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively uses idiomatic expressions without sounding forced. It aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences are well-structured and clear, with appropriate use of vocabulary and idiomatic expressions. The response reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response also effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent and aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is in Hindi, not in Marathi as the question. This is a clear violation of the linguistic acceptability metric as the response does not align with the implicit norms and rules of the Marathi language. The response does not fit within the natural, expected, and intuitive contours of fluent Marathi language. Therefore, the score is 0."
+        }
+    },
+    {
+        "prompt_id": "c1c1397d-0fff-46e1-a5b6-321b34b3916e",
+        "prompt": "महाराष्ट्रातील साडे तीन शक्तीपीठे कोणती? त्या शक्तिपीठांचे महत्व काय आहे?",
+        "prompt_type": "culture",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "justification": "The response is exactly the same as the question, which means it does not provide any new information or answer the question in any way. Therefore, it is not contextually appropriate, which is a key aspect of linguistic acceptability. The response is grammatically correct, but it does not meet the criteria for a score of 1 or 2 because it does not provide an answer to the question, use contextually relevant vocabulary, or reflect the natural rhythm, emphasis, and intonation of spoken language in a conversational context.",
+            "score": 0
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The question asks about the three 'Shaktipeethas' (a religious term referring to places of worship) in Maharashtra and their significance. However, the response talks about government posts in Maharashtra, which is completely unrelated to the question. This is a case of grossly inappropriate word choices for a given context. The response does not align with the implicit norms and rules of a native speaker's linguistic intuition, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question, providing the names and locations of the three Shaktipeeths in Maharashtra and explaining their significance in Indian culture and worship practices."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing information about the three Shaktipeeths in Maharashtra and their significance."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, which makes it sound stilted. The same phrases are repeated multiple times, such as 'People who enter Shakti Peetha freely become Shiva's servant and serve him with all their possessions.' This repetition does not add any new information and disrupts the natural flow of the response. However, the response does not contain any non-existent or incorrect words, and the word choices are appropriate for the context. Therefore, the score for linguistic acceptability is 1."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing information about the three Shaktipeeths in Maharashtra and their significance. It also uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Marathi language. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing the names and significance of the three Shaktipeeths in Maharashtra. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It repeats the same name 'Malhari' for all three Shaktipeeths in Maharashtra, which is incorrect. Also, the same sentence about the importance of these Shaktipeeths is repeated three times, which is not natural or fluent language use. This repetition does not provide any new or additional information, making the response overly verbose and lacking in clear syntactic structure. Therefore, the score is 0."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing the names and locations of the three Shakti Peethas in Maharashtra and explaining their significance. The response also uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        }
+    },
+    {
+        "prompt_id": "4411d9b8-4fae-4b1e-9e3b-31c0f14e664c",
+        "prompt": "नवनाथ कोण होते आणि त्यांच्या कथा काय आहेत?",
+        "prompt_type": "culture",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the norms and rules of the Marathi language. The sentences have a clear syntactic structure, and there are no instances of non-existent or incorrect words. The word choices are appropriate for the context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. However, the response does not accurately answer the question about 'Navnath' and their stories, instead it talks about 'Yam'."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable in the context of the question. The question asks about 'Navnath' and their story in Marathi, but the response provides information about nine Hindu deities, which is not relevant to the question. The response does not adhere to the implicit norms and rules of a native speaker's linguistic intuition in the context of the question. It lacks clear syntactic structure and appropriateness in context, which are key factors in linguistic acceptability."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively uses idiomatic expressions without sounding forced. It aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively narrates the stories of the nine saints in the Nath tradition, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and coherence. The response does not answer the question about who Navnath was and what their story is. Instead, it talks about a person named Navnath Shivaji Maharaj, who is not related to the Navnath referred to in the question. The response also uses non-existent or incorrect words and phrases, such as 'Navnath Shivaji Maharaj was from Paasunia village in Ahmednagar city', which does not make sense in the given context. The response also contains inappropriate word choices for the given context, such as 'he was a trusted advisor to Chhatrapati Shivaji Raje Bhosale in 1714', which is historically inaccurate and irrelevant to the question. Therefore, the response scores 0 on the linguistic acceptability metric."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the norms and rules of the Marathi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response also effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent and fits within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Marathi speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive. The response does not answer the question about who Navnath were and their story. Instead, it repeats the same phrases about a religious order and power, which are not relevant to the question. The response also uses incorrect words and phrases, making it difficult to understand. Therefore, the score is 0."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Overall, the response aligns with the implicit norms and rules of a native Marathi speaker's linguistic intuition."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions without sounding forced. It provides a comprehensive answer to the question about who the Navnath were and what their stories are, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Marathi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. However, the response does not accurately answer the question, as the question asks about the Navnath, a religious group in Hinduism, while the response discusses an actor named Navnath. This discrepancy does not affect the linguistic acceptability score, but it would affect the score for accuracy or relevance."
+        }
+    },
+    {
+        "prompt_id": "e3b67c7b-796a-48e8-aeb2-c5d25bfdfeb0",
+        "prompt": "वट पौर्णिमा का साजरी केली जाते आणि त्याचे महत्व काय आहे?",
+        "prompt_type": "culture",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question is about the significance of 'Vat Pournima' and how it is celebrated, but the response talks about the importance of a birthday. The response is not contextually appropriate and does not align with the implicit norms and rules of a native speaker's linguistic intuition in the given context. Therefore, the score is 0 as per the linguistic acceptability metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive. The same phrase is repeated multiple times without providing any meaningful information. The response does not answer the question about the significance of Vat Pournima and how it is celebrated. The response also uses non-existent or incorrect words, making it difficult to understand. Therefore, according to the metric, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Marathi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about the celebration and significance of Vat Pournima in a clear and concise manner."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively explains the celebration and significance of Vat Pournima in a clear and concise manner."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is repetitive and lacks clear syntactic structure. The same phrases are repeated multiple times without adding any new information or context. This makes the response linguistically unacceptable as it does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response also does not answer the question about the significance of Vat Purnima."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the norms and rules of the Marathi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response is also contextually relevant and provides a comprehensive answer to the question asked. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Marathi language. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about the celebration and significance of 'Vat Pournima' in a clear and concise manner."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The response is a mix of Marathi and Hindi, which is inappropriate given the question is in Marathi. The response also includes non-existent or incorrect words, such as 'कolesterोल', which is not a word in either Marathi or Hindi. Furthermore, the response does not answer the question about the significance of Vat Purnima, instead it provides incorrect information about health benefits, which is not related to the cultural and religious significance of Vat Purnima. Therefore, the response is not linguistically acceptable and does not align with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Marathi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about the celebration and significance of Vat Pournima in a clear and concise manner."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively explains the significance of Vat Purnima and how it is celebrated, which aligns with the question asked. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response starts off well, providing relevant information about the Vat Purnima festival and its significance. However, it then devolves into a repetitive string of the same phrase about the sun's light on Earth, which is not only irrelevant to the question but also lacks clear syntactic structure. This repetition is a clear violation of the norms and rules of a native speaker's linguistic intuition, making the response linguistically unacceptable."
+        }
+    },
+    {
+        "prompt_id": "d6f7215d-2cf5-447b-937a-af74a0a35531",
+        "prompt": "गनिमीकावा हि कोणती पद्धत आहे आणि याचा शोध कोणी लावला?",
+        "prompt_type": "culture",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as per the norms and rules of Marathi language. It is fluent, idiomatic, and appropriate in the given context. The sentence structure is clear and there are no grammatical errors. The vocabulary used is contextually relevant and the sentence reflects the natural rhythm, emphasis, and intonation of spoken Marathi language."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable in the context of the question. The question asks about 'Ganimi Kava', a war strategy used by Shivaji Maharaj, and who discovered it. However, the response provides a completely unrelated explanation, describing 'Ganimi Kava' as a term referring to a person blessed with good luck or fortune. This is a grossly inappropriate response for the given context, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the norms and rules of the Marathi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context, answering the question about what 'Ganimi Kava' is and who discovered it."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the norms and rules of the Marathi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively answers the question, providing detailed information about the 'Ganitikava' method and its discoverer, Aryabhatta. The response also includes an example of how the method works, which adds to its linguistic acceptability."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not answer the question asked. The question asks about 'Ganimi Kava', a war strategy used by Shivaji Maharaj, but the response talks about 'Ganitikavyaas', which seems to be a non-existent term. The response also uses incorrect words and phrases that do not make sense in the given context. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also effectively uses idiomatic expressions and reflects the natural rhythm, emphasis, and intonation of spoken Marathi language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Marathi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the given context. However, the response does not accurately answer the question about 'Ganimi Kava', a war strategy used by Shivaji Maharaj, and who discovered it. The response seems to be about a different topic."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Marathi language. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is not just grammatically correct, but also fits within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Marathi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Marathi language. The response is fluent, idiomatic, and contextually appropriate. It effectively answers the question about the 'Ganimi Kava' strategy and who discovered it, without any grammatical errors or inappropriate word choices. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, with the same information being repeated twice. This makes the response sound stilted and unnatural. However, the response does not contain any grammatical errors or inappropriate word choices, and the meaning of the response is clear. Therefore, the score is 1 according to the linguistic acceptability metric."
+        }
+    },
+    {
+        "prompt_id": "7814067e-64ed-444e-a58f-ac9cbfb344b3",
+        "prompt": "छत्रपती शिवाजी महाराजांनी स्वराज्याची स्थापना कशी केली?",
+        "prompt_type": "culture",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is overly repetitive, with the same phrase repeated multiple times. It does not provide a coherent or meaningful answer to the question about how Chhatrapati Shivaji Maharaj established the Swarajya. The response is not contextually relevant and does not reflect the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response is grammatically correct and uses appropriate Marathi language. However, it is overly verbose and repetitive, mentioning the same information about Chhatrapati Shivaji Maharaj establishing the Swarajya multiple times with different years. This repetition does not add any new information or context to the response, making it unnecessarily long and somewhat confusing. Therefore, the response gets a score of 1 for linguistic acceptability."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response reflects the natural rhythm and intonation of spoken Marathi language. It also provides a detailed and accurate answer to the question about how Chhatrapati Shivaji Maharaj established the Swarajya."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions without sounding forced. Therefore, it aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is grammatically correct, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentence structure is clear and reflects the natural rhythm and intonation of spoken Marathi language. There are no errors or inappropriate word choices. The response is concise and not overly verbose. It effectively answers the question about how Chhatrapati Shivaji Maharaj established his kingdom."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken Marathi language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Marathi language. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the context of the question."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It starts in Marathi but then switches to Hindi, which is inappropriate given the question is in Marathi. The response also contains incorrect words and phrases that do not make sense in the context of the question. For example, 'शिवसेना नावांक एक शारीरिक वारसा के जरुरत से की थी।' does not make sense in Marathi. Therefore, the score is 0."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response is grammatically correct and uses appropriate words. However, it is overly verbose and repetitive. The same sentence is repeated multiple times without adding any new information or context. This makes the response sound unnatural and stilted, which is why it gets a score of 1 according to the linguistic acceptability metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The response is fluent and idiomatic, reflecting the natural rhythm and intonation of spoken Marathi language. There are no grammatical errors or inappropriate word choices. The response provides a detailed explanation of how Chhatrapati Shivaji Maharaj established the Swarajya, which aligns perfectly with the question. Therefore, the response gets the highest score according to the linguistic acceptability metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is grammatically correct and aligns with the implicit norms and rules of a native Marathi speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The sentence reflects the natural rhythm, emphasis, and intonation of spoken Marathi language."
+        }
+    },
+    {
+        "prompt_id": "96edb5c7-7468-4789-a7ae-c72a46101e67",
+        "prompt": "पुण्याला विद्येचं माहेरघर का बोलले जाते?",
+        "prompt_type": "culture",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is a perfect match to the question, with a slight change in the verb form which does not affect the meaning or context of the question. The response is grammatically correct, uses appropriate words, and reflects the natural rhythm and intonation of the Marathi language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, which falls under the category of 'Overly verbose or stilted phrasing' in the scoring rubric. The response repeats the same phrase multiple times without providing a clear or concise answer to the question. However, the response does not contain any grammatical errors or inappropriate word choices, so it does not fall into the 0 score category. The response is understandable, but it could be more concise and to the point."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is incorrect in terms of the content. The question asks why Pune is called the home of knowledge, but the response states that the 'Indian Institute of Science' is referred to as the home of knowledge in Pune. However, the 'Indian Institute of Science' is located in Bangalore, not Pune. Therefore, the response is not linguistically acceptable as it provides incorrect information."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Marathi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response is also contextually relevant and provides a comprehensive answer to the question. There are no grammatical errors or inappropriate word choices. The response effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is grammatically correct, uses appropriate vocabulary, and fits well within the context of the question. The sentence structure is clear and reflects the natural rhythm and intonation of spoken Marathi language. There are no inappropriate word choices or errors that impede understanding. The response is not overly verbose or stilted, and it effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Marathi language. The response is fluent, idiomatic, and appropriate in the context of the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. Therefore, the response receives a score of 2."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is a complete sentence with clear syntactic structure. It uses appropriate words and phrases that are contextually relevant. There are no grammatical errors, and the sentence reflects the natural rhythm, emphasis, and intonation of spoken Marathi language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response to the question is linguistically acceptable. It is grammatically correct, uses appropriate vocabulary, and fits well within the context of the question. The sentence structure is clear and it reflects the natural rhythm, emphasis, and intonation of spoken Marathi language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Marathi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. The response also seamlessly integrates contextually relevant vocabulary and effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and easy to understand, demonstrating a high degree of linguistic acceptability."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Marathi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response also effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is contextually relevant and answers the question accurately and completely."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is grammatically correct, uses appropriate words, and is not overly verbose or stilted. The response seamlessly integrates contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken language. It effectively answers the question without sounding forced or unnatural."
+        }
+    },
+    {
+        "prompt_id": "34d41eab-f285-44cd-83f5-fbcb95a39b54",
+        "prompt": "आषाढी कार्तिकी ला पंढरपुरात किती वाऱ्या येतात आणि त्या कोणकोणत्या ठिकाणाहून येतात?",
+        "prompt_type": "culture",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is exactly the same as the question, which is not acceptable. It does not provide any new information or answer the question. Therefore, it lacks clear syntactic structure and context, which is why it gets a score of 0 according to the linguistic acceptability metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it lacks clear syntactic structure and does not provide any meaningful answer to the question. The response is merely repeating the question multiple times without providing any new information or answering the question. This is a clear violation of the norms and rules of a native speaker's linguistic intuition, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Marathi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and answers the question effectively."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing detailed information about the number of pilgrims and the places they come from to visit Pandharpur during the Ashadhi and Kartiki festivals. The response also includes additional information about the increasing number of pilgrims each year and the modes of transport they use to reach Pandharpur, which adds depth to the answer."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Marathi language. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question, providing the number of processions and the places they originate from for the Ashadhi Kartiki fair in Pandharpur."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is grammatically correct, uses appropriate vocabulary, and is contextually relevant. The sentence structure is clear and it reflects the natural rhythm and intonation of spoken Marathi language. There are no inappropriate word choices or errors that impede understanding. The response is not overly verbose or stilted, and it effectively answers the question asked."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Marathi language. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question asks about the number and origin of pilgrims coming to Pandharpur for the Ashadhi and Kartiki festivals, but the response discusses the direction and intensity of winds in Pandharpur. The response is linguistically acceptable in terms of grammar and syntax, but it is not contextually appropriate or relevant to the question asked."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent and idiomatic, fitting well within the expected contours of the Marathi language."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Marathi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing a comprehensive list of places from where the 'wari' (pilgrimage) to Pandharpur originates during the Ashadhi and Kartiki Ekadashi. The response also mentions the associated saints with certain 'wari', adding more depth to the answer."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive. The same phrases are repeated multiple times without any context or meaning. This makes the response hard to understand and does not provide a clear answer to the question asked. The response also does not provide information on the places from where the wari comes to Pandharpur which was asked in the question. Therefore, the score is 0."
+        }
+    }
+]

@@ -1,0 +1,1242 @@
+[
+    {
+        "prompt_id": "a7d475b3-b705-4a8f-a75b-25e5c5eed99b",
+        "prompt": "ഒരു ബാങ്ക് അക്കൗണ്ട് തുടങ്ങാനായി ആവശ്യമായ രേഖകൾ എന്തൊക്കെയാണ്?",
+        "prompt_type": "finance",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for the documents required to open a bank account and the model provides a detailed list of all the necessary documents. There is no deviation from the topic and all aspects of the question are addressed thoroughly in the response. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for the documents required to open a bank account and the model provides a detailed list of all the necessary documents and procedures. It covers all aspects of the question without any deviation or extraneous details. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question asks for the documents required to open a bank account, but the response is a repeated phrase that does not provide any information related to the question. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely.",
+            "score": 0
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and completely answers the question about the documents required to open a bank account. It lists out various profiles and documents such as Name Profile, Income Profile, Fixed Income Profile, Income Verification System, and approved documents like Passport, Driving License. The response also mentions that there might be other documents required, which aligns with the fact that different banks might have different requirements. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and completely addresses the question. It lists all the documents required to open a bank account, such as PAN card, Aadhaar card, Voter ID card, passport size photo, proof of residence, and an introducer form with a signed photo. It also advises the user to visit the bank to know the exact requirements, as they may vary. Therefore, the response adheres to the prompt's instructions and respects its nuances, satisfying all aspects of the given directive without any deviation."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about the documents required to open a bank account, but the response talks about web checking and other unrelated topics. There is a clear disconnect between the user's request and the model's response, which is why a score of 0 is given.",
+            "score": 0
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the documents required to open a bank account. It lists all the necessary documents such as Aadhaar card, PAN card, proof of address, passport size photograph, and application form. The response also mentions that different banks may have different basic requirements, and advises to get clarification from the bank before opening an account. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately lists the documents required to open a bank account, which is exactly what the question asked for. The response includes real name, age list, address proof, full address, PAN number, and US passport number. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the documents required to open a bank account. It includes details about the identity document, address record, payment records, and deposit certificate, which are all relevant to the question. The response does not deviate from the question and does not include any extraneous details. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks for the documents required to open a bank account, and the model provides a comprehensive list of documents needed, including identity proof, address proof, income proof, bank statement, and necessary forms. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed.",
+            "score": 2
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately and completely answers the question about what documents are needed to open a bank account. It mentions the need for an identity document, address, phone number, email address, and a payment method. The response also provides additional useful information about the process of opening an account, such as the option to open an account online or at a physical bank, and the use of the phone number and email address for accessing the bank's online platform. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the documents required to open a bank account. It lists out all the necessary documents such as Identity Proof, Address Proof, Banker's Consent, Minimum Deposit, and KYC Documents. The response also includes a note about the variability of these requirements across different banks, which adds depth to the answer. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, a score of 2 is justified."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the documents required to open a bank account. It lists all the necessary documents such as Aadhar card, PAN card, passport size photos, address proof, and identity proof. It also mentions that some additional documents may be required based on the specific bank's requirements. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, a score of 2 is justified."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately and completely addresses the question. The question asks for the documents required to open a bank account, and the response provides a comprehensive list of such documents. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric perfectly."
+        }
+    },
+    {
+        "prompt_id": "2627e5e1-c0b8-444a-bcdc-7698d4126c94",
+        "prompt": "ക്രെഡിറ്റ് കാർഡ് ഉപയോഗിക്കുന്നതിൻ്റെ പ്രയോജനങ്ങൾ എന്തൊക്കെയാണ്?",
+        "prompt_type": "finance",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response initially provides a detailed and relevant answer to the question about the benefits of using a credit card. However, it starts to repeat the same point about credit scan from point 4 onwards, which is not only irrelevant but also repetitive. This indicates that the model has missed out on finer details or nuances of the question, leading to a score of 1."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for the benefits of using a credit card and the model provides a detailed list of benefits, covering various aspects such as budget management, budget protection, budget benefits, and more. The response is comprehensive and directly addresses the question, leaving no aspect of the instruction unaddressed. Therefore, the score is 2 as per the 'task_quality' metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for the benefits of using a credit card, but the response is repetitive and does not provide any information on the benefits of using a credit card. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt. There is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the benefits of using a credit card. It provides a list of benefits, which is exactly what the question asked for. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric perfectly."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks for the benefits of using a credit card, and the model provides a detailed list of benefits, including improving credit score, providing a convenient way to pay off debt, offering a secure method for online purchases, helping to reduce expenses on travel, providing reward points, and offering special privileges to cardholders. Therefore, the model's response holistically satisfies all aspects of the given directive without any deviation.",
+            "score": 2
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the benefits of using a credit card, but the response talks about a debit card and then repeats a nonsensical phrase multiple times. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks for the benefits of using a credit card, and the model provides a detailed list of benefits, including extended credit, rewards, travel benefits, fraud protection, and the ability to hold payments. The response is comprehensive and directly addresses the question without any deviation or omission of details. Therefore, according to the \"task_quality\" metric, the model's response deserves a score of 2."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the benefits of using a credit card. It mentions that credit cards can be helpful for shopping and using various services while traveling, and also provide control over expenses. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the benefits of using a credit card. It covers various aspects such as convenience, ability to make purchases without carrying cash, automatic bill payments, improving credit score, promotions and offers, and tracking and controlling expenses. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric perfectly."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response initially starts off well by addressing the benefits of using a credit card. However, it then repeats the same point about being able to make purchases without paying money immediately, four times. This repetition does not add any new information or benefits, thus missing out on finer details or nuances of the question. Therefore, the response only partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the benefits of using a credit card. It mentions several advantages such as improving credit score, earning rewards and cashbacks, providing security against phishing scams, and facilitating online purchases. The response is directly related to the user's instruction and does not deviate from the topic. Therefore, it scores 2 on the task quality metric."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not relevant to the question asked. The question asks about the benefits of using a credit card, but the response is not coherent and does not provide any meaningful information about the benefits of using a credit card. The response seems to be a repetition of unrelated words and phrases, which makes it completely irrelevant to the question."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the benefits of using a credit card. It provides a detailed list of benefits, including convenience, cashless transactions, rewards, security, credit score improvement, flexible payment options, and emergency use. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus fully satisfying the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the benefits of using a credit card. It provides a comprehensive list of benefits such as the convenience of not having to carry cash all the time, the ability to earn money and improve credit score through monthly payments, the opportunity to enjoy rewards and discounts when shopping, and the ease of digital payments. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        }
+    },
+    {
+        "prompt_id": "d3a139e7-1bc9-4dfc-a77f-d77720506067",
+        "prompt": "ഒരു കറന്റ് അക്കൗണ്ടിൽ സൂക്ഷിക്കേണ്ട മിനിമം ബാലൻസ് എത്രയാണ്",
+        "prompt_type": "finance",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the minimum balance required in a current account, which is approximately 600 rupees. It directly addresses the question without any deviation or omission of details. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive. Hence, the score is 2."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 0,
+            "justification": "The response is incorrect and irrelevant to the question. The question asks for the minimum balance required in a current account, which is typically a specific amount in currency, not a percentage. The response provides a percentage, which is not applicable in this context. Therefore, the model's response does not adhere to the specific directives given in the prompt."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for the minimum balance required in a current account, but the response does not provide this information. Instead, it repeats a nonsensical phrase multiple times. This indicates a clear disconnect between the user's request and the model's response, which is why a score of 0 is given."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question. The question asks for the minimum balance required in a current account, and the response provides this information correctly. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response gets a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the minimum balance required in a current account. It explains that the requirement varies depending on the bank's policy, and provides an example of a bank (SBI) that requires a minimum balance of 1,000 rupees. The response is directly related to the user's instruction and addresses all aspects of the question without any deviation or omission."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is asking for the minimum balance required in a current account, but the response does not provide any information related to this. Instead, it seems to be a nonsensical string of words that do not form a coherent or meaningful answer. Therefore, according to the \"task_quality\" metric, the score is 0 as there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the minimum balance required in a current account. It explains that the minimum balance depends on the bank where the account is opened, and that some banks even allow zero balance for certain current accounts. It also mentions that these conditions can change according to the bank's policy and advises to inquire with the bank for accurate information. The response also provides a range of minimum balance that some banks might require. Therefore, the response adheres to the prompt's instructions and respects its nuances, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially addresses the question. The question asks for the minimum balance required in a current account, but the response does not provide a specific answer. Instead, it explains that the minimum balance varies depending on the bank's policy. While this is relevant information, it does not fully answer the question as it does not provide a specific amount or range for the minimum balance. Therefore, the response aligns with the prompt to some extent, indicating some elements of relevance, but not a complete match."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the minimum balance required in a current account. It explains that the requirement varies depending on the individual and the bank or financial institution, and gives a general range of $500 to $1000. The response adheres to the prompt's instructions and addresses all aspects of the question, demonstrating a clear understanding of the task. Therefore, it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the minimum balance required in a current account, which is typically 5000 rupees. It directly addresses the user's instruction and there is a clear correlation between the question and the response. No aspect of the instruction is left unaddressed, hence the score of 2."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately answers the question. The question asks for the minimum balance required in a current account, and the response correctly states that it is 0. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response gets a score of 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the minimum balance required in a current account, which is 25,000 rupees. It directly addresses the user's instruction and there is a clear and direct correlation between the user's instruction and the model's response. No aspect of the instruction is left unaddressed, hence the score of 2."
+        },
+        "GPT4o": {
+            "score": 1,
+            "justification": "The response addresses the main theme of the question, which is about the minimum balance required in a current account. However, it does not provide a specific answer, instead suggesting that the user check with their bank as the minimum balance can vary. This indicates a partial alignment with the prompt, but not a complete match, as per the metric's scoring rubric. Therefore, a score of 1 is justified."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response provided by the model partially aligns with the prompt. The question asks for the minimum balance required in a current account, and the model correctly identifies that this can vary depending on the bank and location. However, the response is repetitive and does not provide a specific answer or range, which was expected from the question. Therefore, the model grasps and addresses the main theme of the instruction but misses out on finer details."
+        }
+    },
+    {
+        "prompt_id": "572ca832-09ce-4fcc-b77c-09700930c840",
+        "prompt": "എൻ്റെ ക്രെഡിറ്റ് സ്കോർ എങ്ങനെ മെച്ചപ്പെടുത്താം?",
+        "prompt_type": "finance",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for ways to improve one's credit score and the model provides a detailed and comprehensive answer, covering various aspects such as paying bills on time, reducing credit card usage, looking for special payment plans, and using an online platform to improve credit score. The model adheres to the instructions and nuances of the question, providing a thorough and relevant answer. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for ways to improve one's credit score and the model provides a detailed and comprehensive list of steps to achieve this. It covers all aspects of the question, providing a thorough answer. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, a score of 2 is justified."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for ways to improve one's credit score, but the response talks about how to use a credit card online, which is not related to the question. Therefore, the model disregards the instructions entirely, leading to a score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about improving one's credit score, but the response talks about studying with interest and collaborating with other students, which has no connection to the question. Therefore, the model disregards the instructions entirely, leading to a score of 0."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question on how to improve one's credit score. It provides a detailed and comprehensive list of steps to take, such as checking your credit report, controlling your credit card balance, extending your credit history, and reducing your credit applications. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric and earns a score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about how to improve one's credit score, but the response is nonsensical and repetitive, with no meaningful information provided. It does not address the question at all, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question on how to improve one's credit score. It provides a detailed and comprehensive list of steps to follow, which aligns perfectly with the question asked. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the 'task_quality' metric."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially addresses the question on how to improve one's credit score. It suggests to carefully monitor and control credit reports and credit cards. However, it lacks specific details or steps on how to do so. It also does not cover other important aspects of improving a credit score such as paying bills on time, reducing debt, and not applying for new credit unnecessarily. Therefore, the response is somewhat aligned with the prompt but not a complete match."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question on how to improve one's credit score. It provides a comprehensive list of steps such as reducing credit card balances, making payments on time, lowering credit utilization, using credit accounts, and monitoring credit reports. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response initially addresses the question correctly by providing a method to improve the credit score. However, the response then becomes repetitive and redundant, repeating the same phrase multiple times. This indicates that while the model grasps the main theme of the instruction, it fails to provide a comprehensive and coherent answer, thus missing out on finer details or nuances. Therefore, the score is 1 as per the 'task_quality' metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to improve one's credit score and the model provides a detailed and comprehensive answer, covering various aspects such as timely payment of bills, reducing credit card balance, increasing credit limit, and regularly checking credit reports for errors. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately addresses the question on how to improve one's credit score. It provides a detailed and comprehensive list of steps that can be taken to improve a credit score, such as regularly paying bills on time, maintaining a low debt-to-income ratio, having a stable job, having a good credit history, and getting a credit builder loan. The response is directly relevant to the question and does not deviate from the topic. Therefore, it fully adheres to the task quality metric and deserves a score of 2."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to improve one's credit score and the model provides a detailed list of steps to do so. It covers all aspects of the question without any deviation or extraneous details. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question on how to improve one's credit score. It provides a comprehensive list of steps such as regularly checking credit reports, paying bills on time, limiting the use of credit cards, reactivating credit lines, and extending credit history. The response also suggests seeking help from a credit counseling service for more detailed advice. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        }
+    },
+    {
+        "prompt_id": "4f7e3c83-87a3-48b4-aae1-8bc2773adfb3",
+        "prompt": "എൻ്റെ ഡെബിറ്റ് കാർഡ് നഷ്ടപ്പെട്ടാൽ ഞാൻ എന്തുചെയ്യണം?",
+        "prompt_type": "finance",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks about the steps to be taken if a debit card is lost, and the model provides a detailed and comprehensive list of actions to be taken in such a scenario. It covers all aspects from realizing the loss, searching for the card, requesting a new card, updating account details, closing any accounts linked to the card, to getting insurance cover for the lost card. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 0,
+            "justification": "The response provided is not relevant to the question asked. The question is about what to do if a debit card is lost, but the response does not provide any useful information or steps to take in such a situation. Instead, it seems to be repeating the same irrelevant information about checking the cards in the wallet multiple times. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about what to do if a debit card is lost, but the response is a nonsensical repetition of a phrase. This shows a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks what to do if a debit card is lost, and the response provides a detailed step-by-step guide on what actions to take, including reporting to the bank, changing security codes and passwords, considering the limit and fees of the lost debit card, and blocking the lost debit card. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, the output holistically satisfies all aspects of the given directive without any deviation, and there's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed.",
+            "score": 2
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what to do if a debit card is lost. It provides a step-by-step guide, starting with notifying the bank, then blocking the card, and finally applying for a new one. This shows a clear understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Therefore, the score is 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks what to do if a debit card is lost, but the response explains what a debit card number is and its importance. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what to do if one's debit card is lost. It provides a step-by-step guide on how to handle such a situation, including informing the bank, ensuring the card is blocked, and applying for a new card. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence it scores 2 on the task quality metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what to do if a debit card is lost. It provides a detailed procedure, including reporting the loss to the bank and going through the process of replacing the card. It also suggests contacting the bank with registration number and account details. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question is about what to do if one's debit card is lost, and the response accurately provides the steps to be taken in such a situation, which includes contacting the bank, informing them about the lost card so they can block it and secure the card number, and the bank will provide a new card. Therefore, the model's response is directly correlated with the user's instruction, and no aspect of the instruction is left unaddressed.",
+            "score": 2
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what to do if one's debit card is lost. It provides a detailed step-by-step guide on how to contact the bank, request a reissue of the debit card, provide the details of the old card, wait for the new card, and ensure its safety before use. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the 'task_quality' metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "justification": "The response provided by the model partially aligns with the question asked. The question asks about what to do if a debit card is lost, and the response provides instructions on what to do if a credit card is lost. While the steps might be similar, the model does not accurately address the question as it mentions 'credit card company' instead of 'bank' or 'debit card company'. Therefore, the model grasps and addresses the main theme of the instruction but misses out on finer details or nuances.",
+            "score": 1
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response provided by the model is a direct and comprehensive answer to the question asked. The question asks what to do if a debit card is lost, and the model provides a detailed step-by-step guide on what actions to take, including reporting the loss to the bank, providing the bank with details of the card, filing a police report if the card was stolen, and monitoring bank statements for any unauthorized transactions. The response is entirely relevant to the prompt and leaves no aspect of the instruction unaddressed, hence the score of 2."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question about what to do if one's debit card is lost. It provides a step-by-step guide, including notifying the bank, blocking the card, filing a police complaint, and applying for a new card. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what to do if one's debit card is lost. It provides a detailed procedure, including reporting to the police, monitoring the card until it is recovered, and discussing with the bank about card and account restoration. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        }
+    },
+    {
+        "prompt_id": "e451e783-fe9a-43cb-8d63-88e3cf42f2e9",
+        "prompt": "മാനസിക പിരിമുറുക്കം കുറയ്ക്കാൻ ചില മാർഗ്ഗങ്ങൾ നിർദ്ദേശിക്കുക.",
+        "prompt_type": "health",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question. The question asks for ways to reduce mental stress and the model provides a comprehensive list of methods to do so. Each point is relevant and directly addresses the question, providing a clear and direct correlation between the user's instruction and the model's response. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks for ways to reduce mental stress, and the model provides a comprehensive list of methods to do so. The response is detailed, relevant, and directly addresses the question, leaving no aspect of the instruction unaddressed.",
+            "score": 2
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not provide any ways to reduce mental stress as asked in the question. Instead, it repeats the same phrase multiple times without providing any relevant information. Therefore, the model disregards the instructions entirely and the output is entirely irrelevant to the prompt, which corresponds to a score of 0 according to the metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response perfectly adheres to the question's instructions. The question asks for ways to reduce mental stress, and the response provides a list of methods to do so. It covers all aspects of the question without any deviation or extraneous details. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response provided by the model perfectly aligns with the question. The question asks for ways to reduce mental stress and the model provides a detailed list of methods to do so. It covers various aspects such as exercise, sleep, meditation, avoiding stressful thoughts, and seeking help from friends. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for suggestions to reduce mental stress, but the response is nonsensical and does not provide any meaningful suggestions. It seems like the response is just repeating the same phrase over and over again without providing any useful information. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response provided by the model perfectly aligns with the question. The question asks for ways to reduce mental stress and the model provides a detailed list of methods to do so, such as regular exercise, meditation, a good diet, setting a bedtime, and seeking help. The response is comprehensive and directly addresses the question, leaving no aspect of the instruction unaddressed. Therefore, according to the 'task_quality' metric, the model's response deserves a score of 2."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response provided by the model perfectly aligns with the question. The question asks for ways to reduce mental stress and the model provides a list of methods such as yoga, meditation, routine, relationships, and activities. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the model's response deserves a score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response perfectly adheres to the question's instructions. The question asks for ways to reduce mental stress, and the response provides a comprehensive list of methods to do so, such as deep breathing, meditation, regular exercise, getting enough sleep, eating healthy food, spending time with friends and family, listening to music, reading books, learning new skills, and taking regular breaks. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response starts off well by providing a few different ways to reduce mental stress, such as finding time to relax and practicing meditation. However, from point 3 onwards, the response becomes repetitive and keeps suggesting the same method - practicing yoga - to reduce stress. This repetition does not provide any new or additional information, and does not fully adhere to the prompt's instruction of suggesting 'some ways' to reduce mental stress. Therefore, the response only partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asked for ways to reduce mental stress, and the model provided a comprehensive list of methods to do so. The response is directly related to the question, and it addresses the question in full without any deviation or omission of details.",
+            "score": 2
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question asks for ways to reduce mental stress, but the response given is nonsensical and does not provide any meaningful information related to the question. Therefore, according to the \"task_quality\" metric, the model's response deserves a score of 0."
+        },
+        "GPT4o": {
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asked for ways to reduce mental stress, and the model provided a comprehensive list of methods to do so. The response includes various methods such as exercise, meditation, hobbies, proper sleep, healthy diet, breathing exercises, spending time with loved ones, engaging in work, appreciating beauty, and taking breaks from daily tasks. Each of these methods is relevant and directly addresses the question asked. Therefore, the model's response is accurate, complete, and directly correlated with the user's instruction, warranting a score of 2.",
+            "score": 2
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks for ways to reduce mental stress, and the model provides a comprehensive list of methods to do so, such as deep breathing, exercising, self-care training, spending time with positive people, finding time to relax, reading books, listening to music, and engaging in other enjoyable activities. The response also suggests trying to adapt to a new situation, which can help reduce mental stress. Therefore, the model's response fully satisfies the prompt's instructions without any deviation.",
+            "score": 2
+        }
+    },
+    {
+        "prompt_id": "da97221b-f005-4bb6-b265-7783fe25b354",
+        "prompt": "ഒരു ആരോഗ്യ ഇൻഷുറൻസ് പ്ലാൻ തിരഞ്ഞെടുക്കുമ്പോൾ ഞാൻ ശ്രദ്ധിക്കേണ്ട ഘടകങ്ങൾ എന്തെല്ലാമാണ്?",
+        "prompt_type": "health",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for factors to consider when choosing a health insurance plan, and the model provides a comprehensive list of factors, including understanding your needs, considering your financial situation, your medical history, your medical condition, your family history, your job, necessary medical services, the insurance company, your insurance policies, and your insurance plan. The model's response is detailed and covers all aspects of the question, demonstrating a precise understanding and adherence to the prompt's instructions."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 0,
+            "justification": "The response is not relevant to the question. The question asks for factors to consider when choosing a health insurance plan, but the response only mentions benefits of health insurance plans. Moreover, the response is repetitive and does not provide any meaningful information. The word 'insurance' is repeated multiple times without any context or additional information."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for the factors to consider when choosing a health insurance plan, but the response is nonsensical and does not provide any relevant information. It seems like the model has disregarded the instructions entirely, making the output irrelevant to the prompt. There is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and completely addresses the question. The user asked for the factors to consider when choosing a health insurance plan, and the model provided a comprehensive list of factors, including coverage amount, cost sharing, doctor network, hospital network, pre-existing conditions, claiming process, and primary reasons. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by listing the factors to consider when choosing a health insurance plan. It includes the cost of coverage, premium, diseases covered, deductible, and network hospitals, which are all relevant to the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric and scores 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not relevant to the question. The question asks for the factors to consider when choosing a health insurance plan, but the response does not provide any such factors. Instead, it seems to be repeating the same phrase multiple times without providing any meaningful information. Therefore, the score is 0 as per the 'task_quality' metric, indicating that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, which asks for factors to consider when choosing a health insurance plan. The response lists eight factors, including coverage, premium, claim settlement speed, room rent, doctor's fee, medicine costs, no claim bonus, pre-existing disease coverage, capping, and medicine cost coverage. Each factor is explained in a way that directly relates to the question, demonstrating a clear understanding of the prompt's instructions. Therefore, the response fully satisfies the task quality metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what factors to consider when choosing a health insurance plan. It provides a detailed explanation, mentioning the importance of looking at the insurance policy, insurance coverage, contract, policy details, restrictions, coverage plan details, and premium rates. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks about the factors to consider when choosing a health insurance plan, and the response accurately lists and explains four key factors: the premium of the plan, the coverage of the plan, the network of the plan, and the claim process of the plan. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation.",
+            "score": 2
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the factors to consider when choosing a health insurance plan. It mentions checking if the plan provides the necessary health services, whether the premium is affordable, and any coverage limits or restrictions in the plan. This shows a clear understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a detailed list of factors to consider when choosing a health insurance plan. It covers all aspects of the question, including checking for medical procedures, coverage for hospital, doctor, and medicines, checking for any limitations or exclusions, and checking for any co-payments. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric perfectly."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response provided by the model is not relevant to the question asked. The question asks for the factors to consider when choosing a health insurance plan, and while the model does list some relevant factors such as budget, coverage, deductible, co-pay, exclusions, and claims processing, the explanations for each factor are nonsensical and repetitive, not providing any useful information. Therefore, the model's response does not adhere to the specific directives given in the prompt, earning it a score of 0 according to the \"task_quality\" metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for the factors to consider while choosing a health insurance plan and the model provides a comprehensive list of factors to consider, such as coverage, premium, co-payment, critical health condition, clauses, network hospitals, claim process, pre-existing diseases, claim settlement ratio, and add-ons. The model's response is detailed and covers all aspects of the question, demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks about the factors to consider while choosing a health insurance plan, and the response accurately lists out the factors such as the required coverage, premiums that suit one's financial situation, any benefits in the chosen plan, and the possibility of claims that meet one's standards. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation.",
+            "score": 2
+        }
+    },
+    {
+        "prompt_id": "1b54cff0-688d-46b0-9764-cb9081b3b3b2",
+        "prompt": "മുടി കൊഴിച്ചിലിനുള്ള പ്രകൃതിദത്തമായ പരിഹാരങ്ങൾ എന്തൊക്കെയാണ്?",
+        "prompt_type": "health",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response provided by the model does address the main theme of the prompt, which is to provide natural remedies for hair fall. However, the response is repetitive and lacks variety. The same remedies are repeated multiple times with slight variations in wording, which does not add any new or useful information. This indicates a lack of complete adherence to the prompt's instructions, as the user would expect a variety of different remedies rather than the same ones repeated. Therefore, the score is 1, indicating partial alignment with the prompt and some elements of relevance, but not a complete match."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, which asks for natural remedies for hair fall. The response provides a list of 10 different natural remedies, each with a brief explanation of how they can help with hair fall. This shows a clear understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for natural remedies for hair fall, but the response does not provide any remedies or even mention hair fall. It seems to be a repetition of nonsensical phrases. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt, and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response perfectly aligns with the question. The question asks for natural remedies for hair fall, and the response provides a list of natural remedies for hair fall. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to and executes the specific directives given in the prompt, demonstrating a precise understanding of the prompt's instructions."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing natural remedies for hair fall. It lists out various solutions such as coconut oil, amla, fish oil, coffee, and oil massage, all of which are known to help with hair fall. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed. Therefore, the response fully satisfies the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for natural remedies for hair fall, but the response does not provide any remedies. Instead, it repeats a nonsensical phrase multiple times. This shows a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "gpt-4": {
+            "justification": "The response provided is a perfect match to the question asked. The question asks for natural remedies for hair fall, and the response provides seven different natural remedies, each with a brief explanation of how it helps with hair fall. The response is directly relevant to the question and does not include any extraneous details.",
+            "score": 2
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response does not provide any natural remedies for hair fall as asked in the question. Instead, it talks about disease prevention and flower arrangements, which are irrelevant to the question. Therefore, the response completely disregards the instructions in the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing natural remedies for hair fall. It lists popular options such as hummus, honey, oil, coconut milk, and fat, and explains how each of them helps in maintaining hair health. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus demonstrating a precise understanding and adherence to the prompt's instructions."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response does not adhere to the question. The question asks for natural remedies for hair fall, but the response repeatedly mentions the use of 'hend hair oil' without providing any other natural remedies. The response also seems to be repetitive, mentioning the same remedy multiple times. Therefore, the response does not satisfy the prompt's instructions and does not provide a variety of natural remedies as asked in the question."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for natural remedies for hair fall, and the model provides a detailed list of various natural remedies, explaining how each one works. The response is comprehensive and directly addresses the question, leaving no aspect of the instruction unaddressed. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for natural remedies for hair fall, but the response does not provide any valid remedies. Instead, it repeats the same words multiple times, which do not make any sense in the context of the question. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing natural remedies for hair fall. It lists out five different remedies, explaining how to use each one. It also provides additional advice on maintaining hair health, which is relevant to the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response starts off by addressing the question, providing some natural remedies for hair fall. However, it then devolves into repetition of the phrase 'മുടിക്കുക' (comb the hair) multiple times, which is irrelevant and does not provide any additional information or remedies. Therefore, while the response partially aligns with the prompt and addresses the main theme, it includes extraneous details not asked for, hence the score of 1."
+        }
+    },
+    {
+        "prompt_id": "328f86d6-3ec2-4f04-950a-d80c9723fbc0",
+        "prompt": "വിഷാദരോഗത്തിൻ്റെ സാധാരണ ലക്ഷണങ്ങൾ എന്തൊക്കെയാണ്?",
+        "prompt_type": "health",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is not relevant to the question. The question asks for the general symptoms of depression, but the response only mentions one symptom, a change in mental state, and then repeats the same word, 'anxiety', multiple times. This does not provide a comprehensive answer to the question and is not helpful to the user."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 1,
+            "justification": "The response provided by the model partially aligns with the question. The question asks for the general symptoms of depression, and the model does start to provide an answer by mentioning 'emotional exhaustion and fatigue' as a primary symptom. However, the response then becomes repetitive and does not provide any further symptoms, thus missing out on finer details or nuances of the question. Therefore, the model's response only partially satisfies the prompt."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for the common symptoms of depression, but the response is repetitive and nonsensical, with no mention of any symptoms. It completely disregards the instructions, making it entirely irrelevant to the prompt. Therefore, according to the 'task_quality' metric, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately lists the general symptoms of depression, which is exactly what the question asked for. The response is directly related to the user's instruction and does not deviate from the topic. It does not include any extraneous details not asked for, and it does not omit any requested specifics. Therefore, the response fully satisfies the prompt's instructions."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately lists the common symptoms of depression, which is exactly what the question asked for. The response is comprehensive and covers a wide range of symptoms, from emotional to physical and social. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the prompt's instructions and respects its nuances and subtleties."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for the common symptoms of depression, but the response provides information about the four main qualities of Visuddhara Raghavan, which is unrelated to the question. Therefore, the model disregards the instructions entirely, leading to a score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the common symptoms of depression. It lists out various symptoms such as loss of interest, changes in sleep and appetite, feelings of helplessness or hopelessness, suicidal thoughts, loss of pleasure in activities, feeling mentally sluggish or agitated, etc. The response also mentions that these symptoms are considered as the basis for depression when they last for at least two weeks. Therefore, the response adheres to the prompt's instructions completely and provides a detailed answer to the question, earning a score of 2 according to the 'task_quality' metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question by listing the general symptoms of depression, which is exactly what the question asked for. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the task_quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "justification": "The response provided by the model is not in line with the question asked. The question asks for the general symptoms of depression, but the response only repeats the word 'despair' multiple times. This does not provide any meaningful or diverse symptoms of depression, thus failing to answer the question accurately. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, which asks for the common symptoms of depression. The response lists several symptoms, including changes in mental state, motivation, physical activities, thoughts, physical functions, relationships, energy levels, speech and physical functions, and social activities. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately lists the general symptoms of depression, which is exactly what the question asked for. The response is directly related to the user's instruction and does not deviate from the topic. It covers all aspects of the given directive without any omission or extraneous details. Therefore, the response fully adheres to the task quality metric."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response partially aligns with the question. The question asks for the general symptoms of depression, and the response does provide a list of symptoms. However, the response includes some symptoms that are not typically associated with depression, such as 'breathing' and 'eye oil'. Additionally, some of the symptoms are listed in English, not in Malayalam as the question was asked. Therefore, the response demonstrates a grasp of the main theme of the instruction but misses out on finer details or nuances."
+        },
+        "GPT4o": {
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question was about the common symptoms of depression, and the model provided a comprehensive list of symptoms, which is exactly what was asked for. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed.",
+            "score": 2
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question. The question asks for the common symptoms of depression, and the response provides a detailed list of these symptoms, including anxiety, despair, sleep disturbances, physical discomfort, sadness, aggressive thoughts, difficulty concentrating, self-deprecation, overeating or underweight, lethargy, difficulty focusing, physical disabilities, difficulty relaxing, low energy levels, and general happiness reduction. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding of the question and providing a complete and relevant answer."
+        }
+    },
+    {
+        "prompt_id": "49a18b47-dd0c-46bd-a9ad-d1244e95ce1e",
+        "prompt": "ഉയർന്ന രക്തസമ്മർദ്ദം എൻ്റെ ഹൃദയാരോഗ്യത്തെ എങ്ങനെയൊക്കെ ബാധിക്കും?",
+        "prompt_type": "health",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is repetitive and redundant. The same information is repeated multiple times in the response, which does not add any new or valuable information to the answer. This does not adhere to the specific directives given in the prompt, which is to provide a clear and concise answer to the question. Therefore, the score for task quality is 0."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question about how high blood pressure can affect heart health. It provides detailed explanations and examples, demonstrating a precise understanding of the prompt's instructions. The response holistically satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about how high blood pressure can affect heart health, but the response is nonsensical and does not provide any information related to the question. It seems like the model has disregarded the instructions entirely, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "justification": "The response accurately addresses the question about how high blood pressure can affect heart health. It explains that high blood pressure can cause changes in the heart's function and speed, and can lead to instability and danger in heart health. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed.",
+            "score": 2
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how high blood pressure can affect heart health. It provides a detailed explanation, mentioning the potential for heart attacks, heart failure, and the weakening and enlargement of the heart muscles. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not relevant to the question asked. The question is about how high blood pressure affects heart health, but the response is repetitive and does not provide any meaningful information on the topic. It does not adhere to the specific directives given in the prompt, hence the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question. It explains how high blood pressure can affect heart health, detailing the physiological processes involved, such as increased strain on the heart, lack of continuous oxygen supply, formation of clots in small blood vessels of the heart muscle, and the resulting heart attack. The response also emphasizes the importance of regular monitoring and management of high blood pressure. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how high blood pressure can affect heart health. It provides a detailed explanation, mentioning factors such as diet, lifestyle, physical inactivity, and the importance of hydration. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "justification": "The response provided by the model is in direct alignment with the question asked. The question asks about how high blood pressure can affect heart health, and the response accurately and comprehensively explains the potential impacts of high blood pressure on heart health. It covers all aspects of the question without any deviation, making it a perfect match with the user's instruction.",
+            "score": 2
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how high blood pressure can affect heart health. It provides a detailed explanation of the potential impacts, including increased heart workload, heart weakness, risk of heart attack and stroke, and symptoms like chest pain, palpitations, fatigue, headache, and shortness of breath. The response also offers advice on how to reduce high blood pressure, which, while not explicitly asked for, is relevant and useful in the context of the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks about how high blood pressure can affect heart health, and the response accurately and comprehensively explains the different ways in which high blood pressure can negatively impact heart health. The response does not deviate from the topic, includes no extraneous details, and leaves no aspect of the question unaddressed.",
+            "score": 2
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response does address the main theme of the question, which is how high blood pressure can affect heart health. However, it includes extraneous details not asked for, such as the effects of diabetes, obesity, smoking, alcohol abuse, and stress on heart health. These factors, while related to heart health, are not directly related to the question about high blood pressure. Therefore, the response only partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question about how high blood pressure can affect heart health. It provides detailed explanations on the potential impacts of high blood pressure on the heart, including damage to the arteries, heart attack, heart failure, and artery hardening. The response also ends with a note on the importance of medical supervision to control high blood pressure, which is relevant and useful information. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how high blood pressure can affect heart health. It explains the physiological effects of high blood pressure on the heart and the increased risk of heart-related health issues. It also mentions the importance of controlling high blood pressure to protect and improve heart health over time. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        }
+    },
+    {
+        "prompt_id": "7c12a282-4b38-4a2d-9772-29a6dcbc59a7",
+        "prompt": "കേരളം പണ്ട് ഭരിച്ചിരുന്ന മഹാബലി ചക്രവർത്തിയുടെ ഓർമ്മക്കായിട്ടാണ് ഓണം ആഘോഷിക്കുന്നത്. എന്നാൽ ഇത് ഒരു കെട്ടുകഥയാണോ അല്ലെങ്കിൽ ചരിത്രത്തിൽ എവിടെയെങ്കിലും ഇതിനെ സൂചിപ്പിക്കുണ്ടോ? ഓണത്തെക്കുറിച്ച് വിവരിക്കുക",
+        "prompt_type": "culture",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a detailed explanation about the Onam festival and its historical and cultural significance in Kerala. It also discusses the legend of King Mahabali and how the festival is celebrated in his memory. The response also clarifies that while the story of King Mahabali might be a myth, the festival itself is an integral part of Kerala's history and culture. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding of the question and providing a comprehensive answer."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "justification": "The response does address the main theme of the question, which is about the historical context of the Onam festival and its connection to the reign of Mahabali. However, the response does not directly answer the question about whether the story of Mahabali is a myth or if there is any historical evidence to support it. Additionally, the response includes a repeated phrase that is not relevant to the question, which indicates a lack of precision in adhering to the prompt's instructions.",
+            "score": 1
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model is a repetition of the question itself, without providing any new information or answering the question. The model has not adhered to the specific directives given in the prompt, which was to provide information about the Onam festival and its historical or mythical origins. Therefore, the score for task quality is 0 as there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing information about the celebration of Onam and the legend of King Mahabali. It also mentions the historical evidence of the festival being celebrated during the reign of the kings of Thiruvithamkoor. Therefore, the response adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a detailed explanation about the legend of King Mahabali and the celebration of Onam. It also discusses the historical perspective and the views of historians on this matter. The response is in line with the question, addressing all aspects of it without any deviation. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt, indicating some elements of relevance, but not a complete match. The model grasps and addresses the main theme or element of the instruction but misses out on finer details or nuances. The response does mention that the celebration of Onam is in memory of Mahabali and that it is a popular legend. However, it does not provide any specific details about whether this is a myth or if there is any historical evidence to support this."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a detailed explanation about the celebration of Onam in memory of King Mahabali, its mythological context, and its cultural significance in Kerala. It also clarifies that the existence of King Mahabali is based on mythology rather than historical evidence, which directly answers the question. The response also includes additional relevant details about the Onam festival, such as the Onam flowers, Onam feast, and Thiruvathira games, which enrich the response without deviating from the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question. The question asks whether the story of King Mahabali, which is celebrated during Onam, is a myth or if it has historical references. The response clearly states that it is not a myth and that it is referenced in history. The response also adds that King Mahabali was a ruler who unified India. Therefore, the response adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question asks whether the story of King Mahabali, who once ruled Kerala and in whose memory Onam is celebrated, is a myth or if there is any historical evidence to support it. However, the response does not address this question at all. Instead, it repeats a series of numbers and mentions Asian traditions, which are not relevant to the question. Therefore, the score is 0 as there is a clear disconnect between the user's request and the model's response."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response provides a detailed explanation about the Onam festival, its traditions, and its significance. However, the question specifically asked whether the story of King Mahabali, which is associated with Onam, is a myth or if there is any historical evidence to support it. The response does not directly address this aspect of the question, hence it only partially aligns with the prompt. The response includes extraneous details about the festival that were not specifically asked for in the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response addresses the main theme of the question, which is about the Onam festival and its connection to the memory of King Mahabali. However, it does not fully answer the specific question about whether this is a myth or if there is any historical evidence to support it. The response states that it is uncertain, but does not provide any further explanation or details. Additionally, the response includes some extraneous details about the festival that were not specifically asked for in the question."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "justification": "The response provided by the model is in line with the question asked. The question asks whether the story of King Mahabali, in relation to the celebration of Onam, is a myth or if there is any historical evidence to support it. The response given by the model explains that Onam is a traditional festival celebrated in Kerala in memory of King Mahabali, who is believed to have ruled Kerala during his reign. It also mentions that the history of Onam dates back to ancient times and is believed to have started in 1054. The response also mentions a major war that took place in Kerala during King Mahabali's reign, which is considered a major event in the history of Kerala and a key element of Onam. Therefore, the model's response is directly related to the user's instruction and addresses all aspects of the instruction, earning it a score of 2.",
+            "score": 2
+        },
+        "GPT4o": {
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asked for an explanation about the Onam festival and its historical or mythological significance, and the model provided a detailed explanation about the same. It explained the story of King Mahabali and how Onam is celebrated in remembrance of his rule. It also provided details about the traditional festivities associated with Onam. Therefore, the model's response is comprehensive and directly addresses the user's instruction, leaving no aspect of the instruction unaddressed.",
+            "score": 2
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing information about the celebration of Onam in memory of King Mahabali, its historical significance, and the various narratives and stories associated with it. The response also clarifies that Onam is not a mere myth but a part of Kerala's history. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        }
+    },
+    {
+        "prompt_id": "a057ca52-4d58-4078-953b-d105c9560ce3",
+        "prompt": "കേരളത്തിലെ പല സമുദായങ്ങളിലും നിലനിന്നിരുന്നു ഒരു സമ്പ്രദായം ആയിരുന്നു മരുമക്കത്തായം. എന്താണ് ഈ മരുമക്കത്തായം? എന്തുകൊണ്ടാണ് അത് ഇപ്പോൾ ആരും പിന്തുടരാത്തത്?",
+        "prompt_type": "culture",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response provided by the model does address the main theme of the question, which is about the Marumakkathayam system in Kerala. However, the response is repetitive and lacks clarity. The model repeats the same sentence multiple times, which does not add any value to the response. Moreover, the second part of the question, which asks why the system is not followed anymore, is not addressed properly. The model only states that people stopped following it because it allowed their property to be taken by their children or nephews/nieces, which is a repetition of the explanation of the system, not a reason for its discontinuation. Therefore, the response partially aligns with the prompt but lacks complete relevance and clarity."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 0,
+            "justification": "The response is not relevant to the question. The question asks about the tradition of Marumakkathayam in Kerala and why it is not followed now. However, the response is repetitive and does not provide a clear explanation of what Marumakkathayam is or why it is not followed now. The response also contains repeated phrases and sentences, which makes it difficult to understand and does not provide a clear answer to the question."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about the tradition of Marumakkathayam in Kerala and why it is not followed anymore. However, the model's response is about the top 10 tourist destinations in Kerala. There is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It explains what 'Marumakkathayam' is, but it does not provide a clear reason why it is not followed anymore. The response mentions that it is due to changes in society, but it does not elaborate on what these changes are or how they led to the decline of the practice. Therefore, the response does not fully adhere to the prompt's instructions, which asked for a reason why the practice is not followed anymore."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question by explaining what the tradition of Marumakkathayam is and why it is no longer followed. It adheres to the instructions given in the prompt and addresses all aspects of the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response scores 2 on the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the tradition of Marumakkathayam in Kerala and why it is not followed anymore. However, the response does not provide any information related to the question. It seems to be a random collection of words and phrases, and it also contains unreadable characters. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question by explaining what Marumakkathayam is and why it is no longer followed. It provides a detailed explanation of the matrilineal system of inheritance, the communities in Kerala that practiced it, and how societal and legal changes led to its decline. The response is directly related to the question and covers all aspects of the prompt, demonstrating a clear understanding and adherence to the instructions."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It explains what 'Marumakkathayam' is, but it does not fully answer why it is not followed anymore. The response only mentions that it is not popular now, without providing any reasons for its decline. Therefore, the response is not a complete match to the question, hence the score of 1."
+        },
+        "google/gemma-7b-it": {
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question asks about the tradition of Marumakkathayam in Kerala and why it is not followed anymore. However, the response does not provide any information related to this. Instead, it seems to be a repetition of unrelated phrases. Therefore, according to the \"task_quality\" metric, the score is 0 as there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question by explaining what the tradition of Marumakkathayam is and why it is no longer followed. It adheres to the instructions given in the prompt and addresses all aspects of the question. The response is directly correlated to the user's instruction and leaves no aspect of the instruction unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately explains what the tradition of Marumakkathayam is and why it is no longer followed, which directly answers the question. The response does not deviate from the question and does not include any extraneous details. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately explains what 'Marumakkathayam' is and why it is not followed anymore, which directly answers the question. The response is completely relevant to the question and does not deviate from the topic. It also does not include any extraneous details not asked for in the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GPT4o": {
+            "justification": "The response provided by the model is in complete alignment with the question. The question asked for an explanation of the Marumakkathayam system that existed in Kerala and why it is not followed now. The model's response accurately describes the Marumakkathayam system, explaining that it was a matrilineal system of inheritance where the family's property would be passed on to the children or nephews in the mother's lineage. The response also provides a detailed explanation of why this system is not followed now, attributing it to social and legal changes, including the Marumakkathayam Act of 1925, the rise of interest in family and economic equality, and the attainment of equal property rights by men and women. Therefore, the model's response fully satisfies the prompt's instructions without any deviation.",
+            "score": 2
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It explains what 'Marumakkathayam' is, but it does not provide a correct explanation. 'Marumakkathayam' is a matrilineal system of inheritance and not a tradition of naming children after their parents. The response also does not answer the second part of the question about why this system is not followed anymore. Therefore, the response is only partially aligned with the prompt, indicating some elements of relevance, but not a complete match."
+        }
+    },
+    {
+        "prompt_id": "52a15b10-1f4b-446a-942c-aba1d3c62ee8",
+        "prompt": "ജാതിമതഭേദമന്യേ കേരളത്തിലെ എല്ലാവരും ഒരുപോലെ ആഘോഷിക്കുന്ന ഉത്സവങ്ങൾ എന്തെല്ലാമാണ് ?",
+        "prompt_type": "culture",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response accurately lists out the festivals celebrated by everyone in Kerala, irrespective of caste or religion, as asked in the question. It provides detailed descriptions of each festival, including Thrippunithura Athachamayam, Kollam Pooram, Koodalmanikyam Utsavam, Chalakkudy Pooram, and Kodungalloor Bharani. The response is in line with the question and adheres to the instructions given in the prompt, hence the score of 2."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. The model correctly identifies that the question is asking for festivals celebrated by everyone in Kerala, regardless of caste or religion. However, the festivals listed in the response, such as 'Puthusam', 'Maisam', 'Mustan', 'Kottakam', 'Chalakam', are not recognized festivals in Kerala. The response also repeats the same festival multiple times. Therefore, while the model understands the main theme of the instruction, it misses out on finer details and nuances, leading to a score of 1."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for the festivals in Kerala that are celebrated by everyone regardless of caste or religion, but the response just repeats the question multiple times without providing any answer. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt. There is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately lists the festivals celebrated by everyone in Kerala regardless of caste or religion, as asked in the question. The festivals mentioned include Onam, Vishu, Dussehra, Thulabaram, Makaravilakku, Vijayadashami, and birthdays. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the task quality metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately lists the festivals celebrated by everyone in Kerala without any caste or religious discrimination, as asked in the question. The festivals mentioned include Onam, Vishu, Thiruvathira, Makar Sankranti, and Pooram. The response also highlights that Onam and Vishu are the most important among them. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding and execution of the task."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the festivals celebrated by everyone in Kerala without any caste or religious discrimination, but the response does not provide any information about such festivals. Instead, it seems to be a nonsensical repetition of words and phrases that do not make any sense in the context of the question. Therefore, the score is 0 as per the 'task_quality' metric, indicating that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately lists the festivals celebrated by everyone in Kerala regardless of caste or religion, as asked in the question. It includes Vishu, Onam, Krishna Jayanti, Shivaratri, Thrissur Pooram, Kochi Pankuni, Nercha, Pattambi Bhagavathi Seva, and more. The response also adds that these festivals are associated with everyone in Kerala and have unique features depending on the time, region, and the month they are celebrated in. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding and execution of the task."
+        },
+        "gpt-35-turbo": {
+            "justification": "The response provided by the model does not answer the question asked. The question asks for the festivals in Kerala that are celebrated by everyone irrespective of caste or religion, but the response does not list any festivals. Instead, it just repeats the question in a slightly different way. Therefore, according to the 'task_quality' metric, the score is 0 as there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. It correctly identifies festivals celebrated by all in Kerala, such as Onam, Christmas, Eid, and Mahashivratri. However, the response includes extraneous details not asked for, such as the mention of 'Asian' and 'lớnest', which seem to be errors in translation. Additionally, the response does not provide a comprehensive list of all festivals celebrated by all in Kerala, omitting some requested specifics. Therefore, the response demonstrates a grasp of the main theme of the instruction but misses out on finer details or nuances."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asked for the festivals celebrated by everyone in Kerala without any caste or religious discrimination. The response provided a detailed explanation of the festivals celebrated in Kerala, including Onam, Festival of Lights, Festival of Floats, and Festival of Forgesting. It also mentioned that these festivals are a celebration of Kerala's culture and tradition. Therefore, the model's response is accurate and adheres to the prompt's instructions, deserving a score of 2.",
+            "score": 2
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is not relevant to the question. The question asks for the festivals celebrated by everyone in Kerala without any caste or religious discrimination. However, the response only repeats 'Kottayam Festival' multiple times, which is not a valid answer. The response does not provide any meaningful information and does not adhere to the instructions given in the prompt."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response provided by the model is partially aligned with the prompt. The question asked for all the festivals celebrated by everyone in Kerala without any caste or religious discrimination. However, the model only mentioned one festival, Onam, and provided a detailed description of it. While the information provided about Onam is accurate and relevant, the model failed to mention other festivals like Vishu, Christmas, Eid, etc. that are also celebrated by everyone in Kerala. Therefore, the model grasps and addresses the main theme of the instruction but misses out on finer details or nuances."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately lists the festivals celebrated by all people in Kerala regardless of caste or religion, as asked in the question. It includes Onam, Vishu, Diwali, Kerala Piravi, Christmas, Ramadan, and Bakrid. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding and execution of the task. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately lists the festivals celebrated by everyone in Kerala without any caste or religious discrimination, as asked in the question. The festivals mentioned include Onam, Muharram, Thiruvathira, Thulakkavalam, Kilimanam, Vechiyali, Poojyadivasam, and Moonazcha Theppu. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        }
+    },
+    {
+        "prompt_id": "c25ce2f7-b218-40c2-a0b0-0d8473671ea3",
+        "prompt": "തുഞ്ചത്ത് എഴുത്തച്ഛനെ എന്തുകൊണ്ടാണ് മലയാളഭാഷയുടെ പിതാവ് എന്നറിയപ്പെടുന്നത്? മലയാള ഭാഷയുടെ ഉത്ഭവത്തെകുറിച്ച് വിവരിക്കുക.",
+        "prompt_type": "culture",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining why Thunchaththu Ezhuthachan is known as the father of the Malayalam language and providing information about the origin of the Malayalam language. The response is in line with the instructions given in the question and does not deviate from the topic. It provides a comprehensive answer, covering all aspects of the question. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asked why Thunchaththu Ezhuthachan is known as the father of the Malayalam language and to explain about the origin of the Malayalam language. The response provided by the model explains in detail why Thunchaththu Ezhuthachan is known as the father of the Malayalam language, citing his contributions to the language, his research, and his understanding of the unique characteristics of the language. The response also provides a detailed explanation of the origin of the Malayalam language, as requested in the question. Therefore, the model's response is comprehensive and directly addresses all aspects of the question, earning a score of 2 according to the 'task_quality' metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "justification": "The response provided by the model does not answer the question at all. The question asks why Thunchaththu Ezhuthachan is known as the father of the Malayalam language and to explain the origin of the Malayalam language. However, the response is repetitive and does not provide any information related to the question. It seems like the model is stuck in a loop, repeating the same phrases over and over again. Therefore, the score is 0 as there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is not coherent and does not answer the question. The question asks why Thunchaththu Ezhuthachan is known as the father of the Malayalam language and to explain about the origin of the Malayalam language. However, the response is repetitive and does not provide any relevant information. It does not adhere to the instructions given in the prompt, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses both parts of the question. It explains why Thunchaththu Ezhuthachan is known as the father of the Malayalam language, detailing his contributions to the language. It also provides a brief history of the origin of the Malayalam language, as requested in the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks why Thunchaththu Ezhuthachan is known as the father of the Malayalam language and to explain about the origin of the Malayalam language. However, the response does not provide any information on these topics. Instead, it seems to be a repetition of unrelated phrases. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses both parts of the question. It explains why Thunchaththu Ezhuthachan is known as the father of the Malayalam language, citing his contributions to the language and literature. It also provides a detailed account of the origin of the Malayalam language, tracing its development from the 10th century and mentioning key influences and works. The response is in line with the prompt's instructions and does not deviate from the topic, hence the score of 2."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It explains why Thunchaththu Ezhuthachan is known as the father of the Malayalam language, mentioning his contributions to the spread of the language. However, it does not provide any information about the origin of the Malayalam language, which was also asked in the question. Therefore, the response is not completely aligned with the prompt."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response does not answer the question correctly. The question asks why Thunchaththu Ezhuthachan is known as the father of the Malayalam language and to explain about the origin of the Malayalam language. However, the response does not provide any information on why Thunchaththu Ezhuthachan is known as the father of the Malayalam language. The response also does not provide a clear explanation about the origin of the Malayalam language. Instead, it contains irrelevant and incorrect information. Therefore, the response does not adhere to the specific directives given in the prompt."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining why Thunchaththu Ezhuthachan is known as the father of the Malayalam language and providing information about the origin of the Malayalam language. The response is in line with the instructions given in the question and does not deviate from the topic. It provides a comprehensive answer, covering all aspects of the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining why Thunchaththu Ezhuthachan is known as the father of the Malayalam language and providing a detailed account of the origin of the Malayalam language. The response is in line with the instructions given in the question and does not deviate from the topic. It provides a comprehensive answer to the question, covering all aspects of the prompt. Therefore, the response is awarded a score of 2 as per the 'task_quality' metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining why Thunchaththu Ezhuthachan is known as the father of the Malayalam language and providing information about the origin of the Malayalam language. The response is in line with the instructions given in the question and does not deviate from the topic. Therefore, it scores 2 on the task quality metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining why Thunchaththu Ezhuthachan is known as the father of the Malayalam language and providing a detailed account of the origin of the Malayalam language. The response is in line with the instructions given in the prompt, providing a comprehensive answer without any deviation or omission of details. Therefore, it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It explains why Thunchaththu Ezhuthachan is known as the father of the Malayalam language, stating that he was the first writer in Malayalam and the author of the first books in the language. However, the response does not provide a detailed explanation about the origin of the Malayalam language as requested in the question. Instead, it provides a vague statement about the language originating from the sounds of forest birds, which is not a scientifically accepted theory. Therefore, the response only partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        }
+    },
+    {
+        "prompt_id": "f775d9b5-d45d-456d-97e2-09309d3c23e0",
+        "prompt": "കേരളത്തിലെ ഏറ്റവും പുരാതന കലാരൂപമായ കൂടിയാട്ടത്തെക്കുറിച്ച് വിവരിക്കുക",
+        "prompt_type": "culture",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response does not provide any information about the ancient art form of 'Koodiyattam' in Kerala, which was the specific directive given in the prompt. Instead, it repeatedly describes a structure made of a special type of stick, stone, fat, or wood, which is irrelevant to the question. Therefore, the model's response is entirely irrelevant to the prompt, and there is a clear disconnect between the user's request and the model's response."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 0,
+            "justification": "The response does not provide any specific details about the ancient art form of Koodiyattam in Kerala, as requested in the question. Instead, it repeatedly states that Koodiyattam is an ancient art form in Kerala, without providing any additional information or details. Therefore, the response does not adhere to the specific directives given in the prompt, resulting in a score of 0 for task quality."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not address the question at all. The question asks for a description of the oldest art form in Kerala, Koodiyattam, but the response talks about the Kerala government's schemes to support the poor and marginalized sections of society. There is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately describes 'Koodiyattam', the oldest art form in Kerala, as requested in the question. It provides details about the nature of the art form, its basis on 'Paattukootiyattam', and its performance during the 'Thiruvathira' festival in Kerala. The response also mentions the components of 'Koodiyattam' such as songs, dance, and music. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding and execution of the task."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately describes Koodiyattam, the oldest art form in Kerala, as requested in the prompt. It provides details about its connection to Sanskrit drama, its classification into Chakyar Koothu and Nangyar Koothu, its performance in temples, and the stories it primarily depicts. The response fully adheres to the prompt's instructions, demonstrating a clear understanding and execution of the task."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for a description of the ancient art form 'Koodiyattam' in Kerala, but the response is just a repetition of the same phrase, which does not provide any information about 'Koodiyattam'. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt. There is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question about the ancient art form of Koodiyattam in Kerala. It provides detailed information about the art form, its unique features, and its significance in Kerala's culture. The response adheres to the prompt's instructions and respects its nuances and subtleties. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response scores 2 on the task quality metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately describes 'Koodiyattam', the oldest art form in Kerala, as requested in the question. It provides details about its origin, its nature as a folk art, and its connection with social and modern decorations and activities. The response fully adheres to the prompt's instructions, demonstrating a precise understanding of the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question asks for a description of the oldest art form in Kerala, 'Koodiyattam'. However, the response is nonsensical and does not provide any information about 'Koodiyattam'. Therefore, the model disregards the instructions entirely, leading to a score of 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately describes the ancient art form of Koodiyattam in Kerala, as requested in the prompt. It provides a comprehensive explanation about its history, performance style, costumes, music, and the overall experience of watching a Koodiyattam performance. The response is in complete alignment with the question, addressing all aspects of the prompt without any deviation or omission. Therefore, it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "justification": "The response provided by the model is a comprehensive explanation of the ancient art form of Koodiyattam in Kerala, which is exactly what the question asked for. The response includes details about the origin of Koodiyattam, its popularity, the nature of the performance, the characters involved, the costumes and makeup used, the venues where it is performed, and its cultural significance in Kerala. Therefore, the model's response is in complete alignment with the prompt, satisfying all aspects of the given directive without any deviation. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed.",
+            "score": 2
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately describes 'Koodiyattam', the oldest art form in Kerala, as requested in the prompt. It provides detailed information about the art form, its history, the way it is performed, the number of people involved, the use of music and dance, and the main objective of the performance. The response is in complete alignment with the question and does not deviate from the topic. Therefore, it scores 2 on the 'task_quality' metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately describes 'Koodiyattam', the oldest art form in Kerala, as requested in the prompt. It provides a comprehensive explanation about its origin, where it was performed, the themes it explores, and the communities involved in its performance. The response also mentions its recognition by UNESCO as a cultural heritage. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a clear understanding and execution of the task."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately describes Koodiyattam, the oldest art form in Kerala, as requested in the prompt. It provides a detailed explanation of the art form, its narrative style, the use of music, the different forms it takes, and its cultural and regional history. The response is directly related to the user's instruction and addresses all aspects of the prompt without any deviation or omission."
+        }
+    },
+    {
+        "prompt_id": "d22d3197-5d61-4f36-af84-15d2a2d456ec",
+        "prompt": "കേരളത്തിന്റെ തനതായ പൈതൃകത്തിൽ നിന്നും സംസ്കാരത്തിലും നിന്നും പുതിയ തലമുറ ഒരുപാട് വ്യതിചലിച്ചിരിക്കുന്നു. ഇതിൽ പാശ്ചാത്യ സംസ്ക്കാരത്തിന്റെ കടന്നു കയറ്റം വഹിച്ച പങ്ക് വിശദീകരിക്കുക",
+        "prompt_type": "culture",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response starts off by addressing the question, but then devolves into a repetition of the word 'ഇപ്പോൾ' (now) multiple times, which is irrelevant and does not provide any further information or insight into the question asked. This shows a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question. The question asks for an explanation of the influence of Western culture on the new generation of Kerala, and the response provides a detailed explanation of how Western culture has influenced various aspects of Kerala's culture, such as art forms like Kathakali, education system, and the new generation's approach towards their heritage. The response also includes examples and maintains a clear connection with the question throughout. Therefore, the model has demonstrated a precise understanding and adherence to the prompt's instructions."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model does not answer the question at all. The question asks to explain the influence of western culture on the unique heritage and culture of Kerala, but the response merely repeats the question without providing any explanation or details. Therefore, the score is 0 as there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, explaining the influence of Western culture on the new generation in Kerala. It adheres to the instructions given in the prompt and provides a clear and direct answer to the question. There is no deviation from the topic and no aspect of the instruction is left unaddressed. Therefore, the response fully satisfies the 'task_quality' metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asked for an explanation of the influence of Western culture on the new generation in Kerala. The response provides a detailed explanation of how Western culture has influenced Kerala's heritage and culture through cultural exchanges, education, media, and technology. It also explains how this influence has brought changes in the thinking and lifestyle of the new generation. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding of the question and providing a comprehensive answer."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question asks to explain the influence of western culture on the unique heritage and culture of Kerala, but the response talks about a hole in a pit and sand, which is not related to the question at all. Therefore, according to the \"task_quality\" metric, the score is 0 as there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for an explanation of the influence of Western culture on the new generation in Kerala. The response provides a detailed explanation of how Western culture has influenced various aspects of life in Kerala, such as education, communication technologies, music, cinema, food, fashion, and modern art installations. It also discusses the impact of Western language traditions on the language used by the new generation. Furthermore, the response considers the potential negative effects of this influence, such as the loss of local culture and diversity. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding of the question and providing a comprehensive answer."
+        },
+        "gpt-35-turbo": {
+            "justification": "The response accurately addresses the question, which asks to explain the influence of Western culture on the unique heritage and culture of Kerala, leading to a new generation that is quite different. The response explains how the intrusion of Western culture has caused a shift in the new generation from Kerala's unique heritage and culture. It also mentions the significant impact of Western culture often seen on the traditional lifestyle of Kerala. Therefore, the response is in direct correlation with the user's instruction, with no aspect of the instruction left unaddressed.",
+            "score": 2
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response provided by the model does not address the question at all. The question asks to explain the influence of western culture on the new generation of Kerala, but the response is just a repetition of the same character 'ഈ' which does not provide any meaningful information or answer to the question. Therefore, the score is 0 as per the 'task_quality' metric because the model disregards the instructions entirely, and there is a clear disconnect between the user's request and the model's response."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asked for an explanation of the influence of Western culture on the new generation in Kerala and how it differs from traditional values. The response provides a detailed explanation of how Western culture has infiltrated Kerala's traditional values, leading to conflicts and often resulting in the decline of traditional values. It also mentions that the new generation is seeking ways to reconcile their own values with traditional ones, which often leads to the neglect of traditional values due to a lack of understanding or appreciation. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding and adherence to the prompt's instructions."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asked for an explanation of the influence of Western culture on the new generation in Kerala. The response provides a detailed explanation of how Western culture has influenced various aspects of Kerala's traditional culture and heritage, such as cooking methods, clothing, art, music, dance, religion, literature, and language. It also mentions how the new generation is balancing both traditional and Western influences. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding of the question and providing a comprehensive answer."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a detailed explanation of the influence of Western culture on the new generation in Kerala. It covers various aspects such as lifestyle, values, cooking methods, language, music, fashion, food, entertainment, technology, and other areas. The response is in line with the question, demonstrating a clear understanding and adherence to the prompt's instructions. Therefore, it scores 2 on the task quality metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asked for an explanation of the influence of Western culture on the new generation in Kerala. The response provides a detailed explanation of how Western culture has permeated various aspects of life in Kerala, including dressing styles, food habits, music, cinema, and more. It also discusses the positive and negative impacts of this influence. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding of the question and providing a comprehensive answer."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asked for an explanation of the influence of Western culture on Kerala's unique heritage and culture. The response explains how the incursion of Western culture has caused changes in Kerala's traditional culture and heritage. It adheres to the prompt's instructions and respects its nuances, demonstrating a precise understanding of the question. Therefore, according to the 'task_quality' metric, it deserves a score of 2."
+        }
+    },
+    {
+        "prompt_id": "bff0f7a8-3a57-4faf-ae54-3698b29f18e3",
+        "prompt": "കേരളത്തിന്റെ സാംസ്കാരിക പൈതൃകത്തിൽ ഉയർന്ന സാക്ഷരതാ നിരക്ക് വഹിച്ച പങ്ക് വിശദമാക്കുക",
+        "prompt_type": "culture",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response provided by the model does address the main theme of the question, which is to explain the role of high literacy rate in Kerala's cultural heritage. It provides detailed information on the education system, religious practices, and cultural events in Kerala. However, the response includes a repeated phrase ('**അത്‌ലറ്റോഗ്രാഫി') multiple times towards the end, which is irrelevant and not asked for in the question. This extraneous detail leads to a score of 1 as per the 'task_quality' metric."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question. It provides a detailed explanation of the role of high literacy rates in Kerala's cultural heritage, including historical context and specific statistics. The response does not deviate from the question's instructions and does not include any extraneous or irrelevant information. Therefore, it fully satisfies the 'task_quality' metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks to explain the role of high literacy rate in the cultural heritage of Kerala. However, the response is just repeating the question multiple times without providing any explanation or information. Therefore, the model disregards the instructions entirely and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response partially addresses the question. The question asks to explain the role of high literacy rate in the cultural heritage of Kerala. The response mentions that the cultural state of Kerala has a main goal of explaining the cultural part of literacy and that there are many activities conducted by the cultural state for this purpose. However, it does not provide a detailed explanation of how the high literacy rate contributes to the cultural heritage of Kerala, which is what the question is asking for. Therefore, the response is somewhat relevant but not a complete match to the question."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks to explain the role of high literacy rate in the cultural heritage of Kerala, and the response accurately explains the factors that contributed to the high literacy rate in Kerala, such as the influence of ancient religions, the role of Brahmins, missionary schools, and government literacy campaigns. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, and the output holistically satisfies all aspects of the given directive without any deviation.",
+            "score": 2
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not relevant to the question. The question asks to explain the role of high literacy rate in the cultural heritage of Kerala, but the response does not provide any information related to this. Instead, it repeats the same phrase multiple times, which does not make any sense. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question. It explains the role of Kerala's cultural heritage in its high literacy rate, detailing the importance of education in the culture, the early initiation of literacy programs, the focus on education for women and minorities, and the influence of family education and traditional schools. The response also highlights the role of societal growth and general health, especially family health care, in promoting literacy. It concludes by emphasizing the foundational role of cultural heritage in Kerala's high literacy rate. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding and execution of the task."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the role of high literacy rates in Kerala's cultural heritage. It explains that the emphasis on education and research played a significant role in this. The response is directly related to the question and does not deviate from the topic, hence it satisfies all aspects of the given directive. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It provides information about the literacy rate in Kerala and how it has increased over the years, which is relevant to the question. However, it does not specifically explain the role that Kerala's cultural heritage has played in achieving this high literacy rate, which was the main point of the question. Additionally, the response includes some extraneous details and repetitions that were not asked for in the question. Therefore, the response is only partially aligned with the prompt."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response initially addresses the question by stating the importance of high literacy rate in the cultural heritage of Kerala. However, it then repeats the same point about the role of literacy in language preservation multiple times without providing any new information or details. This repetition does not add any value to the response and does not fully address the question, which asked for a detailed explanation. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response does address the main theme of the question, which is about the role of high literacy rate in Kerala's cultural heritage. However, it lacks in providing specific details or nuances about how exactly the high literacy rate contributes to the cultural heritage of Kerala. The response is repetitive and does not provide any new or additional information after the initial few sentences. Therefore, it only partially aligns with the prompt and misses out on finer details or nuances, which is why it gets a score of 1 according to the 'task_quality' metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a detailed explanation of the role high literacy rates play in Kerala's cultural heritage. It mentions how this contributes to a diverse and comprehensive understanding of culture, and how it promotes social development through a focus on education and literacy. The response does not deviate from the question's instructions and does not leave any aspect of the instruction unaddressed, thus demonstrating a precise understanding and adherence to the prompt's instructions."
+        },
+        "GPT4o": {
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asked for a detailed explanation of the role played by the high literacy rate in the cultural heritage of Kerala. The response provided a comprehensive explanation of how education has played a crucial role in the cultural development of Kerala, how various stakeholders have made education more accessible and universal, the importance given to female education, the availability of educational institutions in almost all regions, the reading culture in every household, and how all these factors have contributed to the overall literacy rate in Kerala. The response also explained how this literacy has contributed to literature and art, better averages in social-economic aspects, and how it has elevated the social personality of people and made them active participants in political, economic, and cultural matters. Therefore, the score is 2 as there's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed.",
+            "score": 2
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the role of high literacy rates in Kerala's cultural heritage. It explains how literacy is a key component of Kerala's culture, how it impacts various aspects of society, and how it contributes to overall societal development. The response is directly related to the user's instruction and covers all aspects of the question without any deviation or omission. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying the 'task_quality' metric at the highest level."
+        }
+    },
+    {
+        "prompt_id": "f6055ec5-6074-4ec0-adca-69409bb2b020",
+        "prompt": "കേരളത്തിന്റെ സമ്പന്നമായ സംസ്കാരത്തിലും പാരമ്പര്യവും വിദേശികൾ ആകൃഷ്ടരാകാനുള്ള കാരണങ്ങൾ വിശദമാക്കുക",
+        "prompt_type": "culture",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question. The question asks for a detailed explanation of why foreigners are attracted to the rich culture and heritage of Kerala. The model provides a comprehensive list of reasons, including historical attractions, job opportunities, cultural experiences, educational opportunities, hospitality, tourism, and social and cultural experiences. Each point is elaborated in detail, providing a thorough understanding of the topic. Therefore, the model has demonstrated a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 0,
+            "justification": "The response is repetitive and does not provide a clear and concise answer to the question. The same phrases are repeated multiple times, which does not contribute to the quality of the response. The response does not adhere to the specific directives given in the prompt, hence the score of 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is in English, while the question is in Malayalam. The response does not adhere to the specific directives given in the prompt, which is to answer in Malayalam. Therefore, the model disregards the instructions entirely, leading to a score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks to explain the reasons why foreigners are attracted to the rich culture and tradition of Kerala. The model's response provides a detailed explanation of the various aspects of Kerala's culture and tradition that attract foreigners, such as traditional art forms, historical places in Thiruvananthapuram, songs, dramas, musical instruments, cooking arts, food, and beverages. Therefore, the model's response holistically satisfies all aspects of the given directive without any deviation, demonstrating a precise understanding and adherence to the prompt's instructions."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing detailed reasons why foreigners are attracted to the rich culture and heritage of Kerala. It mentions Kerala's art forms, history, tolerance, brotherhood, and natural beauty, all of which are aspects that could attract foreigners. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question asks for reasons why foreigners are attracted to the rich culture and tradition of Kerala, but the response talks about the reasons for granting lands or privileges in Kerala, which is not related to the question. Furthermore, the response contains repeated and nonsensical phrases, indicating a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a detailed explanation of why foreigners are attracted to the rich culture and tradition of Kerala. It mentions various aspects such as art, music, drama, food, and the unparalleled beauty of the state. It also highlights the unique experiences that Kerala offers to foreigners, such as the opportunity to witness traditional customs, rituals, and dance forms. The response is in complete alignment with the question, and there is a clear and direct correlation between the user's instruction and the model's response. Therefore, a score of 2 is justified."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for a detailed explanation of why foreigners are attracted to the rich culture and heritage of Kerala. The response provides a clear explanation, stating that the unique and rich culture and heritage of Kerala, along with the excitement and training about the local culture, are the reasons that attract foreigners. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not coherent and does not provide any meaningful information related to the question. It seems like there is a technical error in the response as it contains repeated and nonsensical phrases. Therefore, it does not adhere to the instructions given in the prompt."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question. The question asks to explain the reasons why foreigners are attracted to the rich culture and tradition of Kerala. The model's response provides a detailed explanation of the various aspects of Kerala's culture and tradition that attract foreigners, including its historical stories, traditional arts, music, language, customs, and cooking methods. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a detailed explanation of why foreigners are attracted to the rich culture and heritage of Kerala. It mentions the strong history and culture of Kerala, its unique language, traditional artifacts, and diverse agricultural products. The response is in line with the question and does not deviate from the topic. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response provided by the model does address the main theme of the question, which is to explain the reasons why foreigners are attracted to the rich culture and tradition of Kerala. However, the response is repetitive and lacks finer details or nuances. The same points about the diversity and richness of Kerala's culture and tradition are repeated multiple times, which indicates a lack of depth in the response. Therefore, the model's response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question. The question asks for a detailed explanation of why Kerala's rich culture and tradition attract foreigners. The response provides a detailed list of eight reasons, including traditional arts, Ayurvedic treatments, festivals, nature conservation, architecture, housing system, food taste, and society. Each point is explained in detail, providing a thorough understanding of the topic. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks to explain the reasons why foreigners are attracted to the rich culture and tradition of Kerala. The response accurately describes the cultural richness, diverse culinary practices, traditional arts, literature, and the natural beauty of Kerala as the reasons for attracting foreigners. Therefore, the model has demonstrated a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation.",
+            "score": 2
+        }
+    },
+    {
+        "prompt_id": "faa44a6d-579e-4474-8819-f024d79b4a8d",
+        "prompt": "ആയുർവേദത്തിൻ്റെ പ്രചാരത്തിലും പ്രയോഗത്തിലും സംരക്ഷണത്തിലും കേരളം വഹിച്ച പങ്ക് വിശദമാക്കുക",
+        "prompt_type": "culture",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "justification": "The response does address the main theme of the question, which is about the role Kerala has played in the promotion, practice, and preservation of Ayurveda. It provides a detailed explanation of how Kerala has been focusing on Ayurveda for centuries, even before the advent of modern medicine, and how it has become a part of the state's unique health preservation tradition. However, the response includes a repetitive and irrelevant list of medicinal plants and minerals, which was not asked for in the question. This extraneous detail leads to a score of 1 instead of 2.",
+            "score": 1
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for a detailed explanation of the role Kerala has played in the promotion, application, and preservation of Ayurveda. However, the response merely repeats a phrase about medicinal plants and minerals used in Ayurveda, without any specific reference to Kerala's contribution. Therefore, the response is entirely irrelevant to the prompt, which aligns with the scoring rubric's criteria for a score of 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for a detailed explanation of the role Kerala has played in the promotion, application, and preservation of Ayurveda. However, the response does not provide any specific details or examples related to this. Instead, it repeats the same phrases multiple times without providing any meaningful information. Therefore, the response does not adhere to the specific directives given in the prompt, making it irrelevant to the question asked."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about Kerala's role in the promotion, application, and preservation of Ayurveda. It provides a historical context, mentions the practical application of Ayurveda in Kerala, and acknowledges the efforts of the state government in preserving Ayurveda. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the role Kerala has played in the promotion, practice, and preservation of Ayurveda. It provides a comprehensive explanation, mentioning the belief that Ayurveda originated in Kerala, the tradition of Ayurvedic medicine in Kerala, the study and practice of Ayurveda in colleges, hospitals, and research centers in Kerala, and the role of Ayurveda practitioners from Kerala in promoting Ayurveda worldwide. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding of the question and providing a complete and relevant answer."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not provide any specific details about the role Kerala has played in the promotion, application, and preservation of Ayurveda, as asked in the question. Instead, it seems to be repeating the question itself without providing any new or relevant information. Therefore, the response does not adhere to the instructions given in the prompt, leading to a score of 0."
+        },
+        "gpt-4": {
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks to elaborate on the role of Kerala in the promotion, application, and preservation of Ayurveda. The response accurately and comprehensively describes how Kerala has contributed to the development and preservation of Ayurveda, from its practical health programs based on Ayurveda to its institutions that prioritize the study of Ayurveda. The response also mentions how Kerala has historically been a central place in the introduction of Ayurveda. Therefore, the model's response perfectly adheres to the instructions given in the prompt, warranting a score of 2.",
+            "score": 2
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It mentions the promotion of Ayurveda in Kerala and the role of Mahatma Gandhi and Pandit R. G. Bhandarkar in it. However, it does not provide a detailed explanation of Kerala's role in the preservation and practice of Ayurveda, as asked in the question. Therefore, the response is somewhat relevant but not a complete match to the question."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not coherent and does not provide a clear answer to the question. The question asks for a detailed explanation of the role Kerala has played in the promotion, application, and preservation of Ayurveda. However, the response is filled with repeated phrases and words that do not make sense in the context of the question. It does not provide any specific details about Kerala's contribution to Ayurveda. Therefore, the response does not adhere to the instructions given in the prompt, making it irrelevant to the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asked for a detailed explanation of the role Kerala has played in the promotion, application, and preservation of Ayurveda. The response provided a comprehensive explanation of how Kerala has been a hub for Ayurveda since its early development, how it has preserved Ayurvedic texts and traditions, and how it continues to be a leading center for Ayurveda today. Therefore, the model's response fully satisfies the prompt's instructions without any deviation.",
+            "score": 2
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response does address the main theme of the question, which is about the role Kerala has played in the propagation, practice, and preservation of Ayurveda. However, the response lacks specific details and examples that would have made it more comprehensive and informative. The response also contains repetitive sentences, which do not add any new information. Therefore, the response partially aligns with the prompt but does not completely satisfy all aspects of the given directive."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question about the role Kerala has played in the promotion, application, and preservation of Ayurveda. It provides detailed information about Kerala being the birthplace of Ayurveda, its history, the traditional treatment methods, and how Kerala has focused on preserving these methods. The response also highlights the use of traditional treatments and aromatic substances in Ayurvedic treatments in Kerala, which is a fundamental part of Ayurveda. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding of the question and providing a comprehensive answer."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question about Kerala's role in the promotion, practice, and preservation of Ayurveda. It provides detailed information about how Kerala has played a significant role in the propagation and preservation of Ayurveda, including the use of specific Ayurvedic treatments, the preservation of Ayurvedic texts, and the integration of Ayurvedic practices into daily life. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about Kerala's role in the promotion, practice, and preservation of Ayurveda. It provides a detailed explanation of how Ayurveda is practiced in Kerala, the principles it follows, and how it is integrated into the social culture. The response also mentions the use of natural resources in Ayurvedic treatments, which is a part of preservation. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a clear understanding and execution of the task."
+        }
+    },
+    {
+        "prompt_id": "05d39133-efe4-4626-bce0-d5db8d971bb9",
+        "prompt": "കേരളത്തിന്റെ സമ്പന്നമായ സംസ്കാരം, പാരമ്പര്യങ്ങൾ, ജീവിതരീതികൾ എന്നിവയെ പ്രതിപാദിക്കുന്ന പുസ്തങ്ങളെയും സാഹിത്യകൃതികളെയും കുറിച്ച് വിവരിക്കുക",
+        "prompt_type": "culture",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is not relevant to the question. The question asks for a description of books and literary works that represent the rich culture, traditions, and lifestyles of Kerala. However, the response is repetitive and does not provide any specific information about any books or literary works. It merely repeats a phrase about the richness of Kerala's cultural heritage, without providing any concrete examples or details. Therefore, the response does not adhere to the specific directives given in the prompt."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "justification": "The response is repetitive and does not provide any specific information about the books and literary works that reflect the rich culture, traditions, and lifestyles of Kerala, as asked in the question. The same sentence is repeated multiple times, which does not add any value to the response. Therefore, the score is 0 as the model disregards the instructions entirely and there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The question asks for a description of books and literary works that represent the rich culture, traditions, and lifestyles of Kerala. However, the response provided is about the popular tourist destinations in Kerala and the best time to visit them. This response is completely irrelevant to the question asked, hence the score of 0. The model disregards the instructions entirely and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by discussing books and literary works that reflect the rich culture, traditions, and lifestyles of Kerala. It adheres to the instructions given in the prompt and provides a comprehensive answer without any deviation. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a detailed explanation about the rich culture, traditions, and lifestyle of Kerala as depicted in books and literary works. The response includes specific examples of traditional songs and literary works that represent Kerala's culture, thus fully adhering to the prompt's instructions. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question. It provides detailed information about Kerala's rich culture, traditions, and lifestyles as requested in the prompt. The response discusses the significance of 'sampannam', 'paramparyanngal', and 'jeevitharikal' in Kerala's culture, which aligns perfectly with the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the 'task_quality' metric."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing detailed information about books and literary works that reflect the rich culture, traditions, and lifestyles of Kerala. The response includes specific examples of books and their content, demonstrating a precise understanding and adherence to the prompt's instructions. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the task quality metric."
+        },
+        "gpt-35-turbo": {
+            "justification": "The response provided by the model does not adhere to the instructions given in the prompt. The question asks the model to describe books and literary works that represent the rich culture, traditions, and lifestyles of Kerala. However, the model's response simply repeats the question without providing any description or information about such books or literary works. Therefore, there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a detailed description of Kerala's rich culture, traditions, and lifestyle as reflected in its books and literary works. It mentions specific elements such as the classical dance form Kathakali, the literary tradition from the ancient epic Mahabharata to contemporary works, and traditional art forms like mural painting, wood carving, and bronze casting. The response is in line with the prompt's instructions and does not deviate from the topic, hence it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a detailed explanation about the books and literary works that reflect the rich culture, traditions, and lifestyles of Kerala. The response also provides examples of such works, demonstrating a precise understanding and adherence to the prompt's instructions. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response provided by the model does address the main theme of the instruction, which is to describe books and literary works that represent the rich culture, traditions, and lifestyles of Kerala. However, the response lacks finer details and nuances. The model repeats the same information about the book 'Kerala Culture' by A.K. Nambudiri multiple times, which is not asked for in the prompt. The response could have been improved by providing more diverse examples of books and literary works that represent Kerala's culture, traditions, and lifestyles, as per the instruction in the prompt."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response provided by the model does address the main theme of the instruction, which is to describe books and literary works that represent the rich culture, traditions, and lifestyles of Kerala. However, the response lacks finer details and nuances. The model repeats the same book title 'കേരളത്തിന്റെ സംസ്കാരം' multiple times without providing any additional information or mentioning other books or literary works. Therefore, the response only partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a list of books and literary works that reflect the rich culture, traditions, and lifestyles of Kerala. The response not only lists the works but also provides the names of the authors, which was not explicitly asked for in the question but adds value to the response. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a detailed explanation about the books and literary works that represent the rich culture, traditions, and lifestyles of Kerala. The response also includes examples of such works, further demonstrating the model's understanding of the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        }
+    }
+]

@@ -1,0 +1,1322 @@
+[
+    {
+        "prompt_id": "774b4848-424f-4709-b633-e693aa41288f",
+        "prompt": "ధూమపానం, ఉబ్బసం లేదా మధుమేహం వంటి ఇప్పటికే ఉన్న వైద్య పరిస్థితులను మరింత దిగజార్చగలదా?",
+        "prompt_type": "health",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences reflect the natural rhythm, emphasis, and intonation of spoken language, and it effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a good fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, and there is no usage of non-existent or incorrect words. The word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors that impede understanding. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The phrase 'కాకు ఎంతో ఉండింది' is repeated multiple times without any clear context or meaning. Additionally, the response ends with a string of non-existent characters. These factors make the response incoherent and difficult to understand, thus it scores 0 on the linguistic acceptability scale."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language, and it effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is also repetitive and does not provide a clear answer to the question. The response does not align with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Telugu language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and effectively answers the question."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it does not contain any grammatical errors that could impede understanding. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. Therefore, the response gets a score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. It does not contain any non-existent or incorrect words, and the word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The response also reflects the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. It does not contain any non-existent or incorrect words, and the word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors that impede understanding. The response effectively uses idiomatic expressions without sounding forced, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, it receives a score of 2."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it doesn't contain any grammatical errors that could impede understanding. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. Therefore, the response gets a score of 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and maintains the natural rhythm of the language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Telugu language. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing detailed information on how smoking can exacerbate existing medical conditions such as asthma and diabetes. Therefore, it scores 2 on the linguistic acceptability scale."
+        }
+    },
+    {
+        "prompt_id": "e4a7ba5b-491f-4ae9-95e2-ff23cdddabb6",
+        "prompt": "తరచుగా దగ్గు ఏదైనా సమస్యకు సంకేతమా?",
+        "prompt_type": "health",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language, making it easy to understand and follow. It effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. The sentence lacks clear syntactic structure and is repetitive, making it difficult to understand. The same phrase is repeated multiple times without providing a clear answer to the question. This falls under the category of 'Sentences that lack clear syntactic structure' in the scoring rubric, hence the score is 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. The sentences lack clear syntactic structure and the same phrase is repeated multiple times without providing any meaningful answer to the question. Additionally, the response ends with a series of non-existent characters, which further reduces its linguistic acceptability."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentence structure aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response reflects the natural rhythm, emphasis, and intonation of spoken Telugu language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language, and it effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is repetitive and does not provide a clear answer to the question. It does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language, making it sound natural and fluent. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Telugu language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing a detailed explanation of why frequent coughing can be a sign of a health problem, and it does so in a way that is fluent and idiomatic."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also effectively uses idiomatic expressions and reflects the natural rhythm, emphasis, and intonation of spoken Telugu language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any non-existent or incorrect words, and the word choices are appropriate for the context. The response is not overly verbose or stilted, and there are no grammatical errors that impede understanding. The response effectively uses idiomatic expressions without sounding forced, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Telugu language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and answers the question effectively."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is a mix of Telugu and other languages, making it difficult to understand. The response does not answer the question about whether frequent coughing is a sign of any problem. Instead, it provides steps to solve a problem without specifying what the problem is. Therefore, the response is not appropriate for the context of the question."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. It does not contain any non-existent or incorrect words, and the word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The response also reflects the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Telugu language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and provides a comprehensive answer to the question."
+        }
+    },
+    {
+        "prompt_id": "b5d49672-a2c1-4c02-a45b-8d1d9535750a",
+        "prompt": "కిడ్నీలో రాళ్లు కరిగిపోవాలంటే ఎలాంటి ఆహారం తీసుకోవాలి",
+        "prompt_type": "health",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It repeats the same phrase 'చేపలు' (fish) multiple times without providing any new or relevant information. This repetition lacks clear syntactic structure and does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response does not provide a variety of food items that could help in dissolving kidney stones, which was the main point of the question. Therefore, the score is 0."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and coherence. The response does not answer the question about what kind of diet should be taken to dissolve kidney stones. Instead, it talks about kidney functions and regeneration, which is irrelevant to the question. The response also ends abruptly with an incomplete sentence and uses a non-existent character, which further reduces its linguistic acceptability."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful information. The response is simply a repetition of the question, which does not answer the question or provide any relevant information. This falls under the category of 'Sentences that lack clear syntactic structure' in the scoring rubric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Telugu language. The response is fluent, idiomatic, and contextually appropriate. It effectively answers the question about what kind of diet should be taken to dissolve kidney stones, by suggesting foods rich in sodium citrate. There are no grammatical errors or inappropriate word choices. The response reflects the natural rhythm, emphasis, and intonation of spoken Telugu language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is repetitive and does not provide any meaningful or relevant information to the question asked. The question asks about the type of diet to be followed to prevent kidney stones, but the response does not address this at all. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any non-existent or incorrect words, and the word choices are appropriate for the context. The response is not overly verbose or stilted, and there are no grammatical errors that impede understanding. The response effectively uses idiomatic expressions without sounding forced, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and maintains a natural rhythm and intonation of the Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the context of the question asked."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Telugu language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about what kind of diet should be taken to dissolve kidney stones, providing a detailed explanation that includes drinking more water and consuming certain nutrients. It also suggests consulting a doctor for further assistance, which is contextually relevant and appropriate."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It provides a detailed explanation of the types of food that can help in dissolving kidney stones, and also advises on what to avoid. The response is fluent, idiomatic, and reflects the natural rhythm of spoken Telugu language. There are no grammatical errors or inappropriate word choices. The response is neither overly verbose nor stilted. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Telugu language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about what kind of diet should be followed to dissolve kidney stones, providing detailed and relevant information."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It provides a clear and comprehensive answer to the question about what kind of diet should be followed to dissolve kidney stones. The response is fluent and idiomatic, reflecting the natural rhythm and intonation of spoken Telugu language. There are no grammatical errors or inappropriate word choices. The response also effectively integrates contextually relevant vocabulary and provides specific examples of foods to include in the diet."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response contains non-existent or incorrect words such as 'ఐత్య', 'ధాన్', 'ఓats', 'ఐసు', 'inyl', 'డాల', 'ఘట్ర', 'వరి', 'inyl', 'డ్రాప్', 'ఊరు', 'డబ్బa' which do not make sense in the context of the question. The response also lacks clear syntactic structure, making it difficult to understand. Therefore, the score is 0 according to the 'linguistic_acceptability' metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and provides a detailed answer to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It provides a detailed answer to the question about what kind of diet should be followed to dissolve kidney stones. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in context."
+        }
+    },
+    {
+        "prompt_id": "53b78a0e-81af-472c-8d76-ae92a949cf8f",
+        "prompt": "వెన్ను నొప్పి తగ్గాలంటే ఎలాంటి జాగ్రత్తలు తీసుకోవాలి?",
+        "prompt_type": "health",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive. The same phrases are repeated multiple times with no variation or additional information. This makes the response sound unnatural and stilted, which is why it receives a score of 1 according to the linguistic acceptability metric. However, the response does not contain any grammatical errors or inappropriate word choices, so it does not receive a score of 0."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide a coherent answer to the question. The sentences are repetitive and do not make sense in the context of the question. The response does not provide any specific precautions to be taken to reduce back pain, which is what the question is asking for. Therefore, the score is 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful information in response to the question. The same phrase is repeated multiple times without any context or explanation. This does not align with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Telugu language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and provides a comprehensive answer to the question about precautions to be taken to reduce back pain."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Telugu language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and provides a clear and comprehensive answer to the question."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive, with phrases like 'ఎప్పుడు ఎప్పుడు ఎద్దో జాగ్రత్తలు చేయయేదు అయ్యప్పై' repeated multiple times. The response does not provide any meaningful or relevant information to the question asked about how to take precautions to reduce back pain. It does not adhere to the implicit norms and rules of a native speaker's linguistic intuition and does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are well-structured and reflect the natural rhythm of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and provides a comprehensive answer to the question asked."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also reflects the natural rhythm and intonation of spoken language, making it easy to understand and follow. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It starts off well, providing relevant advice on how to alleviate back pain. However, it quickly becomes repetitive and nonsensical, repeating the same phrase about using warm compresses or baths over and over again. This repetition lacks clear syntactic structure and is not appropriate in the given context, which leads to a score of 0 according to the provided metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive. The same points are repeated multiple times with slight variations, which makes the response unnecessarily long and redundant. However, the response is grammatically correct and uses appropriate vocabulary, so it is still understandable and relevant to the question."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It provides a detailed list of precautions to be taken to reduce back pain, which directly answers the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also reflects the natural rhythm and intonation of spoken Telugu language."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary in context. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is also fluent and idiomatic, providing a comprehensive answer to the question asked."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, maintains a natural rhythm, and is free of grammatical errors. The sentences are well-structured and the language used is appropriate for the context. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any non-existent or incorrect words, and the word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The response also reflects the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        }
+    },
+    {
+        "prompt_id": "098f2ecd-3e28-4c02-b8a7-dfdc084edaca",
+        "prompt": "ఏ ఔషధం కడుపు నొప్పిని తగ్గిస్తుంది",
+        "prompt_type": "health",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are well-structured and reflect the natural rhythm of the Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the context of the question."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response lacks clear syntactic structure and does not answer the question asked. The question asks for a medicine that can relieve stomach pain, but the response does not mention any medicine. Instead, it talks about pollution and carbon experiences, which are not relevant to the question. The response also uses non-existent or incorrect words, making it difficult to understand. Therefore, the score is 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is repetitive and does not provide a clear answer to the question. The phrase 'కాకు కృపణం అంటే తగ్గిస్తుంది' is repeated multiple times without providing any meaningful information. The response does not mention any specific medication that can alleviate stomach pain, which was the main point of the question. Therefore, the response is not linguistically acceptable and does not adhere to the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. The response also effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are well-structured and reflect the natural rhythm of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable in the context of the question. The question asks about a medicine that can relieve stomach pain, but the response talks about a person named Eastham Jillella who is the president of Eastham Parishad. The response does not make sense in the context of the question, and it uses incorrect words and phrases. Therefore, the score is 0 according to the linguistic acceptability metric."
+        },
+        "gpt-4": {
+            "justification": "The response is well-structured and aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, and the word choices are appropriate for the context. The response is also fluent and idiomatic, fitting well within the natural, expected, and intuitive contours of fluent human Telugu language.",
+            "score": 2
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Telugu language. The response is contextually relevant, and it reflects the natural rhythm, emphasis, and intonation of spoken Telugu. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand for native Telugu speakers."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It has a clear syntactic structure, uses correct and existent words, and is appropriate for the given context. The response is not overly verbose or stilted, and it does not contain any grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentence structure aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response reflects the natural rhythm, emphasis, and intonation of spoken Telugu language."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The response also effectively uses idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and easy to understand, making it a good fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are well-structured and reflect the natural rhythm of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also effectively uses idiomatic expressions without sounding forced. It provides a clear and comprehensive answer to the question asked, listing several medications that can help with stomach pain and explaining their effects."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is written in a clear and concise manner, with appropriate use of vocabulary and sentence structure. The response is grammatically correct and fits within the natural contours of fluent human language. It effectively answers the question about which medication can help reduce stomach pain, providing a list of medications and a note on the importance of consulting with a doctor. There are no errors or inappropriate word choices, and the response is not overly verbose or stilted."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are structured well and reflect the natural rhythm of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any non-existent or incorrect words, and the word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors that impede understanding. The response effectively uses idiomatic expressions without sounding forced, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language."
+        }
+    },
+    {
+        "prompt_id": "05c369b4-6b21-4485-81e5-60b5e860259d",
+        "prompt": "క్రిప్టోకరెన్సీలలో పెట్టుబడి పెట్టడం వల్ల కలిగే ప్రయోజనాలు మరియు నష్టాలు ఏమిటి?",
+        "prompt_type": "finance",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Telugu language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is contextually relevant and effectively answers the question."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful information. The same sentence is repeated multiple times without any variation or additional details. This does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response does not answer the question about the benefits and losses of investing in cryptocurrencies, which is the context of the question. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively explains the benefits and risks of investing in cryptocurrencies, which aligns with the question asked."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. It effectively answers the question about the benefits and risks of investing in cryptocurrencies. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It starts with a coherent sentence but then devolves into a string of nonsensical characters. This violates the criteria of having a clear syntactic structure and using existent and correct words. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, providing a comprehensive answer to the question asked."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also fits naturally within the context of the question, demonstrating an effective use of language that reflects the natural rhythm and intonation of spoken Telugu."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions without sounding forced. It provides a comprehensive answer to the question, detailing both the benefits and drawbacks of investing in cryptocurrencies."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively explains the benefits and risks of investing in cryptocurrencies, which aligns with the question asked. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is well-structured and uses appropriate vocabulary and idiomatic expressions in Telugu. It provides a comprehensive answer to the question, detailing both the benefits and risks of investing in cryptocurrencies. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors or inappropriate word choices. The response is fluent and aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively explains the benefits and risks of investing in cryptocurrencies, which directly answers the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors that impede understanding. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. Therefore, the response gets a score of 2."
+        }
+    },
+    {
+        "prompt_id": "7e9416e1-462d-4836-8d99-9b2098738fad",
+        "prompt": "సిస్టమాటిక్ ఇన్వెస్ట్‌మెంట్ ప్లాన్ (SIP) అంటే ఏమిటి మరియు అది ఎలా పని చేస్తుంది?",
+        "prompt_type": "finance",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, providing a comprehensive explanation of the Systematic Investment Plan (SIP) in Telugu."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response does not provide a clear explanation of what a Systematic Investment Plan (SIP) is and how it works, which was the question asked. The response also contains non-existent or incorrect words, and lacks clear syntactic structure, which makes it difficult to understand. Therefore, according to the linguistic acceptability metric, the response gets a score of 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and is repetitive, with the same phrase repeated multiple times. It does not provide any meaningful or relevant information in response to the question about what a Systematic Investment Plan (SIP) is and how it works. The response does not adhere to the implicit norms and rules of a native speaker's linguistic intuition, and it does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively explains what a Systematic Investment Plan (SIP) is and how it works, in a manner that is clear and easy to understand."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and explains the concept of Systematic Investment Plan (SIP) in a clear and concise manner. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and does not provide a coherent answer to the question. The response also includes repeated phrases and words that do not make sense in the context of the question. The response does not explain what a Systematic Investment Plan (SIP) is or how it works, which was the information requested in the question. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, providing a comprehensive explanation of what a Systematic Investment Plan (SIP) is and how it works."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and explains the concept of Systematic Investment Plan (SIP) in a clear and concise manner. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are well-structured and reflect the natural rhythm of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the context of the question."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and explains the concept of Systematic Investment Plan (SIP) in a clear and understandable manner. The sentences reflect the natural rhythm and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and explains the concept of Systematic Investment Plan (SIP) in a clear and concise manner. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It contains a mix of Telugu and English words, which makes it difficult to understand. The sentences lack clear syntactic structure and there is usage of non-existent or incorrect words. The response does not align with the implicit norms and rules of a native Telugu speaker's linguistic intuition. The response does not fit within the natural, expected, and intuitive contours of fluent human Telugu language."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and explains the concept of Systematic Investment Plan (SIP) in a clear and comprehensive manner. The sentences reflect the natural rhythm and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Overall, the response adheres to the implicit norms and rules of a native Telugu speaker's linguistic intuition."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Telugu language. The sentences reflect the natural rhythm and intonation of spoken language. The response effectively explains what a Systematic Investment Plan (SIP) is and how it works, making it contextually relevant. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        }
+    },
+    {
+        "prompt_id": "146939a9-f233-4e9b-bdf7-45f45ec91420",
+        "prompt": "పర్సనల్ లోన్ కోసం అప్లై చేయడానికి ఏ డాక్యుమెంటేషన్ అవసరం?",
+        "prompt_type": "finance",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive. The same information is repeated multiple times, which makes the response unnecessarily long and redundant. However, the response is grammatically correct and provides the necessary information in response to the question, so it is still understandable and relevant."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide a coherent answer to the question. The response seems to be a random collection of phrases and does not make sense in the context of the question. It does not provide any information about the documentation required to apply for a personal loan, which was the question asked. Therefore, it scores 0 on the linguistic acceptability scale."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide a coherent answer to the question. The same sentence is repeated multiple times without providing any meaningful information. The response does not answer the question about what documentation is needed to apply for a personal loan. Therefore, it scores 0 on the linguistic acceptability scale."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Telugu language. The response is fluent, idiomatic, and contextually appropriate. It does not contain any grammatical errors, incorrect words, or inappropriate word choices. The response is not overly verbose or stilted, and it reflects the natural rhythm, emphasis, and intonation of spoken Telugu language. Therefore, it receives a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Telugu language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about the necessary documentation for applying for a personal loan."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response does not provide any meaningful or relevant information to the question asked. It seems like a random repetition of words and phrases, which makes it incomprehensible and irrelevant to the question about the documentation required for a personal loan."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about the necessary documentation for applying for a personal loan, providing a detailed list of required documents. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentence structure is clear and it aligns with the implicit norms and rules of a native speaker's linguistic intuition. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. It effectively answers the question about the necessary documentation for applying for a personal loan. The response is fluent and idiomatic, reflecting the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it highly acceptable from a linguistic perspective."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. It effectively answers the question by providing a detailed list of documents required for a personal loan application. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. There are no grammatical errors, incorrect words, or inappropriate word choices. The response is not overly verbose or stilted, and it uses words that are appropriate for the context. It reflects the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are structured well and reflect the natural rhythm of the spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and directly answers the question."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm and intonation of the Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about the necessary documentation for applying for a personal loan, providing a detailed list of required documents in a clear and concise manner."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. It does not contain any non-existent or incorrect words, and the word choices are appropriate for the context. The response is not overly verbose or stilted, and there are no grammatical errors. The response also reflects the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        }
+    },
+    {
+        "prompt_id": "f928b08e-061c-412c-9650-568234094c1c",
+        "prompt": "నేను నా జీరో బ్యాలెన్స్ ఖాతాను జీతం ఖాతాగా మార్చవచ్చా?",
+        "prompt_type": "finance",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It has a clear syntactic structure, uses correct and existent words, and is appropriate for the given context. The response is not overly verbose or stilted, and it doesn't have any grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, it gets a score of 2."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive. The same sentence 'కూడించడానికి బ్యాలెన్స్ ఖాతాను జీతం ఖాతాగా మార్చవచ్చా' is repeated multiple times without adding any new information or context. This makes the response sound stilted and unnatural. However, there are no grammatical errors and the words used are appropriate for the context."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Telugu speaker's linguistic intuition. The response is fluent, idiomatic, and contextually appropriate. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question, providing a clear and concise explanation. Therefore, it receives a score of 2, reflecting its seamless integration of contextually relevant vocabulary, effective use of idiomatic expressions, and natural rhythm and intonation."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Telugu language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and answers the question effectively."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is difficult to understand. The sentences are repetitive and do not make sense in the context of the question. The response does not answer the question about changing a zero balance account to a salary account. Instead, it seems to be talking about something unrelated. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentence structure is clear and correct, with no usage of non-existent or incorrect words. The word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and provides a direct answer to the question asked."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. It does not contain any non-existent or incorrect words, and the word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The response also reflects the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The phrasing is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. Therefore, it gets a score of 2."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and provides a comprehensive answer to the question."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Telugu language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and provides a clear and comprehensive answer to the question."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The first sentence of the response is a mix of Vietnamese and Telugu, which makes it difficult to understand. The rest of the response is in English, which is not the language of the question. Therefore, the response does not align with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It lacks fluency, idiomacy, and appropriateness in context."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is grammatically correct, uses appropriate vocabulary, and is contextually relevant. It also reflects the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and provides a comprehensive answer to the question asked."
+        }
+    },
+    {
+        "prompt_id": "6b0c19d3-455c-4e40-b9bc-09c33cf028bb",
+        "prompt": "ఏ పెట్టుబడి 100% పన్ను రహితం?",
+        "prompt_type": "finance",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The same information about mutual funds is repeated multiple times without any variation or additional details. This repetition does not align with the implicit norms and rules of a native speaker's linguistic intuition. It lacks clear syntactic structure and is overly verbose, which makes it difficult to understand and follow. Therefore, the score is 0."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, which makes it hard to understand. The same points are repeated in points 1 and 2, which is unnecessary. The response also ends abruptly, which makes it seem incomplete. However, the response does not contain any non-existent or incorrect words, and the word choices are not grossly inappropriate for the given context. Therefore, the score is 1."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive, with the same phrase repeated multiple times. It does not provide a clear or coherent answer to the question asked. The response does not align with the implicit norms and rules of a native speaker's linguistic intuition. It does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Telugu language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and answers the question effectively."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is not coherent and does not provide a clear answer to the question. The sentences are not structured properly and the words used do not make sense in the context of the question. The response does not align with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is a complete sentence with clear syntactic structure. The words used are correct and appropriate for the context. The sentence reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, and the phrasing is not overly verbose or stilted. The response effectively answers the question, providing a specific example of a pollution-free power plant that operates on solar energy."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response 'నాటు పారు.' does not align with the question 'ఏ పెట్టుబడి 100% పన్ను రహితం?'. The response is not contextually appropriate and does not provide a clear answer to the question asked. It lacks clear syntactic structure in relation to the question, hence the score of 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. The sentences are well-structured and use contextually relevant vocabulary. The response effectively uses idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent, idiomatic, and appropriate in the context of the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentence structure is clear and correct, with no usage of non-existent or incorrect words. The word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentence reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response to the question is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and easy to understand, making it a good fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm and intonation of the Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response contains words that are non-existent or incorrect, such as 'careouscareous' and 'மற்றும்  சிறப்பு  పన్నులు  విధే', which do not make sense in the context of the question and the language (Telugu). This falls under the category of 'Usage of non-existent or incorrect words' in the scoring rubric, leading to a score of 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also reflects the natural rhythm and intonation of spoken Telugu language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent and idiomatic, aligning well with the implicit norms and rules of a native Telugu speaker's linguistic intuition."
+        }
+    },
+    {
+        "prompt_id": "1d8be2e5-30b3-4d73-9c5d-b734d5ad4286",
+        "prompt": "తెలుగు వివాహాలు ఇతర భారతీయ సంస్కృతులో వివాహాలకు ఎలా భిన్నంగా ఉంటాయి?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response is generally well-structured and uses appropriate vocabulary. However, it is overly verbose and repetitive, with the same points being reiterated multiple times. For example, the points about 'wedding meal' and 'family strengthening' are repeated multiple times. This redundancy makes the response less linguistically acceptable. The response could have been more concise and to the point, avoiding unnecessary repetition."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response does not answer the question about how Telugu weddings differ from other Indian weddings. Instead, it talks about the British system, which is irrelevant to the question. The response also contains a string of unrecognized characters at the end, which further reduces its linguistic acceptability."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and does not provide any meaningful information in response to the question. The response is repetitive and does not answer the question about how Telugu weddings differ from weddings in other Indian cultures. Additionally, the response ends with a string of nonsensical characters, which further detracts from its linguistic acceptability."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively integrates contextually relevant vocabulary and reflects the natural rhythm and intonation of spoken Telugu language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. It lacks a clear syntactic structure and uses non-existent or incorrect words. The response does not provide any meaningful or relevant information to the question asked about the differences between Telugu weddings and other Indian weddings. The response is a repetition of nonsensical phrases and words, making it incomprehensible. Therefore, according to the linguistic acceptability metric, the response receives a score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and easy to understand."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Telugu language. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about how Telugu weddings differ from other Indian weddings, providing specific examples and details. Therefore, it receives a score of 2, reflecting its seamless integration of contextually relevant vocabulary, effective use of idiomatic expressions, and natural rhythm and intonation."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It contains a mix of different languages, including Telugu, Korean, Bengali, and Tamil, which makes it difficult to understand. The sentences lack clear syntactic structure and use non-existent or incorrect words, which are reasons for a score of 0 according to the metric. The response does not adhere to the implicit norms and rules of a native Telugu speaker's linguistic intuition."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions without sounding forced. It provides a comprehensive answer to the question, detailing the differences between Telugu weddings and weddings in other Indian cultures in terms of rituals, decorations, food, and music."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, maintains a natural rhythm, and is free from grammatical errors. The sentences are well-structured and the language used is appropriate for the context. The response also effectively uses idiomatic expressions without sounding forced. Overall, the response aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, maintains a natural rhythm, and effectively uses idiomatic expressions. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent and aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the norms and rules of the Telugu language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu. The response effectively uses idiomatic expressions and contextually relevant vocabulary. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent, idiomatic, and appropriate in the context of the question."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, maintains a natural rhythm, and is free of grammatical errors. The sentences are well-structured and the information is presented in a clear and concise manner. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Telugu language. The sentences reflect natural rhythm and emphasis, and the contextually relevant vocabulary is seamlessly integrated. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the context of the question."
+        }
+    },
+    {
+        "prompt_id": "300c0783-5a8a-4535-8f26-059d1d1a9d5e",
+        "prompt": "తెలుగు సంస్కృతిలో ఆచరించే కొన్ని సాంప్రదాయక కళారూపాలు ఏమిటి మరియు అవి ఆధునిక యుగంలో ఎలా భద్రపరచబడ్డాయి?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response is generally linguistically acceptable, but it is overly verbose and repetitive. The same phrases are repeated multiple times, which makes the response seem stilted and unnatural. For example, the phrases 'తరచుగా మతపరమైన లేదా చారిత్రక సందర్భాలకు సంబంధించినవి' and 'తరచుగా హిందూ పురాణాల నుండి ఇతివృత్తాలను కలిగి ఉంటాయి' are repeated for each art form mentioned. This repetition does not add any new information and makes the response seem less natural and fluent."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question is about traditional art forms in Telugu culture and how they have been preserved in the modern era. However, the response talks about human culture and its aspects, which is not relevant to the question. Additionally, the response ends abruptly with a string of nonsensical characters, indicating a lack of clear syntactic structure. Therefore, the score is 0 based on the linguistic acceptability metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful information in response to the question. The response is essentially a repetition of the question, followed by an incomplete sentence that does not make sense. The response also includes a string of non-existent characters, which further reduces its linguistic acceptability."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. The sentences are well-structured and use contextually relevant vocabulary. The response effectively uses idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it adheres to the norms and rules of the Telugu language. The sentences have a clear syntactic structure, and the words used are correct and appropriate for the context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm and intonation of the spoken language. Therefore, the response gets a score of 2."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it adheres to the norms and rules of the Telugu language. It is fluent, idiomatic, and contextually appropriate. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and easy to understand, demonstrating a high degree of linguistic acceptability."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the context of the question asked."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the norms and rules of the Telugu language. The sentences are well-structured and use appropriate vocabulary. The response is fluent, idiomatic, and contextually appropriate. There are no grammatical errors or inappropriate word choices. The response effectively integrates contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Telugu language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive, with the word 'నాటకం' (drama) repeated multiple times without providing any meaningful or relevant information. It does not answer the question about traditional art forms in Telugu culture and how they have been preserved in the modern era. The response does not reflect the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the norms and rules of the Telugu language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response is also contextually relevant and effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is highly repetitive, with the same phrase 'కథ చెప్పే కళ' (storytelling art) repeated multiple times. This repetition does not contribute to the meaning or understanding of the response. The response also does not answer the question about traditional art forms in Telugu culture and how they have been preserved in the modern era. Therefore, it scores 0 on the linguistic acceptability scale."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and easy to understand."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as per the norms and rules of the Telugu language. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences are fluent and idiomatic, reflecting the natural rhythm and intonation of spoken Telugu. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about traditional art forms in Telugu culture and how they have been preserved in the modern era."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It effectively uses contextually relevant vocabulary to describe traditional art forms in Telugu culture and how they have been preserved in the modern era. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the given context."
+        }
+    },
+    {
+        "prompt_id": "471bbcd5-88ca-4a17-b38c-414ea4df5073",
+        "prompt": "తెలుగు సంస్కృతిలో పూర్వీకులను గౌరవించడంతో సంబంధం ఉన్న నిర్దిష్ట ఆచారాలు ఏమైనా ఉన్నాయా?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is essentially a repetition of the same phrase 'శ్రీ కృష్ణ దేవరాయ' multiple times. This does not provide any meaningful or relevant information in response to the question about specific customs related to honoring ancestors in Telugu culture. Therefore, it falls under category (a) of the scoring rubric for a score of 0: 'Sentences that lack clear syntactic structure.'"
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 1,
+            "justification": "The response is grammatically correct and uses appropriate Telugu language structure. However, it is overly verbose and does not directly answer the question. The question asks for specific customs related to honoring ancestors in Telugu culture, but the response talks about the importance of honoring ancestors and creating institutions without providing any specific customs."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it does not provide any meaningful answer to the question. It merely repeats the question multiple times without providing any information or answer. This is a clear violation of the implicit norms and rules of a native speaker's linguistic intuition, as it lacks clear syntactic structure and does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as per the norms and rules of Telugu language. It is fluent, idiomatic, and contextually appropriate. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, incorrect words, or inappropriate word choices. The response also effectively integrates contextually relevant vocabulary and idiomatic expressions without sounding forced."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It uses contextually relevant vocabulary, idiomatic expressions, and reflects the natural rhythm, emphasis, and intonation of spoken Telugu language. The sentences are well-structured, and there are no grammatical errors or inappropriate word choices. The response is also fluent, idiomatic, and appropriate in the given context."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is a repetition of a single phrase, which does not provide any meaningful or relevant information to the question asked. The response does not adhere to the norms and rules of the Telugu language, making it incomprehensible and irrelevant to the question asked."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It uses contextually relevant vocabulary, idiomatic expressions, and reflects the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as per the norms and rules of Telugu language. It is fluent, idiomatic, and appropriate in the given context. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. The response also seamlessly integrates contextually relevant vocabulary and effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. Therefore, the response gets a score of 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable in Telugu. The response includes multiple sentences that are not in Telugu, but in a different language, which makes it difficult to understand for a Telugu speaker. This violates the norms and rules of a native Telugu speaker's linguistic intuition, hence the score of 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the given context. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and fits within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as per the norms and rules of the Telugu language. It is fluent, idiomatic, and contextually appropriate. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu. The response also seamlessly integrates contextually relevant vocabulary and effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and adheres to the grammar rules of Telugu, fitting within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors that impede understanding. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the context of the question asked."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors that impede understanding. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. Therefore, the response gets a score of 2."
+        }
+    },
+    {
+        "prompt_id": "e531f435-ebf7-47be-8d3f-4f4bc06b94ad",
+        "prompt": "తెలుగు సంస్కృతికి మరియు సమాజానికి గొప్పగా దోహదపడిన కొంతమంది ప్రసిద్ధ చారిత్రక వ్యక్తి లేదా వ్యక్తుల గురించి నాకు చెప్పండి?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive. The response also does not answer the question asked, which was to provide information about some famous historical figures who have greatly contributed to Telugu culture and society. Instead, the response is filled with repeated phrases and does not provide any meaningful information. Therefore, according to the metric, the score is 0."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response does not answer the question. The question asks for some famous historical figures who have greatly contributed to Telugu culture and society, but the response does not provide any names or details about such figures. Instead, it seems to start talking about Telugu culture itself, but the sentence is incomplete and does not make sense. Therefore, the response lacks clear syntactic structure and is not contextually appropriate, which corresponds to a score of 0 according to the linguistic acceptability metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not provide any information or answer to the question asked. The response is just a repetition of the question itself, and it ends abruptly with some non-existent characters. This violates the linguistic acceptability metric, specifically the criteria of 'Sentences that lack clear syntactic structure' and 'Usage of non-existent or incorrect words'."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Telugu language. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, incorrect words, or inappropriate word choices. The response effectively answers the question by providing names of historical figures who have significantly contributed to Telugu culture and society."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the norms and rules of the Telugu language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu. The response is also contextually relevant and provides a comprehensive answer to the question asked. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions without sounding forced. Overall, the response fits within the natural, expected, and intuitive contours of fluent human Telugu language."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The names mentioned in the response do not correspond to any known historical figures who have contributed to Telugu culture and society. The response is also repetitive and does not provide any meaningful information in response to the question."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the norms and rules of the Telugu language. The sentences are fluent and idiomatic, reflecting the natural rhythm and intonation of spoken Telugu. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question by providing information about several historical figures who have significantly contributed to Telugu culture and society."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is grammatically correct, uses appropriate vocabulary, and is contextually relevant. The sentence structure is clear and it reflects the natural rhythm and intonation of the Telugu language. There are no errors or inappropriate word choices. The response is not overly verbose or stilted, and it effectively communicates the information about a historical figure who contributed significantly to Telugu culture and society."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response is mostly in Telugu, but there are several phrases and sentences in English. This makes the response linguistically unacceptable as it does not fully adhere to the norms and rules of the Telugu language. The response is not overly verbose or stilted, and there are no grammatical errors that impede understanding. However, the use of English instead of Telugu is not the most appropriate for the context. Therefore, the score is 1."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response is linguistically acceptable in terms of grammar and syntax. However, it is overly repetitive, with the same person 'Penkoor' being mentioned multiple times with the same description. This repetition makes the response seem stilted and unnatural, which is why it receives a score of 1 according to the metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Telugu language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu. The response also effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is contextually relevant and answers the question accurately."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the norms and rules of the Telugu language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response is also contextually relevant and provides a comprehensive list of historical figures who have significantly contributed to Telugu culture and society. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Telugu language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response also effectively integrates contextually relevant vocabulary and idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a good fit within the natural, expected, and intuitive contours of fluent human language."
+        }
+    },
+    {
+        "prompt_id": "c10b05ba-9cf3-40ef-b7a9-b91b714c29b3",
+        "prompt": "తెలుగు సాంస్కృతిక కార్యక్రమాలలో సంగీతం మరియు సంగీత వాయిద్యాల పాత్రను వివరించండి?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, maintains a natural rhythm, and is free from grammatical errors. The response is also well-structured and coherent, providing a detailed explanation of the role of music and musical instruments in Telugu cultural events. It does not contain any inappropriate word choices, overly verbose or stilted phrasing, or non-existent or incorrect words. The response is fluent and idiomatic, reflecting the natural contours of the Telugu language."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 1,
+            "justification": "The response is overly verbose and contains some grammatical errors. However, it does not impede understanding. The response also contains a non-existent word or phrase at the end, which seems to be a typing error. Despite these issues, the response is still somewhat acceptable linguistically, as it does not completely lack syntactic structure and does not contain grossly inappropriate word choices for the given context."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it lacks clear syntactic structure. The response is repetitive and does not provide any meaningful information in response to the question. The same sentence is repeated multiple times without any variation or additional information. This does not align with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Telugu speaker's linguistic intuition. The response is fluent, idiomatic, and contextually appropriate. It effectively answers the question about the role of music and musical instruments in Telugu cultural programs. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response reflects the natural rhythm, emphasis, and intonation of spoken Telugu language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and does not provide a coherent answer to the question. The response is a repetition of a single phrase, which does not make sense in the context of the question. It does not explain the role of music and musical instruments in Telugu cultural programs, as asked in the question. Therefore, the score is 0 as per the metric 'linguistic_acceptability'."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent and fits within the natural, expected, and intuitive contours of human language."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not in Telugu language as asked in the question. It is mostly in Hindi with some Telugu words. This violates the linguistic acceptability as it does not align with the implicit norms and rules of a native Telugu speaker's linguistic intuition. The response lacks clear syntactic structure in Telugu and uses non-existent or incorrect words in Telugu context."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and easy to understand."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent and fits within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the norms and rules of the Telugu language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is contextually relevant and fits within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as per the norms and rules of the Telugu language. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The response effectively uses idiomatic expressions and maintains the natural rhythm and intonation of the spoken language. There are no grammatical errors, incorrect word usage, or inappropriate word choices. The response is neither overly verbose nor stilted. It reflects a high degree of fluency and appropriateness in context, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is a good fit within the natural, expected, and intuitive contours of fluent human Telugu language."
+        }
+    },
+    {
+        "prompt_id": "efc05b73-aba6-4d2c-93dd-6f7dd0ad5d31",
+        "prompt": "తెలుగు సంస్కృతి ఎప్పుడు మొదలైంది దాని యొక్క విశిష్టత ఏమిటి?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, maintains a natural rhythm, and is free from grammatical errors. The response is also well-structured and coherent, providing a comprehensive answer to the question about the origin and distinct features of Telugu culture. It effectively uses idiomatic expressions and maintains the natural rhythm and intonation of the Telugu language."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 1,
+            "justification": "The response is grammatically correct and makes sense in the context of the question. However, it does not directly answer the question about when Telugu culture began and its uniqueness. Instead, it talks about health and national probable situations, which are not directly related to the question. Therefore, the response is overly verbose and does not provide the most appropriate context, which aligns with the scoring rubric for a score of 1."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The phrase 'కూడలు కొనోనకం లేదంటి' is repeated multiple times without any clear meaning or context. The response does not provide any information about when Telugu culture began or its unique features, which was the original question. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Telugu language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context, answering the question about when Telugu culture began and its unique features."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the norms and rules of the Telugu language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context, answering the question about when Telugu culture began and its unique features."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not make any sense in the context of the question. It lacks clear syntactic structure and uses non-existent or incorrect words. It does not provide any information about when Telugu culture started or its unique features. Therefore, it scores 0 on the linguistic acceptability scale."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the norms and rules of the Telugu language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu. The response effectively uses idiomatic expressions and contextually relevant vocabulary. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent, idiomatic, and appropriate in the context of the question."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is grammatically correct, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentence structure is clear and reflects the natural rhythm of spoken language. There are no errors or inappropriate word choices. The response is concise and to the point, providing a clear answer to the question about the origin and uniqueness of Telugu culture."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the norms and rules of the Telugu language, and is fluent, idiomatic, and appropriate in context. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu. The response also seamlessly integrates contextually relevant vocabulary and effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it highly linguistically acceptable."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The phrasing is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it doesn't have any grammatical errors that could impede understanding. The response uses contextually relevant vocabulary, uses idiomatic expressions effectively without sounding forced, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Telugu language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about the origin and uniqueness of Telugu culture."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Telugu language. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about the origin and distinct features of Telugu culture, demonstrating a seamless integration of contextually relevant vocabulary."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. It effectively uses idiomatic expressions and maintains the natural rhythm and intonation of the Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent and aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Telugu language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about when Telugu culture began and its unique features, demonstrating a seamless integration of contextually relevant vocabulary."
+        }
+    },
+    {
+        "prompt_id": "ca10c31a-7ad5-4e2c-b591-190a0b61ff67",
+        "prompt": "సంక్రాంతిని తెలుగువారి పండుగ అని ఎందుకు అంటారు, అసలు ఎప్పుడు మొదలైంది?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, which makes it difficult to follow. The same phrases are repeated multiple times, which is not typical of fluent human language. However, the response does not contain any non-existent or incorrect words, and the word choices are not inappropriate for the context. The response also attempts to answer the question, although it does not provide a clear or concise answer. Therefore, the score of 1 is given."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive without providing any meaningful information. The response also includes non-existent or incorrect words, as seen in the string of special characters at the end. Therefore, it scores 0 on the linguistic acceptability scale."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful information in response to the question. The response is essentially a repetition of the question, which does not align with the implicit norms and rules of a native speaker's linguistic intuition. It does not adhere to grammar rules and does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Telugu language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about why Sankranti is considered a Telugu festival and when it started, providing historical and cultural context. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It effectively uses contextually relevant vocabulary and idiomatic expressions. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the context of the question asked."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It does not answer the question asked, which was about why Sankranti is considered a Telugu festival and when it started. Instead, the response provides a list of names that are not relevant to the question. Additionally, the response contains non-existent words and lacks clear syntactic structure, which are reasons for a score of 0 according to the metric."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also reflects the natural rhythm and intonation of the Telugu language. It provides a detailed explanation of why Sankranti is considered a Telugu festival and when it started, effectively answering the question."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Telugu language. The response is fluent, idiomatic, and contextually appropriate. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response reflects the natural rhythm, emphasis, and intonation of spoken Telugu language."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response is generally understandable and relevant to the question, but it contains some awkward phrasing and incorrect word usage. For example, the phrase 'Litecoin Telugu samskrutiya' seems out of place and doesn't make sense in the context. The response also doesn't fully answer the question about when the festival started. Therefore, the score is 1, indicating minor grammatical errors and inappropriate word usage that do not impede understanding."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it adheres to the norms and rules of the Telugu language. It is fluent, idiomatic, and appropriate in the context of the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, demonstrating a high level of linguistic acceptability."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It starts off well, explaining why Sankranti is considered a festival for Telugu people and when it begins. However, the response then repeats the same phrase about the festival starting in the 1st century BC multiple times, which lacks clear syntactic structure and is overly verbose. This repetition does not add any new information or context to the response, making it confusing and difficult to understand. Therefore, the score is 0."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Telugu language. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context. It effectively answers the question about why Sankranti is considered a Telugu festival and when it is celebrated, providing the necessary information in a clear and concise manner."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. The sentences are well-structured and use contextually relevant vocabulary. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response reflects the natural rhythm, emphasis, and intonation of spoken Telugu language. It also effectively uses idiomatic expressions without sounding forced. Therefore, the response gets a score of 2 for linguistic acceptability."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and easy to understand."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        }
+    },
+    {
+        "prompt_id": "037bd3f4-0069-488f-9f2e-232e6e7f82dd",
+        "prompt": "తెలుగు సంప్రదాయంలో ఆడపిల్లల తల్లితండ్రులు పిల్లల మొదటి జన్మకు ఎందుకు డబ్బు చెల్లిస్తారు?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is overly verbose. The same sentences are repeated multiple times without any new information being added. This makes the response confusing and hard to follow. The response also does not answer the question asked, which was about why parents give money to their children on their first birthday in Telugu tradition. Instead, the response talks about child marriages, which is not relevant to the question. Therefore, the response gets a score of 0."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive. The response also does not answer the question asked, which was why parents give money to their children at their first birth in Telugu tradition. The response instead repeats the question and ends abruptly with non-existent characters. Therefore, it scores 0 on the linguistic acceptability scale."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. It merely repeats the question and then provides a series of nonsensical and repetitive phrases. There is no clear syntactic structure, and the response does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response does not fit within the natural, expected, and intuitive contours of fluent human language. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is repetitive and does not provide a coherent or meaningful answer to the question. The response does not adhere to the norms and rules of the Telugu language and does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as per the norms and rules of the Telugu language. It is grammatically correct, uses appropriate vocabulary, and is contextually relevant to the question asked. The response also reflects the natural rhythm and intonation of spoken Telugu language. There are no errors or inappropriate word choices. The response is fluent and idiomatic, and it fits well within the expected contours of the Telugu language."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentence structure aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response reflects the natural rhythm, emphasis, and intonation of spoken Telugu language."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Telugu speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question and reflects the natural rhythm, emphasis, and intonation of spoken Telugu language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It is grammatically correct, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it receives a score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it adheres to the norms and rules of the Telugu language. It is fluent, idiomatic, and appropriate in the context of the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and easy to understand, making it a good fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and adheres to the grammar rules of the Telugu language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is well-structured and adheres to the norms and rules of the Telugu language. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent, idiomatic, and appropriate in the given context."
+        }
+    },
+    {
+        "prompt_id": "cf80f8a0-fb64-4db0-927a-b7ad1b13cdad",
+        "prompt": "తెలుగు సంస్కృతిలో గమనించిన కొన్ని సాధారణ మూఢనమ్మకాలు లేదా నమ్మకాలు ఏమిటి?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, maintains a natural rhythm, and effectively uses idiomatic expressions. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is well-structured and aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question asks for common superstitions or beliefs in Telugu culture, but the response talks about economic industries and primary analysis. Additionally, the response ends with a string of nonsensical characters, indicating a lack of clear syntactic structure. This falls under the '0' category of the scoring rubric, specifically reason '(a)': 'Sentences that lack clear syntactic structure.'"
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful information in response to the question. The response is repetitive and does not answer the question about common superstitions or beliefs in Telugu culture. It merely repeats the question without providing any additional information or context. Therefore, it falls under the '0' category of the scoring rubric, specifically under reason '(a)': 'Sentences that lack clear syntactic structure.'"
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate Telugu vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. The sentences are well-structured, use appropriate vocabulary, and are contextually relevant. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced, and reflects the natural rhythm, emphasis, and intonation of spoken Telugu language. Therefore, it scores 2 on the linguistic acceptability metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is not coherent and does not provide a clear answer to the question about common superstitions or beliefs in Telugu culture. The response also includes a string of non-readable characters at the end, which further reduces its linguistic acceptability."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. The sentences are well-structured, use appropriate vocabulary, and are contextually relevant. The response also effectively uses idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the context of the question asked."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate Telugu vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm and intonation of the Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response is linguistically acceptable in terms of grammar and syntax. However, it is overly verbose and repetitive. The same superstition is repeated multiple times with no variation, which makes the response seem unnatural and forced. This repetition does not contribute to the overall understanding or information of the response, hence the score of 1."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is highly repetitive, with the same phrase repeated over and over again. This does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response does not provide any meaningful or relevant information in response to the question asked."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and easy to understand."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses idiomatic expressions and integrates contextually relevant vocabulary seamlessly. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as per the norms and rules of Telugu language. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        }
+    },
+    {
+        "prompt_id": "cf55bb94-a94d-4462-8aba-bd3c2ca179f1",
+        "prompt": "తెలుగువారు వంటల్లో మిరపకాయలు ఎక్కువగా వాడటానికి కారణం ఏమైనా ఉందా?",
+        "prompt_type": "culture",
+        "language": "telugu",
+        "abhinand/telugu-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response provided does not answer the question asked. It is simply a repetition of the word 'Telugu' and does not provide any information or context related to the question. It lacks clear syntactic structure and is grossly inappropriate for the given context. Therefore, according to the linguistic acceptability metric, it scores a 0."
+        },
+        "Telugu-LLM-Labs/Telugu-Llama2-7B-v0-Instruct": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The sentences are not coherent and do not make sense in the context of the question. The response does not answer the question about why Telugu people use a lot of chillies in their cooking. Instead, it seems to be a random collection of phrases about chillies, which are not connected in a meaningful way. Therefore, the score is 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful answer to the question. The response is simply a repetition of the question, which does not align with the implicit norms and rules of a native speaker's linguistic intuition. It does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. It effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the context of the question."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Telugu language. The sentences reflect the natural rhythm and intonation of spoken Telugu. The response effectively answers the question, providing a clear reason why Telugu people use a lot of chillies in their cooking. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is a repetition of a nonsensical phrase, which does not provide any meaningful or relevant answer to the question asked. The response does not adhere to the implicit norms and rules of a native speaker's linguistic intuition, and does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken Telugu language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentence structure aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response reflects the natural rhythm, emphasis, and intonation of spoken Telugu language."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it does not answer the question asked. The question asks for the reason why Telugu people use a lot of chillies in their cooking, but the response provides a recipe for cooking chillies. The response does not adhere to the implicit norms and rules of a native speaker's linguistic intuition in the context of the question asked."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Telugu language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response also effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is contextually relevant and answers the question accurately and completely."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the norms and rules of the Telugu language. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Telugu language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent and aligns with the implicit norms and rules of a native Telugu speaker's linguistic intuition."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Telugu speaker's linguistic intuition. The response is fluent, idiomatic, and contextually appropriate. It effectively answers the question, providing a clear reason for the use of chillies in Telugu cuisine. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response reflects the natural rhythm, emphasis, and intonation of spoken Telugu language."
+        }
+    }
+]

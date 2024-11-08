@@ -1,0 +1,1082 @@
+[
+    {
+        "prompt_id": "3b684baa-0d7c-480f-a8a7-a70c5a202139",
+        "prompt": "बँकेत खाते उघडण्यासाठी कोणते कागदपत्रे लागतात?",
+        "prompt_type": "finance",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response partially addresses the question. The question asks for the specific documents required to open a bank account, but the response, while mentioning the need for various documents, does not specify what these documents are. It only mentions the need for identification documents, identification number, and account number, but does not provide a detailed list of required documents. Therefore, the response misses out on finer details or nuances of the question, leading to a score of 1."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for the documents required to open a bank account, but the response merely repeats the question without providing any specific documents. The response is irrelevant and does not adhere to the instructions given in the prompt."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what documents are needed to open a bank account. It provides a detailed list of required documents, including identity proof, address proof, income proof, and a photo. The response is directly related to the user's instruction and addresses all aspects of the question without any deviation or omission. Therefore, it scores 2 on the task quality metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately lists the documents required to open a bank account, which is exactly what the question asked for. It also provides additional useful information about the possibility of these requirements changing according to bank rules, and advises to confirm with the bank. Therefore, the response fully adheres to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for the documents required to open a bank account, but the response talks about check truncation and cheque leaf, which are not related to the question. There is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about what documents are needed to open a bank account. It lists all the necessary documents such as a completed application form, identification proof, address proof, basic documents, passport size photos, and information about your business if necessary. It also provides additional information that the documents may vary according to the bank and it is necessary to contact the bank officials for information. Therefore, the response adheres to the prompt's instructions and respects its nuances, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what documents are needed to open a bank account. It mentions valid identification or Aadhar card, Aadhar card number, bank information, and a passport size photo, which are all relevant and necessary documents. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for the documents required to open a bank account and the model provides a detailed list of the necessary documents, including personal information, identification proof, address proof, and tax information. The model also advises to check with the specific bank for any additional requirements, which shows a nuanced understanding of the task. Therefore, the model's response adheres to the prompt's instructions completely and accurately, warranting a score of 2."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for the documents required to open a bank account and the model provides a comprehensive list of all the documents that might be needed. It also adds a note at the end to check with the bank for any additional documents, which shows a nuanced understanding of the task. Therefore, the model's response adheres to the prompt's instructions completely, satisfying all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about what documents are needed to open a bank account. It provides a detailed list of required documents, including identification, address proof, business-related documents, and banking forms. It also mentions additional documents that some banks might require. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about what documents are needed to open a bank account. It lists various identification documents, proof of address, passport-sized photos, PAN card, filled account opening form, and also mentions the need to check with the specific bank for any additional requirements. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question asks for the documents required to open a bank account, but the response talks about the process after the documents have been submitted and the account number has been received. There is a clear disconnect between the user's request and the model's response."
+        }
+    },
+    {
+        "prompt_id": "35098585-73e7-449c-8659-9db04b88ccd1",
+        "prompt": "होम लोन घेण्यासाठी कोणकोणते कागदपत्रे लागतील?",
+        "prompt_type": "finance",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the documents required for a home loan. It provides a detailed list of documents, including receipts, bank statements, loan documents, insurance policy documents, and other necessary records. The response also emphasizes the importance of preparing a list of necessary documents based on individual needs and financial situation, which aligns with the nuances of the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not provide the correct information in response to the question. The question asks for the documents required for a home loan, but the response lists types of paper, which is irrelevant to the question. Therefore, the model's response does not adhere to the instructions given in the prompt, making the score 0 according to the 'task_quality' metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately lists the documents required for a home loan, which is exactly what the question asked for. It also adds a note about how some banks may require additional documents, which is a useful piece of information that adheres to the spirit of the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the documents required for a home loan. It lists all the necessary documents such as ID proof, address proof, income proof, employment proof, property documents, bank statement, and photograph. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence it scores 2 on the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question asks for the documents required to apply for a home loan, but the response talks about selling documents at a post office, which is irrelevant to the question. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for the documents required for a home loan, and the model provides a comprehensive list of documents needed, including personal and business identification documents, proof of residence, income proof documents, property details, approval documents, and passport size photos. The model also adds a note about the process potentially varying depending on the bank, which is a useful piece of information. Therefore, the model's response adheres to the prompt's instructions completely and accurately, warranting a score of 2."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response perfectly aligns with the question. The question asks for the documents required to apply for a home loan, and the response accurately provides the necessary documents such as income proof, registration documents, property papers, and bank statements. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the documents required for a home loan. It lists out all the necessary documents and information needed, such as identification proof, income proof, bank statement, residential proof, loan amount, loan tenure, and interest rate. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed. Therefore, it scores 2 on the task quality metric."
+        },
+        "SamwaadLLM": {
+            "justification": "The response provided by the model is a comprehensive list of documents required for a home loan, which is exactly what the question asked for. The model has provided a detailed list, including eligibility certificate, income tax report, Aadhar card, salary slips, banking documents, local residence certificate, property documents, home seller agreement, and other documents as per requirement. It also mentions that the requirement of these documents may vary based on the bank's rules, and additional documents may be required for specific banks. Therefore, the model's response is in direct correlation with the user's instruction, and no aspect of the instruction is left unaddressed.",
+            "score": 2
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response partially addresses the question. The question asks for the documents required for a home loan, but the response only mentions a loan agreement and its contents. It does not provide a comprehensive list of documents, which is what the question is asking for. Therefore, the response is only partially aligned with the prompt."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the documents required for a home loan. It lists all the necessary documents such as proof of identity, address, income, bank statements, PAN card, passport size photo, property related documents, employer's certificate, business proof if applicable, and other financial documents. It also mentions that additional documents may be required as per the lender's requirements. Therefore, the response adheres to the prompt's instructions completely and satisfies all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately lists the documents required for a home loan, which is exactly what the question asked for. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the task quality metric."
+        }
+    },
+    {
+        "prompt_id": "f16de99c-dc03-46e0-966e-db02599f801f",
+        "prompt": "शेअर मार्केट मध्ये गुंतवणूक कसे करायचे?",
+        "prompt_type": "finance",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for guidance on how to invest in the stock market, and the model provides a detailed and comprehensive guide on how to do so. It covers various aspects such as identifying investment objectives and risks, researching market trends, using market analysis tools, evaluating investment opportunities, managing and tracking investments, and risk management. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about how to invest in the stock market, but the response talks about how to increase the visibility of a product in a market. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response does not provide any relevant information or guidance on how to invest in the stock market, which was the main directive of the question. Instead, it repeats the same sentence multiple times, which does not make sense in the context of the question. Therefore, the model's response is entirely irrelevant to the prompt and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how to invest in the stock market. It provides a step-by-step guide, starting from setting financial goals, opening a demat account, selecting a broker, choosing shares based on investment goals and risk tolerance, buying shares, and finally monitoring the investment. The response is comprehensive and directly addresses the question, adhering to the instructions in the prompt. Therefore, it scores 2 on the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "justification": "The response to the question 'How to invest in the stock market?' is repetitive and nonsensical. The same phrase is repeated multiple times without providing any meaningful or useful information on how to invest in the stock market. Therefore, the response does not adhere to the instructions given in the prompt, resulting in a score of 0.",
+            "score": 0
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to invest in the stock market. It provides a step-by-step guide, starting from opening a Demat account, understanding the stock market, studying professional topics in the stock market, selecting shares of companies based on their financial status, annual reports, production, exports, etc., and finally, making decisions based on sound judgement rather than taking risks. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to invest in the stock market. It provides a clear step-by-step guide on how to proceed, starting with providing details to a share broker, explaining your financial needs, registering on their website, and following their advice. This shows a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Therefore, the score is 2."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about how to invest in the stock market. It provides a detailed explanation of the stock market, the process of opening an account, researching companies to invest in, buying stocks, and managing the investment. It also highlights the risks involved in stock market investment. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to invest in the stock market. It provides a step-by-step guide, starting from opening a Demat account, depositing money, choosing shares based on financial goals, being cautious while making investment decisions, and planning investments based on outcomes. The response is comprehensive and directly correlates with the user's instruction, leaving no aspect of the instruction unaddressed. Therefore, it scores 2 on the task quality metric."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to invest in the stock market. It provides a detailed step-by-step guide, covering aspects such as setting a goal, creating a strategy, conducting research, using an investor, monitoring regularly, and seeking advice when needed. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about how to invest in the stock market. It provides a step-by-step guide, covering all aspects from opening a bank and demat account, choosing a broker, studying the market, creating a portfolio, starting the investment, and continuous monitoring. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric perfectly."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is in Hindi, while the question is in Marathi. The response does not adhere to the language requirement of the prompt, which is a significant part of the task. Therefore, the model's response does not align with the user's instruction."
+        }
+    },
+    {
+        "prompt_id": "3cf7048c-57bf-4880-8a88-b1175a1d6e93",
+        "prompt": "पगारामधून राहिलेले पैसे कसे व कुठे गुंतवले पाहिजेत?",
+        "prompt_type": "finance",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "justification": "The response provided by the model is partially aligned with the prompt. The question asks for ways and places to invest the remaining money from the salary. However, the response only mentions that the money should be invested in a safe and secure place, without providing any specific ways or places to invest the money. Therefore, the model grasps and addresses the main theme of the instruction but misses out on finer details or nuances.",
+            "score": 1
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for advice on how and where to invest or save money left from the salary. However, the response merely repeats the question multiple times and then provides a generic statement about the right to earn and spend money, which is not relevant to the question. Therefore, the model disregards the instructions entirely, and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is not relevant to the question asked. The question is about how and where to invest the remaining money from the salary. However, the response does not provide any information on this. Instead, it repeats the same phrase multiple times, which does not make sense. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks about how and where to invest the money saved from salary, and the response provides a detailed explanation of various investment options, including savings accounts, fixed deposits, stock market, mutual funds, and gold or silver. It also advises consulting a financial advisor before making any investment decisions. Therefore, the model's response is comprehensive and directly addresses all aspects of the question, earning it a score of 2.",
+            "score": 2
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "justification": "The response accurately answers the question about how and where to invest the remaining money from the salary. It provides a detailed explanation of how to transfer money from a Post Office to a Bank using a Demand Draft or a Cheque, which is relevant to the question. The response also includes additional useful information about checking the balance in the account at the Post Office. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions.",
+            "score": 2
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how and where to manage money from salary. It provides a detailed plan for budgeting, including setting aside money for necessities, emergencies, and extra expenses. It also emphasizes the importance of investing a portion of the salary in insurance, investments, and retirement considerations. The response is comprehensive and directly correlates with the user's instruction, leaving no aspect of the instruction unaddressed. Therefore, it scores 2 on the task quality metric."
+        },
+        "gpt-35-turbo": {
+            "justification": "The response provided by the model is in line with the question asked. The question asks how and where the remaining money from the salary should be invested, and the response correctly suggests that it should be invested in the bank. The response also provides additional useful information about how to apply for a recurring deposit from your bank account. Therefore, the model's response is directly correlated with the user's instruction, with no aspect of the instruction left unaddressed.",
+            "score": 2
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how and where to invest the money left from the salary. It provides a detailed explanation of considering investment options based on financial goals, suggests regular investment of a portion of the salary in savings accounts or mutual funds, and also mentions the possibility of investing in shares or real estate for long-term goals. It also advises on assessing risk tolerance and seeking financial advisor's advice for informed investment decisions. Therefore, the response adheres to the prompt's instructions completely and satisfies all aspects of the given directive without any deviation."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for ways to manage and invest the money left from the salary, and the model provides a detailed and comprehensive answer, covering various aspects such as budgeting, opening a bank account, saving a portion of the salary, investing in various savings schemes, and analyzing internal expenses. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how and where to manage money left from salary. It provides two main methods: banking and mobile finance, and explains how they can be used. It also suggests creating a financial plan. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response provided by the model is a perfect match to the question asked. The question asks for ways and places to invest the money saved from salary, and the model provides a comprehensive list of investment options, including mutual funds, fixed deposits, life insurance policies, public provident fund, gold, stock market, real estate, NPS, recurring deposit, and bonds and debentures. The model also advises to choose the investment option based on one's financial goals and risk tolerance. Therefore, the model's response completely satisfies the prompt's instructions without any deviation, earning it a score of 2."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is exactly the same as the question, which indicates that the model has not provided any answer to the question. This shows a clear disconnect between the user's request and the model's response, hence the score of 0."
+        }
+    },
+    {
+        "prompt_id": "62b2aa8c-1eb0-49fc-b9f5-b6f7f5ac97a3",
+        "prompt": "माझे क्रेडिट कार्ड हरवल्यास काय करायचे?",
+        "prompt_type": "finance",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what to do if a credit card is lost. It provides a detailed procedure, including contacting the bank or credit card provider, providing necessary information such as credit card number, account information, and address. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not relevant to the question asked. The question is about what to do if a credit card is lost, but the response is repetitive and does not provide any useful information or steps to take in such a situation. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt. There is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response provided by the model is partially aligned with the prompt. It correctly addresses the main theme of the question, which is about what to do if a credit card is lost. However, the response is repetitive, with the same information being repeated three times. This repetition is not asked for in the question and can be considered as extraneous detail. Therefore, the model's response does not completely match the prompt and misses out on the finer detail of providing a concise and to-the-point answer."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about what to do if a credit card is lost. It provides a step-by-step guide, including contacting the credit card company, requesting a new card, keeping card details safe, requesting to cancel all transactions, and filing a police report. The response adheres to the prompt's instructions and respects its nuances, demonstrating a precise understanding of the task. Therefore, it scores 2 on the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not relevant to the question. The question asks about what to do if a credit card is lost, but the response talks about using a credit card for cell regeneration, which is not related to the question. The response does not provide any useful information about what to do if a credit card is lost, so it does not adhere to the specific directives given in the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what to do if a credit card is lost. It provides a detailed step-by-step guide on how to report the loss to the credit card company or bank, the information that might be required, and the subsequent steps that will be taken by the bank. It also mentions the need to contact the bank for a new card. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what to do if a credit card is lost. It suggests reporting the loss or deactivating the card immediately, which is a correct and comprehensive answer. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what to do if a credit card is lost. It provides a detailed procedure to follow, including contacting the bank or credit card company, providing necessary information, updating the card information, ensuring account security, and notifying the bank or credit card company once the card information is received. It also mentions the possibility of the bank offering a free card replacement. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question about what to do if a credit card is lost. It provides a step-by-step guide on the actions to take, including contacting the credit card company, deactivating the card, requesting a new card, filing a police report, and informing the bank. The response is directly relevant to the question and does not include any extraneous details. Therefore, it fully adheres to the task quality metric and deserves a score of 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what to do if a credit card is lost. It provides a detailed procedure, including the necessary documents and the possibility of a fee. It also suggests contacting the bank or credit card company. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about what to do if one's credit card is lost. It provides a step-by-step guide, covering all necessary actions such as informing the bank, blocking the card, filing a police complaint, keeping a record of complaint numbers, and requesting a new card. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is in Hindi, while the question is in Marathi. The response does not adhere to the language requirement of the prompt, which is Marathi. Therefore, the model disregards the instructions entirely, leading to a score of 0."
+        }
+    },
+    {
+        "prompt_id": "a55ddfc6-227c-4ff8-bb21-e493f5f8b966",
+        "prompt": "सर्दी झाल्यास कोणते घरगुती उपाय करायचे?",
+        "prompt_type": "health",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 0,
+            "justification": "The question asks for home remedies for a cold, but the response talks about skin care and consulting a doctor. There is a clear disconnect between the question and the response, and the response does not provide any relevant information to the question. Therefore, according to the 'task_quality' metric, the score is 0 as the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The question asks for home remedies to be used when one catches a cold, but the response provides ways to keep the home warm during winter. There is a clear disconnect between the question and the response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing several home remedies for a cold. It includes remedies such as drinking coconut water, consuming sunflower seeds, grapefruit, winter sweets, and drinking a large amount of water with rock salt. The response is in line with the question and does not deviate from the topic. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and completely addresses the question. The question asks for home remedies for a cold, and the response provides a detailed list of such remedies, including drinking warm water, consuming a mixture of ginger and garlic, and inhaling steam. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric and earns a score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is asking for home remedies for cold, but the model's response is about how to make ghee from solidified butter. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a list of home remedies for a cold. It includes specific examples such as turmeric tea, basil tea, mango ginger tea, lemon sugar tea, and the use of hot water with sugar and salt. It also suggests taking steam, resting, drinking plenty of water, and dressing according to the temperature. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the task quality metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks for home remedies for cold and the model provides various home remedies such as using hot water, adding ghee in milk, and drinking tea to increase warmth. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a comprehensive list of home remedies for a cold. It includes various methods such as getting plenty of rest, staying hydrated, taking care of the respiratory system, controlling temperature, reducing pain, adding humidity to the air, nourishing the body, and seeking medical advice if symptoms persist or worsen. The response is in line with the question and does not deviate from the topic, hence it adheres to the task quality metric perfectly."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing several home remedies for a cold. It adheres to the prompt's instructions and provides a comprehensive answer without any deviation. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is in Hindi, not Marathi, which is the language of the question. This is a clear disregard of the instructions. Additionally, the response includes some incorrect translations and irrelevant information, which further deviates from the prompt's instructions. Therefore, the score is 0 as per the 'task_quality' metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response perfectly aligns with the question. The question asks for home remedies for cold and the response provides a detailed list of 10 home remedies for cold. Each remedy is explained clearly and is relevant to the question. There is no deviation from the topic and no aspect of the question is left unaddressed. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for home remedies for a cold, but the response talks about temperature ranges and repeats the same phrase over and over again. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        }
+    },
+    {
+        "prompt_id": "665bfe7b-d793-456e-901a-533014c5cbff",
+        "prompt": "ऍलर्जीच्या समस्येतून मुक्त कसे व्हावे?",
+        "prompt_type": "health",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about how to get rid of allergies, but the response talks about how to try to remove someone's crime from their mind. There is a clear disconnect between the user's request and the model's response, hence the score is 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not provide any relevant information or solution to the question asked. The question is about how to get rid of allergy problems, but the response is repetitive and does not provide any clear or useful information. Therefore, the model disregards the instructions entirely and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to get rid of allergies. It provides a detailed answer, suggesting a healthy lifestyle, balanced diet, protective measures like yoga and meditation, consumption of certain medicines, and maintaining general health. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to get rid of allergies. It provides a comprehensive answer, including identifying the cause of the allergy, maintaining a healthy lifestyle, taking allergy medications, avoiding allergens, and seeking medical advice. The response is directly related to the user's instruction and covers all aspects of the question without any deviation or omission. Therefore, it scores 2 on the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not address the question asked. The question is about how to get rid of allergies, but the response talks about a person named 'Aljji' and his problems. There is a clear disconnect between the question and the response, making the response irrelevant to the question. Therefore, according to the 'task_quality' metric, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to get rid of allergies. It provides a comprehensive list of steps to follow, including avoiding allergens, maintaining physical fitness, following a balanced diet, taking regular medication, and keeping the environment clean. It also advises consulting a doctor in case of serious issues. Therefore, the response adheres to the prompt's instructions completely and satisfies all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to get rid of allergies. It suggests following doctor's advice, taking medication, using allergy blockers, and maintaining a high-quality clean environment, which are all relevant and appropriate suggestions. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for ways to get rid of allergies, and the response provides a detailed explanation on how to avoid allergens, control symptoms, and seek medical help if necessary. It covers all aspects of the question without any deviation or irrelevant information. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "SamwaadLLM": {
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to get rid of allergy problems, and the response provides a detailed list of steps to follow to alleviate allergy issues. It covers a wide range of aspects, from identifying allergenic foods, getting allergy tests, taking allergy medications, boosting the immune system, avoiding allergenic substances, practicing exercises for allergy control, to maintaining contact with doctors. Therefore, the model's response is comprehensive and directly addresses the user's instruction, leaving no aspect of the instruction unaddressed.",
+            "score": 2
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to get rid of allergies. It provides a comprehensive list of solutions, including medication, lifestyle changes, Ayurvedic treatments, and the use of tools. The response is directly related to the user's instruction and covers all aspects of the question without any deviation. Therefore, it scores 2 on the task quality metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question about how to get rid of allergies. It provides a detailed list of steps to follow, including avoiding allergens, maintaining cleanliness, taking care of the environment, taking medication, stress relief, balanced diet, and using hot water and steam. It also advises to consult a doctor, which is a crucial step in dealing with allergies. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is in Hindi, while the question is in Marathi. The response does not adhere to the language requirement of the prompt, which is a significant part of the task. Therefore, the model's response does not align with the user's instruction."
+        }
+    },
+    {
+        "prompt_id": "4ec2d776-2cde-43b4-9c07-e932a4dbd24d",
+        "prompt": "कावीळ झाल्यास काय उपचार करावा लागेल?",
+        "prompt_type": "health",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what to do when one gets a cramp. The response suggests seeking medical advice, which is a valid and appropriate action to take in such a situation. It adheres to the prompt's instructions and provides a clear and direct answer to the user's question. Therefore, it scores 2 on the task quality metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is asking for the treatment for a condition called 'Kavil' in Marathi, but the response given is about the benefits of drinking water. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what to do when one has a fever. It provides a comprehensive list of actions to take, including contacting a doctor, taking medications as prescribed, staying hydrated, maintaining a balanced diet, avoiding work on mobile or computer, maintaining mental health, and leading a balanced life. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what to do when bitten by a leech. It provides a detailed step-by-step guide on how to treat a leech bite, from initial cleaning to applying a poultice to seeking medical help if the infection worsens. It also provides advice on how to prevent leech bites. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for a treatment for a condition called 'Kaavilaa' (which seems to be a medical term), but the response talks about the role of an assistant to a poet, which is not related to the question at all. Therefore, the model disregards the instructions entirely, leading to a score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what to do when experiencing cramps. It provides a detailed explanation of the steps to take, including applying a warm water bag, massaging the area, getting proper rest, and regular exercise. It also advises to see a doctor if the cramps are severe, persistent, or accompanied by other symptoms. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what to do when one has a cough. It provides a detailed explanation of the steps to take, including avoiding certain foods and drinks, resting, drinking cool water, maintaining calm, and seeking medical help if the cough persists. This shows a clear understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Therefore, the score is 2."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for remedies to be taken when one gets a sprain, and the model provides a detailed and comprehensive list of remedies, including applying a cold compress, washing the affected area with cold water, taking over-the-counter pain relievers, and consulting a doctor if the pain persists or worsens. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "SamwaadLLM": {
+            "justification": "The response provided by the model is in direct alignment with the question asked. The question asks for remedies to be taken in case of a rash, and the model provides a detailed list of remedies that can be followed. It covers various aspects such as temperature control, conversation, cleanliness, skin structure care, and entertainment. The response is comprehensive and does not deviate from the question's instruction, hence the score of 2.",
+            "score": 2
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what treatment should be taken when one gets a fever. It provides a detailed explanation of various treatment options, including Ayurvedic treatment, use of medicines, use of arts, and life phongal. It also advises consulting a doctor before starting any treatment. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, a score of 2 is justified."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and completely addresses the question about what to do when one has a fever. It provides a detailed list of steps to take, including rest, diet, medication, hydration, and cleanliness, and also advises to follow the doctor's instructions. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is in Hindi, while the question is in Marathi. The response does not adhere to the language requirement of the prompt, which is Marathi. Therefore, the model disregards the instructions entirely, leading to a score of 0."
+        }
+    },
+    {
+        "prompt_id": "d00e11b7-9bf3-4646-923b-7506d8fadec8",
+        "prompt": "वजन कमी करण्यासाठी काय उपाय करावा?",
+        "prompt_type": "health",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to lose weight and the model provides a comprehensive list of methods to achieve this, including healthy eating, regular exercise, adequate sleep, stress management, mental health management, and following a healthy lifestyle. The response is detailed and covers all aspects of the question, demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to lose weight and the model provides a comprehensive list of methods to do so. It covers various aspects such as diet, exercise, hydration, sleep, mindful eating, and protein intake. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the model's response deserves a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about ways to lose weight. It provides a comprehensive list of measures such as improving diet, reducing sugar, sodium and oil intake, regular exercise, adequate sleep, and drinking water. It also emphasizes the importance of a balanced lifestyle. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to lose weight and the model provides a detailed list of methods to achieve this, including regular exercise, balanced diet, drinking water, regular sleep, reducing stress, and reducing sugar and sweets. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response partially addresses the question about ways to lose weight. It mentions lifestyle changes, food choices, and timing of meals as important factors. However, the response is repetitive and lacks clarity in some parts, making it difficult to understand. It also does not provide specific, actionable advice or steps to lose weight, which is what the question seems to be asking for. Therefore, it only partially aligns with the prompt and misses out on some details."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to lose weight and the model provides a comprehensive list of methods to do so, including regular exercise, a healthy diet, proper hydration, avoiding crash diets, and regular sleep. The response also suggests seeking professional help if needed. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to lose weight. It suggests a healthy diet and regular exercise, which are widely accepted methods for weight loss. It also mentions the inclusion of a doctor's advice and an exercise plan, which are relevant and useful details. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to lose weight. It provides a comprehensive list of suggestions, including healthy diet, exercise, reducing stress, getting enough sleep, and staying hydrated. It also emphasizes the importance of a slow and steady approach to weight loss. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "SamwaadLLM": {
+            "justification": "The response provided by the model is a comprehensive answer to the question asked. The question asks for ways to lose weight, and the model provides a detailed list of methods, including diet, exercise, water intake, meal timing, rest, avoiding late-night eating, and regular weight checks. The response also advises consulting a doctor before starting any weight loss plan, which is a subtle but important aspect of the question. Therefore, the model's response is in direct correlation with the user's instruction, and it addresses all aspects of the instruction without any deviation.",
+            "score": 2
+        },
+        "google/gemma-7b-it": {
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for ways to lose weight and the model provides a detailed response on the same, including advice on diet, exercise, medication, and consulting a doctor. The response does not deviate from the topic and addresses all aspects of the question, demonstrating a clear understanding of the prompt. Therefore, a score of 2 is justified as per the \"task_quality\" metric.",
+            "score": 2
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to lose weight and the model provides a comprehensive list of methods to do so, including balanced diet, regular exercise, drinking water, adequate sleep, stress-free life, smart snacks, and tracking progress. The response is detailed and covers all aspects of the question, demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for ways to lose weight and the model provides a comprehensive list of methods to achieve this, including healthy eating, regular exercise, adequate sleep, stress reduction, drinking water, quitting smoking, and balanced diet. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the score is 2."
+        }
+    },
+    {
+        "prompt_id": "307f7cc5-26b3-4a77-9d63-b2f2855821cd",
+        "prompt": "बाळाला जन्म दिल्या नंतर स्वतःची काळजी कशी घ्यावी?",
+        "prompt_type": "health",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "justification": "The response provided by the model partially aligns with the prompt. The question asks about how to take care of oneself after giving birth to a child, but the response mainly focuses on how to take care of the child and create a comfortable and safe environment for the child. While this is related to the question, it does not directly address the self-care aspect for the mother after childbirth, which is the main focus of the question. Therefore, the model grasps and addresses the main theme of the instruction but misses out on finer details or nuances.",
+            "score": 1
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "justification": "The response provided by the model does not answer the question asked. The question is about how to take care of oneself after giving birth to a child, but the response talks about the joy and happiness of having a child, which is not relevant to the question asked. Therefore, the score is 0 as there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to take care of oneself after giving birth to a child. It provides a comprehensive explanation, covering aspects such as ensuring the child's safety, health, education, nutrition, and facilities, as well as guiding the child towards independence and decision-making. The response is in line with the prompt's instructions, demonstrating a precise understanding and adherence to the question. Therefore, it scores 2 on the task quality metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to take care of oneself after giving birth to a child, and the response provides a detailed list of steps to follow for the same. It covers various aspects such as physical health, mental health, hygiene, diet, and rest, which are all crucial for postpartum care. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about how to take care of oneself after giving birth to a child, but the response talks about a child asking for money to buy jaggery. There is a clear disconnect between the question and the response, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks about how to take care of oneself after giving birth to a child, and the response provides a detailed and comprehensive list of steps to do so, including nutrition, rest, exercise, regular doctor check-ups, and mental health. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to take care of oneself after giving birth to a child. It provides detailed advice on creating a safe environment, being responsible, and being aware of the child's surroundings. It also suggests being firm when necessary and creating a nurturing environment for the child. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to take care of oneself after giving birth to a child. It provides a comprehensive answer, covering aspects such as ensuring adequate rest, staying hydrated, eating healthy, paying attention to one's body, seeking help if needed, and finding joy in caring for the newborn. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence the score of 2."
+        },
+        "SamwaadLLM": {
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks about how to take care of oneself after giving birth to a child, and the response provides a comprehensive guide on how to do so. It covers aspects like proper nutrition, regular exercise, cleanliness, education, social and self-confidence development, decision-making ability, and regular health precautions. Therefore, the model has demonstrated a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation.",
+            "score": 2
+        },
+        "google/gemma-7b-it": {
+            "justification": "The response provided by the model is a comprehensive guide on how to take care of oneself after giving birth to a child, which is exactly what the question asked for. The response includes various aspects such as setting goals, maintaining a nutritious diet, regular exercise, getting enough sleep, consulting a doctor for medication if necessary, strategizing, and being patient. Each point is explained in detail, providing a clear and direct correlation between the user's instruction and the model's response. Therefore, the model's response adheres to the prompt's instructions precisely and satisfies all aspects of the given directive without any deviation.",
+            "score": 2
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question about how to take care of oneself after giving birth to a child. It provides a detailed list of steps and considerations, covering physical, emotional, and mental aspects of postpartum care. The response is directly relevant to the question and does not deviate from the topic. Therefore, it fully adheres to the task quality metric, demonstrating a precise understanding and adherence to the prompt's instructions."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is exactly the same as the question, which indicates that the model has not provided any answer to the question. Therefore, it completely disregards the instructions, making it entirely irrelevant to the prompt. There is a clear disconnect between the user's request and the model's response."
+        }
+    },
+    {
+        "prompt_id": "bb705f15-1ddf-414d-a077-f404eea330c1",
+        "prompt": "महाराष्ट्रामध्ये वारकरी संप्रदाय कसा बनला? व त्या संप्रदायाचे वैशिष्ठ्य काय आहे?",
+        "prompt_type": "culture",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "justification": "The response provided by the model is exactly the same as the question, indicating that the model has not provided any answer or information in response to the question. This shows a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about how the Warkari sect was formed in Maharashtra and what are its characteristics. However, the response does not provide any information on the formation of the sect or its characteristics. Instead, it repeats the question and provides irrelevant information. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "justification": "The response accurately answers the question about how the Varkari sect was formed in Maharashtra and what its characteristics are. It mentions that the sect was formed in the 17th century by the saint community, inspired by saints like Tukaram, Haridas, Tukoba, and Eknath. It also highlights the main characteristic of the sect, which is devotion to Lord Krishna, and that the main principle of the sect is to believe in the incarnation of Lord Krishna. The response is directly related to the user's instruction and addresses all aspects of the question without any deviation. Therefore, a score of 2 is justified.",
+            "score": 2
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses both parts of the question. It explains how the Warkari sect was established in Maharashtra and also describes the characteristics of the sect, including its focus on devotion, the importance of the Pandharpur Vitthal temple, and the absence of caste and wealth discrimination. The response also mentions the significance of saints' hymns in the sect and its inclusivity. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It provides some information about the establishment of the Varakari Sampraday and its role in the economic, commercial, and agricultural development of Maharashtra. However, it does not provide specific details about how the Varakari Sampraday was formed, which was asked in the question. Additionally, the response does not clearly explain the unique features of the Varakari Sampraday, which was also part of the question. Therefore, the response is only partially aligned with the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining how the Warkari sect was formed in Maharashtra and what its characteristics are. It mentions the sect's establishment during the 13th and 14th centuries, its non-discriminatory nature, the importance of the annual 'Wari' pilgrimage to Pandharpur, the significance of the 'Hare Krishna' mantra, and the use of devotional songs, particularly 'Abhang' poems. The response also references a definitive reference book on the history of the Warkari sect. Therefore, the response fully adheres to the prompt's instructions, demonstrating a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing information on how the Warkari sect was established in Maharashtra and the characteristics of the sect. It mentions that the sect was established by Samarth Ramdas in the 17th century and outlines the main principles of the sect, which include not doubting, increasing faith and devotion, and following the path of religion. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response provided by the model is in line with the question asked. The question asked about how the Warkari sect was formed in Maharashtra and what are its characteristics. The model's response provides a brief history of the formation of the Warkari sect and then goes on to describe its characteristics such as physical talakbaji, yoga, and Warkari scriptures. Therefore, the model's response is directly correlated with the user's instruction and it addresses all aspects of the question without any deviation."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "justification": "The response accurately addresses the question about how the Warkari sect was formed in Maharashtra and what its characteristics are. It provides a detailed explanation of the sect's unique spiritual and social perspective, its emphasis on spiritual development and social equality, and its inclusivity towards people of all religions and backgrounds. It also mentions the continuous spiritual guidance and teachings provided by the sect, which were initiated by its founders. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation.",
+            "score": 2
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response provided by the model is in line with the question asked. The question asked about how the Warkari sect in Maharashtra was formed and what are its characteristics. The response provided a detailed explanation of the formation of the Warkari sect, its main centers, its cultural connections, and its characteristics. It also explained the cultural practices, language, creative heritage, social policies, social structure, traditions, and social characteristics of the Warkari community. Therefore, the model's response is comprehensive and addresses all aspects of the question, earning it a score of 2 according to the \"task_quality\" metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining how the Warkari sect originated in Maharashtra and what its characteristics are. It mentions the influence of saints like Dnyaneshwar, Tukaram, Eknath, and Namdev, and the practice of worshipping Vitthal. It also describes the tradition of 'Wari' and other features like bhajans, kirtans, and abhang singing. The response is in line with the prompt's instructions and does not deviate from the topic, hence it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is in Hindi, not Marathi, which is the language of the question. Additionally, the response does not answer the question about how the Warkari sect was formed in Maharashtra and what are its characteristics. Instead, it provides a general overview of the sect. Therefore, the response does not adhere to the specific directives given in the prompt, resulting in a score of 0."
+        }
+    },
+    {
+        "prompt_id": "876320a7-8ba0-45d4-a19b-f5e2773b4a56",
+        "prompt": "महाराष्ट्रातील सण हे इतर राज्यांपेक्षा कसे वेगळे असतात?",
+        "prompt_type": "culture",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is exactly the same as the question, which indicates that the model has not provided any answer to the question. This shows a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not relevant to the question asked. The question asks how festivals in Maharashtra are different from other states, but the response does not provide any specific details or differences. Instead, it repeats the question and includes some unrelated phrases. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how festivals in Maharashtra are different from other states. It explains that the difference is mainly due to their culture and traditions, and gives examples of festivals like Ganeshotsav, Dussehra, Navratri, and Diwali. The response also mentions that these festivals are not celebrated uniformly across the state, but vary according to regional culture and traditions. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how festivals in Maharashtra are different from other states. It provides specific examples such as Ganesh Chaturthi and Dussehra, and explains how these festivals are celebrated differently in Maharashtra due to the influence of Marathi culture, traditions, and history. The response does not deviate from the question and does not leave any aspect of the question unaddressed, thus demonstrating a precise understanding and adherence to the prompt's instructions."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about how festivals in Maharashtra are different from other states, but the response talks about the increase in Maharashtra's population and migration to cities for employment opportunities. There is a clear disconnect between the question and the response, hence the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how festivals in Maharashtra are different from other states. It provides specific examples of unique festivals and traditions in Maharashtra, such as 'Bhogi', 'Ganeshotsav', 'Gudipadwa', 'Pola', and 'Bail Pola'. It also explains how the historical and cultural context of these festivals contributes to their uniqueness. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how festivals in Maharashtra are different from other states. It mentions the unique local culture, traditions, and language of Maharashtra, and also refers to the diverse traditional communities in various parts of the state. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response partially aligns with the question. The question asks how festivals in Maharashtra are different from other states. The response attempts to explain this by discussing the physical and social aspects of Maharashtra. However, it does not directly address how these aspects make the festivals different. The response also includes some extraneous details not asked for in the question, such as the mention of physical health, monsoon, mountains, etc. Therefore, the response gets a score of 1 as per the 'task_quality' metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how festivals in Maharashtra are different from other states. It provides specific examples such as Ganesh Chaturthi and Diwali, and explains how these festivals are celebrated in a unique way in Maharashtra. It also mentions the influence of local culture and history on these festivals, which is another point of difference. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how festivals in Maharashtra are different from other states. It provides a detailed explanation about the cultural significance of these festivals, their historical context, and their importance in the lives of the people of Maharashtra. It also gives specific examples of festivals like Gudhipadwa, Dasara, Diwali, and Navratri, explaining their significance. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how festivals in Maharashtra are different from other states. It provides a detailed explanation, highlighting the cultural and religious diversity, the importance of traditional rituals and folk arts, and the emphasis on social unity and collectivism in Maharashtra's festivals. The response also gives specific examples like Ganesh Chaturthi and Gudi Padwa to illustrate the points. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response addresses the main theme of the question, which is how festivals in Maharashtra are different from other states. It provides some reasons such as the cultural heritage and values of Maharashtra, the importance of devotion, faith, and loyalty, and the influence of Hindu and Buddhist religions. However, the response includes a repeated phrase that doesn't make sense and doesn't provide any additional information, which indicates a lack of attention to finer details. Therefore, the response partially aligns with the prompt but includes extraneous details not asked for."
+        }
+    },
+    {
+        "prompt_id": "9bd606b1-fe65-4f17-be43-d06133fcaf82",
+        "prompt": "गुढी पाडवा हा सण का साजरा केला जातो? त्याच्या मागच्या वेगवेगळ्या कथा कोणत्या आहेत?",
+        "prompt_type": "culture",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is simply a repetition of the question and does not provide any answer. The question asks why Gudi Padwa is celebrated and what are the different stories behind it. The response does not address any of these points, hence it disregards the instructions entirely. Therefore, the score is 0 as per the 'task_quality' metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the festival of Gudi Padwa and its associated stories, but the response talks about calculating the number of days in a month. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why Gudi Padwa is celebrated and also provides a story behind it. It adheres to the instructions given in the prompt and addresses all aspects of the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question by explaining why Gudi Padwa is celebrated and also provides various stories behind it. It adheres to the instructions given in the prompt and covers all aspects of the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not answer the question correctly. The question asks why the festival of Gudi Padwa is celebrated and what are the different stories behind it. However, the response does not provide any specific reason for the celebration of the festival or any stories related to it. Instead, it talks about the festival being celebrated at different places and different stories being developed at each place, which is vague and does not directly answer the question. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question by explaining why Gudi Padwa is celebrated and providing various stories behind it. It adheres to the instructions given in the prompt and covers all aspects of the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response gets a score of 2."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question by explaining why Gudi Padwa is celebrated and also provides different stories associated with it. It adheres to the prompt's instructions and respects its nuances. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response does not answer the question properly. The question asks why the festival of Gudi Padwa is celebrated and what are the different stories behind it. The response starts with a story but it is not clear and does not make sense. The rest of the response is repetitive and does not provide any information about the festival or its stories. Therefore, the response does not adhere to the instructions given in the prompt."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asked why Gudi Padwa is celebrated and what are the different stories behind it. The model's response accurately explains why Gudi Padwa is celebrated, marking the arrival of spring and new life and prosperity. It also provides two popular stories associated with the festival - the return of Lord Rama and his wife Sita, and the story of Lord Krishna and Queen Rukmini's wedding. Therefore, the model's response satisfies all aspects of the given directive without any deviation, demonstrating a precise understanding and adherence to the prompt's instructions.",
+            "score": 2
+        },
+        "SamwaadLLM": {
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asked why the festival of Gudi Padwa is celebrated and what are the different stories behind it. The model's response accurately explains the significance of the festival, how it is celebrated, and also provides two different stories related to the festival. Therefore, the model's response satisfies all aspects of the given directive without any deviation.",
+            "score": 2
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why Gudi Padwa is celebrated and the various stories behind it. It provides detailed explanations for each story, which aligns perfectly with the question. The response does not deviate from the question and does not include any extraneous details. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is in Hindi, while the question is in Marathi. The response does not adhere to the language requirement of the prompt. Additionally, the response does not answer the question about why Gudi Padwa is celebrated and the various stories behind it. Instead, it provides a story from the Ramayana, which is not directly related to the celebration of Gudi Padwa. Therefore, the response does not adhere to the specific directives given in the prompt."
+        }
+    },
+    {
+        "prompt_id": "c1c1397d-0fff-46e1-a5b6-321b34b3916e",
+        "prompt": "महाराष्ट्रातील साडे तीन शक्तीपीठे कोणती? त्या शक्तिपीठांचे महत्व काय आहे?",
+        "prompt_type": "culture",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is exactly the same as the question, which means the model has not provided any new information or answered the question. This indicates that the model has disregarded the instructions entirely, making the output irrelevant to the prompt. Therefore, according to the 'task_quality' metric, the score is 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the three 'Shaktipeethas' (a term referring to Hindu temples) in Maharashtra and their significance. However, the response talks about government posts in Maharashtra, which is not related to the question at all. Therefore, the model disregards the instructions entirely, leading to a score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately lists the three Shaktipeeths in Maharashtra and explains their significance, which was exactly what the question asked for. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence the score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately identifies the three Shaktipeeths in Maharashtra as asked in the question. It also provides a detailed explanation of the significance of each of these Shaktipeeths. The response is in line with the question and does not deviate from the topic. It covers all aspects of the question, hence the score of 2 is justified."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response does mention three places in Maharashtra, but these are not recognized as Shakti Peethas. The explanation of the importance of Shakti Peethas is also somewhat vague and repetitive, and does not provide a clear understanding of their religious or cultural significance. Therefore, the response partially aligns with the prompt but misses out on finer details and nuances, which is why it receives a score of 1 according to the 'task_quality' metric."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately identifies the three Shakti Peethas in Maharashtra as asked in the question. It also explains the significance of these Shakti Peethas in detail, which aligns with the second part of the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response correctly identifies the three Shakti Peethas in Maharashtra as asked in the question. However, it does not fully explain the significance of these Shakti Peethas as requested in the question. The response only mentions that the significance lies in the traditions of these Shakti Peethas, but does not elaborate on what these traditions are or why they are significant. Therefore, the response partially aligns with the prompt but does not completely satisfy all aspects of the given directive."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asked for the names of the three Shaktipeeths in Maharashtra and their significance. The model provided the names of the three Shaktipeeths along with their locations and also explained their significance. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the model's response deserves a score of 2 according to the \"task_quality\" metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is incorrect and irrelevant to the question. The question asks for the three Shaktipeethas in Maharashtra and their significance. However, the response mentions the same name 'Malhari' three times, which is incorrect. Also, the response is repetitive and does not provide any specific significance of these Shaktipeethas. Therefore, the response does not adhere to the instructions given in the prompt."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is incorrect and irrelevant to the question. The question asks about the three Shaktipeethas in Maharashtra and their significance. Shaktipeethas are religious places in Hinduism. However, the response talks about power stations in Maharashtra, which is completely unrelated to the question. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately lists the three Shakti Peethas in Maharashtra and explains their significance, as per the question's instructions. The response is completely relevant to the question and does not include any extraneous details. It demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Therefore, the score is 2."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response correctly identifies one of the Shaktipeeths in Maharashtra, Tryambakeshwar, but incorrectly mentions two other locations, Panchganga river and Ujjain's Mahakaleshwar, which are not in Maharashtra. The response also provides a general importance of these Shaktipeeths, but it does not specifically address the importance of each individual Shaktipeeth in Maharashtra as asked in the question. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        }
+    },
+    {
+        "prompt_id": "4411d9b8-4fae-4b1e-9e3b-31c0f14e664c",
+        "prompt": "नवनाथ कोण होते आणि त्यांच्या कथा काय आहेत?",
+        "prompt_type": "culture",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about 'Navnath' and their story, but the response talks about a character named 'Yam' and his story. There is a clear disconnect between the question and the response, hence the score of 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely incorrect. The question asks about the Navnath, a term referring to the nine saints in Hinduism, and their stories. However, the response provides information about nine Hindu deities, which is not what the question asked for. Therefore, the response does not adhere to the specific directives given in the prompt, resulting in a score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about who the Navnath are and what their story is. It provides a detailed explanation of the Navnath as the nine avatars of Shivaji and goes on to describe each avatar in detail, which aligns perfectly with the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asked for who the Navnath were and their stories. The model provided a detailed response, explaining who each of the nine Navnath were and their respective stories. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the score is 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question asks about 'Navnath' and their story, but the response talks about a character named 'Navnath Shivaji Maharaj' who was an advisor to Chhatrapati Shivaji Raje Bhosale. There is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "gpt-4": {
+            "justification": "The response accurately answers the question about who the Navnath were and what their story is. It provides a detailed explanation of the Navnath, including their names and their significance in the Nath sect. It also discusses the unique characteristics and teachings of the Navnath. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation.",
+            "score": 2
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately identifies who the Navnath are and provides a brief description of their stories, which aligns perfectly with the question asked. The response does not deviate from the question and does not include any extraneous details. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not in the correct language, it is in Hindi instead of Marathi. Additionally, the response does not answer the question about who Navnath were and what their story is. Instead, it provides a repetitive and unclear explanation about Navnath being a religious order based on the descent of power. Therefore, the response does not adhere to the instructions given in the prompt."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately answers the question about who Navnath was and what his story was. It provides a detailed narrative of Navnath's life, his journey, and his transformation, which aligns perfectly with the question. The response does not deviate from the question's instruction and does not include any extraneous details. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "SamwaadLLM": {
+            "justification": "The response provided by the model is in line with the question asked. The question asked about who Navnath was and what their story was. The response provided a detailed explanation about Navnath, their work, their life events, and their impact on society. It also discussed the themes present in their stories and how they are still relevant today. Therefore, the model's response is directly correlated with the user's instruction, with no aspect of the instruction left unaddressed.",
+            "score": 2
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately identifies the Navnath as nine great saints in the Nath tradition and provides their names. It also provides stories about their religious and spiritual significance, which was asked in the question. The response is completely relevant to the question and does not deviate from the topic. It covers all aspects of the question, providing a comprehensive answer. Therefore, it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question asks about 'Navnath', which refers to a group of nine saints in Hindu mythology, and their story. However, the model's response describes 'Navnath' as a famous Indian actor and lists his roles in various Marathi films. There is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        }
+    },
+    {
+        "prompt_id": "e3b67c7b-796a-48e8-aeb2-c5d25bfdfeb0",
+        "prompt": "वट पौर्णिमा का साजरी केली जाते आणि त्याचे महत्व काय आहे?",
+        "prompt_type": "culture",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response does not address the question at all. The question asks about the celebration and significance of 'Vat Pournima', a specific festival, but the response talks about the general concept of a birthday celebration. There is a clear disconnect between the question and the response, hence the score of 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about the celebration and significance of 'Vat Pournima', a festival in Marathi culture. However, the response is repetitive and does not provide any information about the festival or its significance. It seems like the response is not translated correctly and does not make sense in the context of the question. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how Vat Pournima is celebrated and its significance. It provides details about the rituals performed, the deity worshipped, and the benefits people seek on this day. The response is in line with the question and does not deviate from the topic. Therefore, it adheres to the prompt's instructions completely, demonstrating a precise understanding of the question."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about when and why Vat Purnima is celebrated. It provides a detailed explanation of the festival, its significance, and the rituals associated with it. The response adheres to the prompt's instructions and addresses all aspects of the question without any deviation. Therefore, it scores 2 on the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is largely repetitive and does not provide a clear or coherent answer to the question. The question asks about the celebration and significance of Vat Purnima, but the response does not provide any information about how it is celebrated or its significance. Instead, it repeats phrases about 'Vat sons' and 'Vat fruits' without any clear context or explanation. Therefore, the response does not adhere to the specific directives given in the prompt and is largely irrelevant to the question, warranting a score of 0 according to the 'task_quality' metric."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what Vat Pournima is, why it is celebrated, and its significance. It provides a detailed explanation of the rituals performed during this festival and the reasons behind them. The response also mentions the states where this festival is celebrated, which adds to the completeness of the information. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question about when and why Vat Pournima is celebrated. It mentions that it is a significant festival in Hinduism, celebrated on the full moon day of the Ashwin month. It also explains that the festival involves worshipping the Banyan tree and seeking its various health benefits throughout the year. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding and execution of the task."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the significance of the Vat Purnima festival and how it is celebrated. However, the response talks about Vat Purnima as a health benefit, which is incorrect. The response does not address the question at all, hence the score of 0."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately answers the question about when and why Vat Pournima is celebrated. It explains that the festival is dedicated to the Banyan tree and is celebrated by decorating the tree with leaves of the rain god, which increases its significance. The response is in line with the question and does not deviate from the topic, hence it adheres to the prompt's instructions completely."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the celebration and significance of Vat Pournima. It explains the importance of the Vat tree, the respect and blessings sought from it, and the role it plays in the environment. It also elaborates on the significance of the festival in terms of environmental conservation, balance with nature, and the social and spiritual experiences it offers. The response adheres to the prompt's instructions and respects its nuances, providing a detailed and relevant answer. Therefore, it scores 2 on the task quality metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about when and why Vat Purnima is celebrated, and its significance. It explains that Vat Purnima is a Hindu festival celebrated by married women for the longevity and well-being of their husbands, and that it is celebrated on the full moon day of the Jyeshtha month. It also explains the significance of the banyan tree in the festival and the story of Satyavan-Savitri associated with it. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "justification": "The response starts off well, explaining what Vat Pournima is and how it is celebrated. However, it then devolves into a repetitive phrase about the sunlight on Earth, which is irrelevant to the question. This repetition and irrelevance suggest a malfunction or error in the model's response. Therefore, the score is 0 as there is a clear disconnect between the user's request and the model's response in the latter part of the response.",
+            "score": 0
+        }
+    },
+    {
+        "prompt_id": "d6f7215d-2cf5-447b-937a-af74a0a35531",
+        "prompt": "गनिमीकावा हि कोणती पद्धत आहे आणि याचा शोध कोणी लावला?",
+        "prompt_type": "culture",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response correctly identifies 'Ganimi Kava' as a method but incorrectly attributes its discovery to 'Ramchandradev', an astronomer from the 2nd century BC. The question asked for the person who discovered this method, which is not accurately answered in the response. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question was about 'Ganimi Kava', a war strategy used by Shivaji Maharaj and who discovered it. However, the model's response is about the meaning of the word 'Ganimi Kava' in Marathi, which is incorrect. The model has completely disregarded the instructions and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question by explaining what the 'Ganimi Kava' method is and who discovered it. The response is in line with the question, providing a detailed explanation of the method and its origin. It adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation. Therefore, the score is 2 as per the 'task_quality' metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question by explaining what the 'Ganimi Kava' method is and who discovered it. It provides a detailed explanation of the method, its origin, and its use, which aligns perfectly with the question. The response does not deviate from the question and does not include any extraneous details. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about 'Ganimi Kava', a war strategy used by Shivaji Maharaj, and who discovered it. However, the response talks about 'Ganitikavyaas', which seems to be a mathematical text. There is a clear disconnect between the question and the response, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question by explaining what the 'Ganimi Kava' strategy is and who introduced it. It provides a detailed explanation of the strategy, how it was used by Chhatrapati Shivaji Maharaj in his battles, and its main objective. The response also mentions that this strategy was used by other forces fighting against the Mughals. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response does not answer the question correctly. The question asks about 'Ganimi Kava', a war strategy used by Shivaji Maharaj, and who discovered it. However, the response talks about 'Ganimi Kava' as a method of discussion, which is incorrect. There is a clear disconnect between the user's request and the model's response."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It correctly identifies 'Ganimi Kava' as a historical method but does not specify who discovered it, which was a part of the question. The response also includes extraneous details about the use of the method in physical exercise and health improvement, which were not asked for in the question. Therefore, the response is partially aligned with the prompt but not a complete match."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately answers the question by explaining what 'Ganimi Kava' is and who discovered it. It provides a detailed explanation of the method, its origins, and the person who discovered it, which aligns perfectly with the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is incorrect. The question asks about 'Ganimi Kava', a war strategy used by Shivaji Maharaj, and who discovered it. However, the response talks about 'Ganimi Kava' as a mathematical method discovered by Alfred Nobel, which is completely incorrect and irrelevant to the question. Therefore, the score is 0 as per the 'task_quality' metric, because the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question by explaining what 'Ganimi Kava' is and who discovered it. It adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question asks about 'Ganimi Kava', a war strategy used by Shivaji Maharaj, and who discovered it. However, the response talks about a mathematical method, which is completely irrelevant to the question. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        }
+    },
+    {
+        "prompt_id": "7814067e-64ed-444e-a58f-ac9cbfb344b3",
+        "prompt": "छत्रपती शिवाजी महाराजांनी स्वराज्याची स्थापना कशी केली?",
+        "prompt_type": "culture",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about how Chhatrapati Shivaji Maharaj established the Swarajya, but the response talks about the insult of the title 'Maharaja', which is not related to the question at all. Therefore, the model disregards the instructions entirely, and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question about how Chhatrapati Shivaji Maharaj established the Swarajya. Instead, it repeatedly mentions the number of years he took to establish it, without providing any details on the process or methods he used. This shows a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how Chhatrapati Shivaji Maharaj established the Swarajya. It provides specific details such as the year of establishment, the location, and the expansion of the Maratha Empire. The response is directly related to the user's instruction and does not deviate from the topic. Therefore, it fully satisfies the 'task_quality' metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about how Chhatrapati Shivaji Maharaj established the Swarajya. It details the various efforts made by Shivaji Maharaj, including winning various forts, establishing the Maratha Empire, involving the people, fighting the Mughal Empire, and setting up a strong army. It also mentions the political, social, and military efforts made by Shivaji Maharaj. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "justification": "The response provided by the model partially aligns with the prompt. The question asks about how Chhatrapati Shivaji Maharaj established the Swarajya, but the response only provides the year in which it was established. The model grasps and addresses the main theme of the instruction but misses out on finer details or nuances, such as the methods or strategies used by Shivaji Maharaj to establish the Swarajya.",
+            "score": 1
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how Chhatrapati Shivaji Maharaj established the Swarajya. It provides a detailed explanation of his strategic planning, his vision of an independent Marathi state, and his determination to face the risks involved in opposing the Mughal Empire. The response does not deviate from the question and does not leave any aspect of the instruction unaddressed. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how Chhatrapati Shivaji Maharaj established the Swarajya. It mentions the steps he took, such as starting to fight for the prosperity of Swarajya, laying the foundation of the state, and leading it. It also mentions that he developed military power for the success of Swarajya and arranged for the respect of the people. Therefore, the response adheres to the prompt's instructions completely and satisfies all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response partially addresses the question about how Chhatrapati Shivaji Maharaj established the Swarajya. It provides the time period of the establishment but does not explain the process or methods used by Shivaji Maharaj to establish the Swarajya. Additionally, the response includes some irrelevant information about Shivsena, which was not asked for in the question. Therefore, the response demonstrates a partial understanding of the prompt's instructions and includes some extraneous details not asked for."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "justification": "The response does address the main theme of the question, which is about how Chhatrapati Shivaji Maharaj established the Swarajya. However, the response is repetitive and lacks the finer details or nuances about how the Swarajya was established. It only mentions that Shivaji Maharaj established the Maratha Empire and that the capital was Pune, but it does not provide any information on how he did it. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match.",
+            "score": 1
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about how Chhatrapati Shivaji Maharaj established the Swarajya. It covers various aspects such as uniting various factions, gaining public support, economic independence, military planning, justice, social service, education, and winning battles against various states. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to and executes the specific directives given in the prompt, demonstrating a precise understanding of the prompt's instructions."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about how Chhatrapati Shivaji Maharaj established the Swarajya. It details the strategic and tactical measures taken by Shivaji Maharaj, including capturing forts, expanding the Maratha empire through warfare and diplomacy, winning important battles against formidable enemies, providing security and justice to the people, and establishing an administrative system. The response does not deviate from the question and does not include any extraneous details. Therefore, it fully adheres to the prompt's instructions, demonstrating a precise understanding of the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response provided by the model is partially correct. The question asks about how Chhatrapati Shivaji Maharaj established the Swarajya, expecting a detailed explanation of the process or events. However, the model only provides the year of establishment, which is a relevant detail but does not fully answer the question. Therefore, the model's response aligns with the prompt to some extent, indicating some elements of relevance, but it's not a complete match, which corresponds to a score of 1 according to the metric."
+        }
+    },
+    {
+        "prompt_id": "96edb5c7-7468-4789-a7ae-c72a46101e67",
+        "prompt": "पुण्याला विद्येचं माहेरघर का बोलले जाते?",
+        "prompt_type": "culture",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response provided by the model is not an answer to the question asked. The question asks why Pune is called the home of education, but the model simply repeats the question with a slight modification. There is a clear disconnect between the user's request and the model's response, which is why a score of 0 is given."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks why Pune is referred to as the 'home of knowledge', but the response explains how to say 'Where is the library?' in Marathi. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "justification": "The response provided by the model is incorrect and irrelevant to the question asked. The question asks why Pune is referred to as the 'home of knowledge', but the model incorrectly states that the 'Indian Institute of Science' is the reason, which is located in Bangalore, not Pune. Therefore, there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why Pune is referred to as the 'Home of Knowledge'. It provides a detailed explanation, mentioning the presence of numerous renowned educational institutions in Pune, the educational environment in the city, and the fact that students from all over the country and abroad come to Pune for education. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding of the question and providing a comprehensive answer. Hence, the score of 2 is justified."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question asks why Pune is referred to as the 'home of education', but the response talks about a ritual of going to Maherghar every 21 days. There is a clear disconnect between the question and the response, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why Pune is referred to as the 'home of knowledge'. It provides a detailed explanation, mentioning the presence of numerous renowned educational institutions in the city, and the city's history of being the first in many educational aspects. The response is directly related to the question and fully adheres to the prompt's instructions, leaving no aspect of the instruction unaddressed. Therefore, it scores 2 on the task quality metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question asked in the prompt. The question asks why Pune is referred to as the 'home of knowledge', and the response correctly affirms this. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric perfectly."
+        },
+        "google/gemma-7b-it": {
+            "justification": "The response provided by the model is directly relevant to the question asked. The question asks why Pune is referred to as the home of education, and the model's response provides a valid reason, mentioning 'Shri Shiv Shankar Maherghar'. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the model's response adheres to the prompt's instructions and respects its nuance and subtleties.",
+            "score": 2
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why Pune is referred to as the 'home of education'. It provides a detailed explanation, comparing Pune to a 'home of education' where students have their own private space for living and studying, similar to a real home. The response fully adheres to the prompt's instructions, demonstrating a precise understanding of the question. There is a clear and direct correlation between the user's question and the model's response, with no aspect of the question left unaddressed."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why Pune is referred to as the 'home of education'. It provides a detailed explanation of the significance of education in Pune, the role of educational institutions, and the impact of education on individuals and society. The response is directly related to the question and fully adheres to the prompt's instructions, demonstrating a precise understanding of the question. Therefore, it scores 2 on the 'task_quality' metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question about why Pune is referred to as the 'home of knowledge'. It provides a detailed explanation, mentioning the presence of numerous renowned educational institutions and universities in Pune, such as Savitribai Phule Pune University, Indian Institute of Science Education and Research (IISER), and Symbiosis International University. It also mentions the historical and cultural heritage of schools, colleges, and educational institutions in Pune. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding and adherence to the question asked."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "justification": "The response provided by the model is directly relevant to the question asked. The question asks why Pune is referred to as the home of knowledge, and the response accurately explains the meaning of the phrase. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed.",
+            "score": 2
+        }
+    },
+    {
+        "prompt_id": "34d41eab-f285-44cd-83f5-fbcb95a39b54",
+        "prompt": "आषाढी कार्तिकी ला पंढरपुरात किती वाऱ्या येतात आणि त्या कोणकोणत्या ठिकाणाहून येतात?",
+        "prompt_type": "culture",
+        "language": "marathi",
+        "smallstepai/Misal-7B-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is exactly the same as the question, which means the model has not provided any new information or answered the question. This indicates that the model has disregarded the instructions entirely, making the output irrelevant to the prompt. Therefore, according to the 'task_quality' metric, the score is 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about the number of processions (waari) that come to Pandharpur during the months of Ashadhi and Kartiki and from which places they originate. However, the response talks about the number of days in the month of Kartik, which is not relevant to the question. Therefore, the model disregards the instructions entirely and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response partially addresses the question. The question asks for the number of pilgrims that come to Pandharpur during the Ashadhi and Kartiki festivals and from which places they come. The response provides the number of pilgrims and the places they come from in Maharashtra and other states. However, it does not specify the number of pilgrims for each festival separately, Ashadhi and Kartiki, as asked in the question. Therefore, the response is partially aligned with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how many pilgrims come to Pandharpur for the Ashadhi Kartiki and from where they come. It mentions that lakhs of pilgrims come from various places in Maharashtra and also from other states like Madhya Pradesh, Gujarat, Karnataka, and Telangana. The response also provides additional information about the increasing number of pilgrims every year and the long journey they undertake, which adds depth to the answer without deviating from the question."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "justification": "The response partially aligns with the prompt. The question asks about the number of 'wari' (pilgrimages) that Ashadhi Kartiki takes to Pandharpur and from which places they originate. However, the response only provides information about the distance and time taken for the journey, and does not mention the number of 'wari' or the places from which they originate. Therefore, the response misses out on some key details asked for in the question, which is why it receives a score of 1.",
+            "score": 1
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asked for the number of processions that come to Pandharpur during the Ashadhi Kartiki fair and from which places they come. The model's response accurately provides this information, stating that six processions come from Yogeshwari (Bidhanur), Mukhya (Alandi), Shejari (Pune - Dehu), Vakhari (Kurli), Dhava (Nighol), and Takisamardha (Kedgaon). Therefore, the model's response satisfies all aspects of the given directive without any deviation, earning it a score of 2 according to the \"task_quality\" metric."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It correctly mentions the number of processions that come to Pandharpur during Ashadhi and Kartiki, but it does not provide information about where these processions come from, which was also asked in the question. Therefore, the response is not completely aligned with the prompt."
+        },
+        "google/gemma-7b-it": {
+            "justification": "The response partially addresses the question. The question asks about the number of times the 'Aashadhi Kartiki' comes to Pandharpur and from which places it comes. The response mentions that 'Aashadhi Kartiki' comes to Pandharpur 2-3 times, which is a part of the question. However, it does not mention from which places 'Aashadhi Kartiki' comes to Pandharpur, which is also a part of the question. Therefore, the response is partially aligned with the prompt, indicating some elements of relevance, but not a complete match.",
+            "score": 1
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the number of pilgrims coming to Pandharpur during the Ashadhi and Kartiki festivals and from which places they come. However, the response talks about the direction and intensity of winds in Pandharpur, which is not related to the question at all. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "SamwaadLLM": {
+            "justification": "The response partially aligns with the prompt. The question asks about the number of wari (pilgrimages) that come to Pandharpur during the months of Ashadhi and Kartiki and from which places they come. The response talks about the number of wari in these months and how it can vary based on geographical location and weather, but it does not provide specific numbers or mention the places from where the wari come. Therefore, the response includes some relevant details but omits some requested specifics.",
+            "score": 1
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question by providing a list of places from where the 'wari' (pilgrimage) to Pandharpur starts during the Ashadhi and Kartiki Ekadashi. It also provides additional information about the saints associated with some of these places. The response is in complete alignment with the question, addressing all aspects of it without any deviation or omission. Therefore, it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is not relevant to the question asked. The question asks about the number of times the 'Ashadhi Kartiki' comes to Pandharpur and from which places it comes. However, the response does not provide any information about the number of times or the places from where it comes. Instead, it provides irrelevant information about the activities during the pilgrimage. Moreover, the response is also repetitive and does not make sense. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        }
+    }
+]

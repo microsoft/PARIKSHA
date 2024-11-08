@@ -1,0 +1,1242 @@
+[
+    {
+        "prompt_id": "bc293bda-e649-46f7-9fef-2d208160b32d",
+        "prompt": "ರಕ್ತದೊತ್ತಡವನ್ನು ಕಡಿಮೆ ಮಾಡುವುದು ಹೇಗೆ?",
+        "prompt_type": "health",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 0,
+            "justification": "The response is not in the requested language, Kannada. Instead, it is in English. Therefore, it does not align with the implicit norms and rules of a native speaker's linguistic intuition in Kannada. The response does not fit within the natural, expected, and intuitive contours of fluent human language in Kannada. Hence, the score is 0."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language, and there are no grammatical errors. The response is also appropriate in the context of the question asked, providing a comprehensive answer on how to reduce blood pressure."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The response does not provide a clear answer to the question asked. The question is about how to reduce blood pressure, but the response is about making a reservation. The response also contains a sentence that is repeated without providing any additional information. This is a clear example of a sentence that lacks a clear syntactic structure and grossly inappropriate word choices for a given context, which are reasons for a score of 0 according to the metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is grammatically correct, uses appropriate vocabulary, and is contextually relevant to the question. It also reflects the natural rhythm, emphasis, and intonation of spoken language. There are no errors or inappropriate word choices. The response is not overly verbose or stilted, and it effectively uses idiomatic expressions without sounding forced."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It provides a detailed answer to the question on how to reduce blood pressure, including practical tips and advice. The language used is natural and fluent, reflecting the rhythm and intonation of spoken Kannada. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and easy to understand, making it highly acceptable from a linguistic perspective."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is also repetitive and does not provide a clear answer to the question asked. The response also contains inappropriate word choices for the given context. The response does not provide any useful information on how to reduce blood pressure, which was the question asked. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, providing a comprehensive answer to the question asked."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The repeated phrases do not make sense in the context of the question. The response does not provide a clear and coherent answer to the question about reducing blood pressure. The repeated phrases seem to be a list of exercises, but they are not properly introduced or explained, and they are repeated multiple times without any clear reason. This makes the response confusing and difficult to understand."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences reflect the natural rhythm, emphasis, and intonation of spoken language, and it effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and provides a comprehensive answer to the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and provides a comprehensive answer to the question asked."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Kannada language. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and provides a clear answer to the question."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the norms and rules of the Kannada language. The sentences are well-structured and use appropriate and contextually relevant vocabulary. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also reflects the natural rhythm and intonation of spoken Kannada language. Therefore, it scores 2 on the linguistic acceptability scale."
+        }
+    },
+    {
+        "prompt_id": "2dc0c075-62cf-472e-b6bc-18a4361667de",
+        "prompt": "ಧೂಮಪಾನದಿಂದ ಉಂಟಾಗುವ ಅಪಾಯಗಳು ಯಾವುವು ಮತ್ತು ಅದು ಒಟ್ಟಾರೆ ಆರೋಗ್ಯದ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ?",
+        "prompt_type": "health",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent and idiomatic, fitting well within the intuitive contours of fluent human language."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Kannada language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response is also contextually relevant and effectively answers the question about the dangers of smoking and its impact on overall health. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful information. The same sentence is repeated multiple times without any variation or additional information. The response also ends abruptly with non-existent characters, which further reduces its acceptability. Therefore, the score is 0 as per the provided metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and directly answers the question."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Kannada language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing a list of health risks associated with smoking and explaining how smoking affects overall health."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The list of dangers from smoking is nonsensical and includes non-existent or incorrect words, which is a criterion for a score of 0 according to the metric. The explanation of how smoking affects health is also unclear and lacks a clear syntactic structure, which is another criterion for a score of 0. The response does not effectively answer the question and does not reflect the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and fits well within the natural contours of fluent human language."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language, and it effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response contains a repeated phrase that lacks clear syntactic structure and does not make sense in the context of the question. The phrase 'ಚರ್ಬು, ಧೂಮಪಾನದ ಲಕ್ಣಗಳು' is repeated multiple times without any clear meaning or relevance to the question. This repetition disrupts the flow of the response and makes it difficult to understand. This falls under the category of 'Sentences that lack clear syntactic structure' in the scoring rubric for linguistic acceptability, warranting a score of 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also effectively uses idiomatic expressions and reflects the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, providing a comprehensive answer to the question."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also effectively uses idiomatic expressions and reflects the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Kannada language. The response is fluent, idiomatic, and contextually appropriate. It effectively answers the question about the dangers of smoking and its impact on overall health. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response reflects the natural rhythm, emphasis, and intonation of spoken Kannada language."
+        }
+    },
+    {
+        "prompt_id": "c2528d0a-a9c4-4171-b8c7-73ed9681bad0",
+        "prompt": "ಮೂತ್ರಪಿಂಡದ ಕಲ್ಲುಗಳಿಗೆ ಕಾರಣವೇನು?",
+        "prompt_type": "health",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, especially in the 'remedies' section where the same point about certain medications is repeated multiple times. However, the response is grammatically correct and does not impede understanding, hence it scores 1 on the linguistic acceptability scale."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It starts off well, providing some information about kidney stones, but then it devolves into a repetitive string of phrases about symptoms of kidney infection. This repetition is not only unnecessary but also makes the response difficult to understand. It lacks clear syntactic structure and is overly verbose, which are reasons for a score of 0 according to the metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response to the question 'What is the cause of kidney stones?' in Kannada is not linguistically acceptable. The response lacks clear syntactic structure and does not provide any meaningful information related to the question. The same phrase 'ಕಾರಣವೇನು' (what is the cause) is repeated multiple times without any context or explanation. This falls under the scoring rubric of '0' as per the metric 'linguistic_acceptability', specifically under the reason '(a)': 'Sentences that lack clear syntactic structure.'"
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Kannada language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing a detailed explanation of the causes of kidney stones. It also uses idiomatic expressions seamlessly, making the response sound natural and fluent."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is repetitive and does not provide a clear and concise answer to the question. The phrase 'ಅಷ್ಠಷ ಪರಿಮಾನವಿಗೆ' is repeated multiple times without any clear meaning or context. The response also ends abruptly and does not provide a complete answer to the question. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the norms and rules of the Kannada language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing a detailed explanation of the causes of kidney stones."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question about the causes of kidney stones in a clear and concise manner."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is repetitive and does not provide a clear and concise answer to the question about the cause of kidney stones. The repeated phrase 'ಚುಚುಯ ಚಲನೆ' does not make sense in the context of the question and does not contribute to a coherent answer. Therefore, the score is 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive. Points 7 to 11 are essentially the same, repeating the idea that individuals with a family history of kidney stones are more likely to develop them. This redundancy makes the response unnecessarily long and repetitive, which is not linguistically acceptable. However, the response does not contain any grammatical errors or inappropriate word choices, and the information provided is accurate and relevant to the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the norms and rules of the Kannada language. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively integrates contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Kannada language."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the norms and rules of the Kannada language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context, answering the question about the causes of kidney stones in a comprehensive and understandable manner."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Kannada language. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about the causes of kidney stones in a clear and concise manner."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Kannada language. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about the causes of kidney stones, providing a comprehensive explanation that would be easily understood by a native speaker."
+        }
+    },
+    {
+        "prompt_id": "84678da4-914e-4854-a475-f6b2a1e291f4",
+        "prompt": "ಕೊಲೆಸ್ಟ್ರಾಲ್ ಅನ್ನು ಕಡಿಮೆ ಮಾಡುವುದು ಹೇಗೆ?",
+        "prompt_type": "health",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 0,
+            "justification": "The response is repetitive and lacks variety in the information provided. The same point about consuming low cholesterol foods is repeated multiple times without any additional details or different points. This does not align with the implicit norms and rules of a native speaker's linguistic intuition, as it lacks fluency and appropriateness in context. Therefore, the score is 0."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Kannada language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about how to reduce cholesterol, providing a clear and concise explanation."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful information in response to the question. The same phrase is repeated multiple times without any variation or additional context. This does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response does not adhere to grammar rules, nor does it fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are structured well and reflect the natural rhythm of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the context of the question."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and provides a clear, concise answer to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is also grossly inappropriate for the given context. The question asks about how to reduce cholesterol, but the response talks about refrigerating and thawing something, which is not relevant to the question. The response also repeats phrases unnecessarily, making it confusing and hard to understand. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language, and it effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any non-existent or incorrect words, and the word choices are appropriate for the context. The response is not overly verbose or stilted, and there are no grammatical errors that impede understanding. The response effectively uses idiomatic expressions without sounding forced, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language, and it effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. The response is clear, concise, and provides a comprehensive answer to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is also structured in a logical and coherent manner, making it easy to understand. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language, making it sound natural and fluent. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It provides a detailed and comprehensive answer to the question on how to reduce cholesterol, including dietary changes, exercise, and medical consultation. The language used is natural and fluent, reflecting the rhythm and intonation of spoken Kannada. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences reflect the natural rhythm and intonation of spoken Kannada language, and there are no grammatical errors. The response is also clear, concise, and provides a comprehensive answer to the question asked."
+        }
+    },
+    {
+        "prompt_id": "f4925ee5-e448-41ac-9315-c8fb13ac5ff3",
+        "prompt": "ಹೃದ್ರೋಗ ಅಥವಾ ಮಧುಮೇಹದಂತಹ ಸಾಮಾನ್ಯ ಆರೋಗ್ಯ ಪರಿಸ್ಥಿತಿಗಳ ಎಚ್ಚರಿಕೆ ಚಿಹ್ನೆಗಳು ಯಾವುವು?",
+        "prompt_type": "health",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive. The same symptoms are repeated multiple times with the same description, which makes the response redundant and not very useful. However, the response does not contain any grammatical errors and the words used are appropriate for the context."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about the warning signs of common health conditions like heart disease and diabetes, providing a list of symptoms in a clear and concise manner. It reflects the natural rhythm, emphasis, and intonation of spoken Kannada language."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It repeats the question multiple times without providing any answer. The response lacks clear syntactic structure and does not provide any meaningful information in response to the question. It does not adhere to the implicit norms and rules of a native speaker's linguistic intuition. The response does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The response effectively answers the question, providing clear symptoms for both heart disease and diabetes. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response reflects the natural rhythm, emphasis, and intonation of spoken Kannada language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. It effectively communicates the warning signs of common health conditions like heart disease and diabetes, which was the information requested in the question. The response also uses idiomatic expressions naturally and reflects the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response does not answer the question about the warning signs of common health conditions like heart disease or diabetes. Instead, it seems to be a random collection of words and phrases that do not make sense in the context of the question. The response is also filled with inappropriate word choices for the given context, such as 'ಮಹಾಮರ್ದನ', 'ಮಹಾಲಕ್ಷ್ಮಿ', 'ಜಯದ್ರಥ', 'ನರಾಸಿಂಹ', 'ಇರಣ್ಜನ', 'ಭಲಿಚಾರದ', 'ವಿಶ್ವಕ್ಸೆಮರ', 'ಅನಿಕೆತನ', 'ಮಹಾವಿಶ್ವಾಕ್', 'ವಿಶ್ವಕ್ಸೆಮರ', 'ಬಲರಾಮ', 'ಕಪಿಲ್', 'ದ್ರಶ್ತ್ರ', 'ಶ್ರೀರಾಮ', which are not related to the topic of health conditions."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively lists the warning signs of heart disease and diabetes, answering the question accurately and completely."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response does not provide any specific warning signs of common health conditions like heart disease or diabetes, which was the main focus of the question. Instead, it repeats the same phrase 'ಚುಮುಚುಮುಚುಗುಪಡು' multiple times, which does not make sense in this context. Therefore, the response gets a score of 0 according to the 'linguistic_acceptability' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It starts off well by listing symptoms of heart disease and diabetes, but then it repeats the same symptom 'ಕೆಮ್ಮು' (chest pain) multiple times without providing any new information. This repetition lacks clear syntactic structure and does not align with the implicit norms and rules of a native speaker's linguistic intuition. Therefore, the score is 0 according to the provided metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It starts off well by providing some symptoms of heart disease, but then it devolves into a repetitive phrase 'ಕಾಲೋಚಿತ ಅನಾರೋಗ್ಯ' (chronic illness) repeated multiple times without any context or relevance. This repetition lacks clear syntactic structure and is not appropriate in the given context. Additionally, the response does not provide any symptoms of diabetes, which was also asked in the question. Therefore, the response gets a score of 0 according to the linguistic acceptability metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and phrases to describe the warning signs of common health conditions like heart disease or diabetes. The sentences reflect the natural rhythm and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and easy to understand, making it a good fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Kannada language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response effectively answers the question, providing clear and concise signs of heart disease and diabetes. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Kannada language. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively communicates the early warning signs of heart disease and diabetes, which is what the question asked for. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response reflects the natural rhythm, emphasis, and intonation of spoken Kannada language."
+        }
+    },
+    {
+        "prompt_id": "1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9",
+        "prompt": "ನಿವೃತ್ತಿಗಾಗಿ ಉಳಿಸಲು ಕೆಲವು ಸಾಮಾನ್ಯ ತಂತ್ರಗಳು ಯಾವುವು?",
+        "prompt_type": "finance",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are well-structured and reflect the natural rhythm of the Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the context of the question."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive. After the first two points, the same point is repeated multiple times with different numbering. This repetition does not add any new information or value to the response. However, the response does not contain any grammatical errors or inappropriate word choices, and the points that are made are relevant to the question asked. Therefore, the response is given a score of 1 according to the linguistic acceptability metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful answer to the question. The same phrase is repeated multiple times without providing any new information or answering the question. This is a clear violation of the implicit norms and rules of a native speaker's linguistic intuition, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and provides a comprehensive answer to the question asked."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm and intonation of the Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about common strategies for saving for retirement in a clear and concise manner."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive, with the same phrase repeated multiple times. It does not provide any meaningful or relevant information in response to the question about strategies for saving for retirement. Therefore, it falls under category (a) of the scoring rubric for a score of 0: 'Sentences that lack clear syntactic structure.'"
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively provides several strategies for saving for retirement, which directly answers the question."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Kannada language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response contains non-existent or incorrect words such as 'chzimy' and '낮아요'. The sentences also lack clear syntactic structure, making it difficult to understand the intended meaning. The response does not align with the implicit norms and rules of a native speaker's linguistic intuition, hence the score of 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm and intonation of the Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response is also free from any grammatical errors and uses appropriate words in the given context. The response is not overly verbose or stilted, and it effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        }
+    },
+    {
+        "prompt_id": "e41cb486-496f-465e-ad07-76fed94a4183",
+        "prompt": "ಉಳಿತಾಯ ಮತ್ತು ಹೂಡಿಕೆಯ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+        "prompt_type": "finance",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively uses idiomatic expressions without sounding forced and reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and does not provide a meaningful answer to the question. The same phrase is repeated multiple times without providing any new information or context. This does not align with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and does not provide a coherent answer to the question. The repeated phrase 'ಹೊಗಳಿಗೆ' (hogalige) does not make sense in the context of the question, which asks for the difference between 'ಉಳಿತಾಯ' (ULitAy) and 'ಹೂಡಿಕೆಯ' (Hoodikey). The response does not adhere to the implicit norms and rules of a native speaker's linguistic intuition, and it does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and easy to understand, providing a comprehensive explanation of the difference between 'profit' and 'revenue' in the context of the question."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and does not provide a coherent answer to the question. The same phrases are repeated multiple times without any clear meaning or context. This makes the response difficult to understand and does not align with the implicit norms and rules of a native speaker's linguistic intuition. Therefore, the score is 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response is grammatically correct and there are no inappropriate word choices. The response is also not overly verbose or stilted, and it effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively explains the difference between savings and investment, making it easy to understand for the reader."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the context of the question."
+        }
+    },
+    {
+        "prompt_id": "bcb30da8-d92d-4fa5-b26e-9f98873c762a",
+        "prompt": "ಉತ್ತಮ ಕ್ರೆಡಿಟ್ ಅಭ್ಯಾಸಗಳನ್ನು ನಾನು ಹೇಗೆ ಸ್ಥಾಪಿಸಬಹುದು?",
+        "prompt_type": "finance",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 1,
+            "justification": "The response is linguistically acceptable in terms of grammar and syntax. However, it is overly verbose and repetitive, with the same points being repeated multiple times. This makes the response seem stilted and unnatural, which is why it receives a score of 1 according to the metric."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any non-existent or incorrect words, and the word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors that could impede understanding. The response effectively uses idiomatic expressions without sounding forced, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response receives a score of 2."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful information in response to the question. The same phrase is repeated multiple times without any variation or additional context. This does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response does not adhere to grammar rules, nor does it fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and provides a comprehensive answer to the question asked."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide a coherent answer to the question. The sentences are repetitive and do not make sense in the context of the question. The response does not provide any useful information on how to establish good credit practices, which is what the question is asking for. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are well-structured and reflect the natural rhythm of the Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and provides a comprehensive answer to the question asked."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language, and it effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the norms and rules of the Kannada language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is also contextually relevant and effectively answers the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive. The same point about avoiding the use of surplus funds to pay off credit balances is repeated multiple times without any variation or additional information. This makes the response unnecessarily long and redundant, which falls under the category of 'overly verbose or stilted phrasing' in the scoring rubric. However, the response does provide relevant information to the question and there are no grammatical errors or inappropriate word choices, so it does not warrant a score of 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It provides a detailed and comprehensive answer to the question on how to establish good credit practices. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, which makes it sound stilted. The same point about avoiding loans from credit institutions is repeated multiple times without any variation or additional information, which is not a natural way of conveying information. However, the response does provide some useful and contextually relevant advice on establishing good credit practices, and there are no major grammatical errors or inappropriate word choices."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are well-structured and reflect the natural rhythm of the Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are well-structured and reflect the natural rhythm of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and provides a comprehensive answer to the question asked."
+        }
+    },
+    {
+        "prompt_id": "ab117e7f-2f06-4517-a739-8850734bcbaa",
+        "prompt": "ಬ್ಯಾಂಕ್ ಖಾತೆಯಲ್ಲಿ ನಾನು ಯಾವ ಸೇವೆಗಳು ಮತ್ತು ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ನೋಡಬೇಕು?",
+        "prompt_type": "finance",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It repeats the same phrase 'ನಗದು ಹಿಂಪಡೆಯುವಿಕೆ' multiple times without providing any new information or context. This repetition does not align with the implicit norms and rules of a native speaker's linguistic intuition. It lacks clear syntactic structure and does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It contains a repeated phrase ('ಕ್ರೆಡಿಟ್ ಮತ್ತು ಡೆಬಿಟ್ ಕಾರ್ಡ್ಗಳ ಕ್ರೆಡಿಟ್ಗಳು ಮತ್ತು ಕಡಿತಗಳು') multiple times, which makes the response overly verbose and lacks clear syntactic structure. This repetition does not add any value to the response and makes it difficult to understand. Therefore, the score is 0 according to the 'linguistic_acceptability' metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide a coherent answer to the question. The response is repetitive and does not provide any specific services or features that one should look for in a bank account. The response also includes non-existent or incorrect words, making it difficult to understand. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Kannada language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing a detailed list of services and features one should look for in a bank account. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Kannada language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and answers the question effectively."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, which makes it difficult to understand. The same phrases are repeated multiple times, such as 'ಅವರಿಗೆ ಅವರ ಅಧಿಕಾರಗಳನ್ನು ಪ್ರಮಾಣಿಸಿ' and 'ಸೇವೆಗಳು ಮತ್ತು ವೈಶಿಷ್ಟ್ಯಗಳು ನೋಡುವ ಶಬ್ದಗಳು ಹುಟ್ಟಿದೆ'. This repetition does not add any new information or clarity to the response. Therefore, the response falls under the category of 'Overly verbose or stilted phrasing' in the scoring rubric, earning it a score of 1."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing a detailed list of services and features to look for in a bank account. It also uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentence structure is clear and there is no usage of non-existent or incorrect words. The word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentence reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing a detailed explanation of the services and features one should look for in a bank account. It also uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, providing a comprehensive list of services and features one should look for in a bank account."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm and intonation of the Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing a detailed list of services and features one can expect in a bank account. The language used is fluent and idiomatic, fitting well within the expected contours of the Kannada language."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It repeats the same phrase 'ಉಳಿತಾಯ ಖಾತೆ: ಈ ಖಾತೆಯು ನಿಮ್ಮ ಹಣವನ್ನು ಉಳಿಸಲು ಮತ್ತು ಉಳಿಸಲು ನಿಮಗೆ ಅನುಮತಿಸುತ್ತದೆ.' multiple times without providing any new information or context. This repetition lacks clear syntactic structure and does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also effectively uses idiomatic expressions and reflects the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Kannada language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and answers the question effectively."
+        }
+    },
+    {
+        "prompt_id": "de0be292-6821-4f1e-8fac-b814e88f969c",
+        "prompt": "ಎಟಿಎಂ ಎಂದರೇನು ಮತ್ತು ಅದರೊಂದಿಗೆ ನಾನು ಏನು ಮಾಡಬಹುದು?",
+        "prompt_type": "finance",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences reflect the natural rhythm, emphasis, and intonation of spoken language, and it effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 2,
+            "justification": "The response to the question is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, and the phrasing is not overly verbose or stilted. The response is also appropriate for the context of the question, providing a clear and comprehensive explanation of what an ATM is and what one can do with it."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful information. The response is simply a repetition of the question, which does not align with the implicit norms and rules of a native speaker's linguistic intuition. It does not fit within the natural, expected, and intuitive contours of fluent human language. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the context of the question."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences reflect the natural rhythm, emphasis, and intonation of spoken language, and it effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and does not provide a coherent answer to the question. The response seems to be a random collection of phrases and sentences that do not make sense in the context of the question. The usage of words and phrases is incorrect and inappropriate for the given context. The response does not provide any information about what an ATM is or what one can do with it, which was the original question. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and provides a comprehensive explanation of what an ATM is and what one can do with it. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It does not answer the question about what an ATM is and what can be done with it. Instead, it talks about watching movies, which is irrelevant to the question. The response lacks clear syntactic structure and uses inappropriate word choices for the given context, which are reasons for a score of 0 according to the metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, providing a comprehensive explanation of what an ATM is and what one can do with it."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Kannada language. The response is fluent, idiomatic, and contextually appropriate. It effectively answers the question about what an ATM is and what one can do with it. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response reflects the natural rhythm, emphasis, and intonation of spoken Kannada language."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Kannada language. The response is fluent, idiomatic, and contextually appropriate. It effectively answers the question about what an ATM is and what one can do with it. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response reflects the natural rhythm, emphasis, and intonation of spoken Kannada language."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it doesn't contain any grammatical errors that could impede understanding. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. Therefore, the response gets a score of 2."
+        }
+    },
+    {
+        "prompt_id": "b49508fd-984f-41ea-a88c-c417853f34ef",
+        "prompt": "ಕಾವೇರಿ ನದಿ ಸಮಸ್ಯೆಯ ಐತಿಹಾಸಿಕ ಹಿನ್ನೆಲೆಯನ್ನು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ವಿವರಿಸಿ",
+        "prompt_type": "factual",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions without sounding forced. It provides a comprehensive historical background of the Kaveri river dispute, which is exactly what the question asked for."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 1,
+            "justification": "The response is generally linguistically acceptable, with clear syntactic structure and appropriate word choices. However, it is overly verbose and repetitive in some parts, particularly in the repeated mention of the river Godavari. This repetition does not contribute to the understanding of the historical background of the Kaveri river dispute, which is the main focus of the question. Therefore, the response receives a score of 1 according to the linguistic acceptability metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful information in response to the question. The response is essentially a repetition of the question itself, without any additional context or explanation. This does not align with the implicit norms and rules of a native speaker's linguistic intuition, and does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the implicit norms and rules of the Kannada language. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Kannada. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is a good fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm and intonation of the Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively explains the historical background of the Kaveri river dispute in a concise manner, as asked in the question."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and is repetitive, with the phrase 'ಹೊಸ' repeated multiple times without any context or meaning. The response also does not provide a historical background of the Kaveri river issue as asked in the question. Therefore, it scores 0 on the linguistic acceptability scale."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively explains the historical background of the Kaveri river dispute in a concise manner, as asked in the question."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively describes the historical background of the Kaveri river dispute in a concise manner, making it easy to understand for the reader."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response is generally understandable and provides a historical background of the Kaveri river as asked in the question. However, there are some instances of incorrect word usage and awkward phrasing. For example, the phrase 'ಭಾರತದimburimburimbursementಕ್ಕೆ' seems to be a typographical error or a non-existent word. Also, the phrase 'ಯುದ್ಧದ ನೀರ' is repeated multiple times without clear context, making the phrasing a bit stilted. Therefore, the response gets a score of 1 for linguistic acceptability."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and maintains a natural rhythm throughout. The sentences are well-structured and there are no grammatical errors. The response also effectively uses idiomatic expressions without sounding forced. It is clear, concise, and provides a comprehensive answer to the question asked."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and maintains a natural rhythm throughout. The sentences are well-structured and there are no grammatical errors. The response also effectively uses idiomatic expressions without sounding forced. It is clear, concise, and provides a comprehensive historical background of the Kaveri river dispute, as asked in the question."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively explains the historical background of the Kaveri river dispute in a concise manner, as asked in the question."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively explains the historical background of the Kaveri river dispute in a concise manner, as asked in the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm and intonation of the Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively explains the historical background of the Kaveri river dispute, making it a good fit within the natural, expected, and intuitive contours of fluent human language."
+        }
+    },
+    {
+        "prompt_id": "b67b4668-90c1-45d4-ad99-2d4fb2eb470b",
+        "prompt": "ಕರ್ನಾಟಕದ ಅನೇಕ ಸ್ಥಳಗಳು ರಾಮಾಯಣದಲ್ಲಿ ಉಲ್ಲೇಖ್ಯವಾಗಿವೆ, ಅವುಗಳ ಮಹತ್ವ ಏನು?",
+        "prompt_type": "cultural",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences reflect the natural rhythm, emphasis, and intonation of spoken language, and it effectively uses idiomatic expressions without sounding forced. The response is grammatically correct and there are no inappropriate word choices. The response is also fluent and idiomatic, fitting well within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 1,
+            "justification": "The response is generally linguistically acceptable, but there are some issues. The response is overly verbose and repetitive, especially in the descriptions of the places. The same phrases are used repeatedly, which makes the response sound stilted and unnatural. Additionally, the response mentions the Mahabharata instead of the Ramayana, which is the epic mentioned in the question. This could be seen as a minor error that does not impede understanding, but it is still a discrepancy. Therefore, the score is 1."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive, with the same phrase being repeated multiple times. It does not provide any meaningful or relevant information in response to the question about the significance of the places in Karnataka mentioned in the Ramayana. The response does not adhere to the implicit norms and rules of a native speaker's linguistic intuition, and does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Kannada language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is contextually relevant and effectively answers the question about the significance of the places in Karnataka mentioned in the Ramayana."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, which makes it difficult to understand. The same phrases are repeated multiple times, which is not natural in fluent human language. Additionally, there are some incorrect words used in the response, such as 'Anudhunaadha Hanuma' and 'Vasthavadhipati', which do not exist in the context of Ramayana. However, the response does adhere to the basic grammar rules of the Kannada language and the context of the question is maintained throughout the response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions without sounding forced. It aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate words, and aligns with the norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively integrates contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm and intonation of the Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions without sounding forced. It provides a comprehensive answer to the question, explaining the significance of the places in Karnataka mentioned in the Ramayana in terms of religious pilgrimage, history, culture, and tourism."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response is linguistically acceptable in terms of syntax and word usage. However, it is repetitive, with the same description being used for different places, which makes it overly verbose. Additionally, the place 'Sitaalaya' is mentioned three times, which is redundant. Therefore, the response gets a score of 1 as per the metric 'linguistic_acceptability'."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response is linguistically acceptable in terms of grammar and syntax. However, it is overly verbose and repetitive, with the same phrase being repeated multiple times without adding any new information or context. This makes the response sound stilted and unnatural, which is why it receives a score of 1 according to the linguistic acceptability metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the norms and rules of the Kannada language, and is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, demonstrating a high degree of linguistic acceptability."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. The response also effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent and aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the norms and rules of the Kannada language, and is fluent, idiomatic, and appropriate in context. The response effectively uses contextually relevant vocabulary and idiomatic expressions, and reflects the natural rhythm, emphasis, and intonation of spoken Kannada. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and easy to understand, making it a good fit within the natural, expected, and intuitive contours of fluent human language."
+        }
+    },
+    {
+        "prompt_id": "140ad248-4fd4-4e03-a8bc-65a6cd7428b8",
+        "prompt": "ಕರಾವಳಿ ಪ್ರದೇಶದಲ್ಲಿ ಆಚರಿಸುವ ಭೂತಾರಾಧನೆ ಪದ್ಧತಿಯ ಬಗ್ಗೆ ವಿವರಿಸಿ",
+        "prompt_type": "cultural",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it is an exact repetition of the question. It does not provide any new information or answer the question. It lacks clear syntactic structure and does not reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 0 on the linguistic acceptability scale."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 1,
+            "justification": "The response is linguistically acceptable in terms of grammar and syntax. However, it is overly verbose and repetitive, with the same phrases and sentences repeated multiple times. This redundancy makes the response sound unnatural and stilted, which is why it receives a score of 1 according to the metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful information in response to the question. The response is simply a repetition of the question, which does not align with the implicit norms and rules of a native speaker's linguistic intuition. Furthermore, the English translation provided does not match the Kannada text, indicating a grossly inappropriate word choice for the given context. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response is linguistically acceptable in terms of grammar and syntax. However, the same sentence is repeated three times, which makes the response overly verbose and repetitive. This repetition does not add any new information or context to the response, which is why the score is not higher."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Kannada language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively explains the tradition of ghost worship in the coastal region, making it contextually relevant and appropriate."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It starts with a relevant sentence but then devolves into a repetition of the same phrase 'ಹೊರಗೆ' (outside) multiple times, which lacks clear syntactic structure and does not provide any meaningful information about the 'ಭೂತಾರಾಧನೆ' (ghost worship) practices in the coastal region. This repetition does not align with the implicit norms and rules of a native speaker's linguistic intuition and does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses idiomatic expressions without sounding forced and reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is a good fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively explains the tradition of 'Bhoota Aradhane' in the coastal region, making it a seamless integration of contextually relevant vocabulary. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response is linguistically acceptable in terms of grammar and syntax. However, it is overly repetitive, with the same sentence being repeated multiple times. This repetition makes the response sound stilted and unnatural, which is why it receives a score of 1 according to the metric. The response could have been improved by providing more varied and detailed information about the Bhuta worship practices in the coastal region, instead of repeating the same sentence."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively describes the practice of ghost worship in the coastal region, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it adheres to the norms and rules of the Kannada language. It is fluent, idiomatic, and appropriate in the context of the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It has a clear syntactic structure, uses correct and existent words, and is contextually appropriate. The response is not overly verbose or stilted, and it does not contain any grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it receives a score of 2."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the norms and rules of the Kannada language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response is also contextually relevant and provides a detailed explanation of the Bhootaradhane ritual practiced in the coastal region, which is exactly what the question asked for. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively describes the ritual of ghost worship in the coastal region, integrating contextually relevant vocabulary seamlessly and reflecting the natural rhythm, emphasis, and intonation of spoken language."
+        }
+    },
+    {
+        "prompt_id": "829b706a-574f-45d4-bdf1-e4923db2e838",
+        "prompt": "ಉತ್ತರ ಕರ್ನಾಟಕದಲ್ಲಿ ಬಳಕೆಯಲ್ಲಿರುವ ಕನ್ನಡ ಹಾಗು ಬೆಂಗಳೂರು ಕನ್ನಡದ ಮಧ್ಯೆ ಇರುವ ವ್ಯತ್ಯಾಸಗಳೇನು?",
+        "prompt_type": "cultural",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 1,
+            "justification": "The response is generally linguistically acceptable, with clear syntactic structure and appropriate word choices. However, it is overly verbose and repetitive, with the same phrases and examples repeated multiple times. This redundancy makes the response seem stilted and unnatural, which is why it receives a score of 1 instead of 2. The response does provide a clear and detailed explanation of the differences between Kannada as spoken in North Karnataka and Bangalore, which aligns with the question asked."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for the differences between the Kannada used in North Karnataka and Bangalore, but the response merely repeats the question without providing any information on the differences. This is a clear violation of the linguistic acceptability metric, as it does not provide a coherent or contextually appropriate answer. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the norms and rules of the Kannada language. The sentences are well-structured and use appropriate vocabulary. The response also reflects the natural rhythm, emphasis, and intonation of spoken Kannada. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the norms and rules of the Kannada language. The sentences have a clear syntactic structure, and there are no instances of non-existent or incorrect words. The word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. Therefore, the response gets a score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the norms and rules of the Kannada language. The sentences have a clear syntactic structure, and there are no instances of non-existent or incorrect words. The word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. Therefore, the response gets a score of 2."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the norms and rules of the Kannada language. The sentences have a clear syntactic structure, and there is no usage of non-existent or incorrect words. The word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the norms and rules of the Kannada language. The sentences have a clear syntactic structure, and there is no usage of non-existent or incorrect words. The word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. Therefore, the response gets a score of 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the norms and rules of the Kannada language. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Kannada. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, which makes it sound stilted. The same points are repeated multiple times, such as the fact that both the Kannada used in North Karnataka and Bangalore Kannada are dialects used in their respective regions. This redundancy makes the response less fluent and natural. However, the response does not contain any grammatical errors or inappropriate word choices, and it does answer the question correctly, so it does not warrant a score of 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, and the phrasing is not overly verbose or stilted. The words used are appropriate for the context. The response provides a detailed comparison between the Kannada used in North Karnataka and Bangalore, addressing pronunciation, usage of words and phrases, and the influence of local culture and social context, which aligns well with the question asked."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the norms and rules of the Kannada language, and is fluent, idiomatic, and appropriate in context. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, demonstrating a high level of linguistic acceptability."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the norms and rules of the Kannada language. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the norms of the Kannada language. The response effectively answers the question about the differences between Kannada spoken in North Karnataka and Bangalore. It provides a detailed explanation, highlighting the differences in pronunciation, words, and grammar patterns. The response reflects the natural rhythm and intonation of the spoken language, and it doesn't sound forced or unnatural. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. Therefore, the response gets a score of 2."
+        }
+    },
+    {
+        "prompt_id": "97454a35-87fc-4b45-96c8-1b4d20c79c40",
+        "prompt": "ವಾಟಾಳ್ ನಾಗರಾಜ್ ಯಾರು? ಅವರ ಸಾಧನೆಗಳೇನು?",
+        "prompt_type": "factual",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the norms and rules of the Kannada language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions without sounding forced. It provides a comprehensive answer to the question, detailing who Vatal Nagaraj is and his achievements."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful information in response to the question. The response is merely a repetition of the question, which does not align with the implicit norms and rules of a native speaker's linguistic intuition. Therefore, the score is 0 according to the provided metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and answers the question effectively."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response reflects the natural rhythm and intonation of spoken language, and it effectively answers the question about who Vataal Nagaraj is and his achievements."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, which makes it difficult to understand. The same phrases and sentences are repeated multiple times without adding any new information. The response also does not provide a clear and concise answer to the question about who Vatal Nagaraj is and what his achievements are. Instead, it provides a list of places and terms that are not clearly related to the question. Therefore, the response gets a score of 1 for linguistic acceptability."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions without sounding forced. It adheres to the implicit norms and rules of a native speaker's linguistic intuition, fitting well within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about who Vatal Nagaraj is and his achievements in the Kannada film industry."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response is generally acceptable in terms of linguistic structure and grammar. However, it is repetitive and lacks clarity in some parts. The phrase 'ಯಾರ ಚಲನಚಿತ್ರ ಚುಂಚುಗೊಂಡು' is repeated multiple times without clear context or meaning. This makes the response sound stilted and somewhat confusing, which is why it receives a score of 1 according to the linguistic acceptability metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response is grammatically correct and provides some information about Vatal Nagaraj and his achievements. However, it is overly verbose and repetitive, mentioning the same achievement multiple times. This redundancy makes the response less linguistically acceptable as it does not reflect the natural rhythm and emphasis of spoken language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response is grammatically correct and understandable, but it is overly repetitive. The same sentence about Vatal Nagaraj's advocacy for the rights of senior Muslim women in India during the 1970s is repeated multiple times without any variation or additional information. This repetition makes the response seem unnatural and stilted, which is why it receives a score of 1 according to the linguistic acceptability metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The same sentence is repeated multiple times without any variation or additional information. This repetition does not align with the implicit norms and rules of a native speaker's linguistic intuition. It is not fluent, idiomatic, or appropriate in context. Therefore, the score is 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it adheres to the norms and rules of the Kannada language. It is fluent, idiomatic, and appropriate in the context of the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, demonstrating a high level of linguistic acceptability."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is well-structured and adheres to the norms and rules of the Kannada language. It is fluent, idiomatic, and contextually appropriate. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The vocabulary used is contextually relevant and the use of idiomatic expressions does not sound forced. Therefore, the response scores 2 on the linguistic acceptability scale."
+        }
+    },
+    {
+        "prompt_id": "1f175a88-fa1f-4f6f-9a31-3d06b1339f5b",
+        "prompt": "ಬೆಂಗಳೂರು ನಗರದ ಟ್ರಾಫಿಕ್ ಸಾಂಚಾರದ ಬಗ್ಗೆ ಇರುವ ಹಾಸ್ಯಾಸ್ಪದ ಸಂಗತಿಗಳೇನು?",
+        "prompt_type": "cultural",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The same point is repeated 10 times without any variation or additional information. This repetition does not align with the implicit norms and rules of a native speaker's linguistic intuition. It lacks clear syntactic structure and does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is contextually relevant and effectively communicates the information."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful or relevant information in response to the question. The sentences are repetitive and nonsensical, indicating usage of non-existent or incorrect words. The response does not provide any humorous aspects of Bangalore city's traffic, which was the original question. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and fits within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions without sounding forced. It aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question asks for humorous aspects of Bangalore city's traffic, but the response talks about various deities and their statues, which is unrelated to the question. Additionally, the response ends with a string of nonsensical characters, indicating a lack of clear syntactic structure. This falls under the '0' category of the scoring rubric, specifically reason '(a)': 'Sentences that lack clear syntactic structure.'"
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response 'ಮಾಹಿತಿ ಲಭ್ಯವಿಲ್ಲ.' is grammatically correct and appropriate in the context of the question asked. It is a common phrase used in Kannada language to express the unavailability of information. The phrase is concise, clear, and aligns with the implicit norms and rules of a native speaker's linguistic intuition. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively integrates contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The phrases provided under each bullet point do not make sense and do not provide any humorous aspects about Bangalore city's traffic. The response does not align with the implicit norms and rules of a native speaker's linguistic intuition. It does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response is linguistically acceptable in terms of grammar and syntax. However, it is overly verbose and repetitive, especially in points 5 to 10 where the same point is repeated multiple times with no new information added. This repetition makes the response seem stilted and unnatural, which is why it receives a score of 1 according to the metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent and aligns with the implicit norms and rules of a native Kannada speaker's linguistic intuition."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive, with the same phrase repeated multiple times without providing any meaningful or relevant information in response to the question. The response does not provide any humorous aspects of traffic in Bangalore, which was the information requested in the question. Therefore, it scores 0 on the linguistic acceptability scale."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        }
+    },
+    {
+        "prompt_id": "a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e",
+        "prompt": "ಹೊರರಾಜ್ಯದ ಬೆಂಗಳೂರಿನ ನಿವಾಸಿಗಳ ಬಗ್ಗೆ ಕನ್ನಡಿಗರಲ್ಲಿ ಏನು ಅಭಿಪ್ರಾಯವಿದೆ?",
+        "prompt_type": "cultural",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is a well-structured sentence that adheres to the norms and rules of the Kannada language. The vocabulary used is contextually relevant and appropriate. The sentence reflects the natural rhythm and intonation of spoken Kannada. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Kannada language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it receives a score of 2."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "justification": "The response provided is simply a repetition of the question itself, without providing any actual answer or information. This is a clear example of a sentence that lacks a clear syntactic structure, as it does not form a coherent or meaningful response to the question asked.",
+            "score": 0
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It has a clear syntactic structure, uses correct and existent words, and is appropriate for the given context. The response is not overly verbose or stilted, and it doesn't have any grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, it gets a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and is repetitive, with phrases and words being used over and over again without providing any meaningful or coherent information. The response does not answer the question about the opinion of Kannadigas on the residents of Bangalore from other states. It also contains non-existent or incorrect words, making it difficult to understand. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the norms and rules of the Kannada language, and is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, demonstrating a high degree of linguistic acceptability."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. It does not contain any non-existent or incorrect words, and the word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors that impede understanding. The response effectively uses idiomatic expressions without sounding forced, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response receives a score of 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the norms and rules of the Kannada language. The sentences are well-structured and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. The response is fluent, idiomatic, and appropriate in the given context. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively uses idiomatic expressions without sounding forced. It adheres to the implicit norms and rules of a native speaker's linguistic intuition, fitting within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It has a clear syntactic structure, uses correct and existent words, and is contextually appropriate. The response is not overly verbose or stilted, and it doesn't contain any grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, it gets a score of 2."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the norms and rules of the Kannada language. The sentences are well-structured and use appropriate vocabulary. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively integrates contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Kannada language."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively integrates contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability metric."
+        }
+    },
+    {
+        "prompt_id": "561143a8-6533-4b06-8b28-d85c3b47e67c",
+        "prompt": "ಮೊಹಮ್ಮದ್ ಆದಿಲ್ ಶಾ ಮತ್ತು ಟೀಪು ಸುಲ್ತಾನ್ ಆಳ್ವಿಕೆಯಲ್ಲಿ ಹಿಂದೂ ಧರ್ಮದ ಬಗ್ಗೆ ತೋರಿದ ನೀತಿಗಳಲ್ಲಿ ಏನು ವ್ಯತ್ಯಾಸಗಳಿವೆ?",
+        "prompt_type": "factual",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Kannada language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively answers the question, providing a comparison of the policies towards Hinduism under the rule of Mohammad Adil Shah and Tipu Sultan. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. There are no grammatical errors, incorrect words, or inappropriate word choices. The response also reflects the natural rhythm, emphasis, and intonation of spoken language. It effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It repeats the question without providing any new information or answering the question. The sentence lacks clear syntactic structure and does not provide a meaningful response to the question asked. Therefore, it falls under the '0' category of the scoring rubric, specifically under reason '(a)': 'Sentences that lack clear syntactic structure.'"
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response reflects the natural rhythm and intonation of spoken language, and it effectively answers the question about the differences in policies towards Hinduism during the reigns of Mohammad Adil Shah and Tipu Sultan."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, which makes it difficult to understand. The response also does not clearly answer the question about the differences in policies towards Hinduism under the rule of Mohammad Adil Shah and Tipu Sultan. Instead, it talks about differences in religious scriptures, which is not relevant to the question. However, the response does not contain any non-existent or incorrect words, and the word choices are not grossly inappropriate for the context."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively uses idiomatic expressions without sounding forced. It adheres to the implicit norms and rules of a native speaker's linguistic intuition, fitting within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it adheres to the norms and rules of the Kannada language. It is fluent, idiomatic, and appropriate in the context of the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, demonstrating a high degree of linguistic acceptability."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the norms and rules of the Kannada language. The sentences are well-structured and there are no grammatical errors. The response uses appropriate vocabulary and idiomatic expressions that fit the context of the question. The response also reflects the natural rhythm, emphasis, and intonation of spoken Kannada language. Therefore, the response gets a score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the norms of the Kannada language. The sentences reflect the natural rhythm and intonation of spoken language. The response is also contextually relevant and provides a detailed comparison of the policies towards Hinduism under the rule of Mohammad Adil Shah and Tipu Sultan. There are no grammatical errors or inappropriate word choices. The response is neither overly verbose nor stilted, and it effectively uses idiomatic expressions without sounding forced."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the norms and rules of the Kannada language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response is also contextually relevant and effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent and fits within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about the differences in policies towards Hinduism during the reigns of Mohammad Adil Shah and Tipu Sultan."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm and intonation of the Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        }
+    },
+    {
+        "prompt_id": "9b16d388-428d-4e37-bd6e-771c309845c5",
+        "prompt": "ನೆರೆಯ ರಾಜ್ಯಗಳಲ್ಲಿ ಚಲನಚಿತ್ರ ನಟರು ರಾಜಕೀಯಕ್ಕೆ ಬರುವುದು ಸಾಮಾನ್ಯವಾಗಿದ್ದು, ಕರ್ನಾಟಕದಲ್ಲಿ ಯಾಕೆ ಅದು ಕಾಣಬರುವುದಿಲ್ಲ?",
+        "prompt_type": "cultural",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, which makes it sound stilted. The same point about the illegality of film actors entering politics is repeated multiple times, which is unnecessary and disrupts the natural flow of the response. However, the response does not contain any non-existent or incorrect words, and the word choices are appropriate for the context. The response also does not contain any grossly inappropriate word choices. Therefore, the score is 1 according to the linguistic acceptability metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it does not provide any meaningful answer to the question. It merely repeats the question without adding any new information or insight. This is a clear violation of the implicit norms and rules of a native speaker's linguistic intuition, as it does not contribute to the conversation in a meaningful way. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing reasons for the observed phenomenon in Karnataka. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively answers the question in a contextually relevant manner."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors that impede understanding. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing reasons for the lack of film actors in politics in Karnataka, and does so in a manner that is fluent and idiomatic."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not make sense in the context of the question. The sentences are not coherent and do not provide a clear answer to the question. The usage of words is incorrect and inappropriate for the given context."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, demonstrating a high level of linguistic acceptability."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive. The same explanation is repeated multiple times without adding any new information or context. This makes the response seem stilted and unnatural, even though it is grammatically correct and uses appropriate vocabulary. Therefore, it scores a 1 on the linguistic acceptability scale."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Kannada language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing a plausible reason for the observed phenomenon in Karnataka's film industry and politics. Therefore, it scores 2 on the linguistic acceptability scale."
+        }
+    },
+    {
+        "prompt_id": "311ee5b1-19ef-4bf9-9c7f-9f5757acf265",
+        "prompt": "ಕರ್ನಾಟಕ ಸಂಗೀತ ಅದರ ಹೆಸರು ಪಡೆಯುವುದು ಕರ್ನಾಟಕ ರಾಜ್ಯದಿಂದ. ಅದರ ಹುಟ್ಟು ಸ್ಥಳ ಎಲ್ಲಿ?",
+        "prompt_type": "cultural",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Kannada language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, with the same phrases being repeated multiple times. This makes the response sound unnatural and stilted. However, there are no major grammatical errors and the response is understandable. The response does not directly answer the question about the birthplace of Carnatic music, which is a contextual error. Therefore, the score is 1."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not answer the question. The response is repetitive and does not provide the birthplace of Carnatic music, which was asked in the question. The response merely repeats the question without providing any new information or answering the question."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the norms and rules of the Kannada language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response is grammatically correct and understandable, but it is overly verbose and repetitive. The response lists multiple places without clear indication of which one is the birthplace of Carnatic music. This makes the response confusing and not straightforward, which is why it gets a score of 1 according to the linguistic acceptability metric."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Kannada language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively uses idiomatic expressions without sounding forced. Overall, the response fits within the natural, expected, and intuitive contours of fluent human Kannada language."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is grammatically correct, uses appropriate vocabulary, and is contextually relevant. The sentence structure is clear and it reflects the natural rhythm and intonation of the Kannada language. There are no errors or inappropriate word choices. The response is concise and to the point, answering the question directly without being overly verbose or stilted."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Kannada language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It has a clear syntactic structure, uses correct and existent words, and is appropriate for the given context. The response is not overly verbose or stilted, and it does not contain any grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Kannada language. The response is fluent, idiomatic, and contextually appropriate. It does not contain any grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively answers the question about the origin of Carnatic music, indicating that it originated in the 16th century in Karnataka, which is accurate and relevant to the question asked."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question about the origin of Carnatic music, stating that it is believed to have originated in the region of Karnataka, from where it gets its name."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is grammatically correct, uses appropriate vocabulary, and is contextually relevant. The sentence structure is clear and it reflects the natural rhythm and intonation of the Kannada language. There are no errors or inappropriate word choices. The response is concise and to the point, providing the necessary information in response to the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is grammatically correct and uses appropriate words in the context of the question. It is a simple and straightforward answer, reflecting the natural rhythm and intonation of spoken language. There are no errors or inappropriate word choices, and the sentence structure is clear and concise. Therefore, it aligns with the implicit norms and rules of a native speaker's linguistic intuition, making it linguistically acceptable."
+        }
+    }
+]

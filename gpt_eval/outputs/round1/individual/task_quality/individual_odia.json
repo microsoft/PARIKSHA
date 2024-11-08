@@ -1,0 +1,1242 @@
+[
+    {
+        "prompt_id": "23a265c1-0b34-49aa-8165-4b1a80fd4bc6",
+        "prompt": "ମୁଁ କିପରି ଷ୍ଟକ୍ ମାର୍କେଟରେ ଇନଭେଷ୍ଟ କରିପାରିବି?",
+        "prompt_type": "finance",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 1,
+            "justification": "The response partially addresses the question on how to invest in the stock market. It provides some information about checking with a local or stock seller and mentions about getting a detailed list of stocks. However, the response does not provide a complete guide on how to invest in the stock market, missing out on important details such as researching the market, understanding risk tolerance, diversifying investments, etc. Additionally, the response ends abruptly and is incomplete, indicating that it may have missed out on further relevant information."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not provide any information on how to invest in the stock market, which was the question asked. Instead, it repeatedly states that it does not know how to do that. This shows a clear disconnect between the user's request and the model's response, making the output entirely irrelevant to the prompt. Therefore, according to the 'task_quality' metric, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to invest in the stock market. It provides several methods, including investing online, participating in competitions, and taking courses. The response is directly related to the user's instruction and covers all aspects of the question without any deviation or omission. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to invest in the stock market. It provides a step-by-step guide, starting from opening a demat account, then a brokerage account, choosing stocks, and finally transferring the desired amount of money for investment. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about how to invest in the stock market, but the response talks about the inability to perform every task in a Shakti-like manner. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to invest in the stock market. It provides a detailed step-by-step guide, starting from finding a good broker, opening a demat account, choosing the type of investment, researching the asset, and finally managing the investment based on current value and expected returns. The response is comprehensive and directly correlates with the user's instruction, leaving no aspect of the instruction unaddressed. Therefore, it scores 2 on the task quality metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response provided by the model is in line with the question asked. The question is about how to invest in the stock market, and the response provides a detailed explanation of the steps one should take before investing, such as analyzing one's financial situation, understanding the market trends, and continuous evaluation of the market. The response does not deviate from the topic and addresses all aspects of the question, demonstrating a clear understanding of the prompt's instructions."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about how to invest in the stock market. It provides a step-by-step guide, starting from finding a broker, opening an account, choosing stocks to buy, and tracking the stocks. It adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to invest in the stock market. It provides a detailed step-by-step guide, starting from understanding one's investment goals and risk tolerance, finding a reliable stock broker or investment platform, building a portfolio, and continuously monitoring and adjusting the investment. It also emphasizes the importance of accepting risk and doing one's own research before investing. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks about how to invest in the stock market, and the response provides a detailed step-by-step guide on how to do so. It covers all aspects of the process, from seeking advice from a financial advisor, understanding the workings of the stock market, finding a broker, regularly reviewing the investment portfolio, to conducting thorough research before making any investment. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to invest in the stock market. It provides a detailed explanation of the factors to consider, such as risk tolerance, profit strategy, timing, and scientific method. It also suggests ways to improve one's scientific method, such as studying and campaigning, and provides resources for further learning. The response is comprehensive and directly related to the user's instruction, leaving no aspect of the instruction unaddressed. Therefore, it scores 2 on the task quality metric."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about how to invest in the stock market, but the response is nonsensical and does not provide any information related to the question. It seems like the model disregards the instructions entirely, hence the score of 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for a guide on how to invest in the stock market, and the model provides a detailed step-by-step guide on how to do so. It covers all aspects from opening a demat and trading account, choosing a broker, studying the market, gaining practical knowledge, planning the investment, and maintaining and selling the investment. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question on how to invest in the stock market. It provides a step-by-step guide on how to determine the type of stock to invest in, whether to buy stocks from a company or a fund that combines stocks from multiple companies, and how to open a stock broker or robo-trading account. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        }
+    },
+    {
+        "prompt_id": "e44ca11b-3fb0-48e2-86c7-a08007b7488b",
+        "prompt": "ମୁଁ କିପରି ମୋ ସିବିଲ୍ ସ୍କୋର ଦେଖି କରିପାରିବି?",
+        "prompt_type": "finance",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 0,
+            "justification": "The response does not provide any information on how to check one's civil score, which was the main directive of the question. Instead, it repeats a vague statement about needing to have a conversation. There is a clear disconnect between the user's request and the model's response, making the score 0 according to the task quality metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks how to check one's credit score, but the response simply repeats the question without providing any information or steps on how to check a credit score. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt. There is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to check one's credit score. It mentions that there are several ways to do this, including through various online portals. The response is directly related to the user's instruction and does not leave any aspect of the instruction unaddressed. Therefore, it scores 2 on the task quality metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to check one's civil score. It provides a step-by-step guide on how to do so, which aligns perfectly with the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about how to check one's civil score, but the response talks about accessing a 'Skr' account on a personal computer or laptop, which is not related to the question. Therefore, the model disregards the instructions entirely, leading to a score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to check one's credit score. It provides a detailed explanation of the process, including the need to use a service provider, the requirement to create an account, and the personal information needed. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to check one's civil score. It provides a clear and direct instruction to contact the civil service team and mentions that it will be available in the user's account. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to check one's credit score. It provides a detailed explanation, mentioning various methods such as contacting credit reporting agencies like Experian, Equifax, or TransUnion, and checking with certain credit card companies. It also emphasizes the importance of regularly checking the score as it can change over time. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately and completely addresses the question about how to check one's credit score. It provides a detailed step-by-step guide, which aligns perfectly with the user's request. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to check one's credit score. It provides multiple methods, including contacting a credit bureau, using a credit score service, or contacting one's bank or credit card company. It also mentions the need to provide personal information such as name, date of birth, and social security number. The response is comprehensive and directly related to the user's instruction, leaving no aspect of the instruction unaddressed. Therefore, it scores 2 on the task quality metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to check one's civil score. It provides a detailed procedure, mentioning the need to get permission from the Ministry of Human Rights and Social Service, and the necessary personal information required. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence the score of 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about how to check one's credit score, but the response is nonsensical and does not provide any information on the topic. It seems like there was an error in translation or understanding, leading to a response that does not adhere to the prompt's instructions at all."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question on how to check one's CIBIL score. It provides a step-by-step guide, covering all necessary aspects such as registration, filling in necessary information, verification, possible charges, and finally accessing the CIBIL score. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how to check one's civil score. It provides a detailed explanation of the process, including visiting the state's driver's license department and searching for records associated with one's name and driving license number, or visiting the state's Department of Motor Vehicles website. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed."
+        }
+    },
+    {
+        "prompt_id": "941b3300-4d8a-4258-91e0-e57608c57561",
+        "prompt": "ମୁଁ ଦଶ ବର୍ଷ ପାଇଁ ଏଫଡି ରେ ସଂଚୟ କରିପାରିବି କି?",
+        "prompt_type": "finance",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 1,
+            "justification": "The response from the model partially aligns with the prompt. The question asks if one can save in a Fixed Deposit (FD) for ten years, to which the model responds affirmatively and mentions that FD is a well-known way to save. However, the response does not specifically address the ten-year duration mentioned in the question. It also includes extraneous details about a 'struggle' which are not relevant to the question. Therefore, the model grasps and addresses the main theme of saving in an FD but misses out on the specific detail of the ten-year duration."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks if the user can save in a Fixed Deposit (FD) for ten years, but the response incorrectly translates the question and provides a completely unrelated answer stating that the user doesn't have any money to spend. There is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The question is about whether one can save in a Fixed Deposit (FD) for ten years, and the response confirms that it is indeed possible. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response gets a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks whether the user can save in a Fixed Deposit (FD) for ten years, to which the model responds affirmatively, stating that the minimum duration for saving in an FD is five years, but one can save for ten years as well. The model also provides additional useful information about the benefits of saving in an FD, such as guaranteed interest, tax benefits, and security. Therefore, the model's response is not only accurate but also informative, adhering to the prompt's instructions and respecting its nuances and subtleties."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks whether the user can save in a Fixed Deposit for ten years, but the response talks about having fifteen items in hand and going to an EFDI machine, which is not related to the question at all. Therefore, the model disregards the instructions entirely, leading to a score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about whether one can save in an FD for ten years. It not only confirms that it is possible, but also provides additional useful information about checking with a local bank or savings institution for regulations and intermediaries. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "gpt-35-turbo": {
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question is about whether one can save in a Fixed Deposit (FD) for ten years, to which the model responds affirmatively and provides additional information about the benefits of saving in an FD, such as medium currency account and security. The model also advises to consider the reputation and interest rates of the FD institution before investing. Therefore, the model's response is directly correlated with the user's instruction, with no aspect of the instruction left unaddressed.",
+            "score": 2
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The question is about whether one can save in a Fixed Deposit (FD) for ten years, and the response correctly explains that it is not possible due to the fixed interest rate over the term of the FD. The response also explains the consequences of opening an FD for ten years, which includes changes in interest rates and the need to pay the full interest. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about saving in an FD for ten years. It explains that FD is a government program that encourages saving for children and that it typically lasts for 10 years. The response is directly related to the user's instruction and covers all aspects of the question without any deviation. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about saving in an FD for ten years. It provides a detailed explanation of what an FD is, how it works, the benefits of saving in an FD, and the penalties for early withdrawal. It also advises the user to carefully read the terms and conditions before opening an FD. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding of the question and providing a comprehensive answer."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is completely empty, providing no information or answer to the question asked. This indicates a total disregard for the instructions, making the response entirely irrelevant to the prompt. Therefore, according to the 'task_quality' metric, the score is 0."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks if one can save in a Fixed Deposit for ten years, but the response is nonsensical and does not provide any useful information related to the question. It seems like the model has disregarded the instructions entirely, hence the score of 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about whether one can save in a fixed deposit (FD) for ten years. The assistant confirms that it is possible and also suggests contacting the bank for more information. This shows a clear understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about saving in an FD for ten years. It provides a detailed plan on how to go about it, including setting a specific goal, determining how much to save daily, and automating the savings in a financial account or product. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        }
+    },
+    {
+        "prompt_id": "f553030e-6caf-4e4c-aa7c-f2744b4a758e",
+        "prompt": "ମୁଁ କିପରି ଟଙ୍କା ସଞ୍ଚୟ କରିପାରିବି ସେ ବିଷୟରେ ଆପଣ ପରାମର୍ଶ ଦେଇ ପାରିବେ କି?",
+        "prompt_type": "finance",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for advice on how to save money, and the model provides a clear and direct method for doing so, suggesting to open a bank account and regularly deposit a certain amount of money into it. This response addresses the question fully and provides a practical solution, demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for advice on how to save money, but the response provides advice on how to alleviate stomach pain after overeating. There is a clear disconnect between the user's request and the model's response, which is why the score is 0 according to the 'task_quality' metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response provided by the model is in direct alignment with the question asked. The question asks for advice on how to save money, and the model provides a clear and concise response, suggesting a method to save money. It suggests setting up a stable savings system and designating a place for savings. The response is relevant, directly addresses the question, and does not include any extraneous details. Therefore, the score of 2 is justified as the model demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for advice on how to save money, and the model provides a detailed response on how to do so, including making a budget, reducing expenses, and focusing on necessary expenses. The response is relevant, detailed, and directly addresses the question, demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for advice on how to save money, but the response is nonsensical and repetitive, with no clear advice or information provided. It does not adhere to the instructions given in the prompt, hence the score of 0."
+        },
+        "gpt-4": {
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks for advice on how to save money, and the model provides a detailed and comprehensive list of steps to follow in order to save money. The response is directly related to the question, and it addresses all aspects of the question without any deviation or extraneous details.",
+            "score": 2
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question seeks advice on how to save money, and the response provides a detailed explanation on the importance of discipline and regularity in saving money, even if the amount is small. It addresses all aspects of the question without any deviation or omission of details. Therefore, the score is 2 as per the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response provided by the model does address the main theme of the question, which is about providing advice on how to save money. However, the response is repetitive and lacks variety in the advice given. The model repeats the advice to 'keep an eye on your expenses' multiple times, which does not provide a comprehensive answer to the question. Therefore, the response partially aligns with the prompt but does not completely satisfy all aspects of the given directive."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for advice on how to save money, and the model provides a detailed and comprehensive response, outlining various steps and strategies for saving money. It covers aspects like budgeting, setting short-term and long-term goals, reducing unnecessary expenses, and making smart investments. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for advice on how to save money, and the model provides a detailed and comprehensive response on how to do so. It covers various aspects such as understanding income and expenses, reducing unnecessary expenses, preparing food at home instead of eating out, setting up an emergency fund, and regularly contributing to a savings account. Therefore, the model's response satisfies all aspects of the given directive without any deviation.",
+            "score": 2
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for advice on how to save money, and the model provides a detailed and comprehensive response on how to do so, including opening a business account, using it for various business purposes, finalizing the money in the business account for the business, and making policy decisions for the money. The model's response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus satisfying the 'task_quality' metric at its highest level."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for advice on how to save money, but the response is a nonsensical string of words and symbols that doesn't provide any advice or information related to the question. Therefore, the score is 0 as per the 'task_quality' metric, which states that a score of 0 is given when 'The model disregards the instructions entirely' or 'The output is entirely irrelevant to the prompt'."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for advice on how to save money, and the model provides a detailed list of tips on how to do so. It covers various aspects such as budgeting, cutting unnecessary expenses, saving a fixed amount regularly, looking for offers and discounts, and self-control. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, a score of 2 is justified."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response partially aligns with the question. The model starts to provide advice on how to save money, which is what the question asks for. However, the response is repetitive and incomplete, with the same advice about keeping an eye on expenses repeated multiple times, and the second point cut off mid-sentence. Therefore, the response does not fully address the question or provide a complete answer."
+        }
+    },
+    {
+        "prompt_id": "c740587b-1953-47f1-8254-d149d34d03b0",
+        "prompt": "ଯଦି ମୁଁ ମୋର atm କାର୍ଡ ହରାଇବି, ତେବେ ମୁଁ କ’ଣ କରିବି?",
+        "prompt_type": "finance",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about what to do if an ATM card is lost, but the response talks about using an ATM card for modern purchases and how long one has for such purchases. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about what to do if an ATM card is lost, but the response does not provide any useful information or steps to take in such a situation. Instead, it repeats a nonsensical phrase about 'world wisdom'. Therefore, the model disregards the instructions entirely, making the score 0 according to the 'task_quality' metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what to do if an ATM card is lost. It provides a step-by-step process, which includes making a note in the ambulance, going to the bank to cancel the card, and then obtaining a new ATM card. This response adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation. Therefore, it scores 2 on the task quality metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what to do if an ATM card is lost. It provides a detailed step-by-step guide, which includes contacting the bank, blocking the card online, reporting the loss at the bank, and applying for a new card. This shows a clear understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Therefore, the response gets a score of 2 according to the 'task_quality' metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about what to do if an ATM card is lost, but the response is nonsensical and does not provide any useful information or guidance. It also contains repeated phrases and symbols that do not make sense in the context of the question. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what to do if an ATM card is lost. It provides a detailed procedure, including contacting the bank, using the bank's help line or website to report the loss, and ordering a new card. This shows a clear understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Therefore, the score is 2."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what to do if an ATM card is lost. It suggests notifying the bank and blocking the card, which is the correct procedure in such a situation. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what to do if an ATM card is lost. It provides a detailed procedure, including contacting the bank, verifying identity, checking for unauthorized transactions, and reporting any suspicious activity. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus fulfilling the criteria for a score of 2 under the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "justification": "The response provided by the model is repetitive and does not provide a comprehensive answer to the question. The model repeats the same instruction six times, which does not add any value to the response. The response does not provide a step-by-step guide on what to do if an ATM card is lost, which was the main directive of the question. Therefore, the score is 0 as there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately and completely addresses the question. The question asks what to do if an ATM card is lost, and the response provides a detailed procedure on how to report the loss to the bank, block the card, and get a new one. It also emphasizes the importance of reporting the loss immediately to prevent unauthorized transactions. Therefore, the response fully adheres to the instructions given in the question, demonstrating a precise understanding of the prompt's instructions."
+        },
+        "SamwaadLLM": {
+            "justification": "The response provided by the model partially aligns with the prompt. The model addresses the main theme of the instruction, which is what to do if the ATM card is lost. However, the third point in the response is repetitive and does not provide any meaningful information, indicating that the model has missed out on finer details.",
+            "score": 1
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks what to do if an ATM card is lost, but the response is nonsensical and does not provide any useful information or guidance. It seems like there was an error in translation or text generation, as the response contains a mix of Odia and non-Odia characters that do not form coherent sentences. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question about what to do if an ATM card is lost. It provides a detailed step-by-step guide on how to block the card immediately, block it online, visit the bank, and use the bank's mobile app. It also emphasizes the importance of taking immediate action to prevent unauthorized use of the account. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what to do if an ATM card is lost. It provides a detailed procedure to follow, including ensuring extra security for the card, keeping a copy of the card or account number, contacting the bank to deactivate the card and issuing a new one. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        }
+    },
+    {
+        "prompt_id": "9d6b5704-99da-49af-b341-2458c8365903",
+        "prompt": "ମୋତେ କାଳି ରାତି ରୁ ଅଣ୍ଟା ଦରଦ ହେଉଛି, ମୁଁ କଣ କରିବି?",
+        "prompt_type": "health",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question is asking for advice on what to do about a toothache that started the previous night, but the response is providing information about ants. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about what to do for a toothache that started last night, but the response is nonsensical and does not provide any solution or advice for the problem. It seems like the model has disregarded the instructions entirely.",
+            "score": 0
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a solution to the problem of the person's leg pain. It suggests drinking some water, which might help alleviate the pain. The response is directly related to the user's instruction and addresses it completely, without any deviation or omission. Therefore, according to the 'task_quality' metric, it deserves a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for advice on what to do about a leg pain that started the previous night. The response first advises the individual to see a doctor, which is a sensible and responsible suggestion. It then provides several home remedies that could potentially alleviate the pain, such as drinking water, eating small meals, moving around, and taking over-the-counter medication like paracetamol. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question, earning it a score of 2 according to the 'task_quality' metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question is asking for advice on what to do about a toothache that started the previous night, but the response is nonsensical and does not provide any useful information or advice. It does not adhere to the specific directives given in the prompt, showing a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing practical advice on how to alleviate leg pain, such as elevating the leg, using acupressure, applying a cold pack, and following the counter-massage method. It also advises seeking medical attention if the pain is severe or unusual. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks what to do about a toothache that started the previous night. The response advises seeking timely medical attention, which is a suitable course of action for a toothache. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response provided by the model partially aligns with the prompt. The user asked for advice on what to do about a pain in their leg that started the previous night. The model's response starts by acknowledging the problem and then provides a solution. However, the solution provided is not related to the problem at hand. The model suggests cleaning the affected area with a clean cloth or paper towel, which is not a suitable solution for leg pain. Furthermore, the response is repetitive, repeating the same advice multiple times. Therefore, the model's response only partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response does not address the question at all. The question is asking for advice on what to do about an ant problem at night, but the response is giving advice on how to keep the house clean to prevent ants from coming. There is a clear disconnect between the question and the response, and the response does not provide any relevant or useful information in relation to the question. Therefore, the score is 0 according to the 'task_quality' metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is repetitive and does not provide a clear solution to the problem stated in the question. The same phrase 'ଏକ କାଳି ରାତି ସଫେଇ କରିବା' is repeated multiple times without any context or explanation. This does not adhere to the specific directives given in the prompt, hence the score is 0."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is completely empty, providing no information or advice in response to the question about what to do about a toothache at night. This completely disregards the instructions and is entirely irrelevant to the prompt, hence the score of 0."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question is asking for advice on what to do about a toothache that started the previous night, but the response is nonsensical and does not provide any useful information or advice. It seems like the response is not even in the correct language, as it contains a mix of Odia and what appears to be random English words and symbols. Therefore, the score is 0 as per the 'task_quality' metric, because the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a detailed list of actions to take in case of leg pain at night. It includes suggestions on diet, hydration, and seeking medical advice if the pain persists. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus fulfilling the criteria for a score of 2 under the 'task_quality' metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing advice on what to do when experiencing leg pain at night. The response includes specific suggestions such as drinking adequate water and avoiding caffeine and alcohol, which are directly related to the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        }
+    },
+    {
+        "prompt_id": "bf7f9d34-95ed-4193-863e-df37c286f337",
+        "prompt": "ମୋ ପିଲାରେ କାଶ ବନ୍ଦ କରିବାର ପ୍ରାକୃତିକ ଉପାୟ କ’ଣ?",
+        "prompt_type": "health",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 0,
+            "justification": "The response does not address the question at all. The question asks for natural ways to stop a child's cough, but the response talks about an international director conducting five observations, which is completely irrelevant to the question. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for natural ways to stop a child's cough, but the response is just a repetition of the phrase 'do it once' in Odia, which doesn't provide any useful information or answer the question. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing natural ways to stop a child's nosebleed. It adheres to the prompt's instructions and provides a comprehensive answer, covering all aspects of the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing natural ways to stop a child's cough. It lists several methods, such as using homemade lemon tea, applying mustard oil on the child's chest, bathing the child in warm water, and giving the child turmeric tea. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus demonstrating a precise understanding and adherence to the prompt's instructions."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for natural ways to stop a child's cough, but the response is filled with nonsensical and unreadable characters. It does not provide any information or advice on the topic. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and completely addresses the question, providing several natural ways to stop coughing in a child. It also includes a cautionary note about seeking medical attention if the coughing is severe, which is a responsible addition. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing natural ways to stop a child's cough. It suggests using water, proper medication, and diet control. It also advises to consult a doctor if the cough persists. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing natural ways to stop a child's cough. It suggests ensuring the child gets enough sleep, breathes clean air, drinks clean water, and helps them expel waste from their body. It also suggests encouraging the child to cough, giving them a warm bath, and providing a comfortable environment. The response also emphasizes not to worry the child about their cough and to ensure they stay healthy. Therefore, the response adheres to the prompt's instructions and respects its nuances and subtleties, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for natural ways to stop a child's cough, but the response only explains what a cough is and why it happens. It does not provide any methods or suggestions to stop a child's cough, which is what the question is asking for. Therefore, the response does not adhere to the specific directives given in the prompt, resulting in a score of 0 for task quality."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing natural ways to stop a child's cough. It suggests methods such as keeping the child hydrated, maintaining cleanliness, using a clean cloth to clean the child's nose, using a steam basket with a sanitizer or hydroxide chloroform if the cough persists, and ensuring the child gets adequate rest. These suggestions are all relevant to the question and provide a comprehensive answer. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding and execution of the task."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for natural ways to reduce cash usage in children, and the model provides a detailed list of methods to achieve this. It covers various aspects such as reducing cash usage in the family, using water instead of cash, reducing usage in the bathroom, commercial utilities, and production. The response is comprehensive and directly addresses the question, leaving no aspect of the instruction unaddressed. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for natural ways to stop a child's cough, but the response is nonsensical and does not provide any useful information or answer to the question. It seems like the response is filled with random words and phrases, which makes it completely disconnected from the user's request. Therefore, the score is 0 as per the 'task_quality' metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing natural ways to help a child stop coughing. It lists several methods, including honey, lemon and honey, tulsi leaves, and ginger and clove tea, which are all natural remedies. The response also advises consulting a doctor if the problem persists, which is a responsible suggestion. Therefore, the response fully adheres to the prompt's instructions, demonstrating a clear understanding and execution of the task."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a natural way to control coughing in children. It suggests maintaining humidity and encouraging regular water intake, which are relevant and practical suggestions. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the task quality metric."
+        }
+    },
+    {
+        "prompt_id": "0fe72837-3a12-41ba-89b1-0774b7a96806",
+        "prompt": "ଓଜନ କମାଇବା ପାଇଁ କେଉଁ ଯୋଗ ସବୁଠୁ ଭଲ ?",
+        "prompt_type": "health",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for the best exercise to lose weight, but the response is just a repetition of the same word, which doesn't provide any meaningful or useful information. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for the best yoga for weight loss, but the response is nonsensical and does not provide any information related to the question. It seems like the model disregards the instructions entirely, which aligns with the scoring rubric for a score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the best exercises for weight loss. It provides a comprehensive list of exercises and additional tips for weight loss, such as eating healthy food, avoiding excessive alcohol, not overloading the body, doing regular physical exercises, and consulting a health advisor. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the task quality metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for the best yoga for weight loss. The response lists several yoga poses that are beneficial for weight loss, such as Sarvangasana, Padahastasana, Bhujangasana, Shalabhasana, and Uttanapadasana. It also adds the important note that a healthy diet is necessary in conjunction with yoga for weight loss. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not relevant to the question asked. The question asks for the best yoga for weight loss, but the response does not provide any specific yoga. Moreover, the response is repetitive and does not make sense. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately answers the question about which yoga is best for weight loss. The response mentions 'Surya Namaskar' as the best yoga for weight loss, which is a relevant and appropriate answer. It also provides additional information about how it works on the whole body and burns calories, which aligns with the context of the question. Therefore, the model's response is in complete alignment with the user's instruction, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the best exercise for weight loss. It suggests following a routine and focusing on eating vegetables or fruits, which are relevant and appropriate suggestions for weight loss. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about which yoga is best for weight loss. It provides a detailed explanation of how yoga helps in weight loss, increases muscle strength, improves metabolism, helps burn more calories, strengthens muscles and joints, helps stay active for longer, reduces stress, helps maintain healthy eating habits, and reduces body fat. It also emphasizes that yoga is not the only way and needs to be combined with a healthy lifestyle. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding and adherence to the prompt's instructions."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for the best yoga for weight loss. The response provides a detailed explanation of yoga, its benefits, and specifically mentions the most effective yoga poses for weight loss, such as the side twist or reverse twist. It also provides additional information on how these poses help in weight loss by strengthening and stretching various muscles, which helps burn more calories. The response also advises to always listen to one's body and adjust the poses as needed when practicing yoga. Therefore, the response fully satisfies the prompt without any deviation."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for the best yoga for weight loss. The response provides a detailed explanation of how yoga can help in weight loss, and also suggests specific types of yoga such as power yoga, asana yoga, and restorative yoga. It also emphasizes the importance of listening to one's body and taking rest when needed, along with regular practice and healthy eating. Therefore, the response fully satisfies the prompt's instructions without any deviation."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is completely empty and does not provide any information or answer to the question asked. The question is about the best exercise for weight loss, but there is no response to evaluate. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the best exercise for weight loss, but the response is nonsensical and does not provide any information related to the question. It seems like the response is a mix of random words and phrases, which makes it impossible to understand or find any relevance to the question. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about which yoga is best for weight loss. It provides a list of specific yoga poses that can help in weight loss, which directly aligns with the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "justification": "The question asks for the best type of yoga for weight loss. The response provides a comprehensive answer, stating that the best type of yoga depends on the individual's environment and preferences. It mentions that some people prefer a power yoga class that combines cardio and strength training, while others prefer a meditation yoga class that focuses on inner strength. The response concludes by stating that the best type of yoga is the one that the individual enjoys the most. Therefore, the response fully adheres to the prompt's instructions and addresses all aspects of the question, earning a score of 2.",
+            "score": 2
+        }
+    },
+    {
+        "prompt_id": "340c480f-5959-4fba-a306-145e4d127c86",
+        "prompt": "ମୋ ଭଉଣୀ ପାଇଁ କେଶ ଝଡ଼ିବା ଚିକିତ୍ସା କରିବାର ପ୍ରାକୃତିକ ଉପାୟ କ’ଣ?",
+        "prompt_type": "health",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for natural remedies for hair fall for the user's sister, but the response talks about hair waving, which is not related to the question. Moreover, the response is repetitive and does not provide any useful information. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is asking for natural ways to treat hair fall for the user's sister, but the response is just a repetition of the phrase 'ଏକ ବାକିତ କରିବା' (one more thing to say) without providing any actual information or treatment methods. Therefore, the model disregards the instructions entirely, making the score 0 according to the 'task_quality' metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing natural remedies for hair fall treatment for the user's sister. It includes specific instructions such as washing hair with a mild shampoo, keeping the scalp clean, and using olive oil. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the 'task_quality' metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing natural remedies for hair fall treatment for the user's sister. It includes washing hair with amla and lemon water, massaging hair with coconut oil and lemon water, applying aloe vera on hair, and regularly washing hair without applying too much pressure. These are all natural ways to treat hair fall, which is exactly what the question asked for. Therefore, the response fully adheres to the prompt's instructions, demonstrating a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for natural ways to treat hair fall for the user's sister, but the response is nonsensical and doesn't provide any useful information. It also contains a lot of gibberish and repeated phrases, which makes it even more irrelevant. Therefore, the score is 0 as per the 'task_quality' metric, which states that a score of 0 is given when 'The model disregards the instructions entirely' or 'The output is entirely irrelevant to the prompt' or 'There is a clear disconnect between the user's request and the model's response.'"
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing natural remedies for hair fall treatment for the user's sister. It includes detailed steps and methods, such as regular hair brushing, application of a mixture of certain natural ingredients, hair nourishment, and maintaining a healthy lifestyle. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, the response fully satisfies the 'task_quality' metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for natural remedies for hair fall for the user's sister. The response provides a solution, mentioning the use of certain natural ingredients that can help with hair fall. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the task quality metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing natural remedies for hair fall for the user's sister. It includes detailed explanations of how to use each remedy, which aligns perfectly with the question's request for natural ways to treat hair fall. The response does not deviate from the question's instruction and does not include any extraneous details. Therefore, the response fully satisfies the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "justification": "The response provided by the model partially aligns with the prompt. The model does provide natural ways to treat hair fall for the user's sister, which is the main theme of the instruction. However, the response is repetitive and includes extraneous details not asked for, such as the repeated mention of mixing a spoonful of honey and water. This repetition does not add any value to the response and is not requested in the prompt.",
+            "score": 1
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response provided by the model is partially aligned with the prompt. It correctly identifies the natural remedies for hair fall, which is the main theme of the instruction. However, the response is repetitive and includes the same information multiple times, which is an extraneous detail not asked for. Therefore, the model misses out on the finer details or nuances of providing a concise and to-the-point answer."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for natural ways to treat hair fall for the user's sister, and the model provides a detailed list of natural methods to control hair fall. It covers various aspects such as temperature control, hydration, nutrition, routine, and sleep, which are all relevant to the question. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question asked. The question is about natural remedies for hair fall for the user's sister, but the response is gibberish and doesn't provide any useful information or answer to the question. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing natural remedies for hair fall for the user's sister. It lists out five different remedies, explaining how to use each one, which aligns perfectly with the user's request. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the 'task_quality' metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response provided by the model is not in line with the question asked. The question is asking for natural ways to treat hair fall for the user's sister. The model's response starts off correctly by suggesting a natural remedy of oil and herb mixture. However, it then repeats the same phrase multiple times, making the response irrelevant and nonsensical. Therefore, the model's response does not adhere to the specific directives given in the prompt, leading to a score of 0."
+        }
+    },
+    {
+        "prompt_id": "00d8e76e-39f6-4540-aa45-8da80db4ad11",
+        "prompt": "ମୋ ପିତାମାତା କେତେଥର ରକ୍ତଚାପ ପରୀକ୍ଷା କରିବା ଉଚିତ୍ ?",
+        "prompt_type": "health",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 1,
+            "justification": "The response partially addresses the question. The question asks about the frequency of blood pressure tests for the user's parents, but the response does not provide a specific answer. Instead, it discusses the importance of blood pressure tests for health monitoring. While it is relevant to the topic, it does not fully answer the question."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about how often the user's parents should get their blood pressure checked, but the response is nonsensical and doesn't provide any useful information. It seems like there was an error in the model's output, as it repeats the same phrase multiple times and ends with a string of unrecognizable characters. Therefore, the score is 0 as per the 'task_quality' metric, because the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about when one's parents should have their blood pressure checked. It provides specific conditions under which blood pressure tests should be conducted, such as if they are over 20 years old, showing symptoms of high blood pressure, or potentially suffering from a disease. The response is directly related to the question and fully adheres to the prompt's instructions, demonstrating a clear understanding of the task. Therefore, it scores 2 on the task quality metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how often one's parents should have their blood pressure checked. It provides a detailed breakdown based on age, which is a relevant factor in this context. It also advises to consult with a doctor based on the individual's health condition and medical history, which is a crucial point to consider. Therefore, the response fully adheres to the prompt's instructions and addresses all aspects of the question, earning a score of 2 for task quality."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about how often the user's parents should get their blood pressure checked, but the response is nonsensical and does not provide any useful information related to the question. It seems like the model has disregarded the instructions entirely, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how often the user's parents should have their blood pressure checked. It provides a general guideline for elderly people to have their blood pressure checked once a year, and also mentions that more frequent checks may be necessary if they have high blood pressure or other health conditions like heart disease or diabetes. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how often the user's parents should have their blood pressure checked. The response suggests that it is best to consult a doctor for a proper examination and advice, which is a valid and comprehensive answer. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how often one's parents should have their blood pressure checked. It provides a detailed explanation, stating that the frequency depends on their health condition and risks, and generally, elderly individuals should have their blood pressure checked annually or every two years. It also advises that if their blood pressure level is high or they have other health issues, their doctor may recommend more frequent checks. The response also suggests consulting with their doctor for more information about their health condition. Therefore, the response adheres to the prompt's instructions and addresses all aspects of the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how often the user's parents should have their blood pressure checked. It provides a detailed explanation, emphasizing the importance of regular check-ups, especially if their blood pressure levels are not within the normal range. It also suggests that the frequency of check-ups should be based on a doctor's advice. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately answers the question about how often one's parents should have their blood pressure checked. It suggests that blood pressure should be checked every 3-6 months, which is a common recommendation by healthcare providers. The response also emphasizes the importance of regular check-ups if the parents' blood pressure is not regularly monitored. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer, earning a score of 2 according to the 'task_quality' metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how often the user's parents should have their blood pressure checked. It provides a detailed explanation, outlining the reasons why regular blood pressure checks are important for the user's parents. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about how often the user's parents should get their blood pressure checked, but the response is nonsensical and doesn't provide any useful information. It seems like there are some non-Odia characters and words mixed in, making the response incomprehensible. Therefore, the score is 0 as per the 'task_quality' metric, because the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how often the user's parents should have their blood pressure checked. It provides a detailed explanation, taking into account factors such as age, health condition, and doctor's advice. It also differentiates between healthy individuals and those suffering from blood pressure problems, suggesting different frequencies for each case. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how often the user's parents should have their blood pressure checked. The response explains that there is no specific number as it depends on their health condition and any history of illness or treatment. It also advises consulting with their doctor for a specific recommendation. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        }
+    },
+    {
+        "prompt_id": "f19cb582-0788-4dd3-8a5d-764f0c8cf84b",
+        "prompt": "ଓଡିଶା ପନି ପରିବା ଯୁକ୍ତ ଖାଦ୍ୟ ଯାହା କି ସରଳ କିନ୍ତୁ ସ୍ୱାସ୍ଥ୍ୟକର ଓ ସ୍ୱାଦିଷ୍ଠ ପାଇଁ ପ୍ରସିଦ୍ଧ | ଡାଲ୍ମା, ସନ୍ତୁଳା, ବେସର, ରାଇ ଆଦି ବ୍ୟଞ୍ଜନ ବିଷୟରେ କୁହନ୍ତୁ |",
+        "prompt_type": "culture",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. The model addresses the main theme of the instruction, which is to talk about Odisha's water-based food that is simple yet healthy and tasty. It mentions dishes like 'Dalma', 'Santula', 'Besara', 'Rai' etc. However, it does not provide any specific details about these dishes as requested in the prompt. The response also includes some extraneous details not asked for, such as the mention of 'ancient curriculum'. Therefore, the score is 1."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model is a repetition of the question itself, without providing any new information or answering the question. The question asks for information about Odia food dishes that are simple, healthy, and tasty, and specifically asks for information about dishes like 'Dalma', 'Santula', 'Besara', 'Rai' etc. However, the model's response does not provide any information about these dishes or any other Odia dishes. Therefore, the model's response does not adhere to the specific directives given in the prompt, resulting in a score of 0 for task quality."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by listing the food items that are simple, healthy, and tasty, and are popular in Odisha's water-based cuisine, such as 'Dalmā', 'Santula', 'Besara', etc. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing information about the Odia dishes made with water, as asked in the question. It mentions Dalmā, Santula, Besara, Rai, etc., which are all traditional Odia dishes made with water. The response also provides additional information about how these dishes are prepared, which adds value to the response. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not relevant to the question. The question asks about Odisha's water-based food that is simple yet healthy and tasty, and asks to talk about dishes like 'Dalma', 'Santula', 'Besara', 'Rai' etc. However, the response does not mention any of these dishes or any other water-based food from Odisha. Instead, it seems to be a random collection of words and phrases that do not make sense in the context of the question. Therefore, the score is 0 as per the 'task_quality' metric, indicating that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing detailed information about the Odia dishes mentioned in the question. It explains how each dish is prepared and why it is popular, which aligns perfectly with the question's request for information about simple yet healthy and tasty Odia dishes. The response does not deviate from the question's instructions and does not include any extraneous details. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately lists the Odisha's water-based foods as asked in the question. It also mentions that these foods are simple, healthy, and tasty, which aligns with the question's request. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding and execution of the task."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about popular Odisha food items that are simple yet healthy and tasty, and specifically asks to talk about dishes like 'Dalma', 'Santula', 'Besara', 'Rai' etc. However, the response is just a repetition of the word 'map' in a different language, which does not address the question at all. Therefore, according to the 'task_quality' metric, the score is 0 as the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing detailed information about Odisha's water-based food items that are simple yet healthy and tasty. The response includes specific examples such as 'Dalmā', 'Santula', and 'Besara', which were asked for in the question. The response also provides additional information about the nutritional value of these dishes, which aligns with the question's focus on healthiness. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "justification": "The response does not adhere to the instructions given in the prompt. The question asks for information about Odisha's water-based food that is simple yet healthy and tasty, and to talk about dishes like Dalma, Santula, Besara, Rai etc. However, the response, while starting off correctly by mentioning that Odisha's water-based food is tasty and healthy, goes off track and repeats the same phrase multiple times, making it irrelevant and nonsensical. Therefore, the score is 0 as there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a detailed explanation about the Odisha's water-based food, its health benefits, and how it is prepared. It also mentions the dishes like 'Dalma', 'Santula', 'Besara', 'Rai' etc. as asked in the question. The response is in line with the prompt's instructions, demonstrating a clear understanding and adherence to the question. Therefore, it scores 2 on the task quality metric."
+        },
+        "SamwaadLLM": {
+            "score": 1,
+            "justification": "The response does mention the dishes asked for in the question, but it does not provide any details about them. Instead, it repeats the same phrase about 'business in red lentils' for each dish, which does not make sense in the context of the question. The response also includes repeated phrases that do not add any value to the information. Therefore, while the response does address the main theme of the instruction, it misses out on finer details and nuances, and includes extraneous details not asked for."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing detailed information about the Odia dishes mentioned in the question. It explains how each dish is simple yet healthy and tasty, which aligns perfectly with the question's request. The response also provides additional details about the ingredients and preparation methods of each dish, enhancing the overall quality of the response. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing information about the Odisha water-based food that is simple, healthy, and tasty. It mentions the main ingredients as asked in the question and also adds additional information about the health benefits of consuming this food, which aligns with the 'healthy' aspect of the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        }
+    },
+    {
+        "prompt_id": "74c33fa5-fb68-4262-8af8-6a9e2e17aa03",
+        "prompt": "କୋଣାର୍କ ମନ୍ଦିର ର ବିଶେଷଜ୍ଞତା କଣ ଯାହା କି ତାକୁ ଅନ୍ୟ ମନ୍ଦିର ମାନଙ୍କ ଠୁ ଅଲଗା କରେ? ତାହାର ନିର୍ମାଣ ଓ ବିନାଶ ର କାହାଣୀ କୁହନ୍ତୁ.",
+        "prompt_type": "culture",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 0,
+            "justification": "The response does not provide any specific information about the unique features of the Konark temple or its construction and destruction story, as asked in the question. Instead, it repeats the question in a slightly rephrased manner. Additionally, the response ends with a string of unrecognizable characters, which further detracts from its relevance and coherence. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about the unique features of the Konark Temple and its construction and destruction story, but the model's response is about land ownership and government regulations. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing the unique features of Konark Temple that distinguish it from other temples, and also provides information about its construction and destruction. The response is in line with the prompt's instructions, demonstrating a clear understanding and adherence to the question. There is a direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing the unique feature of Konark Temple that distinguishes it from other temples, which is its circular construction. It also provides information about the temple's construction and destruction, stating that it was built in 1250 AD by Narasimhadeva I and was destroyed during the Mughal rule. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not coherent and does not provide any specific information about the Konark temple, its unique features, or its construction and destruction story, as asked in the question. The response seems to be a repetition of certain phrases and does not make sense. Additionally, there are unreadable characters at the end of the response. Therefore, the response does not adhere to the instructions given in the prompt at all."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing detailed information about the unique features of the Konark Temple that distinguish it from other temples. It also provides a comprehensive account of the temple's construction and destruction. The response is in complete alignment with the question, demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, it scores 2 on the task quality metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing information about the unique features of the Konark Temple that distinguish it from other temples. It also provides a brief history of the temple's construction and destruction. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the unique features of the Konark temple and its construction and destruction story. However, the response is a nonsensical repetition of unrelated words and phrases, including some in a different language. There is a clear disconnect between the user's request and the model's response, and the model disregards the instructions entirely."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing detailed information about the unique features of the Konark Temple that distinguish it from other temples. It also provides a comprehensive account of the temple's construction and destruction. The response is in complete alignment with the question, demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It provides information about the unique architectural style of the Konark temple, which makes it distinct from other temples. However, it does not provide any information about the construction and destruction story of the temple, which was specifically asked in the question. Additionally, the response contains repetitive phrases about the temple's architecture, which are not necessary and do not add any value to the response."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is repetitive and does not provide any specific information about the Konark Temple, its unique features, or its construction and destruction story, as asked in the question. The response is not aligned with the prompt and does not adhere to the instructions given in the question. Therefore, the score is 0 as per the 'task_quality' metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing the unique features of the Konark temple, which is its architectural art. It also provides the history of its construction and destruction, mentioning that it was built in 1250 AD and completed in 1258 AD by King Narasimhadeva. Therefore, the response adheres to the prompt's instructions completely and provides a clear and direct answer to the user's question."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing detailed information about the unique features of the Konark Sun Temple that distinguish it from other temples. It also provides a comprehensive account of the temple's construction and destruction. The response is in complete alignment with the question, demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response addresses the main theme of the question, which is about the unique features of the Konark Temple and its construction and destruction story. However, it only provides information about the unique octagonal face of the temple and mentions that it was initially constructed and then destroyed several times. The response lacks detailed information about the construction and destruction story of the temple, which was specifically asked in the question. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        }
+    },
+    {
+        "prompt_id": "898f419b-5783-43dc-91f2-5efe4073f8ed",
+        "prompt": "ପଟଚିତ୍ର, ଢୋକ୍ରା, ତାରକସି ଆଦି ପ୍ରସିଦ୍ଧ କାରୁକାର୍ଯ୍ୟ ବିଷୟରେ ବର୍ଣନା କରନ୍ତୁ",
+        "prompt_type": "culture",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 1,
+            "justification": "The response begins to describe the art of painting, which is one of the topics requested in the question. However, it does not provide any information about the other two topics, 'Dhokra' and 'Taracasi'. Additionally, the response is cut off and incomplete. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match. This corresponds to a score of 1 according to the 'task_quality' metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "justification": "The response provided by the model does not address the question at all. The question asks for a description of famous works like paintings, sculptures, and architecture, but the model's response is repetitive and nonsensical, with no reference to the requested topics. Therefore, according to the \"task_quality\" metric, the score is 0, as there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately describes the traditional Indian crafts of painting, Dhokra, and Tarakasi as requested in the prompt. It provides a brief explanation of each craft, aligning perfectly with the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the task quality metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asked for a description of the famous handicrafts like Pattachitra, Dhokra, Tarakasi etc. The model's response provides a detailed description of each of these handicrafts, explaining what they are and how they are made. The response is relevant, accurate, and directly addresses the question, leaving no aspect of the instruction unaddressed. Therefore, the model's response earns a score of 2 according to the \"task_quality\" metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for a description of famous works like painting, sculpture, etc., but the response is nonsensical and doesn't provide any information related to the question. It seems like the model disregards the instructions entirely, hence the score is 0 as per the 'task_quality' metric."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately describes the three traditional Odia crafts: Pattachitra, Dhokra, and Tarakasi, as requested in the prompt. It provides detailed explanations of each craft, including the materials used and the process involved. The response is directly relevant to the question and does not include any extraneous details. Therefore, it fully satisfies the task quality metric."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. The question asks for a description of the famous works like 'Pattachitra', 'Dhokra', 'Taracsi' etc. However, the response only mentions these works and does not provide a description of them. It also includes extraneous details about Odia cinema which were not asked for in the question. Therefore, the response does not completely adhere to the instructions given in the prompt."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for a description of famous works like paintings, sculptures, etc., but the response is nonsensical and does not provide any relevant information. It seems like the response is filled with random words and phrases, which makes it impossible to understand or relate to the question. Therefore, according to the 'task_quality' metric, the score is 0 as the model disregards the instructions entirely and there is a clear disconnect between the user's request and the model's response."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response provided by the model partially aligns with the prompt. The model correctly describes the art forms 'Patachitra' and 'Dhokra' as requested in the prompt. However, it does not provide any description for 'Tarakasi' as asked in the prompt. Therefore, the model's response is incomplete and misses out on finer details or nuances of the instruction."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The question asks for a description of famous sculptures like 'Potachitra', 'Dhokra', 'Tarakasi' etc. However, the response provided is a general description of sculpture as an art form, without any specific mention or description of the sculptures asked for in the question. Therefore, the response does not adhere to the specific directives given in the prompt, resulting in a score of 0 for task quality."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately describes the art forms of Pattachitra, Dhokra, and Tarakasi as requested in the prompt. It provides detailed information about the materials used, the design, the themes depicted, and the purpose of these art forms. The response is directly relevant to the prompt and addresses all aspects of the instruction without any deviation. Therefore, the score is 2."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately describes the Odia art forms of Pattachitra, Dhokra, and Tarakasi as requested in the prompt. It provides a brief overview of each art form, explaining their origins and the materials used in their creation. The response is directly relevant to the question and does not include any extraneous details. Therefore, it fully satisfies the prompt's instructions and demonstrates a clear understanding of the task."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately describes the traditional arts of Pattachitra, Dhokra, and Tarakasi as requested in the prompt. It provides detailed information about the materials used, the themes depicted, and the regions where these arts are popular. The response also mentions the significance of these arts in society and economy, which, while not explicitly asked for in the prompt, adds value to the response. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a clear understanding and execution of the task."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response provided by the model only addresses one part of the question. The question asks for a description of 'Pattachitra', 'Dhokra', and 'Taracasi' but the model only provides a description for 'Pattachitra'. Therefore, the model grasps and addresses the main theme of the instruction but misses out on finer details or nuances, which is why it gets a score of 1 according to the 'task_quality' metric."
+        }
+    },
+    {
+        "prompt_id": "8e2fd3de-86f6-4441-b1f4-4219f91f3cf0",
+        "prompt": "ଫକୀର ମୋହନ ସେନାପତି କିଏ ? ଓଡ଼ିଆ ସାହିତ୍ୟ ରେ ତାଙ୍କର ଅବଦାନ କଣ ?",
+        "prompt_type": "culture",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It correctly identifies Fakir Mohan Senapati as an Odia writer and translator, but it does not provide any specific information about his contributions to Odia literature, which was explicitly asked in the question. The response also includes irrelevant information about him writing for 'Great Boston Sena', which was not asked in the question."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question asks about who Fakir Mohan Senapati is and his contribution to Odia literature. However, the response provided by the model is nonsensical and does not provide any information related to the question. Therefore, according to the \"task_quality\" metric, the model's response scores a 0 as it completely disregards the instructions and the output is entirely irrelevant to the prompt.",
+            "score": 0
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately identifies Fakir Mohan Senapati as a prominent writer and literary figure in Odia literature. It also mentions his contributions in various forms of literature such as poetry, novels, and plays, which have had a significant impact on many aspects of Odia literature. This response fully adheres to the prompt's instructions and provides a comprehensive answer to the question, leaving no aspect of the instruction unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately identifies Fakir Mohan Senapati as a renowned writer and poet in Odia literature, which is in line with the question. It also elaborates on his contributions to Odia literature, including his works in poetry, stories, novels, and plays, which is exactly what the question asked for. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a clear understanding and execution of the task. There is a direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about who Fakir Mohan Senapati is and his contribution to Odia literature. However, the response does not provide any information about Fakir Mohan Senapati or his contributions. Instead, it contains a repeated nonsensical phrase. Therefore, the score is 0 as per the 'task_quality' metric, because the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately identifies Fakir Mohan Senapati as a significant figure in Odia literature and a social reformer. It also highlights his contributions to literature, including his sensitivity towards societal changes and his notable works. The response fully adheres to the prompt's instructions, providing a comprehensive answer to the question about who Fakir Mohan Senapati was and his contributions to Odia literature. Therefore, the response scores 2 on the task quality metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately identifies Fakir Mohan Senapati and his contributions to Odia literature. It adheres to the instructions given in the prompt and provides a complete and relevant answer. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about Fakir Mohan Senapati and his contribution to Odia literature, but the response is just a repetition of the phrase '地图 କି', which doesn't make any sense in the context of the question. Therefore, the model disregards the instructions entirely, and there is a clear disconnect between the user's request and the model's response."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response correctly identifies Fakir Mohan Senapati as a renowned Odia literature worker, poet, playwright, and director. However, the response fails to provide specific contributions of Fakir Mohan Senapati to Odia literature, which was asked in the question. Instead, it repeats the same line about his poetry collections multiple times, which seems like an error. Therefore, the response partially aligns with the prompt but misses out on finer details or nuances."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is repetitive and does not provide any new information after the first sentence. It also does not answer the second part of the question about Fakir Mohan Senapati's contribution to Odia literature. Therefore, the response does not adhere to the specific directives given in the prompt, resulting in a score of 0 for task quality."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately identifies Fakir Mohan Senapati as a renowned Odia writer and elaborates on his significant contributions to Odia literature. It provides detailed information about his life, works, and achievements, as well as his active participation in the independence struggle. The response also highlights his most famous work, 'Kalinga Raja', and his enduring influence on Odia literature. Therefore, the response fully adheres to the prompt's instructions and addresses all aspects of the question, earning a score of 2 for task quality."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately identifies Fakir Mohan Senapati as a renowned writer, poet, and social reformer in Odia literature, which aligns with the first part of the question. It also highlights his significant contributions to Odia literature, including his numerous works and the new era his writings signified, which addresses the second part of the question. Therefore, the response fully adheres to the prompt's instructions, demonstrating a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately identifies Fakir Mohan Senapati as a prominent figure in Odia literature and describes his contributions in detail, including his role as the 'father of Odia short story literature', his significant contributions to Odia novel and short story writing, and his notable works such as 'Amar Jiban' and 'Lachhmanaraayan Sahanee'. The response also mentions his involvement in the independence struggle and his efforts to promote the Odia language and literature. This response fully adheres to the prompt's instructions and addresses all aspects of the question, hence the score of 2."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately identifies Fakir Mohan Senapati as a renowned Odia writer and provides details about his contributions to Odia literature, specifically mentioning his story 'Rebati' which was published in 1901. This aligns perfectly with the question asking who Fakir Mohan Senapati is and what his contributions to Odia literature are. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        }
+    },
+    {
+        "prompt_id": "d2d3d6b9-29c8-4943-bb8f-fdb9ea99b4ba",
+        "prompt": "ଯେବେ ପୁରା ଦୁନିଆ ଋତୁସ୍ରାବଠୁ ଦୁରେଇ ରୁହେ, ଓଡିଶା ରେ ତାହା ରଜ ଉତ୍ସବ ଆକାର ରେ ପାଳନ କର ଯାଏ | ନିଜର ସ୍ମୃତି ଓ ଅଭିଜ୍ଞତା ବିଷୟରେ ବର୍ଣନା କରନ୍ତୁ |",
+        "prompt_type": "culture",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 0,
+            "justification": "The response does not adhere to the instructions given in the prompt. The question asks for a description of the respondent's memories and experiences about the celebration of the Raj Utsav in Odisha, when the whole world is away from menstruation. However, the response talks about the world being ancient and its most prosperous species, which is completely irrelevant to the prompt. There is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "justification": "The response provided by the model is a repetition of the question itself, without providing any new information or answering the question. The model was asked to describe its memories and experiences about the celebration of the 'Raja' festival in Odisha when menstruation is considered a taboo in the rest of the world. However, the model simply repeated the question without providing any description of its memories or experiences. Therefore, the score is 0 as the model disregards the instructions entirely and there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question. The question asks for a description of the respondent's memories and experiences about the celebration of the Raj festival in Odisha, even when the world is moving away from menstruation taboos. The response provided by the model does exactly that. It describes how the festival is celebrated in Odisha, with people sharing their memories and experiences. The response is directly related to the user's instruction and there is no aspect of the instruction left unaddressed. Therefore, the score is 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately adheres to the instructions given in the prompt. The user was asked to describe their memories and experiences about the 'Raja' festival in Odisha, and the model does exactly that. It talks about how the festival is celebrated in their home, the joy they experience during the festival, the family gathering, and the preparation of various food items. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not adhere to the instructions given in the prompt. The question asks the respondent to describe their memories and experiences about the celebration of the Raj festival in Odisha, even when the whole world is moving away from menstruation taboos. However, the response does not provide any personal memories or experiences. Instead, it talks about the current state of the festival in Odisha, which is not what the question asked for. Therefore, the response is not aligned with the prompt and does not satisfy the instructions given."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The model's response does not adhere to the instructions given in the prompt. The question asks the model to describe its memories and experiences about the 'Raja' festival in Odisha, but the model responds by stating that it cannot have memories or experiences because it is an artificial intelligence system. This shows a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately adheres to the instructions given in the prompt. The question asks for a description of the respondent's memories and experiences about the celebration of the Raja festival in Odisha, even when menstruation is considered a taboo in the rest of the world. The respondent provides a detailed account of the festival, its cultural and historical significance, and how it is celebrated in Odisha. The response is directly related to the question and covers all aspects of the prompt, demonstrating a clear understanding of the instructions."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks the respondent to describe their memories and experiences about the Raj Utsav in Odisha, but the response is a nonsensical repetition of characters and symbols. It does not address the prompt at all, hence the score of 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. The model addresses the main theme of the instruction, which is to describe the celebration of the festival in Odisha. However, it does not provide personal memories or experiences as requested in the prompt. Additionally, the response contains repetitive phrases, which indicates a lack of coherence and completeness in the response. Therefore, the score is 1 as per the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response does not adhere to the specific directives given in the prompt. The question asks the respondent to describe their memories and experiences about the Raja festival in Odisha, but the response does not provide any personal experiences or memories. Instead, it provides a general description of the festival, which is not what the question asked for. Therefore, the response does not satisfy the requirements of the prompt and scores 0 on the task quality metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response does not adhere to the specific directives given in the prompt. The question asks for the respondent's memories and experiences about the celebration of the 'Raja' festival in Odisha, but the response does not provide any specific details about the festival or the respondent's experiences. Instead, the response is repetitive and does not provide any meaningful information. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question. The question asks for a description of the respondent's memories and experiences about the celebration of the Raja festival in Odisha, even when menstruation is considered a taboo in the rest of the world. The response provided by the model is a detailed description of the celebration of the festival in Odisha, including the involvement of family, community, schools, and related institutions. It also describes the various rituals and practices associated with the festival. Therefore, the model's response adheres to the specific directives given in the prompt and satisfies all aspects of the given directive without any deviation."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question. The question asked for a description of the respondent's memories and experiences related to the Raja festival in Odisha, and the model's response provides a detailed and vivid account of the respondent's experiences and memories of the festival. The response covers all aspects of the festival, from the cultural significance of the festival to the respondent's personal experiences and feelings about the festival. Therefore, the model's response fully satisfies the instructions given in the prompt."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately adheres to the instructions given in the prompt. The user was asked to describe their memories and experiences about the Raja festival in Odisha, and the model does exactly that. It talks about the music, the enthusiastic attire, the abundance of food, and the overall experience of the festival. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed."
+        }
+    },
+    {
+        "prompt_id": "56050471-0437-4818-9365-78ee88aab7dc",
+        "prompt": "\nପ୍ରଭୁ ଶ୍ରୀ ଜଗନ୍ନାଥ ନିଜ ଭକ୍ତ ଯେପରି ସାଲବେଗ, ରଘୁ ଦାସ, ମାଣିକ ଗଉଡ଼ୁଣୀ ଙ୍କୁ ଭଲ ପାଇବା ପାଇ ଜଣାଶୁଣା | ଆଉ କେଉଁ ଭକ୍ତ ଙ୍କ ବିଷୟରେ ଆପଣ ଜାଣିଛନ୍ତି? ପ୍ରଭୁ ଙ୍କ ପାଇ ତାଙ୍କ ଭକ୍ତି ର ଉଦାହରଣ ଦିଅନ୍ତୁ |",
+        "prompt_type": "culture",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. The model grasps and addresses the main theme of the instruction, which is to provide an example of a devotee of Lord Jagannath. However, it misses out on finer details or nuances. The response mentions a devotee named 'Kushali Dasi' but does not provide any specific examples of her devotion towards Lord Jagannath, which was explicitly asked in the question. Therefore, the response is not a complete match to the prompt."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model is a repetition of the question itself, without providing any new information or answering the question. The model has not adhered to the instructions given in the prompt, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question. The question asks for examples of other devotees of Lord Jagannath and their devotion, and the model provides examples of Charumati Devi, Kabiraj Das, and Gopinath Das, who are known devotees of Lord Jagannath. The model's response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus satisfying the criteria for a score of 2 under the 'task_quality' metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing examples of other devotees of Lord Jagannath such as Sarala Das, Jayadev, Chaitanya Mahaprabhu, Ramananda Ray, and Odia poet Upendra Bhanja. The response also highlights the devotion of Sarala Das as an example. Therefore, the response adheres to the specific directives given in the prompt, demonstrating a precise understanding and adherence to the prompt's instructions. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not relevant to the question. The question asks for examples of Lord Jagannath's devotees and their devotion, but the response does not provide any such examples. Instead, it seems to be a random statement that does not make much sense. Additionally, the response contains unintelligible characters, further reducing its relevance to the question."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question. The question asked for an example of a devotee of Lord Jagannath and the model provided a detailed story about the devotee Dasia Bauri. The model's response not only provides the name of the devotee but also narrates the story of his devotion, which is exactly what the question asked for. Therefore, the model's response adheres to the specific directives given in the prompt, respects its nuance and subtleties, and satisfies all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question. The question asked for examples of Lord Jagannath's devotees and the response provided exactly that, mentioning Chaitanya Mahaprabhu, Jadav Chand Sankar, Brindavan Thakur, Shreelila Suradha, and Shrimati Motaranee Thakurani. Therefore, the model has demonstrated a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question asks for examples of Lord Jagannath's devotees and their devotion, but the response is nonsensical and does not provide any relevant information. It seems like the model has disregarded the instructions entirely, hence the score of 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response does not adhere to the instructions given in the prompt. The question asks for examples of Lord Jagannath's devotees and their devotion, but the response does not provide any specific examples. Instead, it repeats the same sentence multiple times without providing any new or relevant information. Therefore, the response is irrelevant and does not satisfy the directives of the prompt."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question. The question asked for an example of a devotee of Lord Jagannath and the response provided a detailed description of the devotion of Manik Gauduni, which is exactly what was asked for. The response does not deviate from the question and does not include any extraneous details. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. The model correctly identifies Salabega as a devotee of Lord Jagannath and provides some information about his devotion. However, the response does not provide examples of devotion from other devotees like Raghudas and Manika Gauduni as asked in the question. Additionally, the response is repetitive, repeating the same sentence about Salabega's devotion multiple times. Therefore, the response misses out on finer details and nuances of the question."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question. The question asked for examples of Lord Jagannath's devotees and their devotion, and the model provided detailed examples of three devotees - Raghudas, Manik Gauduni, and Salabega. The model also explained why they are considered as examples of devotion. Therefore, the model has demonstrated a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question. The question asked for examples of Lord Jagannath's devotees and their devotion, and the model provided detailed examples of two such devotees - Kabi Baudha Das and Bimala Devi. The model also elaborated on their devotion and how they expressed it, which was exactly what the question asked for. Therefore, the model's response adheres to the specific directives given in the prompt, respects its nuance and subtleties, and satisfies all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. The model correctly identifies Lord Jagannath and his devotees like Salbeg, Raghudas, and Manik Gauduni. However, it does not provide specific examples of their devotion towards Lord Jagannath as requested in the prompt. The response also ends abruptly, indicating that it might be incomplete. Therefore, the model grasps and addresses the main theme of the instruction but misses out on finer details or nuances."
+        }
+    },
+    {
+        "prompt_id": "82e7c2c7-c513-4410-80d7-3a7f9036882c",
+        "prompt": "ଓଡିଶୀ ଯାହା କି ଭାରତ ର 8 ଟି ଶାସ୍ତ୍ରୀୟ ନୃତ୍ୟ ମଧ୍ୟ ରୁ ଏକ | ଓ ଅନ୍ୟ ଲୋକ ନୃତ୍ୟ ମଧ୍ୟ ଦେଖିବାକୁ ମିଳିଥାଏ | ଓଡିଶା ରେ ଥିବା ଏହି ସବୁ ବିଭିନ୍ନ ପାରମ୍ପରିକ ନୃତ୍ୟ ବିଷୟରେ କୁହନ୍ତୁ |",
+        "prompt_type": "culture",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 0,
+            "justification": "The question asks about the traditional dances of Odisha, including Odissi, which is one of the eight classical dances of India, and other folk dances. However, the response talks about Odisha's music, which is not relevant to the question. Therefore, the response does not adhere to the specific directives given in the prompt, resulting in a score of 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model is a mere repetition of the question. It does not provide any new information or answer the question in any way. The question asks for information about Odissi, one of the eight classical dances of India, and other folk dances in Odisha. However, the response does not provide any information on these topics. Therefore, according to the \"task_quality\" metric, the score is 0 as there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. The model correctly identifies Odissi as one of the eight classical dances of India and mentions that it incorporates elements of various folk dances. However, the response does not provide detailed information about the different traditional dances in Odisha, as requested in the prompt. Instead, it lists other classical dances of India, which is not relevant to the question. Therefore, the response misses out on some finer details and nuances of the prompt."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately lists various traditional dances of Odisha, including Odissi, which is one of the eight classical dances of India. It also mentions that these dances represent the traditional customs of the people of Odisha, which aligns with the question's request for information about traditional dances in Odisha. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a clear understanding and execution of the task."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not provide any information about the traditional dances of Odisha, which was the main directive of the question. Instead, it seems to be a repetition of the question itself with some unintelligible characters at the end. Therefore, the model's response does not adhere to the prompt's instructions, leading to a score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing detailed information about Odissi, one of the eight classical dances of India, and other folk dances in Odisha. The response not only mentions Odissi as a classical dance but also lists several folk dances such as Sankalika dance, Gotipua dance, Dalkhai dance, Mahari dance, Ghumura dance, and Chhau dance. The response is in complete alignment with the question, providing a comprehensive answer without any deviation or omission. Therefore, it scores 2 on the task quality metric."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially addresses the question. The question asks about Odissi, a classical dance form from Odisha, India, and other folk dances from Odisha. The response, however, only mentions Odissi and does not provide any information about other folk dances from Odisha. Therefore, the response is only partially aligned with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the traditional dances of Odisha, India, but the response is a nonsensical string of words and symbols that do not provide any information about the topic. It's clear that the model has disregarded the instructions entirely, leading to a score of 0 according to the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response does address the main theme of the question, which is about Odissi dance, one of the eight classical dances of India, and its characteristics. However, the response is repetitive and does not provide a variety of information about different traditional dances in Odisha as asked in the question. The response could have been more comprehensive and diverse in its content, covering more aspects of the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for information about traditional dances in Odisha. The response provides detailed information about four different traditional dances, including their names and brief descriptions. This shows a clear understanding and adherence to the prompt's instructions. The output holistically satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response does not provide any relevant information about the traditional dances of Odisha, which was the main directive of the question. Instead, it repeats the phrase 'କଳା କଳା' multiple times, which does not make sense in the context of the question. Therefore, the response is entirely irrelevant to the prompt and there is a clear disconnect between the user's request and the model's response."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a detailed explanation about the traditional dances in Odisha, which is one of the 8 classical dances of India. It mentions various dance forms and their origins, which aligns perfectly with the question. The response does not deviate from the question and provides a comprehensive answer, thus demonstrating a precise understanding and adherence to the prompt's instructions."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing detailed information about the traditional dances of Odisha, including Odissi, which is one of the eight classical dances of India, and various folk dances. The response also provides specific examples of folk dances, such as Gotipua, Jhumar, Chau, Dhanseedi, and Sambalpuri Danda Nacha, which aligns with the question's request for information about other dances in Odisha. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. The model grasps and addresses the main theme of the instruction, which is about traditional dances in Odisha. However, it misses out on finer details or nuances. The question asks to talk about Odissi, one of the eight classical dances of India, and other folk dances that can be seen in Odisha. The response mentions that Odisha has many traditional dances but does not specifically mention Odissi or any other folk dances. Therefore, the response might include extraneous details not asked for, or it might omit some requested specifics."
+        }
+    },
+    {
+        "prompt_id": "800c2e2a-63d4-4816-92c5-cee12a119513",
+        "prompt": "ଓଡିଶା ର ସବୁ ଅଞ୍ଚଳ ନିଜ ନିଜ ଆଞ୍ଚଳିକ ଖାଦ୍ୟ ପାଇଁ ପ୍ରସିଦ୍ଧ | ଯେମିତି ପାହାଳ ଓ ସାଲେପୁର ରସଗୋଲା ପାଇଁ, ଢେଙ୍କାନାଳ ଓ ବରଗଡ ବରା ପାଇଁ | ନିଜ ଅଞ୍ଚଳ ର ବିଶେଷ ଖାଦ୍ୟ ବିଷୟରେ କୁହନ୍ତୁ |",
+        "prompt_type": "culture",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 0,
+            "justification": "The response is a mere repetition of the question and does not provide any new information or answer the question. The question asks for specific regional foods from different regions of Odisha, but the response does not provide any such information. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model is a repetition of the question itself, without providing any new information or answering the question. The question asks for specific regional foods from different regions of Odisha, but the model simply repeats the question without providing any answers. Therefore, the score is 0 as there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately adheres to the instructions given in the prompt. The question asks for the special food items of different regions in Odisha, and the response provides exactly that. It mentions 'Rasagola' for Pahala, 'Khichdi' for Dhenkanal, and 'Bhundiya' for Bargarh. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing information about the special foods of different regions in Odisha. It mentions the famous foods of Cuttack, Puri, Koraput, Mayurbhanj, Kendujhar, and Bhadrak, which aligns perfectly with the question's request for information about regional foods in Odisha. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not relevant to the question. The question asks for specific regional foods from different regions of Odisha, but the response does not provide any specific information. Instead, it repeats the question and ends with a string of unintelligible characters. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt, and there is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing detailed information about the regional foods of different areas in Odisha, such as Pahala, Salepur, Dhenkanal, and Bargarh. It includes specific dishes like Sorisha Kula, Charukari, Chakuli Pitha, Mango Marich from Pahala, Salepur Rasgola, Genti Khai, Dhenkanal Petha, Bhat Kansar, Bhada Khajur from Dhenkanal, and Bargarh Bara. The response is in line with the question and there is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. The question asks for specific regional foods from different regions of Odisha, such as Pahala and Salepur's Rasgulla, Dhenkanal and Bargarh's Bara. The response mentions these foods but does not provide any additional regional foods as requested in the question. The response also includes some extraneous details not asked for in the question, such as mentioning a food item from an unspecified region. Therefore, the score is 1, indicating that the model grasps and addresses the main theme of the instruction but misses out on finer details or nuances."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the special food items of different regions in Odisha, but the response is a nonsensical string of words and symbols that do not provide any information about the topic. It seems like the model has disregarded the instructions entirely, leading to a clear disconnect between the user's request and the model's response. Therefore, the score is 0 according to the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response starts off by addressing the question, mentioning that each region in Odisha has its own unique food, and specifically talks about Pahala and Salepur Rasgulla. However, the response then becomes repetitive, repeating the same line about Pahala Rasgulla being a prominent food of the Pahala region multiple times. Additionally, the response does not mention anything about Dhenkanal or Bargarh Bara, which were also asked for in the question. Therefore, the response only partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response provided by the model partially aligns with the prompt. The model correctly identifies and describes the regional foods of Pahala and Salepur (Rasagola) and Dhenkanal and Bargarh (Bara). However, the response is repetitive, with the same information about these foods repeated twice. This repetition is not asked for in the prompt and can be considered as extraneous detail. Therefore, the model's response does not completely match the prompt's instructions, leading to a score of 1."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for information about the special foods of different regions in Odisha. The response mentions that each region in Odisha has its own unique food, and provides examples such as the Rasgulla from Pahala and Salepur, and the Bara from Dhenkanal and Bargarh. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the task quality metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for information about the special foods of different regions in Odisha. The response provides detailed information about the special foods of Pahala, Salepur, Dhenkanal, and Bargarh, which are the regions mentioned in the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for a description of a special food from the respondent's region in Odisha. The respondent, who is from Bargarh, provides a detailed description of 'Bara', a popular local food. The response includes information about the ingredients used, the shape of the food, and the occasions on which it is typically served. This shows a clear understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "justification": "The question asks the respondent to talk about the special food items of their region in Odisha, citing examples like Pahala and Salepur's Rasgulla, Dhenkanal and Bargarh's Bara. However, the response does not provide any information about the special food items of any region in Odisha. Instead, it simply repeats the examples given in the question and asks which one the questioner wants to know about. Therefore, the response does not adhere to the instructions given in the prompt, resulting in a score of 0.",
+            "score": 0
+        }
+    },
+    {
+        "prompt_id": "f5f76a43-bc4c-4988-adce-0c861e0190d2",
+        "prompt": "ସୁଦର୍ଶନ ପଟନାୟକ ଓଡିଶାବାସୀ ମାନଙ୍କ ତଥା କଳାକାର ମାନଙ୍କ ମଧ୍ୟ ରେ ଜଣାଶୁଣା | ତାଙ୍କ ଜୀବନ, କାମ ଏବଂ କାରୁକାର୍ଯ୍ୟ ବିଷୟରେ ବର୍ଣନା କରନ୍ତୁ |",
+        "prompt_type": "culture",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "justification": "The response partially aligns with the prompt. The question asks for a description of Sudarshan Patnaik's life, work, and achievements. However, the response does not provide any specific details about Sudarshan Patnaik's life, work, or achievements. Instead, it mentions that Sudarshan Patnaik is a respected figure among the people of Odisha and artists, which is relevant but does not fully address the question. Therefore, the response gets a score of 1 as it addresses the main theme of the instruction but misses out on finer details.",
+            "score": 1
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model is a mere repetition of the question. It does not provide any information about Sudarshan Patnaik, his life, work, or achievements, which was the main directive of the prompt. Therefore, the model's response does not adhere to the instructions given in the prompt, leading to a score of 0 for task quality."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately describes Sudarshan Patnaik's life, work, and achievements, as requested in the question. It mentions that he is a well-known artist from Odisha, his initial work in Odissi dance, and his recognition as the first choreographer in Odisha. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding and execution of the task."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately describes Sudarshan Patnaik's life, work, and achievements, as requested in the prompt. It provides information about his birth, his father, and his significant contributions to the field of theatre in Odisha. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus earning a score of 2 according to the 'task_quality' metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not provide any information about Sudarshan Patnaik's life, work, or achievements, as requested in the question. Instead, it contains repeated phrases and unintelligible characters, indicating a complete disregard for the instructions. Therefore, the score is 0 as per the 'task_quality' metric."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately describes Sudarshan Patnaik's life, work, and contributions, as requested in the prompt. It provides details about his birthplace, his passion for music, his education, and his career as a singer and music director. It also highlights his unique contribution to Odisha's music and film industry. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a clear understanding and execution of the task."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response provides some information about Sudarshan Patnaik, mentioning his profession and some of his works. However, it does not fully adhere to the prompt's instructions. The prompt asked for a description of his life, work, and achievements, but the response does not provide any details about his life or specific achievements. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for a description of Sudarshan Patnaik's life, work, and achievements, but the response is a nonsensical string of characters and symbols that doesn't provide any information about Sudarshan Patnaik. Therefore, the score is 0 as per the 'task_quality' metric, which states that a score of 0 is given when 'The model disregards the instructions entirely' or 'The output is entirely irrelevant to the prompt'."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately describes Sudarshan Patnaik's life, work, and contributions as an artist and social worker, which is exactly what the question asked for. It provides details about his art, his focus on Odisha's cultural and social aspects, and his efforts to raise awareness about social and political issues through his art. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding and execution of the task."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is repetitive and does not provide any specific details about Sudarshan Patnaik's life, work, or achievements as requested in the prompt. The response only states that he was a respected person and was known for his work, but it does not elaborate on what his work was or any other details about his life. Therefore, the response does not adhere to the specific directives given in the prompt."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response provides some information about Sudarshan Patnaik, including his birth and death dates, and acknowledges his fame as an artist. However, it does not provide a detailed description of his life, work, and achievements as requested in the prompt. Additionally, the response is repetitive, stating multiple times that he was famous for his work, without providing any further details or context. Therefore, the response partially aligns with the prompt but misses out on finer details and nuances."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response accurately describes Sudarshan Patnaik's life, work, and achievements, as requested in the prompt. It provides information about his birth, his career as an actor, playwright, and director, and his notable work in the Odia film 'Shri Jagannath'. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately describes Sudarshan Pattnaik's life, work, and achievements, as requested in the prompt. It provides details about his birth, his skills in sand art, his popularity, his participation in international events, his awards, and his social messages through his art. The response also mentions his humble beginnings and his current status as an inspiration. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding and execution of the task."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response provides some information about Sudarshan Patnaik, including his profession and some aspects of his work. However, it does not fully address the prompt's request for a detailed description of his life, work, and achievements. The response also ends abruptly, suggesting that it may be incomplete. Therefore, the response partially aligns with the prompt but does not fully satisfy its requirements."
+        }
+    },
+    {
+        "prompt_id": "3fb28006-52a8-4f13-935a-4ae7df851859",
+        "prompt": "\n\nଭାଇ ଭଉଣୀ ଙ୍କ ଭଲ ପାଇବା ଓଡ଼ିଆ ପରମ୍ପରା ରେ ପ୍ରମୁଖ | ଆପଣ ନିଜ ଭାବନା ଖୁଦୁରୁକୁଣୀ, ରାଖୀ ପୁର୍ଣିମା, ଓ ଭାଇ ଜିଉଁନ୍ତିଆ ଆଦି ପର୍ବ ବିଷୟରେ କୁହନ୍ତୁ |",
+        "prompt_type": "culture",
+        "language": "odia",
+        "OdiaGenAI/odia_llama2_7B_base": {
+            "score": 0,
+            "justification": "The response does not address the question at all. The question asks for the user's thoughts on certain Odia traditions related to siblings, such as Khudurukuni, Rakhi Purnima, and Bhai Jiuntia. However, the response talks about the importance of mutual respect in relationships, which is not relevant to the question. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model is a repetition of the question itself, without providing any new information or answering the question. The model was asked to share its thoughts on the importance of brother-sister bonding in Odia tradition, and to discuss festivals like Rakhi Purnima and Bhai Jiuntia. However, the model simply repeated the question without providing any thoughts or discussion on the topic. Therefore, the score is 0 as there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for the respondent's thoughts on the prominent festivals in Odia tradition that celebrate the bond between brothers and sisters, such as 'Nij Bhavana Khudurukuni', 'Rakhi Purnima', and 'Bhai Jiuntia'. The model's response accurately addresses all these festivals and emphasizes their importance in Odia culture. Therefore, the model's response satisfies all aspects of the given directive without any deviation.",
+            "score": 2
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing detailed information about the traditions of Rakhi Purnima and Bhai Jiuntia, which are significant in the Odia culture for expressing sibling love. The response is in line with the question, demonstrating a clear understanding of the prompt's instructions. There is a direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the 'task_quality' metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not address the question at all. The question asks for the respondent's thoughts on the importance of brother-sister relationship in Odia tradition, specifically mentioning festivals like Rakhi Purnima and Bhai Jiuntia. However, the response talks about the concept of self being the supreme authority in one's own life, which is completely unrelated to the question. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asked for the respondent's thoughts on the significance of certain Odia festivals that celebrate the bond between brothers and sisters. The respondent provides detailed explanations for each festival mentioned in the question, including 'Nij Bhavana Khudurukuni', 'Rakhi Purnima', and 'Bhai Jiuntia'. The response is directly relevant to the question and does not deviate from the topic. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for the respondent's thoughts on the importance of brother-sister relationships in Odia tradition, with specific reference to festivals like Rakhi Purnima and Bhai Jiuntia. The respondent discusses the significance of these festivals in Odia tradition and their role in strengthening brother-sister relationships, thereby fully adhering to the prompt's instructions. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for the user's thoughts on the importance of brother-sister relationships in Odia culture, specifically mentioning festivals like Rakhi Purnima and Bhai Jiuntia. However, the response is nonsensical and does not address the question at all. It seems to be a repetition of random characters and words, which do not form a coherent answer. Therefore, the score is 0 as per the 'task_quality' metric, indicating that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing detailed information about the significance of brother-sister love in Odia tradition and explaining the main festivals related to it, such as Khudurukuni, Rakhi Purnima, and Bhai Jiuntia. The response is in line with the prompt's instructions, demonstrating a clear understanding and adherence to the question. It satisfies all aspects of the given directive without any deviation, and there's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The question asks for the user's personal thoughts on the importance of brother-sister relationships in Odia traditions, specifically mentioning festivals like Rakhi Purnima and Bhai Jiuntia. However, the response does not address these specific festivals or provide any personal thoughts. Instead, it repeats the same general statement about the importance of brother-sister relationships in Odia traditions three times. Therefore, the response does not adhere to the specific directives given in the prompt, resulting in a score of 0."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response does not address the question at all. The question asks for the respondent's personal thoughts on the Odia tradition of celebrating brother-sister love, specifically mentioning festivals like Khudurukuni, Rakhi Purnima, and Bhai Jiuntia. However, the response does not mention any of these festivals or provide any personal thoughts. Instead, it repeats the same sentence multiple times, which does not provide any relevant or meaningful information. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question. The question asks for the model's thoughts on the importance of brother-sister relationships in Odia tradition, with specific mention of festivals like Rakhi Purnima and Bhai Jiuntia. The model's response addresses these points, discussing the significance of these festivals in Odia tradition and how they reflect the bond between siblings. It also talks about the personal and social activities that can be initiated on these days to enhance peace, gratitude, and hope in one's life. Therefore, the model's response adheres to the specific directives given in the prompt, demonstrating a precise understanding of the instructions."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asked for the respondent's thoughts on the significance of Khudurukuni, Rakhi Purnima, and Bhai Jiuntia in the Odia tradition of celebrating the bond between brothers and sisters. The respondent provides detailed explanations for each festival, explaining how they are celebrated and their significance in strengthening the bond between siblings. The response is entirely relevant to the prompt and does not deviate from the instructions. Therefore, it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for the respondent's thoughts on the importance of brother-sister bonding in Odia tradition, and mentions specific festivals like Rakhi Purnima, Bhai Jiuntia, and Khudurukuni. The response provides a detailed explanation of these festivals and their significance in Odia culture, demonstrating a clear understanding of the question and adherence to the prompt's instructions. Therefore, the response satisfies all aspects of the given directive without any deviation, which aligns with the criteria for a score of 2 according to the 'task_quality' metric."
+        }
+    }
+]

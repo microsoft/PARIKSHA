@@ -1,0 +1,1242 @@
+[
+    {
+        "prompt_id": "bc293bda-e649-46f7-9fef-2d208160b32d",
+        "prompt": "ರಕ್ತದೊತ್ತಡವನ್ನು ಕಡಿಮೆ ಮಾಡುವುದು ಹೇಗೆ?",
+        "prompt_type": "health",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 0,
+            "justification": "The response is in English, while the question is in Kannada. The response does not adhere to the language requirement of the question, which is a key aspect of the task. Therefore, the response does not meet the task quality metric."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for ways to reduce blood pressure, and the response provides a detailed explanation of how to do so, including regular exercise, healthy diet, sufficient sleep, regular check-ups with a doctor, and medication if necessary. The response also suggests discussing lifestyle changes with a healthcare professional to help control blood pressure. Therefore, the model's response is comprehensive and directly addresses the question, warranting a score of 2.",
+            "score": 2
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about how to reduce blood pressure, but the model's response is about making a reservation. This shows a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to reduce blood pressure. It provides relevant suggestions such as maintaining a healthy diet, reducing sugar intake, and doing physical exercise. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to reduce blood pressure, and the model provides a comprehensive list of methods to do so, including increasing physical activity, changing diet, practicing yoga and meditation, improving sleep habits, and following medical advice. The response is detailed and covers all aspects of the question without any deviation or extraneous details."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not relevant to the question asked. The question is about how to reduce blood pressure, but the response does not provide any information or advice on this topic. Instead, it seems to be a random collection of phrases and sentences that do not make sense in the context of the question. Therefore, the score is 0 as per the 'task_quality' metric, because there is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to reduce blood pressure, and the model provides a detailed list of steps to follow to achieve this. It also includes a cautionary note about consulting with a doctor before starting any new health routine, which shows a nuanced understanding of the topic. Therefore, the model's response satisfies all aspects of the given directive without any deviation.",
+            "score": 2
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to reduce blood pressure. It provides specific advice such as consuming protein and paleo diets, drinking water, regular exercise, and seeking timely medical treatment. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully satisfies the task quality metric."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response provided by the model is not relevant to the question asked. The question is about how to reduce blood pressure, but the response is a list of exercise types, which is not directly related to the question. Moreover, the response is repetitive and does not provide any useful information. Therefore, the score is 0 as per the 'task_quality' metric, which indicates that the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to reduce blood pressure and the model provides a detailed and comprehensive list of methods to achieve this. It covers various aspects such as diet, exercise, alcohol consumption, smoking, stress management, medication, and regular check-ups, which are all relevant to the control of blood pressure. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for ways to reduce blood pressure and the model provides a comprehensive list of methods to do so, including diet, exercise, stress management, medication, and lifestyle changes. The response is detailed and covers all aspects of the question, demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to reduce blood pressure. It provides a specific method, which is to reduce the number of red blood cells. The response also explains how this method works, stating that red blood cells constrict blood vessels and reducing their number would lessen this constriction, thereby reducing blood pressure. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, a score of 2 is justified."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks for ways to reduce blood pressure, and the model provides a detailed list of methods to do so, including diet control, exercise, relaxation, maintaining a healthy weight, avoiding alcohol and smoking, taking medication as prescribed, and getting adequate sleep. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question on how to reduce blood pressure. It provides a detailed explanation, suggesting regular exercise, a healthy diet, and avoiding smoking as ways to lower blood pressure. The response is directly related to the user's instruction and covers all aspects of the question without any deviation. Therefore, it scores 2 on the task quality metric."
+        }
+    },
+    {
+        "prompt_id": "2dc0c075-62cf-472e-b6bc-18a4361667de",
+        "prompt": "ಧೂಮಪಾನದಿಂದ ಉಂಟಾಗುವ ಅಪಾಯಗಳು ಯಾವುವು ಮತ್ತು ಅದು ಒಟ್ಟಾರೆ ಆರೋಗ್ಯದ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ?",
+        "prompt_type": "health",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks about the dangers of smoking and how it affects overall health. The model's response comprehensively lists out the various health risks associated with smoking, including lung diseases, heart diseases, cancer, mental health issues, premature death, infant mortality, economic burden, social stigma, environmental pollution, and effects in old age. It also mentions the harmful effects of smoking not only on smokers but also on those around them, especially children and adults. Therefore, the model's response adheres to the specific directives given in the prompt, demonstrating a precise understanding of the instructions."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a detailed explanation of the dangers of smoking and its impact on overall health. It covers both physical and mental health effects, including heart disease, respiratory issues, immune system impact, diabetes, anxiety, and lack of concentration. The response is comprehensive and directly correlates with the user's instruction, leaving no aspect of the instruction unaddressed. Therefore, it scores 2 on the task quality metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "justification": "The response provided by the model is a repetition of the question itself without providing any answer to the question. The model has not adhered to the instructions given in the prompt and has not provided any information about the dangers of smoking and how it affects overall health. Therefore, the score is 0 as per the \"task_quality\" metric.",
+            "score": 0
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by listing the dangers of smoking and explaining how it affects overall health. It provides a comprehensive answer, covering all aspects of the question without any deviation or omission. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by listing the dangers of smoking and explaining how it affects overall health. It includes specific diseases caused by smoking, such as lung cancer, heart attack, emphysema, chronic obstructive pulmonary disease (COPD), diabetes, heart disease, and nerve disease. It also explains how smoking affects the functioning of the lungs, increases heart rate, and impairs the functioning of other organs. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question asks about the dangers of smoking and its impact on overall health, but the response lists a series of unrelated words and phrases. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks about the dangers of smoking and how it affects overall health. The response accurately describes the dangers of smoking, including its effects on the heart, lungs, and blood vessels, and how it can increase the risk of heart disease, stroke, and other health problems. The response also mentions how smoking can decrease a worker's ability, which is an additional aspect of overall health. Therefore, the model's response is comprehensive and directly addresses all aspects of the question, earning it a score of 2 according to the 'task_quality' metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by listing the dangers of smoking such as cancer, asthma, heart attack, and chronic obstructive pulmonary disease. It also explains how smoking affects overall health, including the health of those around smokers, the elderly, and mental health. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response provided by the model does not adhere to the instructions given in the prompt. The question asks for the dangers of smoking and how it affects overall health. While the response begins to address this, it quickly devolves into a repetitive string of words that do not provide any meaningful information. The repetition of the word 'ಚರ್ಬು' (charbu) and 'ಧೂಮಪಾನದ ಲಕ್ಣಗಳು' (smoking symptoms) does not contribute to answering the question. Therefore, the model's response is not aligned with the user's instruction, leading to a score of 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a detailed explanation of the harmful effects of smoking and how it impacts overall health. It mentions specific diseases like heart disease, stroke, cancer, and respiratory diseases, and also discusses how smoking weakens the immune system, increases susceptibility to infections and diseases, reduces bone density, and increases the risk of osteoporosis and fractures. The response is comprehensive and directly correlates with the user's instruction, leaving no aspect of the instruction unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question. It provides a detailed explanation of the dangers of smoking and how it affects overall health, which is exactly what the question asked for. The response does not deviate from the topic, nor does it include any extraneous details. It is directly correlated with the user's instruction and leaves no aspect of the instruction unaddressed."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks about the dangers of smoking and how it affects overall health. The response accurately lists several health risks associated with smoking, such as respiratory diseases, heart disease, stroke, cancer, and mental health issues. It also explains how smoking can reduce overall health and lifespan, and even affect social relationships. Therefore, the model's response is comprehensive and directly addresses all aspects of the question, earning it a score of 2 according to the \"task_quality\" metric."
+        },
+        "GPT4o": {
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks about the dangers of smoking and how it affects overall health. The response provided by the model lists out the various health issues caused by smoking such as lung and kidney cancer, heart-related issues, dental problems, weakened immune system, skin and hair damage, and reproductive issues. It also explains how smoking can have numerous negative and serious effects on health, thereby reducing the quality of life. Therefore, the model's response is comprehensive, accurate, and directly addresses the question, deserving a score of 2.",
+            "score": 2
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a detailed explanation of the dangers of smoking and how it affects overall health. It mentions the harmful chemicals in cigarettes, the diseases that can be caused by smoking such as respiratory diseases, heart disease, stroke, multiple sclerosis, and certain types of cancer. It also mentions the damage it can cause to various organs of the body such as the lungs, heart, and kidneys. The response is in line with the prompt's instructions and there is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        }
+    },
+    {
+        "prompt_id": "c2528d0a-a9c4-4171-b8c7-73ed9681bad0",
+        "prompt": "ಮೂತ್ರಪಿಂಡದ ಕಲ್ಲುಗಳಿಗೆ ಕಾರಣವೇನು?",
+        "prompt_type": "health",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question about the causes of kidney stones. It provides a detailed list of potential causes, each with a brief explanation. The response also includes a section on potential remedies, which, while not explicitly asked for in the question, provides additional useful information. The response is entirely relevant to the question and adheres to the instructions given in the prompt. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 1,
+            "justification": "The response starts off by addressing the question about the cause of kidney stones, but then it deviates into discussing the potential harm of kidney stones and the symptoms of kidney infection. The latter part of the response is repetitive and irrelevant to the question. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is asking for the cause of kidney stones, but the response is nonsensical and does not provide any information related to the question. It seems like the model is just repeating the word 'cause' in different contexts without providing any meaningful answer. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the causes of kidney stones. It provides a comprehensive list of reasons, including irregular kidney health, certain medications, unhealthy diet, some viruses and bacteria infections, and some congenital causes. The response is directly related to the question and does not deviate from the topic. Therefore, it adheres to the task quality metric perfectly, demonstrating a precise understanding and adherence to the prompt's instructions."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the causes of kidney stones. It provides a comprehensive list of reasons, including lack of water, excessive consumption of sucrose and salt, use of certain medications, heredity, kidney diseases, obesity, and unhealthy diet. This shows that the model has a precise understanding of the prompt's instructions and adheres to them. The output satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not coherent and does not provide a clear answer to the question about the cause of kidney stones. The response seems to be repeating the same phrase multiple times without providing any meaningful information. Therefore, it does not adhere to the specific directives given in the prompt, making it irrelevant to the question asked."
+        },
+        "gpt-4": {
+            "justification": "The response provided by the model is in direct alignment with the question asked. The question asks for the causes of kidney stones, and the response accurately and comprehensively lists the reasons that can lead to the formation of kidney stones. The response does not deviate from the question's instruction and does not include any extraneous details.",
+            "score": 2
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the causes of kidney stones. It mentions factors such as digestive problems, excessive water, certain medications, and hormone treatments. The response is directly related to the question and does not deviate from the topic, hence it adheres to the prompt's instructions completely."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response provided by the model is not relevant to the question asked. The question is about the cause of kidney stones, but the response seems to be a repetition of unrelated words and phrases, which makes it nonsensical and irrelevant. Therefore, the score is 0 as per the \"task_quality\" metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the causes of kidney stones. It provides a comprehensive list of factors that can contribute to the formation of kidney stones, such as age, family history, weight, dehydration, certain medications, and certain foods. The response is directly relevant to the question and does not include any extraneous details. Therefore, it fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the causes of kidney stones. It explains that kidney stones are formed in the kidneys and can be caused by various factors, but the common cause is the accumulation of minerals that form stones in the urine. The primary components that form kidney stones are salt, calcium, and phosphate. Some people have a tendency to form kidney stones because their body collects more of these stone-forming minerals. Other factors that contribute to the formation of kidney stones are stress, imbalance of salt or sugar, imbalance of salt or calcium, or taking certain medications. Therefore, the response adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "justification": "The response provided by the model is in line with the question asked. The question asks for the cause of kidney stones, and the response provides a detailed explanation of the factors that contribute to the formation of kidney stones. It includes information about the substances that form the stones, the conditions in the kidney that promote stone formation, and the factors that can influence the likelihood of stone formation, such as family history, age, gender, body weight, activity level, and certain genetic factors. Therefore, the model's response is comprehensive and directly addresses the question, earning it a score of 2 according to the 'task_quality' metric.",
+            "score": 2
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the causes of kidney stones. It mentions several factors such as diet, low water intake, hereditary reasons, certain health conditions, urinary problems, and abnormalities in the cells. This response is in line with the question and does not deviate from the topic, hence it adheres to the prompt's instructions completely. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the causes of kidney stones. It mentions several factors such as stress, imbalance in calcium and phosphate absorption, or changes in kidney function. It also provides advice on how to reduce the risk of kidney stones through a healthy lifestyle and regular medical check-ups. Therefore, the response fully adheres to the prompt's instructions and addresses all aspects of the question, earning a score of 2 according to the 'task_quality' metric."
+        }
+    },
+    {
+        "prompt_id": "84678da4-914e-4854-a475-f6b2a1e291f4",
+        "prompt": "ಕೊಲೆಸ್ಟ್ರಾಲ್ ಅನ್ನು ಕಡಿಮೆ ಮಾಡುವುದು ಹೇಗೆ?",
+        "prompt_type": "health",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 0,
+            "justification": "The response is repetitive and does not provide diverse ways to reduce cholesterol. It repeats the same point about consuming low cholesterol foods, without providing any other methods or strategies. This does not adhere to the prompt's instructions to explain how to reduce cholesterol, as it only addresses one aspect of the issue and does not provide a comprehensive answer. Therefore, the score is 0."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to reduce cholesterol. It provides a detailed and relevant answer, suggesting a healthy diet that includes plenty of fruits, vegetables, grains, fish, and dairy products. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "justification": "The response provided by the model is a repetition of the question itself without providing any actual answer or solution to the question. The question asks 'how to reduce cholesterol?' but the model's response does not provide any methods or ways to reduce cholesterol. Therefore, the model's response is entirely irrelevant to the prompt and there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question on how to reduce cholesterol. It provides a detailed explanation, suggesting healthy diet, exercise, and the use of cholesterol-lowering medications. The response is directly related to the user's instruction and addresses all aspects of the question without any deviation or extraneous details. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked, providing detailed and relevant information on how to reduce cholesterol levels. It includes suggestions such as following a healthy diet, consuming soy protein and flaxseed oil, increasing physical activity, and avoiding smoking and alcohol. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for ways to reduce cholesterol, but the response talks about a nonsensical process of keeping 'Kolestral' in the refrigerator and letting it stand at room temperature. This does not provide any useful or accurate information on how to reduce cholesterol. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks for ways to reduce cholesterol, and the model provides a detailed list of methods to achieve this, including dietary changes, regular exercise, reducing sugar intake, maintaining a healthy weight, and regular medical checkups. The response is comprehensive and directly addresses the question, leaving no aspect of the instruction unaddressed.",
+            "score": 2
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to reduce cholesterol. It provides a comprehensive answer, suggesting changes in diet, lifestyle, and exercise habits. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks 'how to reduce cholesterol?' and the model provides a detailed response on how to reduce cholesterol, including regular exercise, diet, yoga, meditation, and medication. The response is comprehensive and covers all aspects of the question without any deviation or extraneous details. Therefore, the score is 2 as per the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately and completely addresses the question about how to reduce cholesterol. It provides a detailed explanation, including maintaining a healthy diet, regular exercise, and avoiding smoking. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, thus fulfilling the criteria for a score of 2 under the 'task_quality' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to reduce cholesterol and the model provides a comprehensive list of methods to achieve this, covering aspects like diet, exercise, lifestyle changes, and medical consultation. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to reduce cholesterol. It provides a comprehensive answer, suggesting a healthy diet, regular exercise, and avoiding smoking. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed. Therefore, it scores 2 on the task quality metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response provided by the model is a comprehensive answer to the question 'How to reduce cholesterol?'. It includes a variety of methods such as changes in diet, weight control, regular exercise, consumption of probiotics, choice of oil, quitting smoking and alcohol, and seeking medical advice when necessary. The response is directly related to the user's instruction and addresses all aspects of the question without any deviation or omission. Therefore, the model's response is awarded a score of 2 according to the 'task_quality' metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to reduce cholesterol. It provides a comprehensive list of lifestyle changes, including diet modifications, exercise, and avoiding harmful habits like smoking and excessive alcohol consumption. It also suggests some supplements that can help manage cholesterol levels. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        }
+    },
+    {
+        "prompt_id": "f4925ee5-e448-41ac-9315-c8fb13ac5ff3",
+        "prompt": "ಹೃದ್ರೋಗ ಅಥವಾ ಮಧುಮೇಹದಂತಹ ಸಾಮಾನ್ಯ ಆರೋಗ್ಯ ಪರಿಸ್ಥಿತಿಗಳ ಎಚ್ಚರಿಕೆ ಚಿಹ್ನೆಗಳು ಯಾವುವು?",
+        "prompt_type": "health",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "justification": "The response provided by the model does address the main theme of the prompt, which is to provide warning signs of common health conditions like heart disease or diabetes. However, the response seems to be repetitive and lacks specific details related to the diseases mentioned in the question. For instance, the symptoms listed are not specifically tied to heart disease or diabetes, and some symptoms are repeated multiple times.",
+            "score": 1
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 2,
+            "justification": "The response accurately lists the warning signs of common health conditions like heart disease and diabetes, as asked in the question. It includes symptoms like excessive weight, high blood pressure, prolonged fever, breathing problems, chest pain, fatigue, excessive hunger and urination, skin turning pale, wounds, mental changes, and fatigue. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the prompt's instructions completely and satisfies all aspects of the given directive without any deviation."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model does not answer the question at all. The question asks for the warning signs of common health conditions like heart disease or diabetes, but the model's response simply repeats the question without providing any answer. Therefore, the model's response is entirely irrelevant to the prompt, and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response provided by the model does address the main theme of the instruction, which is to provide the warning signs of common health conditions like heart disease and diabetes. However, the model seems to have made an error in listing the symptoms. The symptoms listed under both heart disease and diabetes are identical, which is not accurate. Therefore, while the model has grasped the main element of the instruction, it has missed out on the finer details and nuances, leading to a score of 1."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and completely addresses the question. It provides clear warning signs for both heart disease and diabetes, which is exactly what the question asked for. There is a direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for the warning signs of common health conditions like heart disease or diabetes, but the response talks about avatars and spiritual health, which is not related to the question at all. Therefore, the model disregards the instructions entirely, leading to a score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asked for the warning signs of common health conditions like heart disease and diabetes, and the model provided a detailed list of warning signs for both conditions. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the model's response deserves a score of 2 according to the \"task_quality\" metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing signs of common health conditions like heart disease or diabetes. It mentions symptoms such as discomfort in the body, sleep problems, brain stroke, and issues in excretion, which are indeed warning signs of these health conditions. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response does not provide any specific warning signs of common health conditions like heart disease or diabetes as asked in the question. Instead, it seems to be repeating certain phrases without providing any meaningful information. Therefore, the response does not adhere to the instructions given in the prompt."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response initially starts off well by providing symptoms of common health conditions like heart disease or diabetes. However, after the first few points, the response becomes repetitive and irrelevant, repeatedly mentioning 'ಕೆಮ್ಮು' (chest pain) without any additional information. This indicates that while the model grasps and addresses the main theme of the instruction, it misses out on finer details or nuances, and includes extraneous details not asked for. Therefore, a score of 1 is given for task quality."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response starts off by addressing the question, providing symptoms of heart disease. However, it does not provide any symptoms of diabetes, which was also asked for in the question. Additionally, the response becomes repetitive and nonsensical towards the end, repeating 'ಕಾಲೋಚಿತ ಅನಾರೋಗ್ಯ' multiple times. Therefore, the response only partially aligns with the prompt and misses out on finer details, warranting a score of 1 according to the 'task_quality' metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a list of warning signs for common health conditions like heart disease or diabetes. These include increased breathing, fatigue, dizziness, frequent urination, weight loss, cold sweats, breathing trouble, or weakness. The response also advises to seek immediate medical help if these symptoms are noticed. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately and completely addresses the question. The question asks for warning signs of common health conditions like heart disease and diabetes, and the response provides a list of warning signs for both conditions. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric and earns a score of 2."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing the warning signs of common health conditions like heart disease and diabetes. It adheres to the instructions given in the prompt and provides a comprehensive answer without any deviation. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        }
+    },
+    {
+        "prompt_id": "1ec5b646-fe2b-45e5-8d33-b1a5e0d24fc9",
+        "prompt": "ನಿವೃತ್ತಿಗಾಗಿ ಉಳಿಸಲು ಕೆಲವು ಸಾಮಾನ್ಯ ತಂತ್ರಗಳು ಯಾವುವು?",
+        "prompt_type": "finance",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for some common strategies to save for retirement and the model provides a comprehensive list of strategies including pensions, retirement savings, stocks, real estate, mutual funds, gold investment, shares, other investments, and loans. The model also provides a brief explanation of each strategy, making the response informative and relevant. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 1,
+            "justification": "The response starts off well by providing some general strategies for saving for retirement, which aligns with the question. However, after the second point, the response becomes repetitive and does not provide any new or different strategies. The same strategy of automating savings and reviewing them every month is repeated multiple times, which does not fully address the question asking for 'some' strategies, implying a variety of different strategies. Therefore, the response only partially aligns with the prompt and misses out on finer details or nuances, warranting a score of 1 according to the 'task_quality' metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not provide any strategies for saving for retirement as asked in the question. Instead, it just repeats the question multiple times. This shows a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for some common strategies to save for retirement, and the model provides a list of strategies that are relevant and directly related to the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the model's response deserves a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks for some common strategies to save for retirement, and the model provides a list of five strategies, including regular savings, opportunity savings, investing, reducing unnecessary expenses, and planning for retirement. The response is directly related to the user's instruction and addresses all aspects of the question without any deviation or omission.",
+            "score": 2
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question asks for some common strategies to save for retirement, but the response is nonsensical and repetitive, with no clear strategies or advice provided. Therefore, according to the \"task_quality\" metric, the score is 0 as there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, which asks for common strategies to save for retirement. The response provides a list of six detailed strategies, including saving regularly, estimating the amount needed for retirement, investing in pension schemes, investing in secure long-term plans, analyzing ways to earn after spending, and reviewing and adjusting the retirement plan. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for common strategies to save for retirement. The response provides several strategies such as minimizing expenses, avoiding unnecessary expenditure, managing finances, and planning and execution. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response provided by the model is largely nonsensical and does not provide any useful or coherent strategies for saving for retirement, which was the question asked. The response includes words and phrases that do not make sense in the context of the question, such as 'ಚzimy', 'ಚುಚುಕು', and '낮아요'. Furthermore, the response repeats the same nonsensical phrase for each point, indicating a lack of understanding of the question and the information required to answer it. Therefore, the score is 0 as the model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for some common strategies to save for retirement and the model provides a detailed list of strategies, including creating a budget, building an emergency fund, utilizing retirement savings plans, automating your savings, investing, and increasing your savings. The response is comprehensive and addresses all aspects of the question without any deviation or extraneous details. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for some common strategies to save for retirement and the model provides a detailed list of strategies, covering various aspects such as starting early, regular contributions, diversifying investments, etc. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for some common strategies to save for retirement and the model provides a detailed list of strategies, covering various aspects such as starting early, automating savings, using tax-advantaged retirement plans, diversifying investments, creating a retirement plan, increasing savings, reviewing investments, considering extra savings. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks for some common strategies to save for retirement, and the model provides a comprehensive list of strategies, including regular savings, budgeting, retirement accounts, reducing unnecessary expenses, investment strategies, diversification of investments, advice from financial advisors, and insured insurance plans. The response is detailed and covers all aspects of the question, demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, a score of 2 is justified as per the \"task_quality\" metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks for some common strategies to save for retirement, and the model provides a detailed list of strategies, including time and compound interest, investing, and automated savings. The response is directly relevant to the question, and there is a clear and direct correlation between the user's instruction and the model's response.",
+            "score": 2
+        }
+    },
+    {
+        "prompt_id": "e41cb486-496f-465e-ad07-76fed94a4183",
+        "prompt": "ಉಳಿತಾಯ ಮತ್ತು ಹೂಡಿಕೆಯ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+        "prompt_type": "finance",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively answers the question about the difference between savings and investment. It explains the concepts in detail, highlighting the different aspects of each, such as the risk level, income level, and suitability for short-term and long-term financial goals. The response is directly relevant to the question and does not deviate from the topic. Therefore, it fully adheres to the task instructions and satisfies all aspects of the prompt."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks for the difference between savings and investment, and the model provides a detailed explanation of the differences, including the risk and return aspects of both. It adheres to the prompt's instructions and respects its nuances and subtleties.",
+            "score": 2
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. It merely repeats the question without providing any information about the difference between 'ಉಳಿತಾಯ' and 'ಹೂಡಿಕೆ'. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt. There is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the difference between savings and investment. It explains that savings refers to the funds and costs that a company retains to maintain its financial status, while investment refers to the new programs that a company implements to grow its financial status. The response adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and completely answers the question about the difference between savings and investment. It explains that savings is about preserving money, while investment is about growing money, and also mentions the associated risks. Therefore, the response adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question asks for the difference between 'ಉಳಿತಾಯ' and 'ಹೂಡಿಕೆಯ', but the response does not provide any information related to this. Instead, it repeats the phrase 'ಹೊಗಳಿಗೆ' multiple times, which does not make any sense in the context of the question. Therefore, the score is 0 as per the 'task_quality' metric, as there is a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and completely answers the question about the difference between 'savings' and 'investment'. It provides clear definitions for both terms and explains how they differ in the context of economics. The response adheres to the prompt's instructions and there's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, according to the 'task_quality' metric, the response deserves a score of 2."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining the difference between 'ಉಳಿತಾಯ' and 'ಹೂಡಿಕೆ'. It adheres to the prompt's instructions and provides a clear and direct answer to the question. There is no deviation from the topic and no aspect of the instruction is left unaddressed. Therefore, the response fully satisfies the 'task_quality' metric."
+        },
+        "google/gemma-7b-it": {
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question asks for the difference between 'ಉಳಿತಾಯ' and 'ಹೂಡಿಕೆ' (survival and hunting), but the response given by the model is a repetition of unrelated words and phrases, showing no connection to the question. Therefore, according to the 'task_quality' metric, the score is 0 as there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for the difference between savings and investment, and the model provides a detailed explanation of what each term means, their purposes, and the risks associated with them. It also clearly outlines the main differences between the two. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks for the difference between savings and investment, and the model provides a detailed explanation of what savings and investment are, how they work, and how they differ from each other. The response is comprehensive and directly addresses the question, leaving no aspect of the instruction unaddressed.",
+            "score": 2
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks for the difference between savings and investment, and the model provides a detailed explanation of what savings and investment are, and how they differ from each other. The response is directly relevant to the question, and there is a clear and direct correlation between the user's instruction and the model's response. The model has addressed all aspects of the instruction without any deviation or omission. Therefore, the score is 2."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks for the difference between savings and investment, and the model provides a detailed explanation of both concepts, highlighting their differences. It addresses all aspects of the question without any deviation or extraneous details. Therefore, according to the \"task_quality\" metric, the model's response deserves a score of 2."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "justification": "The response provided by the model is in direct alignment with the question asked. The question asks for the difference between savings and investment, and the model provides a detailed explanation of what savings and investment are, and how they differ. The response is relevant, accurate, and does not omit any requested specifics or include any extraneous details.",
+            "score": 2
+        }
+    },
+    {
+        "prompt_id": "bcb30da8-d92d-4fa5-b26e-9f98873c762a",
+        "prompt": "ಉತ್ತಮ ಕ್ರೆಡಿಟ್ ಅಭ್ಯಾಸಗಳನ್ನು ನಾನು ಹೇಗೆ ಸ್ಥಾಪಿಸಬಹುದು?",
+        "prompt_type": "finance",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 0,
+            "justification": "The response does not adhere to the specific directives given in the prompt. The question asks about how to establish good credit practices, but the response talks about improving health and making positive changes in daily life. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to establish good credit practices. It provides detailed advice on how to use a credit card responsibly, manage credit, and improve credit scores. It also emphasizes the importance of timely payments and monitoring credit scores before using a credit card. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not provide any useful information or answer to the question asked. The response merely repeats the question without providing any guidance or steps on how to establish good credit practices. This shows a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response provided by the model is in direct alignment with the question asked. The question asks about how to establish good credit practices, and the response provides a clear and concise explanation of how to do so. It mentions the need to have a credit card, determining the credit score, and the importance of managing and maintaining the credit used correctly. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, and the output holistically satisfies all aspects of the given directive without any deviation."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks for ways to establish good credit practices, and the model provides a detailed list of steps to do so. The response is directly related to the question, and it covers all aspects of the question without any deviation or extraneous details."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about how to establish good credit practices, but the response does not provide any information or steps on how to do so. Instead, it seems to be repeating phrases that do not make sense in the context of the question. Therefore, the score is 0 as per the \"task_quality\" metric, indicating a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "gpt-4": {
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks for ways to establish good credit practices, and the model provides a detailed list of practices that can help establish good credit. The response is directly relevant to the question, and it addresses all aspects of the question without any deviation or omission.",
+            "score": 2
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about how to establish good credit practices. It provides relevant suggestions such as maintaining a regular income, using a credit card, and making regular payments. The response does not deviate from the question's instruction and does not include any extraneous details. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "justification": "The response provided by the model is in direct alignment with the question asked. The question asks for ways to establish good credit practices, and the model provides a detailed list of steps to achieve this. The response is relevant, comprehensive, and directly addresses the question without any extraneous information. Therefore, the score of 2 is justified as the model demonstrates a precise understanding and adherence to the prompt's instructions.",
+            "score": 2
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response initially provides relevant and useful information on how to establish good credit practices. However, it then repeats the same point multiple times, which is not asked for in the question. This repetition of information is extraneous and not necessary, hence the response only partially aligns with the prompt."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to establish good credit practices, and the response provides a detailed list of steps to improve credit practices. The response is comprehensive and directly addresses the question, leaving no aspect of the instruction unaddressed. Therefore, the score of 2 is justified as the model demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response initially provides relevant and useful steps to establish good credit practices, which aligns with the question. However, it then repeats the same advice about avoiding loans from credit institutions multiple times, which is unnecessary and not asked for in the question. This repetition of information and the incomplete sentence at the end detract from the overall quality of the response."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response provided by the model perfectly aligns with the question asked. The question asks for ways to establish good credit practices, and the model provides a detailed list of steps to achieve this. The response is directly related to the question, and it addresses all aspects of the prompt without any deviation. Therefore, according to the \"task_quality\" metric, the model's response deserves a score of 2."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asks for ways to establish good credit practices, and the model provides a detailed and comprehensive list of steps to achieve this. It covers aspects like timely bill payments, limiting credit usage, and reviewing credit usage, which are all relevant and important points in the context of the question. Therefore, the model's response satisfies all aspects of the given directive without any deviation.",
+            "score": 2
+        }
+    },
+    {
+        "prompt_id": "ab117e7f-2f06-4517-a739-8850734bcbaa",
+        "prompt": "ಬ್ಯಾಂಕ್ ಖಾತೆಯಲ್ಲಿ ನಾನು ಯಾವ ಸೇವೆಗಳು ಮತ್ತು ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ನೋಡಬೇಕು?",
+        "prompt_type": "finance",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 0,
+            "justification": "The response does not adhere to the question. The question asks for the services and features to look for in a bank account, but the response only repeats the same feature, 'cash withdrawal', multiple times. This shows a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is not relevant to the question. The question asks about the services and features to look for in a bank account, but the response is repetitive and does not provide any useful information. It repeatedly mentions credit and debit cards, but does not provide any details about the services and features associated with them. Therefore, the response does not adhere to the specific directives given in the prompt."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks about the services and features to look for in a bank account, but the response merely repeats the question without providing any information or answering the question. Therefore, the model disregards the instructions entirely and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks about the services and features to look for in a bank account, and the response lists out various services and features such as security, control, credit and debit cards, personal and business services, internet and mobile banking, online passbook and smartphone application. The response is comprehensive and does not deviate from the question, hence the score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and completely addresses the question. The question asks for the services and features to look for in a bank account, and the response provides a comprehensive list of these, including account number and type, account status and balance, personal details and contact information, account-related features and facilities, money management and expense details, annual account report and tax details, and banking services and online banking facilities. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It mentions that the services and features of a bank account can be viewed through the bank's application and other banking resources. However, it does not provide specific details about what services and features to look for in a bank account, which was the main point of the question. Additionally, the response includes some repetitive and irrelevant information, such as the repeated mention of verifying one's rights in the bank application, which was not asked for in the question."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question. It lists the services and features that one should look for in a bank account, which is exactly what the question asked for. The response is directly relevant to the question and does not include any extraneous or irrelevant information. Therefore, it fully adheres to the instructions given in the question."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what services and features one should look for in a bank account. It suggests checking the account statement, balance, or through the bank branch or online banking. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric perfectly."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks about the services and features to look for in a bank account, and the response provides a detailed explanation of the different sections in a bank account where one can find information about the services and features. It covers account options, current features, and help articles, which are all relevant to the question. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks about the services and features to look for in a bank account, and the model provides a detailed list of services and features that one can expect from a bank account. The response is comprehensive and covers all aspects of the question, including deposit, withdrawal, transfers, foreign transactions, fees, account management, financial advice, and security. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question. It provides a detailed list of services and features that one can expect from a bank account, which is exactly what the question asked for. The response does not deviate from the topic, nor does it include any extraneous or irrelevant information. Therefore, it fully adheres to the task instructions and satisfies all aspects of the given directive."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response starts off well by addressing the question and providing relevant information about the services and features of a bank account. However, after the first two points, the response becomes repetitive and only mentions 'savings account' repeatedly without providing any new or different information. This indicates a partial alignment with the prompt but not a complete match, hence the score of 1."
+        },
+        "GPT4o": {
+            "justification": "The response provided by the model is a perfect match to the question asked. The question asks about the services and features to look for in a bank account, and the response lists out various services and features that one should look for when opening a bank account. The response is comprehensive and covers all aspects of the question, including free debit card, ATM usage, internet and mobile banking facilities, interest rate on the account, target account expenses, recurring and fixed deposits, free checkbooks, loan and credit card facilities, bill payments, shopping cards, and excellent customer service. Therefore, the score is 2 as the model demonstrates a precise understanding and adherence to the prompt's instructions, the output holistically satisfies all aspects of the given directive without any deviation, and there's a clear and direct correlation between the user's instruction and the model's response.",
+            "score": 2
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about what services and features to look for in a bank account. It provides a detailed explanation of the features such as account details and recent transactions, which are relevant to the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response adheres to the task quality metric and scores 2."
+        }
+    },
+    {
+        "prompt_id": "de0be292-6821-4f1e-8fac-b814e88f969c",
+        "prompt": "ಎಟಿಎಂ ಎಂದರೇನು ಮತ್ತು ಅದರೊಂದಿಗೆ ನಾನು ಏನು ಮಾಡಬಹುದು?",
+        "prompt_type": "finance",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 2,
+            "justification": "The response accurately explains what an ATM is and what one can do with it, which directly answers the question. It adheres to the instructions given in the prompt and satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 2,
+            "justification": "The response accurately explains what an ATM is and what one can do with it, which is exactly what the question asked for. The response covers all aspects of the question, including the meaning of ATM and the various functions it can perform such as withdrawing money, depositing money, and handling different types of money like checks. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "justification": "The response provided by the model is a repetition of the question itself, without providing any answer or information. The question asks what an ATM is and what can be done with it, but the model's response does not address these points at all. Therefore, according to the \"task_quality\" metric, the model's response scores a 0, as there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response partially aligns with the prompt. The question asks for the meaning of ATM and what one can do with it. The response correctly explains what ATM stands for but the explanation is not accurate. ATM stands for Automated Teller Machine and it is used for financial transactions like cash withdrawal, deposit, fund transfer, or account information. The response, however, mentions it as a woman who does electronic transactions. The second part of the response talks about participating in ATM programs and contributing to the development of the ATM institution, which is not relevant to the question. Therefore, the response misses out on finer details and includes extraneous details not asked for. Hence, the score is 1."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question by explaining what an ATM is and what one can do with it. It provides a comprehensive list of tasks that can be performed with an ATM, such as withdrawing money, checking account status, depositing money, and changing the PIN number. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks for the meaning of ATM and what one can do with it, but the response talks about some unrelated tasks and asking the supervisor. There is a clear disconnect between the question and the response, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately explains what an ATM is and what one can do with it, which is exactly what the question asked for. The response is comprehensive, covering various services provided by an ATM such as cash withdrawal, account information, depositing money, bill payments, ordering a check book, and changing the pin. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question about what an ATM is and what one can do with it. It adheres to the prompt's instructions and provides a clear and direct answer to the user's question. There is no aspect of the instruction left unaddressed, hence the score of 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The question asks about what an ATM is and what can be done with it. However, the response does not provide any information about an ATM or its uses. Instead, it talks about watching movies, listening to sound, and discussing movies, which are completely irrelevant to the question. Therefore, the score is 0 as per the \"task_quality\" metric because there is a clear disconnect between the user's request and the model's response, and the output is entirely irrelevant to the prompt."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately explains what an ATM is and what one can do with it, which directly answers the question. The response is comprehensive, covering various functionalities of an ATM such as depositing and withdrawing money, loading cash cards, and managing financial transactions. It also explains how to access an ATM account, check balance, withdraw money, and perform other financial tasks using a card pin. Therefore, the response adheres to the prompt's instructions completely and satisfies all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately explains what an ATM is and what one can do with it, which directly answers the question. The response is completely relevant to the question and does not deviate from the topic. It covers all aspects of the question, demonstrating a clear understanding of the prompt's instructions. Therefore, the response is awarded the highest score."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately explains what an ATM is and what one can do with it, which directly answers the question. It covers all aspects of the question without any deviation or omission, demonstrating a clear understanding and adherence to the prompt's instructions. Therefore, the response is awarded a score of 2 according to the 'task_quality' metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately explains what an ATM is and what one can do with it, which directly answers the question. It covers all aspects of the question without any deviation or omission, demonstrating a clear understanding and adherence to the prompt's instructions. Therefore, the response is awarded the highest score of 2 according to the 'task_quality' metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately explains what an ATM is and what one can do with it, which is exactly what the question asked for. The response provides a detailed explanation of how to use an ATM, including checking for an ATM in your location, inserting your card, entering the amount you want to withdraw, and returning your card before leaving. It also mentions that some ATMs offer car rentals, which is an additional service that can be done with an ATM. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        }
+    },
+    {
+        "prompt_id": "b49508fd-984f-41ea-a88c-c417853f34ef",
+        "prompt": "ಕಾವೇರಿ ನದಿ ಸಮಸ್ಯೆಯ ಐತಿಹಾಸಿಕ ಹಿನ್ನೆಲೆಯನ್ನು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ವಿವರಿಸಿ",
+        "prompt_type": "factual",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asked for a brief explanation of the historical background of the Kaveri river issue, and the model provided a detailed timeline of the issue, starting from the initial dispute between Karnataka, Tamil Nadu, and Kerala, to the various agreements made over the years, and the ongoing legal disputes. The response is comprehensive, accurate, and directly addresses the question, hence the score of 2."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 1,
+            "justification": "The response does address the main theme of the question, which is to explain the historical background of the Kaveri river issue. However, it does not provide a concise historical background as requested in the question. Instead, it provides a general overview of the issue, including its impact on drinking water, agriculture, and electricity production, and the conflicts arising from the distribution of water between different regions. The response also includes repetitive and irrelevant information, such as the repeated mention of the Godavari river. Therefore, the response partially aligns with the prompt but does not completely match it."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model does not address the question at all. The question asks for a brief explanation of the historical background of the Kaveri river issue, but the response merely repeats the question without providing any information or explanation. Therefore, according to the \"task_quality\" metric, the score is 0 because there is a clear disconnect between the user's request and the model's response. The model disregards the instructions entirely and the output is entirely irrelevant to the prompt."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and succinctly explains the historical background of the Kaveri river dispute, as requested in the prompt. It mentions the origin of the dispute, the states involved, and the importance of the river's water distribution for the economic and social development of the region. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a clear understanding and execution of the task."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "justification": "The response provided by the model is a concise explanation of the historical background of the Kaveri river dispute, which is exactly what the question asked for. The response includes details about the dispute between Karnataka and Tamil Nadu, the agreements made in 1892 and 1956, and the fact that the dispute remains unresolved. Therefore, the model's response is in direct correlation with the user's instruction, with no aspect of the instruction left unaddressed.",
+            "score": 2
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is largely irrelevant to the question. The question asks for a brief explanation of the historical background of the Kaveri river issue, but the response does not provide any historical context or details about the issue. Instead, it seems to be a nonsensical repetition of words and phrases. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, providing a succinct historical background of the Kaveri river dispute. It mentions the main states involved, the reasons for the dispute, and the attempts made to resolve it. The response also highlights the complexities of the issue, including geographical, economic, cultural, and political diversity. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response provides a general description of the Kaveri river and its importance, but it does not specifically address the historical background of the Kaveri river dispute, which is what the question asked for. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match. This is why a score of 1 is given."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response provided by the model is in line with the question asked. The question asks for a brief explanation of the historical background of the Kaveri river dispute, and the model provides a detailed historical context of the Kaveri river, including its significance in Indian history, its role in wars, and its importance in the southern part of India. The response is relevant, accurate, and adheres to the instructions given in the prompt, hence the score of 2. The model demonstrates a precise understanding and adherence to the prompt's instructions, and the output holistically satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, which asked for a brief explanation of the historical background of the Kaveri River issue. The response provides a detailed historical overview of the issue, including the initiation of the Kaveri-Ganga water project by the Indian government in the 19th century, the construction of water channels, the problems caused by the project, and recent measures to resolve the issue. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding of the question and providing a thorough answer."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, providing a historical overview of the Kaveri River dispute. It starts from the 1950s and goes up to the present day, detailing the disagreements and discussions between the states involved. The response adheres to the prompt's instructions and provides a succinct explanation of the historical background of the Kaveri River issue, as requested in the question. Therefore, it scores 2 on the task quality metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, which asked for a brief explanation of the historical background of the Kaveri River dispute. The response provides a detailed account of the dispute, including its origins in the 1990s, the conflict between Karnataka and Andhra Pradesh over water distribution, the agreement reached in 1996, and the subsequent impact of this agreement. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GPT4o": {
+            "justification": "The response provided by the model is a comprehensive and concise explanation of the historical background of the Kaveri river dispute, which is exactly what the question asked for. The response includes details about the states involved in the dispute, the origin of the problem, the agreements made in 1892 and 1924, the controversy that arose after the expiration of the 1924 agreement, the establishment of the Cauvery Water Disputes Tribunal (CWDT) in 1990, the verdict given by the tribunal in 2007, and the Supreme Court's decision in 2018. Therefore, the model's response perfectly aligns with the user's instruction, with no aspect of the instruction left unaddressed.",
+            "score": 2
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively addresses the question, providing a brief explanation of the historical background of the Kaveri River dispute. It mentions the dispute over water distribution, the regions affected, and the complex context of water rights between India and Sri Lanka. It also provides a timeline, tracing the root of the issue back to the 19th century and highlighting significant events in the 1950s. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        }
+    },
+    {
+        "prompt_id": "b67b4668-90c1-45d4-ad99-2d4fb2eb470b",
+        "prompt": "ಕರ್ನಾಟಕದ ಅನೇಕ ಸ್ಥಳಗಳು ರಾಮಾಯಣದಲ್ಲಿ ಉಲ್ಲೇಖ್ಯವಾಗಿವೆ, ಅವುಗಳ ಮಹತ್ವ ಏನು?",
+        "prompt_type": "cultural",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 0,
+            "justification": "The response does not address the question at all. The question asks about the significance of various places in Karnataka that are mentioned in the Ramayana, but the response provides a general description of various places in Karnataka without any reference to the Ramayana. Therefore, the response does not adhere to the specific directives given in the prompt."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "justification": "The response provided by the model partially aligns with the prompt. The question asks for the significance of the places in Karnataka mentioned in the Ramayana, but the model's response talks about the places in Karnataka that are mentioned in the Mahabharata. While the model does provide detailed descriptions of the places, it does not correctly address the prompt's request for information about the Ramayana. Therefore, the score is 1, indicating that the model grasps and addresses the main theme of the instruction but misses out on finer details or nuances.",
+            "score": 1
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question asks about the significance of various places in Karnataka mentioned in the Ramayana, but the response is nonsensical and repetitive, without providing any information about the significance of these places. Therefore, according to the \"task_quality\" metric, the model's response scores a 0 as it disregards the instructions entirely and the output is entirely irrelevant to the prompt.",
+            "score": 0
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the significance of the places in Karnataka mentioned in the Ramayana. It explains that these places represent cultural significance and are part of India's cultural heritage. The response is directly related to the user's instruction and does not deviate from the topic. Therefore, it fully satisfies the task quality metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by listing several places in Karnataka that are mentioned in the Ramayana and explaining their significance. The response is directly related to the question and does not deviate from the topic. It provides a comprehensive answer, satisfying all aspects of the given directive. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question asks about the significance of various places in Karnataka mentioned in the Ramayana, but the response talks about the characters in the Ramayana instead. There is a clear disconnect between the question and the response, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asked for the significance of various places in Karnataka mentioned in the Ramayana, and the model provided a detailed explanation of the importance of each place, including their religious and historical significance. The model's response is comprehensive and directly addresses the question, leaving no aspect of the instruction unaddressed. Therefore, a score of 2 is justified."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It mentions that the places in Karnataka mentioned in Ramayana have significance and are filled with dramatic and religious roots. However, it does not provide specific details about the importance of these places as asked in the question. Therefore, the response is somewhat aligned with the prompt but lacks the complete information requested."
+        },
+        "google/gemma-7b-it": {
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks about the significance of the many places in Karnataka that are mentioned in the Ramayana, and the model's response provides a detailed explanation of their religious, historical, cultural, and touristic significance. The model has adhered to the instructions in the prompt and has addressed all aspects of the question without any deviation.",
+            "score": 2
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response does mention several places in Karnataka that are referenced in the Ramayana, which aligns with the question. However, the response repeats the same information about 'Seethalaya' three times, which is unnecessary and not asked for in the question. Additionally, the response does not fully address the 'significance' of these places as asked in the question. It only mentions that these places are now tourist attractions and represent the adventures of Ram and Sita, but does not delve into the specific significance of each place in the context of the Ramayana. Therefore, the response partially aligns with the prompt but misses out on some details, earning a score of 1."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "justification": "The response starts off well by addressing the question about the significance of the places in Karnataka mentioned in the Ramayana. It mentions that these places symbolize the stories that occurred in the ancient kingdom of Rama and their importance lies in their historical and cultural prominence. However, the response then becomes repetitive and does not provide specific examples or details about these places, which would have been expected given the question. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match.",
+            "score": 1
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the significance of the places in Karnataka mentioned in the Ramayana. It provides examples of such places and explains their importance in the context of the epic. The response is directly related to the question and does not deviate from the topic. It does not omit any requested specifics or include any extraneous details. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing detailed information about the significance of various places in Karnataka mentioned in the Ramayana. It provides specific examples such as Kishkindha (Hampi), Anjanadri hill (Sasvad), Kushi Parvatha, and Melukote, explaining their relevance to the Ramayana. The response is in line with the prompt's instructions, demonstrating a clear understanding and adherence to the question asked. Therefore, it scores 2 on the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the significance of the places in Karnataka mentioned in the Ramayana. It provides specific examples of such places and explains their historical and cultural importance, as per the question's instructions. The response does not deviate from the question's directive and does not leave any aspect of the instruction unaddressed. Therefore, it demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        }
+    },
+    {
+        "prompt_id": "140ad248-4fd4-4e03-a8bc-65a6cd7428b8",
+        "prompt": "ಕರಾವಳಿ ಪ್ರದೇಶದಲ್ಲಿ ಆಚರಿಸುವ ಭೂತಾರಾಧನೆ ಪದ್ಧತಿಯ ಬಗ್ಗೆ ವಿವರಿಸಿ",
+        "prompt_type": "cultural",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 0,
+            "justification": "The response is simply a repetition of the question and does not provide any information about the ritual of ghost worship in the coastal region as asked in the question. Therefore, it completely disregards the instructions given in the prompt, making it irrelevant and showing a clear disconnect between the user's request and the model's response. Hence, the score is 0."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 1,
+            "justification": "The response does address the main theme of the instruction, which is to explain the method of ghost worship in the coastal region. However, it misses out on finer details or nuances. The response is repetitive and does not provide a comprehensive explanation of the method of ghost worship. It also does not provide any specific details about the rituals, practices, or beliefs associated with ghost worship in the coastal region. Therefore, the response only partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks for an explanation of the method of ghost worship practiced in the coastal region, but the response is a repetition of the question itself, followed by an unrelated English translation about reporting a pothole. There is a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response starts off by addressing the question, providing information about the tradition of ghost worship in the coastal region. However, the rest of the response is repetitive, repeating the same sentence three times. This repetition does not provide any additional information or details about the ghost worship tradition, which was asked in the question. Therefore, the response only partially aligns with the prompt, missing out on finer details or nuances, which is why it receives a score of 1 according to the 'task_quality' metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks to explain the method of ghost worship practiced in the coastal region, and the response accurately describes the method, stating that it is an ancient and popular practice where ghosts, which are considered as the souls of ancestors or gods, are worshipped. The response also mentions that this practice is a part of the culture and tradition of the coastal region. Therefore, the model's response satisfies all aspects of the given directive without any deviation."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not provide any information about the Bhootaradhane rituals practiced in the coastal region, as asked in the question. Instead, it repeats the same phrase multiple times, which is irrelevant and does not adhere to the instructions given in the prompt. Therefore, the score is 0 as per the 'task_quality' metric."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately describes the tradition of Bhoota Aradhane or Bhoot Kola practiced in the coastal region, as asked in the question. It provides a comprehensive explanation of the rituals, music, dance, and storytelling involved in the tradition, and how they relate to local mythological stories and historical events. The response also highlights the main features of the tradition, such as laughter, tandava, running, jumping, crying, and sacrifice. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding of the question and providing a detailed and relevant answer."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately describes the tradition of ghost worship in the coastal region, as requested in the prompt. It provides details about the tradition, including the belief that it brings health and family happiness. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a clear and direct correlation between the user's instruction and the model's response. No aspect of the instruction is left unaddressed, hence the score of 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It mentions that the Bhootaradhane practice in the Karavali region is a historical tradition that has been followed since the 16th-18th centuries, and it encompasses the history, religiosity, and culture of Bhootaradhane. However, the response does not provide a detailed explanation of the Bhootaradhane practice as asked in the question. It also repeats the same information multiple times, which does not add any new or relevant details to the answer. Therefore, the response only partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately describes the practice of ghost worship in the coastal region, as requested in the question. It covers various aspects of the practice, including the general respect for ghosts, the offerings made to them, the sounds made to welcome them, the cultural elements related to ghosts, and the social and cultural significance of these practices in the coastal region. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding and execution of the task."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately describes the ritual of Bhootaradhane practiced in the coastal region, as asked in the question. It provides a detailed explanation of the ritual, its significance, and the steps involved in it. The response is directly related to the user's instruction and addresses all aspects of the question without any deviation or omission. Therefore, the response fully adheres to the task quality metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately and comprehensively describes the practice of ghost worship in the coastal region, as requested in the prompt. It covers various aspects of the practice, including when it is typically conducted, the belief behind it, the tools used, and the people who participate. It also emphasizes the cultural significance of the practice in the region. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for an explanation of the Bhootaradhane ritual practiced in the coastal region, and the response provides a detailed explanation of the same, including the communities involved, the process, the cultural significance, and the deities worshipped. The response does not deviate from the topic and does not include any extraneous details. Therefore, the score is 2 as per the 'task_quality' metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately describes the method of ghost worship practiced in the coastal region, as requested in the question. It provides a detailed explanation of the ceremony, including where it is usually held, who it is dedicated to, and what the ceremony typically involves. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a clear and direct correlation between the user's instruction and the model's response. No aspect of the instruction is left unaddressed, hence the score of 2."
+        }
+    },
+    {
+        "prompt_id": "829b706a-574f-45d4-bdf1-e4923db2e838",
+        "prompt": "ಉತ್ತರ ಕರ್ನಾಟಕದಲ್ಲಿ ಬಳಕೆಯಲ್ಲಿರುವ ಕನ್ನಡ ಹಾಗು ಬೆಂಗಳೂರು ಕನ್ನಡದ ಮಧ್ಯೆ ಇರುವ ವ್ಯತ್ಯಾಸಗಳೇನು?",
+        "prompt_type": "cultural",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a detailed comparison between the Kannada language used in North Karnataka and Bangalore. It discusses the differences in terms of dialect, vocabulary, grammar, cultural diversity, and usage, which aligns perfectly with the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, a score of 2 is justified."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 1,
+            "justification": "The response provided by the model does address the main theme of the question, which is the difference between Kannada used in North Karnataka and Bangalore. However, the response is repetitive and lacks clarity. The same examples are repeated multiple times without providing any new information. This indicates that while the model has grasped the main theme, it has missed out on finer details and nuances, leading to a score of 1."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model does not answer the question asked. The question asks for the differences between the Kannada used in North Karnataka and the Kannada used in Bangalore. However, the response given by the model is not relevant to the question and does not provide any information about the differences between the two dialects of Kannada. Therefore, the score is 0 as per the \"task_quality\" metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing differences between the Kannada language used in North Karnataka and Bangalore. It mentions the use of more native words in North Karnataka Kannada, the use of more English and foreign words in Bangalore Kannada, and the prevalence of proverbs and common people's words in North Karnataka Kannada. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing differences between the Kannada language used in North Karnataka and Bangalore. It provides specific examples of pronunciation, influence of other languages, and the usage of words in both regions. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response partially addresses the question. The question asks for the differences between Kannada spoken in North Karnataka and Bengaluru. The response mentions that Kannada is spoken extensively in North Karnataka and that in Bengaluru, major institutions ensure Kannada is prevalent. However, it does not provide specific differences in the dialects, accents, or usage of words between the two regions, which is what the question seems to be asking for. Therefore, the response is somewhat relevant but not a complete match to the question."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining the differences between Kannada spoken in North Karnataka and Bangalore. It mentions differences in pronunciation and word choice, which are key aspects of language variation. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence the score of 2."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining the differences between Kannada used in North Karnataka and Bangalore. It mentions that North Karnataka Kannada is more traditional and used by older generations, while Bangalore Kannada is a mix of old and new and is more structured. This aligns perfectly with the question, demonstrating a precise understanding and adherence to the prompt's instructions. Therefore, a score of 2 is justified as per the 'task_quality' metric."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asks for the differences between the Kannada used in North Karnataka and Bangalore, and the model provides a detailed explanation of the differences in language, local governance, and culture. The response is comprehensive and does not deviate from the question, hence the score of 2. The model demonstrates a precise understanding and adherence to the prompt's instructions, and the output holistically satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response provided by the model does address the main theme of the question, which is the differences between the Kannada used in North Karnataka and Bangalore. However, the response is repetitive and lacks specific examples or details that would illustrate these differences. The response also includes extraneous details not asked for, such as the mention of Chennaballapura. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for the differences between Kannada used in North Karnataka and Bangalore Kannada. The response provides a detailed explanation of the differences in pronunciation, usage of words and phrases, and the influence of local culture and social context. It adheres to the instructions given in the prompt and satisfies all aspects of the given directive without any deviation. Therefore, the response demonstrates a precise understanding of the prompt's instructions and there's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a detailed comparison between the Kannada language used in North Karnataka and Bangalore. It discusses the differences in terms of traditionalism, usage of old-style words and grammar, modernity, prevalence, complexity of grammar and vocabulary, and interaction with other languages. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing clear differences between the Kannada language used in North Karnataka and Bangalore. It covers aspects such as pronunciation, usage of words, and cultural influences on the language, which are all relevant to the question. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by explaining the differences between the Kannada language used in North Karnataka and Bangalore. It mentions the differences in pronunciation, words, and grammar patterns, which are the key aspects of language variation. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, a score of 2 is justified."
+        }
+    },
+    {
+        "prompt_id": "97454a35-87fc-4b45-96c8-1b4d20c79c40",
+        "prompt": "ವಾಟಾಳ್ ನಾಗರಾಜ್ ಯಾರು? ಅವರ ಸಾಧನೆಗಳೇನು?",
+        "prompt_type": "factual",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "justification": "The response provided by the model is in complete alignment with the question asked. The question asked about who Vatal Nagaraj is and what his achievements are. The response accurately describes Vatal Nagaraj as a famous film director, producer, actor, songwriter, and politician from Karnataka. It also lists his achievements, including the awards he has won and his political career. Therefore, the model's response fully satisfies the prompt's instructions without any deviation.",
+            "score": 2
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "justification": "The response accurately identifies who Vatal Nagaraj is and outlines his achievements, which is exactly what the question asked for. The response provides a comprehensive overview of Vatal Nagaraj's life, his work as a poet and human rights activist, his literary career, and the awards he has received. Therefore, the response fully satisfies the prompt's instructions without any deviation.",
+            "score": 2
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not provide any information about who Vatal Nagaraj is or what his achievements are. Instead, it simply repeats the question. This shows a clear disconnect between the user's request and the model's response, and the model disregards the instructions entirely. Therefore, the score is 0 according to the 'task_quality' metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately identifies Vatal Nagaraj as an Indian social worker and politician, and a member of the Indian National Congress. It also mentions his role as an assistant to India's first Prime Minister, Jawaharlal Nehru, and his active participation in India's independence movement. This information aligns perfectly with the question, which asked for information about who Vatal Nagaraj is and his achievements. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding and execution of the task."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately identifies Vataal Nagaraj as an Indian scientist and engineer, and the first scientist to join the Indian army. It also mentions his contributions to drone technology and his leadership in the development of the first drone for the Indian army. The response also mentions that he has received several awards. This information aligns perfectly with the question asking who Vataal Nagaraj is and what his achievements are. Therefore, the response adheres to the prompt's instructions completely and accurately, warranting a score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not provide any relevant information about who Vatal Nagaraj is or his achievements. Instead, it seems to be repeating phrases and words without any clear context or meaning. The response does not adhere to the specific directives given in the prompt, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately identifies Vataal Nagaraj as a remarkable mathematician and record-setting officer who travels across India delivering mathematical lectures. It also highlights his unique ability to perform rapid calculations and his numerous world records, which are his achievements. The response is in complete alignment with the question, addressing both who Vataal Nagaraj is and his accomplishments. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding and execution of the task."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately identifies Vatal Nagaraj as a prominent actor in the Indian film industry, particularly in Kannada cinema, which directly answers the first part of the question. It also mentions that he has received various awards and accolades, which addresses the second part of the question about his achievements. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "justification": "The response partially aligns with the prompt. The model correctly identifies who Vatal Nagaraj is and mentions that he is a famous actor who has made significant contributions to Indian cinema. However, the response does not provide specific details about his achievements, which was a part of the question. The response is repetitive and lacks depth in terms of the information provided about Vatal Nagaraj's accomplishments.",
+            "score": 1
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response does address the main theme of the question, which is to provide information about who Vatal Nagaraj is and his achievements. However, the response lacks in providing a comprehensive list of his achievements. It only mentions his work for workers' rights in the 1960s and his support for Indian athletes in the 1968 championship. Moreover, the same achievement is repeated multiple times, which is not asked for in the question. Therefore, the response partially aligns with the prompt but does not completely match it."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response correctly identifies Vatal Nagaraj as a prominent activist and social worker, and mentions his advocacy for the rights of senior Muslim women in India during the 1970s. However, the response is repetitive and does not provide a comprehensive list of his achievements, as requested in the question. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "justification": "The response correctly identifies who Vatal Nagaraj is and mentions that he was a part of the Indian cricket team in 1993. However, the response then repeats the same information multiple times, which is unnecessary and not asked for in the question. Furthermore, the response does not provide any specific achievements of Vatal Nagaraj, which was a part of the question. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match.",
+            "score": 1
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately identifies Vatal Nagaraj as a prominent political leader and activist from Karnataka, and lists his achievements in detail, as requested in the question. The response covers his fight for the rights of Kannadigas, his efforts to promote Kannada, his work for farmers and workers, and his involvement in environmental issues in Karnataka. The response also mentions his influence beyond Karnataka. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding and execution of the task."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately identifies Vatal Nagaraj as a prominent Indian scientist, economist, and political scientist. It also provides a detailed account of his achievements in various fields, including economics and political science, and his role as a mentor to Indian students. This aligns perfectly with the question, which asks who Vatal Nagaraj is and what his achievements are. Therefore, the response fully adheres to the instructions given in the prompt, demonstrating a precise understanding and adherence to the prompt's instructions."
+        }
+    },
+    {
+        "prompt_id": "1f175a88-fa1f-4f6f-9a31-3d06b1339f5b",
+        "prompt": "ಬೆಂಗಳೂರು ನಗರದ ಟ್ರಾಫಿಕ್ ಸಾಂಚಾರದ ಬಗ್ಗೆ ಇರುವ ಹಾಸ್ಯಾಸ್ಪದ ಸಂಗತಿಗಳೇನು?",
+        "prompt_type": "cultural",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 0,
+            "justification": "The response is repetitive and does not provide a variety of humorous aspects about Bangalore's traffic as asked in the question. All the points mentioned in the response are the same, which does not adhere to the specific directives given in the prompt. Therefore, the score is 0 as per the 'task_quality' metric."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 0,
+            "justification": "The question asks for humorous aspects about the traffic situation in Bangalore city. However, the response provided does not address this aspect at all. Instead, it provides a serious analysis of the traffic situation in Bangalore, discussing the city's efforts to manage and reduce traffic congestion. Therefore, the response does not adhere to the specific directives given in the prompt, resulting in a score of 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not provide any humorous aspects about the traffic situation in Bangalore city as asked in the question. Instead, it seems to be repeating the question itself in different ways. Therefore, the model's response does not adhere to the specific directives given in the prompt, making it irrelevant to the prompt."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response does address the main theme of the question, which is about humorous aspects of Bangalore city's traffic. However, it misses out on the 'humorous' part of the question and instead provides a serious observation about the traffic situation in Bangalore. The response is partially aligned with the prompt, indicating some elements of relevance, but not a complete match. Therefore, a score of 1 is justified as per the 'task_quality' metric."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately and completely addresses the question. The question asks for humorous aspects of Bangalore city's traffic, and the response provides several examples of such aspects, including malfunctioning traffic signals, pedestrians walking on the road, autorickshaws driving at high speed and causing obstruction, and drivers not following traffic rules. There is a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed. Therefore, the response fully adheres to the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question asks for humorous aspects of traffic in Bangalore city, but the response talks about various deities and has no connection to the traffic situation in Bangalore. Therefore, according to the 'task_quality' metric, the score is 0 as there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response 'Information not available' does not adhere to the specific directives given in the prompt. The question asks for humorous aspects about the traffic situation in Bangalore city, but the response does not provide any such information. Therefore, there is a clear disconnect between the user's request and the model's response, which leads to a score of 0 according to the 'task_quality' metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for humorous aspects of Bangalore's traffic. The response mentions the amusing aspects related to the traffic situation in Bangalore, such as the antics of the drivers. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response provided by the model does not align with the question asked. The question asks for humorous aspects about the traffic situation in Bangalore city. However, the response provided by the model does not contain any humorous aspects. Instead, it seems to be a list of traffic-related terms or phrases, which do not provide any humorous or amusing insights about the traffic situation in Bangalore. Therefore, the score is 0 as there is a clear disconnect between the user's request and the model's response."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response does provide information about the traffic situation in Bangalore, but it does not adhere to the specific directive of the prompt, which asks for humorous aspects of the traffic situation. The response lists facts about the traffic situation, but does not provide any humorous anecdotes or aspects. Therefore, the response partially aligns with the prompt, indicating some elements of relevance, but not a complete match."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for humorous aspects of traffic in Bangalore city. The response provides two examples: people taking their cars out to avoid traffic jams, and people scrolling through social media while stuck in traffic. Both of these examples are relevant and directly answer the question. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "justification": "The response provided by the model is repetitive and does not provide any humorous aspects about the traffic situation in Bangalore city, as asked in the question. The model simply repeats the same phrase over and over again without providing any relevant information. Therefore, the score is 0 as there is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response provided by the model is in perfect alignment with the question asked. The question asked for humorous aspects about the traffic situation in Bangalore city, and the model provided a list of humorous observations about the same. Each point provided by the model is relevant to the question and adds a humorous perspective to the traffic situation in Bangalore. Therefore, the model has demonstrated a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for a humorous aspect of Bangalore's traffic. The response provides a humorous perspective, stating that residents of Bangalore consider traffic jams as opportunities, implying that they experience them so frequently. Therefore, the response adheres to the specific directives given in the prompt, demonstrating a precise understanding and adherence to the prompt's instructions. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        }
+    },
+    {
+        "prompt_id": "a2a7d46e-bf34-4c2f-bfae-8c58a7e9873e",
+        "prompt": "ಹೊರರಾಜ್ಯದ ಬೆಂಗಳೂರಿನ ನಿವಾಸಿಗಳ ಬಗ್ಗೆ ಕನ್ನಡಿಗರಲ್ಲಿ ಏನು ಅಭಿಪ್ರಾಯವಿದೆ?",
+        "prompt_type": "cultural",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 1,
+            "justification": "The response partially aligns with the question. The question asks about the opinion of Kannadigas about the residents of Bangalore from other countries. The response mentions that Kannadigas have developed an opinion about these residents, but it does not specify what that opinion is. Therefore, the response misses out on the finer details or nuances of the question."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 2,
+            "justification": "The response provided by the model is in direct alignment with the question asked. The question asks for the opinion of Kannadigas about the residents of Bangalore from other states, and the response accurately provides a general opinion of Kannadigas, stating that they are generally optimistic about these residents. The response does not deviate from the topic, includes no extraneous details, and leaves no aspect of the instruction unaddressed. Therefore, the model's response earns a score of 2 according to the \"task_quality\" metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "justification": "The response provided by the model is a repetition of the question itself, without providing any new information or answering the question. The model has not adhered to the task of providing an answer to the question, hence it disregards the instructions entirely.",
+            "score": 0
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the opinion of Kannadigas on the residents of Bangalore from other states. It provides a balanced view, mentioning that there are varied opinions among Kannadigas, with some accepting them as part of their culture and others viewing them as against their culture. The response also mentions the difficulty in accepting these residents among Kannadigas. Therefore, the response adheres to the prompt's instructions and respects its nuances, satisfying all aspects of the given directive without any deviation."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the opinion of Kannadigas on residents of Bangalore from other states. It provides a balanced view, mentioning that some welcome them for their contribution to Bangalore's economic growth, while others oppose them for reducing job opportunities for Kannadigas. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not relevant to the question asked. The question asks about the opinion of Kannadigas on the residents of Bangalore from other states, but the response does not provide any information on this. Instead, it seems to be a random collection of words and phrases that do not form a coherent answer. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response."
+        },
+        "gpt-4": {
+            "score": 1,
+            "justification": "The response provided by the model is partially aligned with the prompt. The question asks for the opinion of Kannadigas about the residents of Bangalore from other states. The model does not provide a specific answer but rather explains that opinions can vary based on individual experiences and emotions. While this is a valid point, it does not directly answer the question. Therefore, the model grasps and addresses the main theme of the instruction but misses out on finer details or nuances."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the opinion of Kannadigas on the residents of Bangalore from other states. It provides a detailed explanation of the issues Kannadigas generally face, such as the changing environment, water scarcity, and the lack of foreign languages and cultures. It also mentions how Kannadigas react to these issues through Kannada community organizations. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question asks for the opinion of Kannadigas about the residents of Bangalore from other states, but the response talks about the culture, language, and other aspects of Kannadigas themselves. There is a clear disconnect between the question and the response, hence the score of 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the opinions of Kannadigas towards residents of Bangalore from other states. It provides a comprehensive view of the different perspectives, including those who welcome outsiders, those who see them as potential threats, and those who believe they disrupt local communities and culture. The response does not deviate from the question and does not include any extraneous details. Therefore, it fully adheres to the task instructions and deserves a score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the opinion of Kannadigas on residents of Bangalore from other states. It provides a balanced view, mentioning both the positive aspects such as the city's diverse culture, excellent infrastructure, and job opportunities, as well as the challenges like increased cost of living. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score of 2 is justified."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response provided by the model does address the main theme of the question, which is about the opinion of Kannadigas on the residents of Bangalore from other states. However, the model does not provide a direct answer to the question. Instead, it outlines a plan to collect data and conduct surveys to answer the question. While this is relevant to the question, it does not directly answer it, hence the score of 1. The model misses out on the finer detail of the question, which is to provide an opinion, not a plan to gather one."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the opinion of Kannadigas on residents from other countries living in Bangalore. It provides a balanced view, acknowledging that opinions may vary, and then goes on to detail some of these potential perspectives. The response does not deviate from the question, nor does it include extraneous details. Therefore, it fully adheres to the task's instructions, demonstrating a precise understanding of the prompt."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the opinion of Kannadigas on the residents of Bangalore from other states. It provides a balanced view, mentioning that some Kannadigas respect their culture and lifestyle, while others question their traditions and social expectations. It also highlights that Kannadigas generally respect their culture and recognize their prominence. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding of the question, and satisfying all aspects of the given directive without any deviation."
+        }
+    },
+    {
+        "prompt_id": "561143a8-6533-4b06-8b28-d85c3b47e67c",
+        "prompt": "ಮೊಹಮ್ಮದ್ ಆದಿಲ್ ಶಾ ಮತ್ತು ಟೀಪು ಸುಲ್ತಾನ್ ಆಳ್ವಿಕೆಯಲ್ಲಿ ಹಿಂದೂ ಧರ್ಮದ ಬಗ್ಗೆ ತೋರಿದ ನೀತಿಗಳಲ್ಲಿ ಏನು ವ್ಯತ್ಯಾಸಗಳಿವೆ?",
+        "prompt_type": "factual",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for the differences in policies towards Hinduism under the rule of Mohammad Adil Shah and Tipu Sultan. The response provides a clear distinction, stating that under Mohammad Adil Shah, Hindus had complete religious freedom and could practice their religious rituals and beliefs freely, while under Tipu Sultan, there were some restrictions on their religious practices. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "justification": "The response provided by the model does not address the question asked. The question asks for the differences in the policies shown towards Hinduism during the reigns of Mohammad Adil Shah and Tipu Sultan. However, the response discusses the differences between Islam and Hinduism, which is not relevant to the question asked. Therefore, the score is 0 as per the 'task_quality' metric, indicating a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response provided by the model does not answer the question at all. The question asks for the differences in the policies towards Hinduism during the reigns of Mohammad Adil Shah and Tipu Sultan. However, the response merely repeats the question without providing any information on the differences in their policies. Therefore, the model's response is entirely irrelevant to the prompt, and there is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for the differences in policies towards Hinduism during the reigns of Mohammad Adil Shah and Tipu Sultan. The response clearly states that Mohammad Adil Shah was a proponent of Hinduism and praised Hindu culture, while Tipu Sultan acted against Hinduism and opposed its practices. Therefore, the response fully adheres to the prompt's instructions and provides a clear and direct answer to the question, satisfying all aspects of the given directive without any deviation."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing the differences in the policies towards Hinduism during the reigns of Mohammad Adil Shah and Tipu Sultan. It provides specific examples of their actions, demonstrating a precise understanding and adherence to the prompt's instructions. The output holistically satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not answer the question. The question asks for the differences in the policies towards Hinduism during the reigns of Mohammad Adil Shah and Tipu Sultan. However, the response does not provide any specific differences. It repeats the same phrases multiple times and does not provide any clear or coherent information. Therefore, the response does not adhere to the instructions given in the prompt."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for the differences in policies towards Hinduism under the rule of Mohammad Adil Shah and Tipu Sultan. The response provides a clear comparison, stating that Mohammad Adil Shah showed more respect towards Hindu rituals and traditions, while Tipu Sultan encouraged Muslims to follow their path and sometimes forcefully converted Hindus to Islam. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding of the question and providing a comprehensive answer. Hence, the score of 2 is justified."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for the differences in the policies towards Hinduism under the rule of Mohammad Adil Shah and Tipu Sultan. The response provides a clear comparison, stating that Mohammad Adil Shah strived for the growth of Hinduism, while Tipu Sultan established many rules regarding faith and allowed Hindus to practice their religion freely. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response provided does not answer the question asked. The question asks for the differences in the policies shown towards Hinduism during the reigns of Mohammad Adil Shah and Tipu Sultan. However, the response does not mention either of these rulers or their policies. Instead, it provides generic statements about the perception of religion, which are not relevant to the question. Therefore, the score is 0 as there is a clear disconnect between the user's request and the model's response."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, providing a detailed comparison of the policies towards Hinduism under the rule of Mohammad Adil Shah and Tipu Sultan. It provides specific examples of their different approaches, such as their treatment of Hindu temples, their attitudes towards Hindu religious practices, and their impact on Hindu-Muslim relations. The response is directly relevant to the question and does not include any extraneous details. Therefore, it fully adheres to the task instructions and deserves a score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for the differences in policies towards Hinduism during the reigns of Mohammad Adil Shah and Tipu Sultan. The response provides a detailed comparison of the two rulers' policies, highlighting how Mohammad Adil Shah supported the growth and development of Hinduism, while Tipu Sultan discouraged it. The response is directly relevant to the question and does not include any extraneous details. Therefore, it fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a clear comparison of the policies towards Hinduism under the rule of Mohammad Adil Shah and Tipu Sultan. It provides specific details about how each ruler treated Hinduism, highlighting the differences in their approaches. The response is directly relevant to the question and does not include any extraneous details. Therefore, it fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question, which asks for differences in the policies towards Hinduism during the reigns of Mohammad Adil Shah and Tipu Sultan. The response provides a detailed comparison of their policies, highlighting the key differences. It mentions that Adil Shah generally encouraged religious tolerance and equality, supported Hindu temples and scholars, and promoted artists, while Tipu Sultan's policies were more rigid and harsh towards Hindus, with allegations of destruction of Hindu temples and violence against Hindus, although there are also records of him donating to some Hindu temples. Therefore, the response fully adheres to the prompt's instructions, demonstrating a precise understanding of the question and providing a comprehensive answer."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question by providing a comparison of the policies towards Hinduism under the rule of Mohammad Adil Shah and Tipu Sultan. It provides specific examples of how the policies differed, such as the inclusion of Hindu councils in government under Mohammad Adil Shah and the permission for Hindus and other religious groups to form their own councils under Tipu Sultan. The response also mentions the difference in the practice of Hinduism under the two rulers. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question."
+        }
+    },
+    {
+        "prompt_id": "9b16d388-428d-4e37-bd6e-771c309845c5",
+        "prompt": "ನೆರೆಯ ರಾಜ್ಯಗಳಲ್ಲಿ ಚಲನಚಿತ್ರ ನಟರು ರಾಜಕೀಯಕ್ಕೆ ಬರುವುದು ಸಾಮಾನ್ಯವಾಗಿದ್ದು, ಕರ್ನಾಟಕದಲ್ಲಿ ಯಾಕೆ ಅದು ಕಾಣಬರುವುದಿಲ್ಲ?",
+        "prompt_type": "cultural",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. It provides a detailed explanation as to why movie actors in Karnataka do not commonly enter politics, citing strict laws and regulations, and the role of organizations like the Karnataka Film Chamber of Commerce (KFCC) and the Karnataka Film Producers Association (KFPA). The response also mentions that political parties in Karnataka do not usually hire movie actors for their election campaigns. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 1,
+            "justification": "The response partially addresses the question. It provides a reason why film actors in Karnataka do not commonly enter politics, stating that it is against the law. However, this explanation seems inaccurate and lacks depth. The response also repeats the same point multiple times, which does not add any value to the answer. Therefore, the response does not fully satisfy the prompt's instructions, which asked for a reason why film actors in Karnataka do not commonly enter politics, as they do in neighboring states."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks why movie actors in Karnataka do not commonly enter politics, unlike in neighboring states. However, the response simply repeats the question without providing any answer or explanation. Therefore, the model disregards the instructions entirely, making the output entirely irrelevant to the prompt. There is a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The question asks why film actors in Karnataka do not commonly enter politics, and the response provides two reasons: a gap between political parties and film actors, and the fact that it is not common for film actors in Karnataka to enter politics. Therefore, the response adheres to the specific directives given in the prompt, demonstrating a precise understanding and adherence to the prompt's instructions. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. It provides reasons for why film actors in Karnataka are less likely to enter politics, which is exactly what the question asked for. The response does not deviate from the topic, nor does it include extraneous details. It is a direct and comprehensive answer to the question, demonstrating a precise understanding and adherence to the prompt's instructions."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question is about why film actors in Karnataka do not enter politics as commonly as in neighboring states, but the response talks about royal chariots in ancient kingdoms. There is a clear disconnect between the user's request and the model's response.",
+            "score": 0
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The question asks why Kannada film actors do not commonly enter politics, and the response provides a detailed explanation, stating that it depends on individual preferences, interests, and goals. It also mentions that the field of politics requires a high level of commitment and not all actors may be ready for it. Therefore, the response adheres to the specific directives given in the prompt, demonstrating a precise understanding of the question and providing a comprehensive answer. Hence, a score of 2 is justified."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The question asks why film actors in Karnataka do not commonly enter politics, unlike in neighboring states. The response provides a detailed explanation, stating that the film industry in Karnataka is less politically charged compared to other regions, and that political involvement could potentially lead to conflicts and negative outcomes that companies prefer to avoid. Therefore, the response fully adheres to the prompt's instructions and provides a comprehensive answer to the question, warranting a score of 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response provided by the model is completely irrelevant to the question asked. The question asks why film actors in Karnataka do not commonly enter politics, unlike in neighboring states. However, the response given by the model does not address this question at all. Instead, it provides a statement that is not related to the question, stating that film actors in Karnataka entering politics is better than in the rest of India. This shows a clear disconnect between the user's request and the model's response, hence the score of 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. It provides a detailed explanation as to why film actors in Karnataka do not commonly enter politics, unlike in neighboring states. The response covers various aspects such as the political environment in Karnataka, the perception of film actors in politics, and the lack of encouragement from the film industry for actors to enter politics. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. Hence, the score is 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is repetitive and does not provide a clear answer to the question. The question asks why film actors in Karnataka do not commonly enter politics, but the response repeatedly states that there are reasons for actors to enter politics, without specifying what these reasons are or why they might not apply in Karnataka. The response does not adhere to the specific directives given in the prompt, resulting in a clear disconnect between the user's request and the model's response."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The question asks why film actors in Karnataka do not commonly enter politics, and the response correctly refutes this assumption by providing an example of a film actress who has entered politics in Karnataka. The response is directly relevant to the question and does not deviate from the topic. Therefore, it adheres to the task quality metric perfectly."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. It provides reasons for why film actors in Karnataka do not commonly enter politics, such as the stability of politics in Karnataka, the unique cultural practices, the actors' focus on maintaining their persona, the need for more effort to establish oneself in politics, and the difficulty in leveraging fan groups in politics. The response is directly related to the user's instruction and leaves no aspect of the instruction unaddressed, hence the score of 2."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response accurately addresses the question asked. The question asks why movie actors in Karnataka do not commonly enter politics, and the response provides a detailed explanation, stating that movie actors in Karnataka usually lack the credibility for public life and have a taste for power and authority, which is not common. Therefore, the response adheres to the specific directives given in the prompt, demonstrating a precise understanding and adherence to the prompt's instructions. Hence, a score of 2 is justified."
+        }
+    },
+    {
+        "prompt_id": "311ee5b1-19ef-4bf9-9c7f-9f5757acf265",
+        "prompt": "ಕರ್ನಾಟಕ ಸಂಗೀತ ಅದರ ಹೆಸರು ಪಡೆಯುವುದು ಕರ್ನಾಟಕ ರಾಜ್ಯದಿಂದ. ಅದರ ಹುಟ್ಟು ಸ್ಥಳ ಎಲ್ಲಿ?",
+        "prompt_type": "cultural",
+        "language": "kannada",
+        "Tensoic/Kan-Llama-7B-SFT-v0.5": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the origin of Carnatic music. It correctly states that Carnatic music originated in the region of Karnataka and its surrounding areas, which is a direct answer to the question. The response also provides additional context about the music's relation to Hindustani music, which, while not explicitly asked for, adds depth to the answer without deviating from the topic. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "Cognitive-Lab/Ambari-7B-Instruct-v0.1": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question is asking for the birthplace of Carnatic music, but the response does not provide this information. Instead, it gives a general description of Carnatic music and its development. The response does not adhere to the specific directive given in the prompt, hence the score of 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question asks for the birthplace of Carnatic music, but the response simply repeats the question without providing an answer. Therefore, the model disregards the instructions entirely, making the output irrelevant to the prompt. This results in a clear disconnect between the user's request and the model's response."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the origin of Carnatic music. The question asks where Carnatic music originated, and the response correctly identifies the birthplace as the Thanjavur district in Tamil Nadu. The response also adds that this style of music is popular in the state of Karnataka, which aligns with the question's mention of the state. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the origin of Carnatic music. It correctly identifies Tiruvarur in the Thanjavur district of Tamil Nadu as the birthplace of Carnatic music, and also provides additional information about the contribution of Tyagaraja Swamigal to Carnatic music. The response is in line with the prompt's instructions and does not deviate from the topic. Therefore, it scores 2 on the task quality metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question asks for the birthplace of Carnatic music, but the response does not provide this information. Instead, it lists a series of names that do not seem to be related to the question. Therefore, the response does not adhere to the specific directives given in the prompt, resulting in a score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response accurately addresses the question about the origin of Carnatic music. It explains that while it's difficult to pinpoint a specific birthplace, the music form primarily developed in the southern Indian states of Karnataka, Andhra Pradesh, Telangana, Kerala, and Tamil Nadu. The response also clarifies that the name 'Carnatic' does not necessarily mean the music originated in Karnataka. Therefore, the response adheres to the prompt's instructions and provides a comprehensive answer, earning a score of 2 according to the 'task_quality' metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the origin of Carnatic music. The question asks where Carnatic music originated, and the response correctly states that it originated in the state of Karnataka, specifically in Mysore. Therefore, the response adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the origin of the name of Carnatic music and its birthplace. The response is directly related to the question, and it does not include any extraneous details. Therefore, the model demonstrates a precise understanding and adherence to the prompt's instructions, which is why it receives a score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the origin of Carnatic music, stating that it originated in the southern Indian state of Karnataka. The response also provides additional information about the time of its origin and its status as one of the oldest forms of music in India, which, while not explicitly asked for, adds depth to the answer. Therefore, the response demonstrates a precise understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the origin of Carnatic music. The question asks where Carnatic music, named after the state of Karnataka, originated. The response correctly states that Carnatic music originated in Karnataka in the 16th century. Therefore, the response fully adheres to the prompt's instructions and satisfies all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the origin of Carnatic music, stating that it is believed to have originated in the region of Karnataka. The response adheres to the prompt's instructions and provides a direct and relevant answer to the question, leaving no aspect of the instruction unaddressed. Therefore, it scores 2 on the task quality metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response accurately answers the question about the origin of Carnatic music, stating that it originated in South India, specifically in Tamil Nadu. This shows a clear understanding and adherence to the prompt's instructions, satisfying all aspects of the given directive without any deviation. There's a clear and direct correlation between the user's instruction and the model's response, with no aspect of the instruction left unaddressed."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "justification": "The model grasps and addresses the main theme of the instruction, which is about the origin of Carnatic music. However, it misses out on finer details or nuances. The question asks specifically about the birthplace of Carnatic music, but the response simply states that it originated from the state of Karnataka, without specifying a particular place. Therefore, the response is partially aligned with the prompt, indicating some elements of relevance, but not a complete match.",
+            "score": 1
+        }
+    }
+]

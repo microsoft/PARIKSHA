@@ -1,0 +1,1162 @@
+[
+    {
+        "prompt_id": "3445bb57-c9d5-4cae-965f-224b14dc2a57",
+        "prompt": "ਮੈਂ ਬੈਂਕ ਵਿੱਚ ਖਾਤਾ ਕਿਵੇਂ ਖੋਲ ਸਕਦੀ ਹਾਂ?",
+        "prompt_type": "finance",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful information. The same phrase is repeated multiple times without any context or explanation, which does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response does not answer the question about how to open a bank account, and it does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors or inappropriate word choices. The response is not overly verbose or stilted, and it does not use any words that are technically correct but not the most appropriate for the context."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and provides a clear, step-by-step guide on how to open a bank account. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in Punjabi. It has a clear syntactic structure, uses correct and existent words, and is appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The word choice is also appropriate for the context. The response reflects the natural rhythm, emphasis, and intonation of spoken Punjabi language. Therefore, according to the linguistic acceptability metric, the response gets a score of 2."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences reflect the natural rhythm, emphasis, and intonation of spoken language, and it effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is grammatically correct, uses appropriate vocabulary, and is contextually relevant to the question. The sentence structure is clear and reflects the natural rhythm and intonation of spoken Punjabi language. There is no usage of non-existent or incorrect words, and the word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no minor grammatical errors that could impede understanding. The response effectively answers the question about how to open a bank account."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, incorrect words, or inappropriate word choices. The response effectively answers the question about how to open a bank account, providing a clear and comprehensive explanation. Therefore, it receives a score of 2, reflecting its seamless integration of contextually relevant vocabulary, effective use of idiomatic expressions, and natural rhythm and intonation."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively explains the process of opening a bank account, making it easy to understand for the reader."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It provides a clear and concise explanation of how to open a bank account. The response does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. It reflects the natural rhythm, emphasis, and intonation of spoken language, making it easy to understand for native speakers. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "SamwaadLLM": {
+            "score": 1,
+            "justification": "The response starts off well, providing a step-by-step guide on how to open a bank account. However, it becomes incoherent and repetitive towards the end, making it difficult to understand. This falls under the category of 'Overly verbose or stilted phrasing' and 'Minor grammatical errors that do not impede understanding' in the scoring rubric."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The response is supposed to be in Punjabi, but it is a mix of Punjabi and Hindi. The use of Hindi words and phrases in a Punjabi response is incorrect and inappropriate. This violates the norms and rules of the Punjabi language, making the response unacceptable. The response also lacks clear syntactic structure due to the mixing of languages. Therefore, the score is 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are structured well, and the language used is natural and fluent. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and directly answers the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about how to open a bank account, providing a clear and comprehensive explanation. Therefore, it scores 2 on the linguistic acceptability scale."
+        }
+    },
+    {
+        "prompt_id": "87d8f8f4-bbf2-4b3b-ac05-8c6ea4de4792",
+        "prompt": "ਕੀ ਡਾਇਬਿਟਿਕ ਪੇਸ਼ਂਟ ਨੂੰ ਹੈਲਥ ਇੰਸ਼ੋਰਂਸ ਮਿਲ ਸਕਦੀ ਹੈ?",
+        "prompt_type": "finance",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The same phrase is repeated multiple times without any clear meaning or context. This repetition does not align with the implicit norms and rules of a native speaker's linguistic intuition. It lacks clear syntactic structure and does not provide a coherent answer to the question asked."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is also contextually relevant and answers the question effectively."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context, answering the question about whether a diabetic patient can get health insurance."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is also grossly inappropriate for the given context. The response does not answer the question about whether a diabetic patient can get health insurance. Instead, it contains a series of nonsensical phrases and words that do not form a coherent or meaningful answer. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native Punjabi speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question about whether a diabetic patient can get health insurance, providing additional context about potential higher premiums due to pre-existing conditions."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentence structure is clear and there are no grammatical errors. The vocabulary used is contextually relevant and the sentence reflects the natural rhythm and intonation of spoken language. Therefore, it gets a score of 2."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and answers the question effectively."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively answers the question, providing a detailed explanation about the possibility of a diabetic patient getting health insurance, the variability in coverage, and the importance of exploring all options. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also effectively uses idiomatic expressions without sounding forced."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it lacks clear syntactic structure and uses non-existent or incorrect words. The response starts in Punjabi but then switches to a mix of English and Hindi, which makes it difficult to understand. The use of non-Punjabi words in the response is inappropriate for the given context, as the question was asked in Punjabi. Therefore, the score is 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is a clear and concise answer to the question, using appropriate vocabulary and syntax. There are no grammatical errors, incorrect words, or inappropriate word choices. The sentence structure is clear and reflects the natural rhythm and intonation of spoken language. The response is also contextually relevant and fits within the expected contours of fluent human language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The response is fluent, idiomatic, and contextually appropriate. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question, providing a clear and comprehensive explanation of why a diabetic patient can get health insurance. Therefore, it scores 2 on the linguistic acceptability scale."
+        }
+    },
+    {
+        "prompt_id": "b46934a0-03d9-4b69-9164-f462a4162012",
+        "prompt": "ਮੈਂ ਆਪਣੀ ਕ੍ਰੈਡਿਟ ਕਾਰਡ ਲਿਮਿਟ ਨੂੰ ਕਿਵੇਂ ਵਧਾ ਸਕਦੀ ਹਾਂ?",
+        "prompt_type": "finance",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful answer to the question. The response is just a repetition of the question, which does not align with the implicit norms and rules of a native speaker's linguistic intuition. It does not fit within the natural, expected, and intuitive contours of fluent human language. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively provides a clear and concise answer to the question about increasing a credit card limit, making it easy to understand for the reader."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question on how to increase a credit card limit, providing clear and concise steps. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is also not relevant to the question asked. The question is about how to increase the credit card limit, but the response talks about not knowing the name of the limit and suggests the user to check and find it themselves. This is a grossly inappropriate response for the given context."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language, making it sound natural and fluent. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The response is also contextually relevant to the question, providing a clear and concise answer on how to increase a credit card limit. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response reflects the natural rhythm and intonation of spoken Punjabi language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question about how to increase a credit card limit, providing multiple methods and explaining each one in a clear and concise manner."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The same phrase about reducing credit card balance is repeated multiple times without any variation or additional information, which does not align with the implicit norms and rules of a native speaker's linguistic intuition. This repetition lacks clear syntactic structure and does not fit within the natural, expected, and intuitive contours of fluent human language. Therefore, the score is 0."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It provides a clear and comprehensive answer to the question about how to increase a credit card limit. The response also uses idiomatic expressions effectively and reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It provides a clear and concise explanation on how to increase a credit card limit, which is exactly what the question asked for. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also reflects the natural rhythm and intonation of spoken Punjabi language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The same phrase 'ੈਪੈਂਡ ਐਪਲੈਕੈशन (CIB)' is repeated multiple times without any context or explanation, making the response nonsensical and difficult to understand. This is a clear violation of the implicit norms and rules of a native speaker's linguistic intuition, hence the score of 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are structured well, and the language used is natural and fluent. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also provides a comprehensive answer to the question, making it not only linguistically acceptable but also contextually appropriate."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure as the same phrase is repeated multiple times without any logical progression or coherence. This repetition does not contribute to the overall meaning or understanding of the response. It also does not provide a clear or comprehensive answer to the question about increasing a credit card limit. Therefore, the score is 0 as per the metric 'linguistic_acceptability'."
+        }
+    },
+    {
+        "prompt_id": "b1c5759a-f9d4-495a-98ec-b44452dc40b4",
+        "prompt": "ਅਗਰ ਮੈਂ ਐਫਡੀ ਖਤਮ ਹੋਣ ਤੋਂ ਪਹਿਲੇ ਤੁੜਵਾ ਲੈਨੀ ਹਾਂ ਤੇ ਮੈਨੂੰ ਕੀ ਪੈਨਲਟੀ ਪਏਗੀ?",
+        "prompt_type": "finance",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It is a repetition of the question itself and does not provide any answer. It lacks clear syntactic structure and does not provide any new or relevant information in response to the question. Therefore, it falls under the '0' category of the scoring rubric, specifically point '(a)': 'Sentences that lack clear syntactic structure.'"
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The response is also contextually relevant and reflects the natural rhythm, emphasis, and intonation of spoken Punjabi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Punjabi language. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question about the penalty for withdrawing a fixed deposit before its maturity date, providing a clear and comprehensive explanation."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not answer the question asked. The question is about the penalty for withdrawing a fixed deposit before its maturity, but the response talks about an iPad and a new line of turtles, which is irrelevant and does not make sense in the context of the question. The response also uses incorrect words and phrases that do not exist in the context of the question. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and answers the question effectively."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentence structure is clear and there are no non-existent or incorrect words. The word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentence reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, providing a direct answer to the question asked."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and answers the question effectively."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and answers the question effectively."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the implicit norms and rules of a native Punjabi speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question and reflects the natural rhythm, emphasis, and intonation of spoken Punjabi language."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is repetitive and does not provide a clear answer to the question. It does not align with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question about potential penalties for early withdrawal of a fixed deposit, providing a general idea while also suggesting to check with the specific bank for exact details."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and answers the question effectively."
+        }
+    },
+    {
+        "prompt_id": "7b40d61d-47f4-4cd2-b3bc-5bc09c9ad810",
+        "prompt": "ਕੀ ਮੈਨੂੰ ਐਫਡੀ ਤੇ ਲੋਨ ਮਿਲ ਸਕਦਾ ਹੈਂ ?",
+        "prompt_type": "finance",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. It lacks clear syntactic structure and does not provide a coherent answer to the question. The sentences are repetitive and do not make sense in the context of the question. The response does not adhere to the implicit norms and rules of a native speaker's linguistic intuition. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm and intonation of spoken Punjabi. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing relevant information about the possibility of getting a loan on an FD, and the conditions that need to be met for the same. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and provides a clear and comprehensive answer to the question."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. The response starts off correctly by answering the question, but then it devolves into a repetition of nonsensical phrases. This violates the norms and rules of a native speaker's linguistic intuition, as it lacks clear syntactic structure and uses non-existent or incorrect words. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is grammatically correct, uses appropriate vocabulary, and is contextually relevant to the question. The sentence structure is clear and reflects the natural rhythm and intonation of spoken Punjabi language. There are no errors or inappropriate word choices. The response is not overly verbose or stilted, and it effectively answers the question without sounding forced."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentence structure is clear and there are no non-existent or incorrect words. The word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm and intonation of spoken Punjabi language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about getting a loan from FD, providing additional information about the types of loans available and how to get more information. Overall, the response fits within the natural, expected, and intuitive contours of fluent Punjabi language."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm and intonation of spoken Punjabi language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and provides a comprehensive answer to the question."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. The sentences lack clear syntactic structure and are repetitive without providing any meaningful information. The response does not answer the question in a clear and concise manner. The repeated phrases do not make sense in the context of the question. Therefore, the score is 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The response is fluent, idiomatic, and appropriate in the given context. It effectively answers the question without any grammatical errors or inappropriate word choices. The response reflects the natural rhythm, emphasis, and intonation of spoken Punjabi language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question about getting a loan on FD, providing additional information about the requirements and options, which reflects the natural rhythm and emphasis of spoken language."
+        }
+    },
+    {
+        "prompt_id": "ff3c3a8f-5a17-4580-94fa-8d072ea43982",
+        "prompt": "ਮੈਂ ਆਪਣੇ ਵਾਲਾਂ ਤੋਂ ਸਿਕਰੀ ਨੂੰ ਕਿਵੇਂ ਖਤਮ ਕਰ ਸਕਦੀ ਹਾਂ?",
+        "prompt_type": "health",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide a coherent answer to the question. The response is repetitive and does not provide any meaningful information on how to get rid of dandruff from hair, which was the original question. The response also uses incorrect words and phrases that do not make sense in the given context."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and provides a clear and concise answer to the question."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The sentences are repetitive and do not make sense in the context of the question. The response does not provide a clear answer to the question about how to get rid of dandruff. Therefore, according to the linguistic acceptability metric, the response receives a score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is written in fluent Punjabi, with correct grammar and syntax. The sentences reflect the natural rhythm and intonation of spoken Punjabi. The vocabulary used is contextually relevant and appropriate. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability metric."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as per the norms and rules of the Punjabi language. It is grammatically correct, uses appropriate words, and is contextually relevant to the question asked. The sentence structure is clear and it reflects the natural rhythm and intonation of spoken Punjabi language. There are no errors or inappropriate word choices. The response is also not overly verbose or stilted. It effectively communicates the solution to the problem asked in the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and provides a clear and concise answer to the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response is linguistically acceptable in terms of grammar and syntax. However, it is repetitive, mentioning the use of a 'tangle remover' three times in a row without providing any new information or steps. This repetition makes the response sound stilted and unnatural, which is why it receives a score of 1 according to the metric's scoring rubric (1a: 'Overly verbose or stilted phrasing.')."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response is generally understandable and provides a relevant answer to the question. However, it contains some grammatical errors and awkward phrasing, such as 'ਇਹਨਾਂ ਪ੍ਰਣਾਲੀਆਂ ਦੀ ਵਰਤੋਂ 2-3 ਘੰਟਿਆਂ afterward' and 'ਸਿਕਰੀ ਖਤਮ ਕਰਨ ਕੇ लिए ਇਹਨਾਂ प्रਣਾਲੀਆਂ ਕੋ अनुसार उनुत्रेन ਕਰਨਾ should be', which are not grammatically correct in Punjabi. The response also uses some Hindi words, which may not be appropriate in the context of Punjabi language. Therefore, the response gets a score of 1 according to the 'linguistic_acceptability' metric, which indicates minor grammatical errors and inappropriate word choices that do not impede understanding."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are well-structured and reflect the natural rhythm of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and provides a detailed answer to the question asked."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and provides a clear and concise answer to the question."
+        }
+    },
+    {
+        "prompt_id": "c975d2d9-99de-4ca3-8cdb-4a13af6810bb",
+        "prompt": "ਹਾਈ ਬੀਪੀ ਨੂੰ ਘੱਟ ਕਰਨ ਦਾ ਘਰੇਲੂ ਇਲਾਜ?",
+        "prompt_type": "health",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and does not provide a coherent answer to the question. The sentences are repetitive and do not provide any meaningful information on how to reduce high blood pressure using home remedies. The response does not align with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and provides a clear answer to the question asked."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is written in fluent Punjabi, with correct grammar and syntax. The sentences are clear and concise, reflecting the natural rhythm and intonation of spoken language. The response also effectively uses contextually relevant vocabulary and idiomatic expressions, such as 'ਪਾਣੀ ਦੀ ਵਰਤੋਂ ਵਧਾਈਏ', 'ਨਿਮਲੀ ਦਾ ਸੇਵਨ ਕਰੋ', 'ਕਾਲੀ ਮਿਰਚ ਦਾ ਸੇਵਨ ਕਰੋ', and 'ਯੋਗਾ ਅਤੇ ਵਿਆਮ ਕਰੋ'. These phrases are appropriate for the context and do not sound forced. Overall, the response aligns with the implicit norms and rules of a native Punjabi speaker's linguistic intuition."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The sentences are not coherent and do not provide a clear answer to the question asked. The response does not align with the implicit norms and rules of a native speaker's linguistic intuition. It does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is written in fluent Punjabi, with correct grammar and syntax. The sentences reflect the natural rhythm and intonation of spoken Punjabi. The response also effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. There are no inappropriate word choices, and the response is not overly verbose or stilted. It is clear, concise, and directly answers the question."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is grammatically correct, uses appropriate vocabulary, and is contextually relevant to the question asked. It also reflects the natural rhythm, emphasis, and intonation of spoken Punjabi language. There are no errors or inappropriate word choices. The response is fluent and idiomatic, and fits well within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken Punjabi language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken Punjabi language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi. The response also effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is contextually relevant and fits within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "SamwaadLLM": {
+            "score": 1,
+            "justification": "The response is generally acceptable and provides relevant information to the question asked. However, the last sentence is repeated multiple times, which is not linguistically acceptable. This repetition does not impede understanding but it is overly verbose and stilted phrasing. Therefore, the response gets a score of 1 according to the linguistic acceptability metric."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The response is a mix of Punjabi, Hindi, and Korean, which makes it difficult to understand. The response also contains non-existent or incorrect words, such as 'phongal', which do not make sense in the context of the question. The response also lacks a clear syntactic structure, making it difficult to understand the intended meaning. Therefore, the score is 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is written in fluent Punjabi, with correct grammar and syntax. The sentences are clear and concise, and the vocabulary used is contextually relevant and appropriate. The response also effectively uses idiomatic expressions and reflects the natural rhythm, emphasis, and intonation of spoken Punjabi. Therefore, it aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as per the norms and rules of the Punjabi language. It is fluent, idiomatic, and appropriate in the context of the question. The response seamlessly integrates contextually relevant vocabulary, effectively uses idiomatic expressions without sounding forced, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it highly linguistically acceptable."
+        }
+    },
+    {
+        "prompt_id": "f0b3cebf-b0aa-4326-9a4a-c98fd5a62147",
+        "prompt": "ਮੈਂ ਅੱਖਾਂ ਦੀ ਰੋਸ਼ਨੀ ਨੂੰ ਕਿਵੇਂ ਵਧਾ ਸਕਦੀ ਹਾਂ?",
+        "prompt_type": "health",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and does not provide a coherent answer to the question. The response is repetitive and does not make sense in the context of the question. It does not provide any useful information on how to increase the brightness of eyes, which was the original question. Therefore, it scores 0 on the linguistic acceptability scale."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It provides a clear and comprehensive answer to the question about how to improve eye brightness. The response is fluent, idiomatic, and reflects the natural rhythm and intonation of spoken Punjabi language. There are no grammatical errors or inappropriate word choices. The response is neither overly verbose nor stilted. It uses words and phrases that are technically correct and appropriate for the context."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is also not contextually appropriate as it does not answer the question about how to increase the brightness of eyes. Instead, it talks about the age of 'roshni' which is not relevant to the question. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and easy to understand."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure as the same sentence is repeated multiple times without any variation or additional information. This repetition does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response does not fit within the natural, expected, and intuitive contours of fluent human language. Therefore, the score is 0 according to the provided metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Punjabi speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response is linguistically acceptable in terms of grammar and syntax. However, it is overly repetitive, with the same advice about wearing a hat under sunglasses repeated four times. This repetition makes the response sound stilted and unnatural, which is why it receives a score of 1 according to the metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Punjabi speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi language. The response also seamlessly integrates contextually relevant vocabulary and effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. Therefore, the response gets a score of 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response does not provide any meaningful or relevant information to the question asked. The words and phrases used in the response do not make sense in the context of the question. The response does not adhere to the implicit norms and rules of a native speaker's linguistic intuition. Therefore, the score is 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        }
+    },
+    {
+        "prompt_id": "b52315f0-2bcc-4e05-805c-f084e4b4e56d",
+        "prompt": "ਕਦ ਨੂੰ ਕਿਵੇਂ ਵਧਾਇਆ ਜਾ ਸਕਦਾ ਹੈ?",
+        "prompt_type": "health",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response to the question 'How can height be increased?' is not linguistically acceptable. The response is repetitive and lacks clear syntactic structure. The same phrase is repeated multiple times without providing any meaningful or relevant information to the question asked. This falls under the scoring rubric of 0(a): 'Sentences that lack clear syntactic structure.'"
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response does not answer the question asked. The question asks 'How can time be increased?' and the response talks about how time can be utilized effectively, which is not what the question is asking. Therefore, the response is not linguistically acceptable in this context."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and provides a comprehensive answer to the question."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response to the question 'How can height be increased?' is not linguistically acceptable. The response lacks a clear syntactic structure and is filled with repeated phrases that do not make sense in the context of the question. The response does not provide any meaningful or relevant information to the question asked. Therefore, according to the linguistic acceptability metric, the response receives a score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm and intonation of the Punjabi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and provides a comprehensive answer to the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about how to increase height, providing relevant advice on nutrition and exercise, and even mentioning the role of genetics. Overall, the response fits within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively answers the question about how to increase height, providing a comprehensive and contextually relevant answer."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is a mix of Punjabi and English, which is not linguistically acceptable. The response contains English words and phrases that are not translated into Punjabi, such as 'Physical fitness', 'strength', 'endurance', 'flexibility', 'cardiovascular fitness', 'Age', 'Diet', 'Balanced diet with fruits, vegetables, whole grains, lean protein', 'healthy fats', 'Sleep', 'Stress', 'Low stress levels', 'REGULAR exercise', '2-3 months', 'postfix', '10-15% weight loss'. This makes the response hard to understand for a native Punjabi speaker. Therefore, the score is 0 according to the 'linguistic_acceptability' metric, which includes 'Usage of non-existent or incorrect words' and 'Grossly inappropriate word choices for a given context' as reasons for a score of 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is written in fluent Punjabi, with correct grammar and syntax. The vocabulary used is contextually relevant and appropriate. The sentences reflect the natural rhythm and intonation of spoken Punjabi. There are no errors or inappropriate word choices. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is also contextually relevant and effectively answers the question."
+        }
+    },
+    {
+        "prompt_id": "7e29b798-1e02-4711-af51-ac8f537c9c87",
+        "prompt": "ਕੀ ਸੈਲ ਫੋਨ ਇਸਤੇਮਾਲ ਕਰਨ ਨਾਲ ਬਰੇਨ ਕੈਂਸਰ ਹੋ ਸਕਦਾ ਹੈ?",
+        "prompt_type": "health",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it does not answer the question asked. The question is about whether cell phone usage can cause brain cancer, but the response is about which phone is best for gaming. This is a grossly inappropriate response for the given context, hence the score of 0. Additionally, there are non-existent or incorrect words in the response, further justifying the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The response is fluent, idiomatic, and contextually appropriate. There are no grammatical errors, incorrect word usage, or inappropriate word choices. The response also reflects the natural rhythm, emphasis, and intonation of spoken Punjabi language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Punjabi language. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and answers the question effectively."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. It lacks a clear syntactic structure and is difficult to understand. The response also contains non-existent or incorrect words, making it hard to comprehend. The response does not provide a clear answer to the question about the possibility of getting brain cancer from using cell phones. Therefore, according to the linguistic acceptability metric, the response scores a 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the implicit norms and rules of a native Punjabi speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Punjabi language. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and answers the question effectively."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and directly answers the question."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentence structure is clear and there are no non-existent or incorrect words. The word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentence reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context, answering the question about the relationship between cell phone use and brain cancer."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is written in fluent Punjabi, with correct grammar and syntax. The vocabulary used is contextually relevant and appropriate. The sentences reflect the natural rhythm and intonation of spoken Punjabi. There are no errors or inappropriate word choices. The response is clear, concise, and easy to understand."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Punjabi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and directly answers the question. It reflects the natural rhythm, emphasis, and intonation of spoken Punjabi language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language, making it sound natural and fluent. Therefore, it scores 2 on the linguistic acceptability scale."
+        }
+    },
+    {
+        "prompt_id": "6909d7fe-5144-4dff-bae7-e45a24a129d1",
+        "prompt": "ਸਿੱਖ ਮੁਗਲਾਂ ਨਾਲ ਕਿਉਂ ਲੜੇ ਅਤੇ ਇਹਦਾ ਕੀ ਨਤੀਜਾ ਨਿਕਲਿਆ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it does not answer the question asked. The question is about why Sikhs fought with the Mughals and the outcome of it, but the response is about different types of punishment in Punjabi. This is a grossly inappropriate response for the given context, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Punjabi language. The sentences reflect the natural rhythm and intonation of spoken Punjabi. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing reasons for the Sikhs' fight against the Mughals and the outcome of this conflict. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question, explaining why the Sikhs fought against the Mughals and what the outcome of the fight was. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. The sentences lack clear syntactic structure and the usage of words is incorrect and repetitive. The response does not provide any meaningful or relevant information in relation to the question asked. It does not adhere to the implicit norms and rules of a native speaker's linguistic intuition. The response is not fluent and does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm and intonation of spoken Punjabi language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the implicit norms and rules of a native Punjabi speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response is mostly in Punjabi, but it also includes some Hindi words and English phrases, which makes it less linguistically acceptable. The response is not overly verbose or stilted, but the use of multiple languages in a single response is not the most appropriate for the context. The response does provide a clear and comprehensive answer to the question, but the linguistic acceptability is compromised due to the use of multiple languages."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing reasons for the conflict between the Sikhs and the Mughals and the outcome of this conflict. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Punjabi language. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context, answering why Sikhs fought with the Mughals and what was the outcome of this fight."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm and intonation of the Punjabi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively explains why the Sikhs fought against the Mughals and what the outcome was, in a clear and concise manner."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm and intonation of the Punjabi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions without sounding forced. Overall, the response aligns with the implicit norms and rules of a native Punjabi speaker's linguistic intuition."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context, answering the question about why Sikhs fought against the Mughals and the outcome of this conflict."
+        }
+    },
+    {
+        "prompt_id": "4f22a432-c8c9-4cb9-9d5a-5bec0ff18d94",
+        "prompt": "ਸਿੱਖ ਧਰਮ ਦੀ ਨੀਂਹ ਕਿਸ ਨੇ ਰੱਖੀ ਸੀ ਅਤੇ ਖਾਲਸਾ ਪੰਥ ਦੀ ਸਥਾਪਨਾ ਕਿਸ ਨੇ ਕੀਤੀ ਸੀ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question asked. The question is about the foundation of Sikhism and the establishment of the Khalsa Panth, but the response discusses the difference between a wife and a life partner. This is a grossly inappropriate response for the given context, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response is linguistically acceptable in terms of syntax and word usage. However, it contains a factual error. The foundation of the Khalsa Panth was laid by Guru Gobind Singh Ji, not Guru Arjan Dev Ji. This error does not affect the linguistic acceptability but it does affect the accuracy of the information provided. Therefore, the score is 1."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm and intonation of spoken Punjabi. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is also not coherent and does not answer the question asked. The question asks about the founders of Sikhism and the Khalsa Panth, but the response does not provide this information. Instead, it repeats phrases and words without forming a meaningful sentence or providing relevant information. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is grammatically correct, uses appropriate vocabulary, and is contextually relevant to the question. The sentence structure is clear and reflects the natural rhythm of spoken language. There are no errors or inappropriate word choices. The response is concise and to the point, providing the necessary information in response to the question."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The response directly answers the question, providing the names of the founders of Sikhism and the Khalsa Panth. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response reflects the natural rhythm and intonation of spoken Punjabi language."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is written in clear, fluent Punjabi, with appropriate use of vocabulary and syntax. The sentences reflect the natural rhythm and intonation of spoken Punjabi. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is also contextually relevant and answers the question accurately."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is grammatically correct, uses appropriate vocabulary, and aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. However, the information provided in the response is incorrect. The foundation of Sikhism was laid by Guru Nanak Dev, but the establishment of the Khalsa Panth was done by Guru Gobind Singh, not Guru Nanak Dev. This does not affect the linguistic acceptability score but is worth noting for factual accuracy."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response is grammatically correct and does not contain any non-existent or incorrect words. However, it is not contextually appropriate. The response mentions 'Gurmukhi curriculum' as the founder of Sikhism and the establisher of the Khalsa Panth, which is incorrect. The founders should be Guru Nanak Dev Ji and Guru Gobind Singh Ji respectively. Therefore, the response gets a score of 1 as it uses words that are technically correct but not the most appropriate for the context."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is grammatically correct, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm and intonation of spoken Punjabi language. There are no errors or inappropriate word choices. The response is concise and to the point, answering the question directly without any unnecessary verbosity or stilted phrasing. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm and intonation of spoken Punjabi. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is concise, clear, and directly answers the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing information about the founders of Sikhism and the Khalsa Panth, and does so in a fluent and idiomatic manner."
+        }
+    },
+    {
+        "prompt_id": "5ecfc3ba-b507-4a18-9b9a-326d2fff0345",
+        "prompt": "ਹਰਿਮੰਦਰ ਸਾਹਿਬ ਦੀ ਨੀਂਹ ਕਿਸਨੇ ਰੱਖੀ ਸੀ ਅਤੇ ਇਸ ਦੇ ਚਾਰ ਦਰਵਾਜ਼ੇ ਕਿਉਂ ਨੇ? ਚਾਰੋਂ ਦਰਵਾਜੇ ਹਰਿਮੰਦਰ ਸਾਹਿਬ ਤੋਂ ਉੱਚੇ ਕਿਉਂ ਨੇ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it lacks clear syntactic structure. The response is simply a repetition of the question multiple times without providing any answer. This does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response also does not fit within the natural, expected, and intuitive contours of fluent human language. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is grammatically correct, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi language. There are no errors or inappropriate word choices. The response is fluent and idiomatic, fitting well within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is also not coherent and does not answer the question asked. The question asks about who laid the foundation of Harmandar Sahib and why its four doors are higher than the Harmandar Sahib itself, but the response talks about some new and old doors without providing any clear information. The response also contains repeated and incorrect phrases, making it difficult to understand."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The response is fluent, idiomatic, and appropriate in the given context. It does not contain any grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi language. Therefore, the response gets a score of 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It contains a repeated phrase in Hindi, which is not only irrelevant to the question but also disrupts the flow of the response. The response also fails to answer the question about why the doors of Harmandir Sahib are higher and why there are four doors. The response does not adhere to the implicit norms and rules of a native speaker's linguistic intuition, making it difficult to understand and follow. Therefore, the score is 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is essentially just the repetition of the word 'ਰਾਜਾ' (king) multiple times, which does not make any sense in the context of the question. The response does not provide any information about who laid the foundation of Harmandir Sahib or why its four doors are higher than the temple itself, which were the main points of the question. Therefore, the response is not only grammatically incorrect but also contextually inappropriate."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response is grammatically correct and understandable, but it is repetitive and verbose. The same information about the royal family members being provided security by the four doors is repeated three times. This redundancy makes the response sound stilted and unnatural, which is why it gets a score of 1 according to the linguistic acceptability metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Punjabi language. The sentences reflect the natural rhythm and intonation of spoken Punjabi. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "SamwaadLLM": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, especially towards the end where the same phrase is repeated multiple times. This repetition does not add any value to the response and makes it sound unnatural. However, the response does answer the question and provides relevant information about the foundation of Harmandir Sahib and the significance of its four doors. Therefore, it scores 1 on the linguistic acceptability scale."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing information about who laid the foundation of Harmandir Sahib, why it has four doors, and why the doors are higher than the temple itself. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively integrates contextually relevant vocabulary and idiomatic expressions without sounding forced. Therefore, it receives a score of 2."
+        }
+    },
+    {
+        "prompt_id": "b65cb4b6-d2b8-444c-87b3-e8a1616119a8",
+        "prompt": "ਪੰਜਾਬ ਦੀਆਂ ਔਰਤਾਂ ਤੇ ਆਦਮੀਆਂ ਦਾ ਮੁੱਖ ਗਹਿਣਾ ਅਤੇ ਪਹਿਰਾਵਾ ਕਿਹੜਾ ਹੈ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful information in response to the question. The response is repetitive and does not answer the question about the main jewelry and attire of men and women in Punjab. It merely repeats the question without providing any new information or context. Therefore, it falls under category (a) of the scoring rubric for a score of 0: 'Sentences that lack clear syntactic structure.'"
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The response is fluent, idiomatic, and appropriate in the given context. It effectively answers the question about the traditional attire of men and women in Punjab. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response reflects the natural rhythm, emphasis, and intonation of spoken Punjabi language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about the traditional attire and jewelry of Punjabi men and women, providing contextually relevant information in a fluent and idiomatic manner."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it does not answer the question asked. The question asks about the traditional attire and jewelry of men and women in Punjab, but the response talks about a metaphorical expression used in Punjabi literature and conversations. This is a grossly inappropriate response for the given context, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively describes the traditional attire and jewelry of men and women in Punjab, using contextually relevant vocabulary and expressions. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response reflects the natural rhythm, emphasis, and intonation of spoken Punjabi language."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentence structure is clear and there are no non-existent or incorrect words. The word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentence reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It does not answer the question asked, which was about the traditional attire and jewelry of men and women in Punjab. Instead, the response discusses the qualities and contributions of Punjabi men and women. Additionally, the response includes words from Hindi, which is a different language, making it linguistically incorrect in the context of Punjabi. Therefore, the score is 0 due to lack of clear syntactic structure and usage of non-existent or incorrect words in Punjabi."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent words. The response repeats the word 'ਪਹਿਰਾਵੇ' (wear) multiple times without providing any specific information about the traditional attire of Punjabi men and women. Similarly, it repeats the word 'ਚੰਦਲ' (chandal) which is not a traditional ornament or attire in Punjabi culture. Therefore, the response is not only grammatically incorrect but also contextually inappropriate."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Punjabi language. The response is fluent, idiomatic, and appropriate in the given context. It effectively describes the traditional attire and jewelry of Punjabi men and women, reflecting the natural rhythm and intonation of spoken language. There are no grammatical errors or inappropriate word choices. The response also integrates contextually relevant vocabulary seamlessly."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It repeats the same word 'ਨਕਸ਼ੀ' (nakshi) multiple times without any context or meaning. This repetition lacks clear syntactic structure and does not align with the implicit norms and rules of a native speaker's linguistic intuition. It does not fit within the natural, expected, and intuitive contours of fluent human language. Therefore, the score is 0 according to the linguistic acceptability metric."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors that impede understanding. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively describes the traditional attire and jewelry of men and women in Punjab, which directly answers the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Punjabi speaker's linguistic intuition. It uses contextually relevant vocabulary, idiomatic expressions, and reflects the natural rhythm, emphasis, and intonation of spoken Punjabi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the context of the question asked."
+        }
+    },
+    {
+        "prompt_id": "f967c063-eb48-4a6d-9ae2-86dbfcd4fa4b",
+        "prompt": "ਪੰਜਾਬ ਵਿੱਚ ਵਿਸਾਖੀ ਕਿਉਂ ਮਨਾਈ ਜਾਂਦੀ ਹੈ ਅਤੇ ਵੈਸਾਖੀ ਨੂੰ ਮਨਾਉਣ ਦਾ ਮੁੱਖ ਕਾਰਨ ਕੀ ਹੈ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful information. The same sentence is repeated three times without any variation or additional information. This does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response does not answer the question about why Vaisakhi is celebrated in Punjab and what the main reason for celebrating Vaisakhi is. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. However, the response does not fully answer the question as it does not explain the main reason for celebrating Vaisakhi in Punjab."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response does not answer the question at all. The question asks why Vaisakhi is celebrated in Punjab and the main reason for celebrating Vaisakhi. However, the response lists names that are not related to the question. The response lacks clear syntactic structure and is not contextually appropriate. Therefore, the score is 0 according to the linguistic acceptability metric."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response is also contextually relevant and provides a comprehensive answer to the question asked. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response also effectively uses idiomatic expressions without sounding forced."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is grammatically correct, uses appropriate vocabulary, and is contextually relevant to the question asked. The response also reflects the natural rhythm, emphasis, and intonation of spoken Punjabi language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is a mix of Punjabi and Hindi languages, which makes it linguistically unacceptable. The response contains non-existent or incorrect words in Punjabi, such as 'मुख्य', 'एक पवित्र स्थल', '20वीं शताब्दी', 'बड़ा बढ़श', 'सामाजिक और आर्थिक कारण', 'कृषि प्रधान प्रान्त', 'कृषि के लिए कई सामाजिक और आर्थिक अवसर'. These words and phrases are not part of the Punjabi language. Therefore, the response lacks clear syntactic structure in Punjabi and uses incorrect words, which are the reasons for a score of 0 according to the linguistic acceptability metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Punjabi speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and easy to understand."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive. The same sentence is repeated multiple times without adding any new information or context. While the response is grammatically correct and uses appropriate words, the repetition makes it sound unnatural and stilted. Therefore, the response gets a score of 1 according to the linguistic acceptability metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure as the same phrase is repeated multiple times without any variation or additional information. This repetition does not contribute to the overall meaning or understanding of the response. It also does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions without sounding forced. It aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. It seamlessly integrates contextually relevant vocabulary, effectively uses idiomatic expressions without sounding forced, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, providing a comprehensive answer to the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively answers the question, providing a clear explanation of why Vaisakhi is celebrated in Punjab and the main reason for celebrating it."
+        }
+    },
+    {
+        "prompt_id": "2b1b00cb-fef9-40a6-ac93-8a4dfa5a6ebe",
+        "prompt": "ਮੀਰੀ ਪੀਰੀ ਦੀਆਂ ਤਲਵਾਰਾਂ ਕਿਸ ਗੁਰੂ ਸਾਹਿਬਾਨ ਨੇ ਧਾਰਨ ਕੀਤੀਆਂ ਸੀ ਅਤੇ ਇਸ ਨੂੰ ਧਾਰਨ ਕਰਨ ਦਾ ਕੀ ਉਦੇਸ਼ ਸੀ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It is a repetition of the question and does not provide any new information or answer the question. The response lacks clear syntactic structure and does not use contextually relevant vocabulary. It does not reflect the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response lacks clear syntactic structure and is difficult to understand. It does not provide a clear answer to the question about which Guru Sahib carried the swords of Miri Piri and the purpose of carrying them. Instead, it contains repetitive and nonsensical phrases. Therefore, according to the linguistic acceptability metric, it scores 0 due to lack of clear syntactic structure."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is grammatically correct, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no errors or inappropriate word choices. The response is fluent and idiomatic, fitting well within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is grammatically correct, uses appropriate vocabulary, and fits naturally within the context of the question. The response is fluent, idiomatic, and appropriate in context. It effectively answers the question about who wore the swords of Miri Piri and the purpose of wearing them, providing a clear and concise explanation."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The phrase 'rabbitmqੈ' is repeated multiple times without any context or meaning. The response also does not answer the question about who wore the swords of Miri Piri and the purpose of wearing them. Instead, it incorrectly attributes the act to Guru Nanak Dev Ji, which is historically inaccurate. The response is also repetitive and does not provide any meaningful or coherent information."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is grammatically correct, uses appropriate vocabulary, and fits naturally within the context of the question. The response is not overly verbose or stilted, and it does not contain any inappropriate word choices. It effectively uses idiomatic expressions without sounding forced and reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors that could impede understanding. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The same phrase 'ਸਾਡੇ ਸਾਰਿਆਂ ਲਈ ਸੱਚਾ ਅਤੇ ਸ਼ਾਂਤ ਸੰਸਾਰ ਲਿਆਉਣ ਲਈ' is repeated multiple times without any context or reason, making the response incoherent and lacking clear syntactic structure. This falls under the '0' scoring category of the metric, specifically reason '(a)': 'Sentences that lack clear syntactic structure.'"
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentence structure is clear and there is no usage of non-existent or incorrect words. The word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentence reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is grammatically correct, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no errors or inappropriate word choices. The response is fluent and idiomatic, fitting well within the natural, expected, and intuitive contours of fluent human language."
+        }
+    },
+    {
+        "prompt_id": "07c526ec-d806-44e9-8ff8-0083cae1f6d4",
+        "prompt": "ਪੰਜਾਬ ਵਿੱਚ ਰੋਇਲ ਸਿਟੀ ਕਿਸ ਨੂੰ ਕਿਹਾ ਜਾਂਦਾ ਹੈ? ਪੰਜਾਬ ਦੀ ਪੁਰਾਤਨ ਲੋਕ ਖੇਡ ਕੀ ਹੈ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it does not provide any meaningful answer to the question. Instead, it simply repeats the question. This falls under the category of 'Sentences that lack clear syntactic structure' as per the scoring rubric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is grammatically correct, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi language. There are no errors or inappropriate word choices. The response is concise and to the point, answering both parts of the question accurately."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The words used are the most appropriate for the context. The response effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is also repetitive and does not provide a clear answer to the question. The response does not align with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The words used are contextually relevant and appropriate. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is grammatically correct, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm and intonation of spoken Punjabi language. There are no errors or inappropriate word choices. The response is concise and to the point, answering both parts of the question accurately."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The words used are the most appropriate for the context. The response reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The words used are the most appropriate for the context. The response reflects the natural rhythm, emphasis, and intonation of spoken language, and effectively uses idiomatic expressions without sounding forced."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The words used are the most appropriate for the context. The response reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It has a clear syntactic structure, uses correct and existent words, and is appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language."
+        }
+    },
+    {
+        "prompt_id": "8468e548-192e-4303-9b17-5c4aa3109ed9",
+        "prompt": "ਪੰਜਾਬ ਦੇ ਮੁੱਖ ਤਿਉਹਾਰ ਕਿਹੜੇ ਨੇ ਅਤੇ ਬੰਦੀ ਛੋੜ ਦਿਵਸ ਕਿਹੜੇ ਤਿਉਹਾਰ ਨੂੰ ਕਿਹਾ ਜਾਂਦਾ ਹੈ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it does not answer the question asked. The question asks about the main festivals of Punjab and which festival is referred to as 'Bandi Chhor Divas'. However, the response provides the names of the 12 zodiac signs in Punjabi. This is a clear case of grossly inappropriate word choices for a given context, which is a criterion for a score of 0 in the provided metric. The response does not align with the implicit norms and rules of a native speaker's linguistic intuition in the context of the question asked."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm and intonation of spoken Punjabi. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing a list of main festivals in Punjab and correctly identifying Bandi Chhor Divas as a national festival in India."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and provides a comprehensive answer to the question."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it does not answer the question asked. The question asks about the main festivals of Punjab and which festival is referred to as 'Bandi Chhor Divas'. However, the response talks about the number of teeth in an adult's and child's jaw, which is completely unrelated to the question. Therefore, the response lacks clear syntactic structure and appropriateness in context, leading to a score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The response effectively answers the question, providing a list of main festivals in Punjab and correctly identifying Diwali as the festival also known as Bandi Chhor Divas. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response reflects the natural rhythm, emphasis, and intonation of spoken Punjabi language."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentence structure is clear and there is no usage of non-existent or incorrect words. The word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentence reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It does not answer the question asked, which was about the main festivals of Punjab and which festival is referred to as 'Bandi Chhor Divas'. Instead, the response talks about a festival called 'Tika' which is not relevant to the question. Additionally, the response includes Hindi text, which is inappropriate given the question is in Punjabi. This violates the metric's criteria of 'Grossly inappropriate word choices for a given context' and 'Usage of non-existent or incorrect words'."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing a list of main festivals in Punjab and explaining that Bandi Chhor Divas is one of them. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm and intonation of spoken Punjabi. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing information about the main festivals of Punjab and specifically about Bandi Chhor Divas. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing a list of main festivals in Punjab and explaining what Bandi Chhor Divas is known as. The language used is fluent and idiomatic, fitting well within the expected contours of the Punjabi language."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is grammatically correct, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi language. The response effectively answers the question without sounding forced or overly verbose."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        }
+    },
+    {
+        "prompt_id": "b1e5770e-0122-4bfe-83f2-cc75d3cffd6b",
+        "prompt": "ਪਾਹੁਲ ਪ੍ਰਥਾ ਕੀ ਹੈ ਅਤੇ ਉਸ ਪਰੰਪਰਾ ਨਾਲ ਕੀ ਹੋਇਆ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question. The question asks about the tradition of 'Pahul' and what happened with it, but the response talks about the difference between 'halwa' and 'paratha', which are food items. This is a grossly inappropriate response for the given context, hence the score of 0 as per the linguistic acceptability metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Punjabi language. The sentences reflect the natural rhythm and intonation of spoken Punjabi. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively explains what the Pahul tradition is and what happened with this tradition, which aligns with the question asked."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The sentences are not coherent and do not make sense in the context of the question. The response does not provide a clear answer to the question about the Pahul tradition and its history. Instead, it talks about the physical characteristics and uses of 'pahel' and 'naal', which are unrelated to the question. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response does not answer the question about the 'Pahul' tradition and its history, instead it talks about religious practices in general. The response is also not coherent and does not make sense in the context of the question. Therefore, the score is 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively uses idiomatic expressions without sounding forced. It also seamlessly integrates contextually relevant vocabulary. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure as the same sentence is repeated multiple times without any variation or additional information. This repetition does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response does not fit within the natural, expected, and intuitive contours of fluent human language. Therefore, the score is 0 according to the linguistic acceptability metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context, answering the question about the tradition of Pahul in Sikhism and its significance."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively uses idiomatic expressions without sounding forced. It adheres to the implicit norms and rules of a native speaker's linguistic intuition, fitting within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response is overly verbose and does not directly answer the question. The question asks about the 'Pahul' tradition and what happened with it, but the response talks about a tradition related to wearing masks, which is not relevant to the question. The response is grammatically correct and uses appropriate vocabulary, but it does not provide the information asked for in the question. Therefore, the score is 1, as per the 'linguistic_acceptability' metric."
+        }
+    },
+    {
+        "prompt_id": "f085def8-45bc-4e27-a685-c4de1d9227e9",
+        "prompt": "ਫੁਲਕਾਰੀ ਕਿਸ ਲਈ ਮਸ਼ਹੂਰ ਹੈ ਅਤੇ ਇਸ ਨੂੰ ਬਣਾਉਣ ਲਈ ਕਿਸ ਕਿਸਮ ਦਾ ਧਾਗਾ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ?",
+        "prompt_type": "culture",
+        "language": "punjabi",
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful information in response to the question. The response is repetitive and does not answer the question about what 'Fulkari' is famous for and what type of thread is used to make it. The response is also filled with non-existent or incorrect words, making it difficult to understand. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native Punjabi speaker's linguistic intuition. It is grammatically correct, uses appropriate vocabulary, and fits naturally within the context of the question. The response effectively answers the question about what Phulkari is famous for and what kind of thread is used to make it, demonstrating a seamless integration of contextually relevant vocabulary. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is not coherent and does not provide a clear answer to the question. The response also includes irrelevant information that does not pertain to the question. The response does not mention what Phulkari is famous for and what type of thread is used to make it, which was asked in the question. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of Punjabi language. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question about what Phulkari is famous for and what kind of thread is used to make it, demonstrating a seamless integration of contextually relevant vocabulary."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, incorrect words, or inappropriate word choices. The response effectively answers the question about what Phulkari is famous for and what kind of thread is used to make it."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful information in response to the question. The response is just a repetition of the same word, which does not make any sense in the context of the question. Therefore, it falls under the category of 'Sentences that lack clear syntactic structure' and 'Usage of non-existent or incorrect words' as per the scoring rubric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response is linguistically acceptable in terms of grammar and syntax. However, it is not contextually appropriate. The question asks about 'Phulkari', a traditional embroidery technique from Punjab, India, and the type of thread used in it. But the response talks about 'Phulkari' being used for storing pencils and being made of clear plastic thread, which is incorrect and not contextually appropriate. Therefore, the response gets a score of 1 as per the metric 'linguistic_acceptability'."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Punjabi language. The response is fluent, idiomatic, and appropriate in the given context. It effectively answers the question about what Phulkari is famous for and what type of thread is used to make it. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response reflects the natural rhythm, emphasis, and intonation of spoken Punjabi language."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Punjabi language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the context of the question."
+        },
+        "SamwaadLLM": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and appropriate words, and are contextually relevant. The response also reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively answers the question about what Phulkari is famous for and what kind of thread is used to make it, demonstrating a seamless integration of contextually relevant vocabulary."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as per the norms and rules of the Punjabi language. It is fluent, idiomatic, and appropriate in the context of the question. The response seamlessly integrates contextually relevant vocabulary, effectively uses idiomatic expressions without sounding forced, and reflects the natural rhythm, emphasis, and intonation of spoken Punjabi language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it does not answer the question asked. The question asks about the famous embroidery technique 'Phulkari' and the type of thread used to create it. However, the response describes 'Phulkari' as a famous dish in India and Pakistan, which is incorrect. This is a grossly inappropriate response for the given context, hence the score of 0."
+        }
+    }
+]

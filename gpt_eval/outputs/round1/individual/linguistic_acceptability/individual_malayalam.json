@@ -1,0 +1,1242 @@
+[
+    {
+        "prompt_id": "a7d475b3-b705-4a8f-a75b-25e5c5eed99b",
+        "prompt": "ഒരു ബാങ്ക് അക്കൗണ്ട് തുടങ്ങാനായി ആവശ്യമായ രേഖകൾ എന്തൊക്കെയാണ്?",
+        "prompt_type": "finance",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the grammatical rules of the Malayalam language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response is also contextually relevant and provides a comprehensive answer to the question asked."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. It lacks a clear syntactic structure and does not provide any meaningful information in response to the question. The response is a repetition of the phrase 'ആവശ്യമായി താഴെക്ക്' (required below) multiple times, which does not make sense in the context of the question. The response does not list any documents required to open a bank account, which was the information sought in the question. Therefore, the score is 0 as per the 'linguistic_acceptability' metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary in context. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and provides a comprehensive answer to the question asked."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response does not provide a coherent answer to the question about the documents required to open a bank account. Instead, it contains unrelated phrases and words, making it difficult to understand. The response does not align with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions without sounding forced. It provides a comprehensive answer to the question, detailing the documents required to open a bank account."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentence structure is clear and there are no non-existent or incorrect words. The word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentence reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing a detailed list of documents required to open a bank account. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing a detailed list of documents required to open a bank account."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing a comprehensive list of documents required to open a bank account."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response is generally well-structured and provides a clear answer to the question. However, there are minor issues with the language used. The phrase 'ഏതൊരു' is repeated unnecessarily before each document type, making the response sound a bit stilted. Also, the last sentence 'ഈ രേഖകളുടെ ആവശ്യത, ഓരോ ബാങ്കിനും ഭിഷണ ഏlení, ഈ ഏlení, ഓരോ ഓപണത്തിന് വ്യത്യതമാണ്' contains non-existent words and is not clear in meaning. These issues do not impede understanding but make the response less linguistically acceptable."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Malayalam language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and directly answers the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question about the documents required to open a bank account."
+        }
+    },
+    {
+        "prompt_id": "2627e5e1-c0b8-444a-bcdc-7698d4126c94",
+        "prompt": "ക്രെഡിറ്റ് കാർഡ് ഉപയോഗിക്കുന്നതിൻ്റെ പ്രയോജനങ്ങൾ എന്തൊക്കെയാണ്?",
+        "prompt_type": "finance",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response is linguistically acceptable in terms of grammar and syntax. However, it is overly verbose and repetitive, especially in the latter part where the same point about 'credit scan' is repeated multiple times without adding any new information. This redundancy makes the response less effective and natural, hence the score of 1."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences reflect the natural rhythm, emphasis, and intonation of spoken language, and there are no grammatical errors. The response is also clear, concise, and easy to understand. It provides a comprehensive list of the benefits of using a credit card, which directly answers the question."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful information in response to the question. The same sentence is repeated multiple times without any variation or additional information. This repetition does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response does not adhere to the grammar rules and does not fit within the natural, expected, and intuitive contours of fluent human language. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about the benefits of using a credit card."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing a list of benefits of using a credit card. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and uses non-existent or incorrect words. The response does not answer the question about the benefits of using a credit card. Instead, it repeats the same phrase multiple times, which does not make sense in the given context. Therefore, the score is 0 according to the linguistic acceptability metric."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are structured well, and there are no grammatical errors. The response is fluent and idiomatic, reflecting the natural rhythm and intonation of spoken language. It also aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response is grammatically correct and understandable, but it is overly repetitive. The same point about being able to make purchases without paying immediately is repeated four times, which is not necessary and makes the response verbose. Therefore, the response gets a score of 1 according to the linguistic acceptability metric, which penalizes overly verbose phrasing."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences reflect the natural rhythm, emphasis, and intonation of spoken language, and it effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response starts with a valid point about the benefits of using a credit card, but then it devolves into a nonsensical repetition of the same phrase. This makes the response incoherent and difficult to understand."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences reflect the natural rhythm, emphasis, and intonation of spoken language, and it effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and directly answers the question."
+        }
+    },
+    {
+        "prompt_id": "d3a139e7-1bc9-4dfc-a77f-d77720506067",
+        "prompt": "ഒരു കറന്റ് അക്കൗണ്ടിൽ സൂക്ഷിക്കേണ്ട മിനിമം ബാലൻസ് എത്രയാണ്",
+        "prompt_type": "finance",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "justification": "The response to the question is linguistically acceptable. It is written in fluent Malayalam, uses appropriate vocabulary, and is contextually relevant. The sentence structure is clear and it reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is concise and directly answers the question.",
+            "score": 2
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is grammatically correct, uses appropriate vocabulary, and fits naturally within the context of the question. The sentence structure is clear and there are no inappropriate word choices. The response also reflects the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and does not provide a direct answer to the question. The response is repetitive and does not make sense in the context of the question. The phrase 'സംവിധാNS സൗകര്യങ്ങളും' is repeated multiple times without any clear meaning or relevance to the question. Therefore, the score is 0 as per the metric 'linguistic_acceptability'."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is a complete sentence that adheres to the syntactic structure of the Malayalam language. The vocabulary used is contextually relevant and appropriate. The sentence reflects the natural rhythm, emphasis, and intonation of spoken Malayalam. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent and idiomatic, fitting well within the natural, expected, and intuitive contours of fluent human Malayalam language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and is difficult to understand. The response does not provide a clear answer to the question about the minimum balance required in a current account. Instead, it contains repetitive and nonsensical phrases. This violates the norms and rules of a native speaker's linguistic intuition, making it score 0 according to the metric."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the syntactic structure of the Malayalam language and uses appropriate words and phrases. There are no grammatical errors, and the response is not overly verbose or stilted. The response also effectively uses idiomatic expressions and reflects the natural rhythm, emphasis, and intonation of spoken Malayalam. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively answers the question, providing a clear and comprehensive explanation of the minimum balance required in a current account, and reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is a well-structured sentence that adheres to the norms and rules of the Malayalam language. The vocabulary used is contextually relevant and appropriate. The sentence reflects the natural rhythm, emphasis, and intonation of spoken Malayalam. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is a complete sentence that adheres to the syntactic structure of the Malayalam language. The words used are correct and appropriate for the context. The sentence reflects the natural rhythm, emphasis, and intonation of spoken Malayalam. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is a clear and concise answer to the question, using appropriate vocabulary and syntax. The sentence structure aligns with the implicit norms and rules of a native speaker's linguistic intuition. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response fits within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary. The response is contextually relevant and aligns with the implicit norms and rules of a native speaker's linguistic intuition. It reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors or inappropriate word choices. The response is not overly verbose or stilted, and it effectively uses idiomatic expressions without sounding forced."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive. The same information is repeated three times in the response, which makes it sound stilted and unnatural. However, the response is grammatically correct and uses appropriate words and phrases, so it is still understandable and provides the necessary information. Therefore, according to the linguistic acceptability metric, the response gets a score of 1."
+        }
+    },
+    {
+        "prompt_id": "572ca832-09ce-4fcc-b77c-09700930c840",
+        "prompt": "എൻ്റെ ക്രെഡിറ്റ് സ്കോർ എങ്ങനെ മെച്ചപ്പെടുത്താം?",
+        "prompt_type": "finance",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences reflect the natural rhythm, emphasis, and intonation of spoken language, and it effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, providing a comprehensive answer to the question."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the grammatical norms of the Malayalam language. The sentences reflect the natural rhythm and intonation of spoken language. The response is also contextually relevant and provides a comprehensive answer to the question asked. There are no errors or inappropriate word choices observed."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive. The same phrase is repeated multiple times without providing any meaningful or relevant information to the question asked. The response does not provide any useful information on how to improve one's credit score, which was the original question. Therefore, it scores 0 on the linguistic acceptability scale."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it does not answer the question asked. The question is about improving credit score, but the response talks about studying and collaborating with fellow students, which is irrelevant to the question. This is a case of grossly inappropriate word choices for a given context, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are structured well and reflect the natural rhythm of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and provides a comprehensive answer to the question asked."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. It lacks a clear syntactic structure and does not provide a coherent answer to the question asked. The response is a repetition of the same phrase, which does not make sense in the context of the question. It does not provide any information on how to improve one's credit score, which was the question asked. Therefore, according to the metric, the response gets a score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is written in fluent Malayalam, with correct grammar and syntax. The sentences are clear and concise, and they reflect the natural rhythm and intonation of spoken language. The response also effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. There are no errors or inappropriate word choices. The response is also appropriate in the context of the question, providing a detailed and comprehensive answer on how to improve one's credit score."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentence structure is clear and it aligns with the implicit norms and rules of a native speaker's linguistic intuition. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The same phrase 'നിങ്ങളുടെ ക്രെഡിറ്റ് കാർഡ് ബാലൻസ് കുറയ്ക്കുന്നതിന്' is repeated multiple times without any context or additional information, making the response lack clear syntactic structure. This repetition does not contribute to the overall meaning or coherence of the response, and it does not align with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, maintains the natural rhythm of the language, and effectively uses idiomatic expressions. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, reflecting the natural contours of fluent human language."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively provides a detailed answer to the question on how to improve one's credit score, making it not only linguistically acceptable but also informative and helpful."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Malayalam language. The response is fluent, idiomatic, and appropriate in the context of the question. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question on how to improve one's credit score, providing practical and detailed advice. Therefore, it receives a score of 2, reflecting its seamless integration of contextually relevant vocabulary, effective use of idiomatic expressions, and natural rhythm and intonation."
+        }
+    },
+    {
+        "prompt_id": "4f7e3c83-87a3-48b4-aae1-8bc2773adfb3",
+        "prompt": "എൻ്റെ ഡെബിറ്റ് കാർഡ് നഷ്ടപ്പെട്ടാൽ ഞാൻ എന്തുചെയ്യണം?",
+        "prompt_type": "finance",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions without sounding forced. It provides a comprehensive answer to the question, detailing the steps one should take if they lose their debit card."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It is repetitive and does not provide a clear answer to the question. The response does not provide any steps or actions to be taken if a debit card is lost, which is what the question is asking for. Instead, it repeatedly mentions checking the cards in the wallet, which is not relevant to the question. The response also lacks clear syntactic structure and is overly verbose, which are reasons for a score of 0 according to the metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. It lacks a clear syntactic structure and does not provide a coherent answer to the question. The response is a repetition of the same phrase, which does not make sense in the given context. Therefore, it falls under the category of 'Sentences that lack clear syntactic structure' and 'Grossly inappropriate word choices for a given context' as per the scoring rubric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and phrases to provide a detailed answer to the question. The sentences are well-structured and reflect the natural rhythm and intonation of spoken Malayalam. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary in the context of the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively provides a clear and concise answer to the question, demonstrating a seamless integration of contextually relevant vocabulary and effective use of idiomatic expressions without sounding forced."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable in the context of the question. The question is in Malayalam and asks what to do if one's debit card is lost. However, the response is in English and explains what a debit card number is, which is not relevant to the question. Therefore, the response lacks clear syntactic structure and appropriateness in context, leading to a score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. It provides a clear and concise answer to the question, explaining the steps to be taken if a debit card is lost. The response is grammatically correct and reflects the natural rhythm, emphasis, and intonation of spoken language. There are no inappropriate word choices, and the phrasing is not overly verbose or stilted. The response also effectively uses idiomatic expressions without sounding forced."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. It provides a clear and concise answer to the question, explaining the steps to be taken when a debit card is lost. The response is grammatically correct and reflects the natural rhythm, emphasis, and intonation of spoken language. There are no errors or inappropriate word choices. The response is not overly verbose or stilted, and it uses idiomatic expressions effectively without sounding forced."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. It effectively answers the question about what to do if one's debit card is lost, providing a clear and concise explanation. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response reflects the natural rhythm, emphasis, and intonation of spoken language, making it easy to understand and follow."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing a clear and comprehensive explanation of what to do if one's debit card is lost. It also uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive. The same information is repeated multiple times, which makes the response unnecessarily long and redundant. However, the response is grammatically correct and provides the correct information to the question asked. The response could have been more concise and to the point."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is written in a clear and concise manner, with a well-structured syntax. The vocabulary used is contextually relevant and appropriate. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question, providing a detailed step-by-step guide on what to do if one's debit card is lost or stolen. Therefore, it scores 2 on the linguistic acceptability metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are structured well, and the language used is natural and fluent. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively answers the question about what to do if one's debit card is lost, providing a clear and comprehensive explanation."
+        }
+    },
+    {
+        "prompt_id": "e451e783-fe9a-43cb-8d63-88e3cf42f2e9",
+        "prompt": "മാനസിക പിരിമുറുക്കം കുറയ്ക്കാൻ ചില മാർഗ്ഗങ്ങൾ നിർദ്ദേശിക്കുക.",
+        "prompt_type": "health",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the implicit norms and rules of the Malayalam language. The sentences are well-structured and use appropriate vocabulary. The response is fluent, idiomatic, and appropriate in the given context. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing various ways to reduce mental stress, and does so in a manner that reflects the natural rhythm, emphasis, and intonation of spoken Malayalam language."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the implicit norms and rules of the Malayalam language. The sentences are well-structured, and the vocabulary used is contextually relevant. The response does not contain any non-existent or incorrect words, and the word choices are appropriate for the given context. The response also reflects the natural rhythm, emphasis, and intonation of spoken Malayalam language. Therefore, the response gets a score of 2."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful or relevant information in response to the question. The same phrase is repeated multiple times without any context or explanation, which makes the response nonsensical and unhelpful. Therefore, the score is 0 as per the metric 'linguistic_acceptability'."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary in context. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively provides several ways to reduce mental stress, which directly answers the question."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the norms and rules of the Malayalam language. The sentences are well-structured and use appropriate vocabulary. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively provides ways to reduce mental stress, which aligns with the question's request."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive, making it difficult to understand. The response does not provide any meaningful or relevant information to the question asked. The response also uses incorrect and non-existent words, which further reduces its linguistic acceptability."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Malayalam language. The response is contextually relevant, answering the question about ways to reduce mental stress. It uses idiomatic expressions naturally and reflects the natural rhythm, emphasis, and intonation of spoken Malayalam. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is concise, clear, and easy to understand."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Malayalam language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question by providing several ways to reduce mental stress, demonstrating a seamless integration of contextually relevant vocabulary."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response is linguistically acceptable in terms of grammar and syntax. However, it is overly verbose and repetitive. The same suggestion of practicing yoga to calm the mind and body is repeated multiple times without any variation or additional information. This makes the response seem stilted and unnatural, hence the score of 1."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question, providing several methods to reduce mental stress, making it contextually relevant."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. The response lacks clear syntactic structure and uses non-existent or incorrect words. The response is not understandable and does not provide any meaningful information in response to the question. The response does not adhere to the implicit norms and rules of a native speaker's linguistic intuition. The response does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand."
+        }
+    },
+    {
+        "prompt_id": "da97221b-f005-4bb6-b265-7783fe25b354",
+        "prompt": "ഒരു ആരോഗ്യ ഇൻഷുറൻസ് പ്ലാൻ തിരഞ്ഞെടുക്കുമ്പോൾ ഞാൻ ശ്രദ്ധിക്കേണ്ട ഘടകങ്ങൾ എന്തെല്ലാമാണ്?",
+        "prompt_type": "health",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and adheres to the norms of the Malayalam language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and provides a comprehensive answer to the question."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It starts off well by mentioning the benefits of health insurance plans, but then it devolves into a repetitive string of the word 'insurance' which lacks clear syntactic structure and does not provide any meaningful information. This repetition of the same word is a usage of non-existent structure, which is a criterion for a score of 0 according to the metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide a coherent answer to the question. The sentences are repetitive and do not make sense in the context of the question. The response does not provide any information on the factors to consider when choosing a health insurance plan, which was the main focus of the question. Therefore, the score is 0 as per the metric 'linguistic_acceptability'."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively answers the question, providing a list of factors to consider when choosing a health insurance plan."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and directly answers the question."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive. The response does not provide any useful information in response to the question. It also contains non-existent or incorrect words, making it difficult to understand."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing a comprehensive list of factors to consider when choosing a health insurance plan."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary in the context of the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question about what factors to consider when choosing a health insurance plan, providing relevant and detailed information."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing detailed factors to consider when choosing a health insurance plan. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively answers the question, providing relevant factors to consider when choosing a health insurance plan."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing a comprehensive list of factors to consider when choosing a health insurance plan."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The sentences lack clear syntactic structure and the usage of non-existent or incorrect words is prevalent. The phrase 'ഏഷ്ട ഈ ഈ ഘടകം' is repeated multiple times without any clear meaning or context. This makes the response hard to understand and does not provide a clear answer to the question asked."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are well-structured and reflect the natural rhythm of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and provides a comprehensive answer to the question asked."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences reflect the natural rhythm, emphasis, and intonation of spoken language, and it effectively uses idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and directly answers the question."
+        }
+    },
+    {
+        "prompt_id": "1b54cff0-688d-46b0-9764-cb9081b3b3b2",
+        "prompt": "മുടി കൊഴിച്ചിലിനുള്ള പ്രകൃതിദത്തമായ പരിഹാരങ്ങൾ എന്തൊക്കെയാണ്?",
+        "prompt_type": "health",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive. The same points are repeated multiple times with slight variations, which makes the response unnecessarily long and redundant. For example, the points about 'മധുരം', 'തയ്യാറുന്നത്', 'ചാലകൽ', 'നന്നായി വ്യായാമം' are repeated multiple times. This redundancy makes the response less effective and less acceptable linguistically. However, the response does not contain any grammatical errors or inappropriate word choices, and it does answer the question correctly, which is why it does not receive a score of 0."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response is also free from any grammatical errors and uses appropriate words in the given context. The response is not overly verbose or stilted, and it effectively uses idiomatic expressions without sounding forced. Therefore, the response gets the highest score according to the linguistic acceptability metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. The sentences lack clear syntactic structure and are repetitive, making them difficult to understand. The response does not provide any relevant information to the question asked about natural remedies for hair fall. The sentences are not contextually relevant and do not reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question about natural remedies for dandruff in a clear and concise manner."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant to the question asked. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also reflects the natural rhythm and intonation of spoken language, making it easy to understand and follow. It effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and does not provide any meaningful or relevant information in response to the question. The response is repetitive and does not make sense in the context of the question. It does not provide any natural remedies for hair fall, which was the information sought in the question. Therefore, the score is 0 as per the metric 'linguistic_acceptability'."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are well-structured and reflect the natural rhythm of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is clear, concise, and provides a comprehensive answer to the question asked."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is not coherent and does not provide a clear answer to the question about natural remedies for hair fall. The response seems to be a random collection of words and phrases, which makes it difficult to understand and does not align with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively integrates contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It repeats the same solution for hair fall multiple times, which is the use of 'hend hair oil'. This repetition does not provide any new information and does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response lacks clear syntactic structure and is overly verbose, which are reasons for a score of 0 according to the metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing various natural remedies for hair fall. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. The response lacks clear syntactic structure and uses non-existent or incorrect words. The same phrases are repeated multiple times without providing any meaningful information. The response does not provide any natural remedies for hair fall as asked in the question. Therefore, the score is 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary in context. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It starts off well, providing some natural remedies for hair fall. However, it quickly becomes repetitive and nonsensical, repeating the phrase 'മുടിക്കുക' (comb the hair) multiple times without any context or additional information. This repetition lacks clear syntactic structure and does not align with the implicit norms and rules of a native speaker's linguistic intuition. Therefore, the score is 0 as per the provided metric."
+        }
+    },
+    {
+        "prompt_id": "328f86d6-3ec2-4f04-950a-d80c9723fbc0",
+        "prompt": "വിഷാദരോഗത്തിൻ്റെ സാധാരണ ലക്ഷണങ്ങൾ എന്തൊക്കെയാണ്?",
+        "prompt_type": "health",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is overly repetitive, with the same phrase 'ഉത്കണ്ഠ' repeated multiple times. This repetition does not contribute to the meaning or understanding of the response, and it disrupts the natural rhythm and fluency of the language. Therefore, the score is 0."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The same word 'ഉത്കണ്ഠ' (anxiety) is repeated multiple times without any context or meaning, which makes the sentence lack clear syntactic structure. This repetition of the same word is not appropriate in the given context and does not align with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response to the question is not linguistically acceptable. The sentences lack clear syntactic structure and are repetitive, with no meaningful information provided. The response does not answer the question about the general symptoms of depression. It is essentially gibberish and does not adhere to the implicit norms and rules of a native speaker's linguistic intuition. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question about the general symptoms of depression in a clear and concise manner."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary and phrases to describe the symptoms of depression. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable in the context of the question. The question asks for the common symptoms of depression, but the response provides information about the four main qualities of Visuddhara Raghavan, which is unrelated to the question. The response is grammatically correct and uses appropriate words, but it is not contextually appropriate, hence the score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively answers the question about the common symptoms of depression in a clear and comprehensive manner."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question about the common symptoms of depression in a clear and concise manner. It reflects the natural rhythm, emphasis, and intonation of spoken language, making it easy to understand and follow."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is overly repetitive, using the same word 'നിരാശ' (despair) multiple times without providing any other symptoms of depression. This does not align with the implicit norms and rules of a native speaker's linguistic intuition and does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Malayalam language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing a detailed list of the general symptoms of depression."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary in the context of the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It starts off in Malayalam, but then switches to English and includes non-existent or incorrect words such as 'hø가'. This violates the norms and rules of a native speaker's linguistic intuition, as described in the metric. The response lacks clear syntactic structure and uses inappropriate word choices for the given context, which are reasons for a score of 0 according to the scoring rubric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is also contextually relevant and effectively answers the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question about the general symptoms of depression in a clear and comprehensive manner."
+        }
+    },
+    {
+        "prompt_id": "49a18b47-dd0c-46bd-a9ad-d1244e95ce1e",
+        "prompt": "ഉയർന്ന രക്തസമ്മർദ്ദം എൻ്റെ ഹൃദയാരോഗ്യത്തെ എങ്ങനെയൊക്കെ ബാധിക്കും?",
+        "prompt_type": "health",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive. The same points are repeated multiple times without adding any new information. This makes the response unnecessarily long and redundant. However, the response is grammatically correct and uses appropriate vocabulary. The response also correctly answers the question and provides relevant information about how high blood pressure can affect heart health. Therefore, the response is given a score of 1 for linguistic acceptability."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent words. The response does not answer the question about how high blood pressure affects heart health. Instead, it repeats a nonsensical phrase multiple times. This is a clear violation of the implicit norms and rules of a native speaker's linguistic intuition, resulting in a score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question, providing a clear explanation of how high blood pressure can affect heart health. Therefore, it receives a score of 2, reflecting its seamless integration of contextually relevant vocabulary, effective use of idiomatic expressions, and natural rhythm and intonation."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, explaining how high blood pressure can affect heart health in a clear and concise manner. It reflects the natural rhythm, emphasis, and intonation of spoken language, making it easy to understand for native speakers."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response lacks clear syntactic structure and is repetitive. The same phrase is repeated multiple times without providing any meaningful or relevant information to the question asked. This makes the response linguistically unacceptable."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as per the given metric. It has a clear syntactic structure, uses correct and contextually relevant words, and does not have any grammatical errors. The response is not overly verbose or stilted, and it reflects the natural rhythm, emphasis, and intonation of spoken language. It effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the implicit norms and rules of the Malayalam language. The response uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent and appropriate in the given context, answering the question about how high blood pressure can affect heart health."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively explains how high blood pressure can affect heart health, which directly answers the question."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. It does not contain any grammatical errors, inappropriate word choices, or overly verbose phrasing. The response also reflects the natural rhythm, emphasis, and intonation of spoken language, making it sound natural and fluent. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response contains a mix of Malayalam and English, which is not linguistically acceptable. There are also non-existent or incorrect words used, such as 'marrdം', 'Possui', 'לחץ', which do not make sense in the context of the response. The response also lacks clear syntactic structure, with English phrases inserted into Malayalam sentences. This does not align with the implicit norms and rules of a native speaker's linguistic intuition. Therefore, the score is 0."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary and phrases in the context of the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively explains how high blood pressure can negatively affect heart health, which directly answers the question."
+        }
+    },
+    {
+        "prompt_id": "7c12a282-4b38-4a2d-9772-29a6dcbc59a7",
+        "prompt": "കേരളം പണ്ട് ഭരിച്ചിരുന്ന മഹാബലി ചക്രവർത്തിയുടെ ഓർമ്മക്കായിട്ടാണ് ഓണം ആഘോഷിക്കുന്നത്. എന്നാൽ ഇത് ഒരു കെട്ടുകഥയാണോ അല്ലെങ്കിൽ ചരിത്രത്തിൽ എവിടെയെങ്കിലും ഇതിനെ സൂചിപ്പിക്കുണ്ടോ? ഓണത്തെക്കുറിച്ച് വിവരിക്കുക",
+        "prompt_type": "culture",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent and aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It contains a repeated phrase 'പാരമ്പര്യങ്ങളും' multiple times without any context or meaning, which lacks clear syntactic structure. This repetition makes the response incoherent and difficult to understand. Therefore, according to the metric, the score is 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it lacks clear syntactic structure. The response is simply a repetition of the question, without providing any new information or answering the question. This is a clear violation of the norms and rules of a native speaker's linguistic intuition, as it does not contribute to a meaningful conversation or exchange of information. Therefore, according to the scoring rubric, the response receives a score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is grammatically correct, uses appropriate vocabulary, and is contextually relevant. It also reflects the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is grammatically correct, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it receives a score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Malayalam language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively answers the question, providing a clear and concise explanation about the legend of Mahabali and the celebration of Onam in Kerala."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary and idiomatic expressions. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent and aligns with the implicit norms and rules of a native Malayalam speaker's linguistic intuition."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is grammatically correct, uses appropriate vocabulary, and fits naturally within the context of the question. The response also reflects the natural rhythm, emphasis, and intonation of spoken language. There are no errors or inappropriate word choices, and the phrasing is not overly verbose or stilted. The response effectively answers the question about the historical context of the Onam festival and the legend of King Mahabali."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and is repetitive. The same sentence 'ഈ ഓർമ്മ, ഏഷ്യൻ ഐതിഹ്യങ്ങളുടെ ഏക ഭാഗമാണ്' is repeated three times without any context or relevance. Also, the response does not answer the question asked. The question asks whether the story of King Mahabali is a myth or if there is any historical evidence to support it, but the response does not address this at all."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It has a clear syntactic structure, uses correct and existent words, and is contextually appropriate. The response is not overly verbose or stilted, and it does not contain any grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it receives a score of 2 according to the linguistic acceptability metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response also effectively uses idiomatic expressions without sounding forced. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, maintains a natural rhythm, and is free from grammatical errors. The response is also well-structured and coherent, providing a detailed explanation about the festival of Onam and its historical and cultural significance. It does not contain any inappropriate word choices, overly verbose or stilted phrasing, or non-existent or incorrect words. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions without sounding forced. It aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        }
+    },
+    {
+        "prompt_id": "a057ca52-4d58-4078-953b-d105c9560ce3",
+        "prompt": "കേരളത്തിലെ പല സമുദായങ്ങളിലും നിലനിന്നിരുന്നു ഒരു സമ്പ്രദായം ആയിരുന്നു മരുമക്കത്തായം. എന്താണ് ഈ മരുമക്കത്തായം? എന്തുകൊണ്ടാണ് അത് ഇപ്പോൾ ആരും പിന്തുടരാത്തത്?",
+        "prompt_type": "culture",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The same sentence is repeated multiple times without any variation or additional information. This repetition does not align with the implicit norms and rules of a native speaker's linguistic intuition. It lacks fluency and appropriateness in context. The response does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 0,
+            "justification": "The response is highly repetitive, with the same phrases and sentences repeated multiple times. This makes the response linguistically unacceptable as it lacks clear syntactic structure and fluency. The repetition also makes the response overly verbose and disrupts the natural rhythm and intonation of the language."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is completely irrelevant to the question asked. The question is about the matrilineal system in Kerala, but the response is about the top 10 tourist destinations in Kerala. This is a grossly inappropriate response for the given context, hence the score of 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it does not contain any grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the norms and rules of the Malayalam language. The sentences are well-structured and use appropriate vocabulary. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively explains the concept of 'Marumakkathayam' and why it is not followed anymore, which aligns with the question asked."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and does not provide a coherent answer to the question. The response also contains non-existent or incorrect words, making it difficult to understand. The response does not explain what 'Marumakkathayam' is or why it is not followed anymore, which was asked in the question. Therefore, the response is not appropriate for the given context."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand, fitting well within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the context of the question."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and uses non-existent or incorrect words. The response does not provide a clear explanation of the concept of 'Marumakkathayam' or why it is no longer followed, which was asked in the question. Instead, it repeats the same phrase multiple times with no clear meaning or context. This makes the response difficult to understand and does not align with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it does not contain any grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it adheres to the norms and rules of the Malayalam language. The sentences are well-structured and clear, with appropriate word choices that fit the context. The response effectively uses contextually relevant vocabulary and idiomatic expressions, reflecting the natural rhythm, emphasis, and intonation of spoken Malayalam. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent and intuitive, fitting well within the natural contours of human language."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is clear, concise, and easy to understand."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively explains the concept of 'Marumakkathayam' and why it is not followed today, which directly answers the question."
+        }
+    },
+    {
+        "prompt_id": "52a15b10-1f4b-446a-942c-aba1d3c62ee8",
+        "prompt": "ജാതിമതഭേദമന്യേ കേരളത്തിലെ എല്ലാവരും ഒരുപോലെ ആഘോഷിക്കുന്ന ഉത്സവങ്ങൾ എന്തെല്ലാമാണ് ?",
+        "prompt_type": "culture",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 1,
+            "justification": "The response is generally linguistically acceptable, but it contains repeated phrases and sentences which make it overly verbose. For example, the descriptions of the festivals 'കൊല്ലാനൂർ പൂരം', 'കൊല്ലാനൂർ തെയ്യം', 'ചാലക്കുടിയിൽ പൂരം', and 'കൊടുങ്ങല്ലൂർ പൂരം' are almost identical, which is not natural in fluent human language. The response could have been more concise and varied in its descriptions. However, the response does not contain any grammatical errors or inappropriate word choices, and it is understandable and relevant to the question."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive. The same festival names are repeated multiple times with the same descriptions, which makes the response redundant and confusing. The response also lacks clear structure and organization, making it difficult to follow. However, the language used is grammatically correct and the words used are appropriate for the context."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful answer to the question. The response is just a repetition of the question multiple times without any additional information or context. This does not align with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question about the festivals celebrated by everyone in Kerala, listing several examples such as Onam, Vishu, Dussehra, Thulabaram, Makaravilakku, Vijayadashami, and Birthday."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response effectively answers the question by listing the festivals celebrated by everyone in Kerala without any caste or religious discrimination."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and does not provide a coherent answer to the question. The response seems to be a repetition of the same phrase, which does not make sense in the context of the question. The response does not mention any festivals celebrated in Kerala without caste or religious discrimination, which was the information asked for in the question. Therefore, the score is 0 as per the metric 'linguistic_acceptability'."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the implicit norms and rules of the Malayalam language. The response uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent and fits within the natural, expected, and intuitive contours of fluent human Malayalam language."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide a coherent answer to the question. The response is repetitive and does not list any festivals celebrated by all in Kerala without caste or religious discrimination, which was the information asked for in the question. Therefore, the score is 0 as per the metric 'linguistic_acceptability'."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response contains several instances of non-existent or incorrect words, such as 'lớnest', 'Etc.', and 'ěl', which do not make sense in the context of the Malayalam language. This makes the response difficult to understand and does not align with the implicit norms and rules of a native speaker's linguistic intuition. Therefore, according to the linguistic acceptability metric, the response receives a score of 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the implicit norms and rules of the Malayalam language. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is a good fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive, mentioning 'Kottayam Festival' multiple times without providing any additional information or context. This repetition does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively integrates contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively answers the question about festivals celebrated by everyone in Kerala without any caste or religious discrimination."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the implicit norms and rules of the Malayalam language. The response uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent, idiomatic, and appropriate in the context of the question."
+        }
+    },
+    {
+        "prompt_id": "c25ce2f7-b218-40c2-a0b0-0d8473671ea3",
+        "prompt": "തുഞ്ചത്ത് എഴുത്തച്ഛനെ എന്തുകൊണ്ടാണ് മലയാളഭാഷയുടെ പിതാവ് എന്നറിയപ്പെടുന്നത്? മലയാള ഭാഷയുടെ ഉത്ഭവത്തെകുറിച്ച് വിവരിക്കുക.",
+        "prompt_type": "culture",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the given context. The response effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and easy to understand."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it adheres to the norms and rules of the Malayalam language. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, demonstrating a high level of linguistic acceptability."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and does not provide any meaningful information in response to the question. The same sentence is repeated multiple times without any context or explanation. The response does not answer the question about why Thunchaththu Ezhuthachan is known as the father of the Malayalam language or provide any information about the origin of the Malayalam language. Therefore, the score is 0 as per the metric 'linguistic_acceptability'."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and uses non-existent or incorrect words. The response is also repetitive and does not provide a coherent answer to the question. The response does not provide any information about why Thunchath Ezhuthachan is known as the father of the Malayalam language or about the origin of the Malayalam language, which was asked in the question. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and does not provide a coherent answer to the question. The response seems to be a random collection of words and phrases, which makes it difficult to understand. It does not explain why Thunchath Ezhuthachan is known as the father of the Malayalam language, nor does it provide any information about the origin of the Malayalam language. Therefore, according to the scoring rubric, the response receives a score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is also repetitive and does not provide a clear and concise answer to the question. The response does not effectively explain why Thunchaththu Ezhuthachan is known as the father of the Malayalam language or provide details about the origin of the Malayalam language. The response also includes irrelevant information and is not contextually appropriate."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, demonstrating a high degree of linguistic acceptability."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in context. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it highly linguistically acceptable."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it adheres to the norms and rules of the Malayalam language. The sentences are well-structured and use appropriate vocabulary. The response is fluent, idiomatic, and contextually appropriate. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively answers the question, providing information about why Thunchaththu Ezhuthachan is known as the father of the Malayalam language and the origin of the Malayalam language. Therefore, the response receives a score of 2."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and easy to understand, demonstrating a high degree of linguistic acceptability."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and easy to understand."
+        }
+    },
+    {
+        "prompt_id": "f775d9b5-d45d-456d-97e2-09309d3c23e0",
+        "prompt": "കേരളത്തിലെ ഏറ്റവും പുരാതന കലാരൂപമായ കൂടിയാട്ടത്തെക്കുറിച്ച് വിവരിക്കുക",
+        "prompt_type": "culture",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it does not answer the question asked. The question asks for a description of the oldest art form in Kerala, 'Koodiyattam'. However, the response does not mention 'Koodiyattam' at all. Instead, it repeatedly describes a form of art called 'Kattacchal', which is not relevant to the question. This is a grossly inappropriate response for the given context, hence the score of 0."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, which makes it sound stilted. The same information is repeated multiple times without adding any new information or details. This redundancy makes the response less effective and engaging. However, the response does not contain any grammatical errors or inappropriate word choices, and it is contextually relevant to the question asked. Therefore, it scores a 1 on the linguistic acceptability scale."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response does not provide any relevant information about the ancient art form of Koodiyattam in Kerala, which was asked in the question. Instead, it talks about the Kerala government's schemes to support the poor and marginalized sections of society. This is completely unrelated to the question. Moreover, the Malayalam part of the response is repetitive and does not make sense. Therefore, the response lacks clear syntactic structure and contains inappropriate word choices for the given context, which leads to a score of 0 according to the linguistic acceptability metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Malayalam language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in the given context, providing a detailed explanation about the ancient art form of 'Koodiyattam' in Kerala."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the implicit norms and rules of the Malayalam language. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Malayalam. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is a good fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and does not provide any meaningful information about the ancient art form of Koodiyattam in Kerala, as asked in the question. The response is just a repetition of the same phrase, which does not make any sense in the given context. Therefore, it scores 0 on the linguistic acceptability scale."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and easy to understand."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively integrates contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response to the question about the ancient art form of Koodiyattam in Kerala is not linguistically acceptable. The response lacks a clear syntactic structure and is filled with repeated phrases that do not provide any meaningful information about Koodiyattam. This falls under the scoring rubric of 0(a) - 'Sentences that lack clear syntactic structure.'"
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is well-structured and uses appropriate vocabulary and idiomatic expressions that are contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam language. There are no grammatical errors, and the phrasing is not overly verbose or stilted. The response also provides a detailed and comprehensive explanation about the ancient art form of Koodiyattam in Kerala, which aligns perfectly with the question asked. Therefore, the response scores 2 on the linguistic acceptability scale."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It has a clear syntactic structure, uses appropriate words, and is contextually relevant. The response effectively describes 'Koodiyattam', an ancient art form in Kerala, its history, the way it is performed, the characters involved, and its cultural significance. The sentences reflect the natural rhythm and intonation of the Malayalam language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It has a clear syntactic structure, uses correct and appropriate words, and does not contain any grammatical errors. The response is not overly verbose or stilted, and it uses contextually relevant vocabulary effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response also provides a detailed and comprehensive explanation about the ancient art form 'Koodiyattam' in Kerala, which is exactly what the question asked for. Therefore, the response fully meets the criteria for a score of 2 according to the linguistic acceptability metric."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the implicit norms and rules of the Malayalam language. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is a good fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "justification": "The response provided is linguistically acceptable in the context of the question. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent and fits well within the natural contours of the Malayalam language.",
+            "score": 2
+        }
+    },
+    {
+        "prompt_id": "d22d3197-5d61-4f36-af84-15d2a2d456ec",
+        "prompt": "കേരളത്തിന്റെ തനതായ പൈതൃകത്തിൽ നിന്നും സംസ്കാരത്തിലും നിന്നും പുതിയ തലമുറ ഒരുപാട് വ്യതിചലിച്ചിരിക്കുന്നു. ഇതിൽ പാശ്ചാത്യ സംസ്ക്കാരത്തിന്റെ കടന്നു കയറ്റം വഹിച്ച പങ്ക് വിശദീകരിക്കുക",
+        "prompt_type": "culture",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It starts off with a relevant answer to the question, but then it repeats the word 'ഇപ്പോൾ' (now) multiple times without any context or meaning. This repetition lacks clear syntactic structure and does not align with the implicit norms and rules of a native speaker's linguistic intuition. Therefore, the score is 0 according to the provided metric."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, maintains a natural rhythm, and is free from grammatical errors. The response is also well-structured and coherent, effectively answering the question. The use of idiomatic expressions and appropriate word choices further enhance the quality of the response."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is a good fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it does not contain any grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It has a clear syntactic structure, uses correct and appropriate words, and is not overly verbose or stilted. The response also seamlessly integrates contextually relevant vocabulary, uses idiomatic expressions effectively, and reflects the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The translation provided does not make sense in the context of the question. The response does not answer the question about the influence of Western culture on Kerala's traditional culture. Instead, it talks about a 'large hole' and 'sand', which are irrelevant to the question. Therefore, the response gets a score of 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is grammatically correct, uses appropriate vocabulary, and is contextually relevant. The response also reflects the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and does not provide any meaningful information. The response is filled with the repeated use of the same character 'ഈ', which does not form a coherent or meaningful sentence in the Malayalam language. Therefore, it falls under the category of 'Sentences that lack clear syntactic structure' and 'Usage of non-existent or incorrect words' as per the scoring rubric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it adheres to the norms and rules of the Malayalam language. It is fluent, idiomatic, and contextually appropriate. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and easy to understand, making it a good fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It has a clear syntactic structure, uses correct and appropriate words, and is not overly verbose or stilted. There are no grammatical errors, and the vocabulary used is contextually relevant. The response also effectively uses idiomatic expressions without sounding forced, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it adheres to the norms and rules of the Malayalam language. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and easy to understand, demonstrating a high degree of linguistic acceptability."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it adheres to the norms and rules of the Malayalam language. It is fluent, idiomatic, and appropriate in the context of the question. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Malayalam language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is not just grammatically correct, but also fits within the natural, expected, and intuitive contours of fluent human language."
+        }
+    },
+    {
+        "prompt_id": "bff0f7a8-3a57-4faf-ae54-3698b29f18e3",
+        "prompt": "കേരളത്തിന്റെ സാംസ്കാരിക പൈതൃകത്തിൽ ഉയർന്ന സാക്ഷരതാ നിരക്ക് വഹിച്ച പങ്ക് വിശദമാക്കുക",
+        "prompt_type": "culture",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable as it contains a repeated phrase ('**അത്‌ലറ്റോഗ്രാഫി') multiple times without any context or relevance to the topic. This repetition lacks clear syntactic structure and is a grossly inappropriate word choice for the given context, which is about the role of high literacy rate in Kerala's cultural heritage. Therefore, according to the metric's scoring rubric, the response gets a score of 0."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and does not provide any meaningful information in response to the question. The same phrase is repeated multiple times without any variation or additional context, which does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response does not adhere to grammar rules and does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the implicit norms and rules of a native speaker's linguistic intuition. The sentence structure is clear and there is no usage of non-existent or incorrect words. The word choices are appropriate for the given context. The response is not overly verbose or stilted, and there are no grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, the sentences are well-structured and reflect the natural rhythm of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrasing. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and is repetitive, with the same phrase being repeated multiple times. This makes the response difficult to understand and does not provide a clear answer to the question asked. The response does not adhere to the implicit norms and rules of a native speaker's linguistic intuition, and does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, maintains a natural rhythm, and effectively uses idiomatic expressions. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent and aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and contextually appropriate. It effectively answers the question about the role of high literacy rates in Kerala's cultural heritage. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response reflects the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response contains several instances of incorrect words and phrases that do not make sense in the context of the question. For example, 'ൽ ഏélien 100%', 'ഏറ്റവും പ്രധാന ഈcomplishments之一യാണ്', 'ഏറ്റവും 낮ായി' are all incorrect and do not make sense in Malayalam. This makes the response hard to understand and does not align with the implicit norms and rules of a native speaker's linguistic intuition. Therefore, the response scores 0 on the linguistic acceptability metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The same sentence, 'കേരളത്തിലെ ഭാഷയുടെ സംരക്ഷണത്തിൽ സാക്ഷരതാ നിരക്ക് വളരെ പ്രധാനമാണ്', is repeated multiple times without any variation or additional information. This repetition lacks clear syntactic structure and does not align with the implicit norms and rules of a native speaker's linguistic intuition, thus scoring 0 according to the 'linguistic_acceptability' metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, which makes it sound stilted. The same points are repeated multiple times without adding any new information or insights. However, the response does not contain any grammatical errors and is understandable. The vocabulary used is also contextually relevant and appropriate."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is grammatically correct, uses appropriate vocabulary, and is contextually relevant to the question asked. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There is an effective use of idiomatic expressions without sounding forced. The response is not overly verbose or stilted, and there are no grammatical errors that impede understanding. The words used are technically correct and appropriate for the context."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, maintains a natural rhythm, and effectively uses idiomatic expressions. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent and aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the implicit norms and rules of the Malayalam language. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Malayalam. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is a good fit within the natural, expected, and intuitive contours of fluent human language."
+        }
+    },
+    {
+        "prompt_id": "f6055ec5-6074-4ec0-adca-69409bb2b020",
+        "prompt": "കേരളത്തിന്റെ സമ്പന്നമായ സംസ്കാരത്തിലും പാരമ്പര്യവും വിദേശികൾ ആകൃഷ്ടരാകാനുള്ള കാരണങ്ങൾ വിശദമാക്കുക",
+        "prompt_type": "culture",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and is contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response effectively uses idiomatic expressions without sounding forced. It provides a comprehensive answer to the question, detailing various reasons why foreigners are attracted to the rich culture and heritage of Kerala."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It contains repeated phrases and sentences, which makes it overly verbose and redundant. The same points are reiterated multiple times without adding any new information or context. This repetition disrupts the natural rhythm and fluency of the language, making it difficult to read and understand. Therefore, the response gets a score of 0 according to the linguistic acceptability metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not in the requested language, Malayalam. Instead, it is in English. Therefore, it does not align with the implicit norms and rules of a native Malayalam speaker's linguistic intuition. The response does not fit within the natural, expected, and intuitive contours of fluent Malayalam language."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the implicit norms and rules of the Malayalam language. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Malayalam. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the implicit norms and rules of the Malayalam language. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks a clear syntactic structure and uses non-existent or incorrect words. The response does not provide any relevant information to the question asked. The question asks for reasons why foreigners are attracted to the rich culture and tradition of Kerala, but the response talks about the reasons for granting lands or privileges, which is not related to the question. Moreover, the response contains repeated phrases that do not make any sense. Therefore, the score is 0."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent, idiomatic, and appropriate in context."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the norms and rules of the Malayalam language. The response is fluent, idiomatic, and contextually appropriate. It effectively answers the question about why foreigners are attracted to the rich culture and heritage of Kerala. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response reflects the natural rhythm, emphasis, and intonation of spoken Malayalam language."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is repetitive and does not provide any meaningful information. The response does not align with the implicit norms and rules of a native speaker's linguistic intuition. It does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it adheres to the norms and rules of the Malayalam language. The sentences are well-structured and use contextually relevant vocabulary. The response effectively uses idiomatic expressions and reflects the natural rhythm, emphasis, and intonation of spoken Malayalam. There are no grammatical errors, inappropriate word choices, or overly verbose phrases. The response is fluent and fits within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the implicit norms and rules of the Malayalam language. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Malayalam. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is a good fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, with the same points being reiterated multiple times. This makes the response seem stilted and unnatural. However, the response does not contain any non-existent or incorrect words, and the word choices are appropriate for the context. The response also adheres to the syntactic structure of the Malayalam language. Therefore, the score for linguistic acceptability is 1."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary and idiomatic expressions. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent and aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the implicit norms and rules of the Malayalam language. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is a good fit within the natural, expected, and intuitive contours of fluent human language."
+        }
+    },
+    {
+        "prompt_id": "faa44a6d-579e-4474-8819-f024d79b4a8d",
+        "prompt": "ആയുർവേദത്തിൻ്റെ പ്രചാരത്തിലും പ്രയോഗത്തിലും സംരക്ഷണത്തിലും കേരളം വഹിച്ച പങ്ക് വിശദമാക്കുക",
+        "prompt_type": "culture",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The same phrases are repeated multiple times, which makes the response overly verbose and lacks clear syntactic structure. The repetition of phrases like 'ധാതുക്കൾ, ധാതുക്കൾ' does not make sense in the context and disrupts the natural rhythm and fluency of the language. This repetition also makes the response difficult to understand and does not align with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is overly repetitive, with the same phrases repeated multiple times. This does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response also does not answer the question asked, which was about the role Kerala has played in the promotion, application, and preservation of Ayurveda. Therefore, the score is 0."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is repetitive. The same phrases are repeated multiple times without adding any new information or context. This makes the response confusing and hard to understand. The response does not provide a clear or detailed explanation of Kerala's role in the promotion, application, and preservation of Ayurveda, which was the original question. Therefore, the score is 0."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the implicit norms and rules of the Malayalam language. The response uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent, idiomatic, and appropriate in the given context."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured, uses appropriate vocabulary, and aligns with the implicit norms and rules of a native speaker's linguistic intuition. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response effectively uses idiomatic expressions without sounding forced. It also seamlessly integrates contextually relevant vocabulary. Therefore, the response gets a score of 2."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is also repetitive and does not provide any meaningful information in response to the question. The response does not align with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the implicit norms and rules of the Malayalam language. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Malayalam. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is a good fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it doesn't have any grammatical errors that could impede understanding. The response uses contextually relevant vocabulary, uses idiomatic expressions effectively without sounding forced, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and uses non-existent or incorrect words. The response is also overly verbose and contains grossly inappropriate word choices for the given context. The response does not provide a clear and concise answer to the question asked. The language used in the response is not fluent and does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the implicit norms and rules of the Malayalam language. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken Malayalam. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is a good fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive, which makes it sound stilted. The same sentence is repeated multiple times without adding any new information or context. This repetition does not contribute to the overall understanding of the topic and makes the response less fluent and natural. However, the response does not contain any grammatical errors or inappropriate word choices, and it is contextually relevant to the question asked. Therefore, the score is 1 according to the linguistic acceptability metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it does not contain any grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response receives a score of 2."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and uses appropriate vocabulary and idiomatic expressions. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent and aligns with the implicit norms and rules of a native speaker's linguistic intuition."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it adheres to the norms and rules of the Malayalam language. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        }
+    },
+    {
+        "prompt_id": "05d39133-efe4-4626-bce0-d5db8d971bb9",
+        "prompt": "കേരളത്തിന്റെ സമ്പന്നമായ സംസ്കാരം, പാരമ്പര്യങ്ങൾ, ജീവിതരീതികൾ എന്നിവയെ പ്രതിപാദിക്കുന്ന പുസ്തങ്ങളെയും സാഹിത്യകൃതികളെയും കുറിച്ച് വിവരിക്കുക",
+        "prompt_type": "culture",
+        "language": "malayalam",
+        "abhinand/malayalam-llama-7b-instruct-v0.1": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. It lacks clear syntactic structure and is overly repetitive, with the same phrase repeated multiple times. This does not align with the implicit norms and rules of a native speaker's linguistic intuition. The response does not provide any specific information about the books and literary works that reflect Kerala's rich culture, traditions, and lifestyles, which was the main focus of the question. Therefore, the score is 0."
+        },
+        "VishnuPJ/MalayaLLM_7B_Instruct_v0.2": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable. The same sentence is repeated multiple times without any variation or additional information. This repetition does not align with the implicit norms and rules of a native speaker's linguistic intuition. It lacks fluency and appropriateness in context, and does not fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 0,
+            "justification": "The response is not linguistically acceptable in the context of the question. The question asks for a description of books and literary works that represent the rich culture, traditions, and lifestyles of Kerala. However, the response provides information about tourist destinations in Kerala and the best time to visit, which is not relevant to the question. Therefore, the response does not align with the implicit norms and rules of a native speaker's linguistic intuition in this context. It can be categorized under 'Grossly inappropriate word choices for a given context' as per the scoring rubric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It has a clear syntactic structure, uses correct and existent words, and makes appropriate word choices for the given context. The response is not overly verbose or stilted, and it doesn't have any grammatical errors. The vocabulary used is contextually relevant, and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, according to the linguistic acceptability metric, the response gets a score of 2."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "justification": "The response is well-structured and uses appropriate vocabulary and idiomatic expressions that are contextually relevant. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam language. There are no grammatical errors, and the phrasing is not overly verbose or stilted. The response is also appropriate for the context of the question, providing examples of books and literary works that represent the culture, traditions, and lifestyles of Kerala.",
+            "score": 2
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It uses contextually relevant vocabulary, idiomatic expressions, and maintains the natural rhythm and intonation of the Malayalam language. The sentences are well-structured and there are no grammatical errors. The response is also appropriate in the context of the question, providing detailed information about Kerala's culture, traditions, and lifestyle as asked in the question. Therefore, it scores 2 on the linguistic acceptability scale."
+        },
+        "gpt-4": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It is well-structured and adheres to the implicit norms and rules of the Malayalam language. The response uses contextually relevant vocabulary and idiomatic expressions effectively. The sentences reflect the natural rhythm, emphasis, and intonation of spoken Malayalam. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is fluent and fits within the natural, expected, and intuitive contours of fluent human Malayalam language."
+        },
+        "gpt-35-turbo": {
+            "score": 2,
+            "justification": "The response is a perfect match to the question. It uses appropriate vocabulary and maintains the natural rhythm of the language. There are no grammatical errors, incorrect words, or inappropriate word choices. The sentence structure is clear and it reflects the natural rhythm, emphasis, and intonation of spoken language. Therefore, according to the linguistic acceptability metric, the response gets a score of 2."
+        },
+        "google/gemma-7b-it": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in context. It effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is well-structured and coherent, providing a comprehensive overview of Kerala's rich cultural heritage, literature, and art forms."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable as it aligns with the implicit norms and rules of a native speaker's linguistic intuition. It is fluent, idiomatic, and appropriate in the context of the question. The response effectively uses contextually relevant vocabulary and idiomatic expressions without sounding forced. The sentences reflect the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response is clear, concise, and easy to understand, making it a perfect fit within the natural, expected, and intuitive contours of fluent human language."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response is linguistically acceptable in terms of grammar and syntax. However, it is overly verbose and repetitive. The same information about the book 'Kerala Culture' by A.K. Nambudiri is repeated multiple times without adding any new information or context. This makes the response seem stilted and unnecessarily lengthy. Therefore, the response gets a score of 1 according to the 'linguistic_acceptability' metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response is overly verbose and repetitive. The same book title 'കേരളത്തിന്റെ സംസ്കാരം' is repeated multiple times with the same description, which makes the response redundant and unnecessarily long. However, the response is grammatically correct and does not contain any non-existent or incorrect words. The response is also contextually appropriate and aligns with the question asked. Therefore, according to the linguistic acceptability metric, the response gets a score of 1."
+        },
+        "GPT4o": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It aligns with the implicit norms and rules of a native speaker's linguistic intuition. The response is fluent, idiomatic, and appropriate in the context of the question. It effectively uses contextually relevant vocabulary and reflects the natural rhythm, emphasis, and intonation of spoken language. There are no grammatical errors, inappropriate word choices, or overly verbose or stilted phrasing. The response also provides a detailed list of books and literary works that reflect the rich culture, traditions, and lifestyles of Kerala, which directly answers the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 2,
+            "justification": "The response is linguistically acceptable. It adheres to the implicit norms and rules of a native speaker's linguistic intuition. The sentences have a clear syntactic structure, use correct and existent words, and make appropriate word choices for the given context. The response is not overly verbose or stilted, and it does not contain any grammatical errors. The vocabulary used is contextually relevant and the sentences reflect the natural rhythm, emphasis, and intonation of spoken language. Therefore, the response gets a score of 2."
+        }
+    }
+]

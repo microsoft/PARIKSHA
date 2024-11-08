@@ -1,0 +1,1322 @@
+[
+    {
+        "prompt_id": "290b50cc-be95-4d2c-9b0c-5e31a592daac",
+        "prompt": "ঘরোয়া টোটকা ব্যবহার করে কীভাবে মাথা ব্যথা থেকে মুক্তি পাওয়া যায়?",
+        "prompt_type": "health",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 1,
+            "justification": "The response to the question is not coherent and does not provide any meaningful information. The same phrase 'একটি টোটকা এবং একটি টোটকা একসাথে' is repeated multiple times without any context or explanation. This is a clear case of hallucination as the model is generating text that is not grounded in the input content. The response does not provide any home remedy for relieving headache, which was the main focus of the question. Therefore, the score is 1."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response to the question does not provide any relevant information or solution to the problem asked in the question. Instead, it repeats the same phrase multiple times, which is not related to the question. This is a clear case of hallucination as the model's output introduces statements that weren't present or implied in the input. Therefore, the score is 1."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing home remedies for headache relief, which is exactly what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing home remedies for headache relief, which is exactly what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the question. The question asks for home remedies to relieve headaches, but the response talks about 'totka' being a financial tool used for balancing bats and solving bat failures, which is completely unrelated to the question. This is a clear case of hallucination as the response deviates from the question and introduces counterfactual information."
+        },
+        "gemini-pro": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing home remedies for headache relief, which is exactly what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, the score for hallucinations is 0."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing several home remedies for relieving headaches. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, the score for hallucinations is 0."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a home remedy for headache relief. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response maintains the integrity of the original information without any unwarranted extrapolations or distortions. Therefore, the score for hallucinations is 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "justification": "The response introduces a hallucination by repeating the same home remedy four times. The repeated remedy is 'applying oil to the scalp', which is mentioned four times as if it were different remedies. This repetition is not present or implied in the question, which asks for ways to relieve a headache using home remedies. Therefore, the response contains counterfactual information that directly conflicts with the input content, demonstrating unexplained deviations not grounded in the provided data.",
+            "score": 1
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the input. The steps provided for using a home remedy to relieve a headache are repetitive and nonsensical, suggesting the use of a 'totka' (home remedy) in a way that doesn't make sense. This is a clear hallucination as it introduces information that is not factually correct or logical."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response introduces statements that weren't present or implied in the input. The response suggests washing the head with a cup of sugar and oil to relieve headache, which is not a scientifically proven or widely accepted home remedy for headache. This information is not grounded in the provided data and can be considered as a hallucination."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides relevant information on how to get relief from headaches using home remedies. It does not introduce any statements, claims, or details that weren't present or implied in the question. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it scores 0 on the hallucination metric."
+        },
+        "google/gemma-7b-it": {
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The question asks for home remedies to relieve a headache, but the response talks about increasing the amount of water and using a certain amount of 'cholon' (which is not defined or explained) to relieve the headache. These details are not grounded in the provided data.",
+            "score": 1
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing various home remedies to alleviate headaches. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it scores 0 on the hallucinations metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It provides a detailed step-by-step guide on how to use home remedies to relieve headaches, which is exactly what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "17ca8773-0605-4898-bae3-3d2297b85f9f",
+        "prompt": "পর্যাপ্ত পরিমাণে ভিটামিন ডি পেতে আমায় প্রতিদিন সূর্যের আলোতে কতক্ষণ থাকা উচিত?",
+        "prompt_type": "health",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The question asks for a specific duration of time one should spend in sunlight to get enough Vitamin D, but the response talks about determining the amount of Vitamin D needed based on one's location and using a health app, which is not related to the original question. Therefore, the response contains hallucinations and is not strictly aligned with the information provided in the input."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response is completely irrelevant to the question asked. The question is about how long one should stay in the sunlight to get enough Vitamin D, but the response does not provide any information related to this. Instead, it repeats the same phrase over and over again, which is not related to the question. Therefore, the response introduces statements that weren't present or implied in the input and demonstrates unexplained deviations not grounded in the provided data."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It accurately provides the information asked in the question, which is the amount of time one should spend in the sunlight to get enough Vitamin D. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed answer on how long one should stay in the sunlight to get enough Vitamin D. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no counterfactual information or unexplained deviations. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The question asks for the amount of time one should spend in the sun to get enough Vitamin D, but the response talks about the amount of Vitamin D one should consume in a day, which is not relevant to the question. The response also mentions consuming Vitamin D from food or dates from the fridge, which is not related to the question about sun exposure. Therefore, the response contains hallucinations and is not strictly aligned with the information provided in the input."
+        },
+        "gemini-pro": {
+            "score": 0,
+            "justification": "The response is strictly aligned with and grounded in the information provided in the input question. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a direct answer to how long one should stay in the sun to get enough Vitamin D. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response maintains the integrity of the original information without any unwarranted extrapolations or distortions. Therefore, a score of 0 is justified."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing an answer to how long one should stay in the sunlight to get enough Vitamin D. It does not introduce any statements, claims, or details that weren't present or implied in the question. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it scores 0 on the hallucinations metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It does not add, omit, or distort any facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. It correctly addresses the question about the relationship between sun exposure and Vitamin D, stating that the amount of time spent in the sun does not determine the amount of Vitamin D."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. The question asks about the amount of time one should spend in the sunlight to get enough Vitamin D, and the response accurately provides this information, stating that one should spend at least 30 minutes in the sunlight each day. There are no hallucinations present in the response, as it does not introduce any new information, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question. Therefore, the score is 0."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. The response correctly answers how long one should stay in the sunlight to get enough Vitamin D, which is exactly what the question asked. Therefore, there are no hallucinations present in the response."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response does not contain any counterfactual information that directly conflicts with the question content. It does not demonstrate any unexplained deviations, extrapolations, or interpretations not grounded in the provided data."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The question asks for a specific duration of time to be in the sunlight to get enough Vitamin D, but the response does not provide a clear answer. Instead, it talks about the benefits of Vitamin D and vaguely mentions that one should spend time in the sunlight to get Vitamin D, but does not specify how long. This is an unexplained deviation from the provided data."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. The question asks for the amount of time one should spend in the sun to get enough Vitamin D, and the response accurately provides this information, stating that one should spend about 15-20 minutes in the sun daily. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response accurately answers the question about how long one should stay in the sun to get enough Vitamin D daily, without any hallucinations."
+        }
+    },
+    {
+        "prompt_id": "b126dd0c-1d59-4761-808c-3343d8f745f3",
+        "prompt": "আমি আমার নিয়মিত ঘুমের অভ্যাস কীভাবে ঠিক করব?",
+        "prompt_type": "health",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 1,
+            "justification": "The response introduces statements that weren't present or implied in the input. It repeatedly mentions the importance of sleep and the need to establish a sleep routine, but it doesn't provide any concrete steps or methods on how to improve regular sleep habits, which was the main focus of the question. Additionally, the response is repetitive and doesn't provide new or useful information after the initial statements."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response to the question 'How can I fix my regular sleep habit?' is not relevant or grounded in the input. The response is repetitive and does not provide any useful information or advice on how to improve sleep habits. It introduces statements that were not present or implied in the input, hence it demonstrates unexplained deviations not grounded in the provided data."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides relevant information on how to improve regular sleep habits. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no counterfactual information or unexplained deviations. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing relevant tips on how to improve regular sleep habits. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it scores 0 on the hallucinations metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides relevant information on how to improve regular sleep habits. There are no hallucinations present in the response, as it does not introduce any statements, claims, or details that weren't present or implied in the question. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gemini-pro": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides relevant information on how to improve regular sleep habits. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response maintains the integrity of the original information without any unwarranted extrapolations or distortions. Therefore, the score for hallucinations is 0."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides relevant information on how to improve regular sleep habits. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response maintains the integrity of the original information without any unwarranted extrapolations or distortions. Therefore, the score for hallucinations is 0."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It provides relevant suggestions on how to improve regular sleep habits, which is exactly what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response starts off well by providing relevant advice on how to improve sleep habits. However, from point 3 onwards, it repeats the same advice about not looking at computer or television screens during sleep time. This repetition is not present or implied in the question, and thus can be considered as a hallucination. Therefore, the score is 1 as the output introduces statements that weren't present or implied in the input."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response introduces repetitive statements that weren't present or implied in the input. The same advice of sleeping at the right time is repeated multiple times without any variation or additional information. This can be considered as a form of hallucination as it introduces unnecessary repetition that doesn't add value to the response."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is aligned with the question and does not introduce any hallucinations. It provides a relevant answer to the question about how to improve regular sleep habits. However, the response is repetitive, repeating the same advice multiple times. This does not constitute a hallucination, as the information is not factually incorrect or misleading, but it does affect the quality of the response."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides relevant information on how to improve regular sleep habits. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response maintains the integrity of the original information without any unwarranted extrapolations or distortions. It does not contain any counterfactual information that directly conflicts with the question."
+        },
+        "google/gemma-7b-it": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the question. The question asks for ways to improve regular sleep habits, but the response provides nonsensical and unrelated advice about 'sumerer' which is not a term related to sleep or sleep habits. This demonstrates unexplained deviations, extrapolations, or interpretations not grounded in the provided data."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides relevant and factual information on how to improve regular sleep habits. There are no hallucinations present, as all the points mentioned in the response are grounded in the question asked. The response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides relevant advice on how to improve regular sleep habits. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response maintains the integrity of the original information without any unwarranted extrapolations or distortions. Therefore, the score for hallucinations is 0."
+        }
+    },
+    {
+        "prompt_id": "87f538b6-6926-4399-862b-51f3ebd52470",
+        "prompt": "গ্রীষ্মকালে হাইড্রেটেড এবং স্বাস্থ্যকর থাকার জন্য কোন কোন ফল খাওয়া উচিত?",
+        "prompt_type": "health",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 1,
+            "justification": "The response introduces a hallucination by repeating the same information about mangoes multiple times, which was not present or implied in the question. The question asks for different fruits to eat in summer to stay hydrated and healthy, but the response only mentions mangoes and repeats the same information about them, which is an unwarranted deviation from the original content."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response does not provide any relevant information to the question asked. The question asks for fruits that should be eaten in summer to stay hydrated and healthy, but the response does not mention any fruits. Instead, it repeatedly mentions the respondent's experience without providing any concrete information. This is a clear case of hallucination as the response introduces statements and details that weren't present or implied in the input, hence the score of 1."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a list of fruits that should be consumed during summer to stay hydrated and healthy. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, the score for hallucinations is 0."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a list of fruits that should be consumed during summer to stay hydrated and healthy. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is consistent with the question. The question asks for fruits that should be eaten in summer to stay hydrated and healthy, and the response provides two examples of such fruits, mangoes and litchis. There are no hallucinations, as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gemini-pro": {
+            "score": 0,
+            "justification": "The response provided is strictly aligned with and grounded in the information provided in the question. The question asks for fruits that should be eaten in summer to stay hydrated and healthy, and the response lists several fruits along with their water content and other health benefits, which directly answers the question. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a list of fruits that should be consumed during summer to stay hydrated and healthy. It does not introduce any statements, claims, or details that weren't present or implied in the question. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, the score for hallucinations is 0."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. The question asks for fruits that should be eaten to stay hydrated and healthy during summer, and the response accurately lists a number of fruits that are beneficial for this purpose. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a list of fruits beneficial for staying hydrated and healthy during summer. There are no hallucinations present, as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with and grounded in the information provided in the question. The question asks for fruits that should be eaten to stay hydrated and healthy during summer, and the response provides a list of such fruits. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "justification": "The response provided is strictly aligned with and grounded in the information provided in the input. The question asked for fruits to eat in summer to stay hydrated and healthy, and the response accurately listed several fruits that are hydrating and healthy, such as papaya, orange, mango, guava, and raw mango. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a list of fruits that should be consumed during summer to stay hydrated and healthy. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "justification": "The response accurately answers the question about which fruits should be eaten to stay hydrated and healthy during the summer. It lists several fruits and explains that they are nutritious and contain a high amount of water, vitamins, and minerals. There are no hallucinations present in the response, as it does not introduce any statements, claims, or details that weren't present or implied in the question. The response is strictly aligned with the input and maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It provides a list of fruits that should be consumed during summer to stay hydrated and healthy, which is exactly what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It provides a list of fruits that should be consumed during summer to stay hydrated and healthy, which is exactly what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "ef01894a-0f1b-4ced-b11e-9004416aee71",
+        "prompt": "ফিট থাকার জন্য আমার প্রতিদিন কতটা অনুশীলন করা দরকার?",
+        "prompt_type": "health",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 1,
+            "justification": "The response introduces a repetitive statement that wasn't present or implied in the question. The repetition of the phrase 'আপনার প্রতিদিনের অনুশীলনের সময় এবং সময় নির্ধারণ করুন' is not grounded in the provided data and is an unwarranted deviation from the original content. Therefore, the response is scored 1 according to the hallucinations metric."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response starts off well, providing a general guideline for daily physical activity. However, it then devolves into a repetition of the phrase 'এই অথবা এই' (this or this) without providing any actual information or context. This is a clear hallucination as it introduces statements that weren't present or implied in the input and demonstrates unexplained deviations not grounded in the provided data."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed answer on how much exercise is needed daily to stay fit. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, a score of 0 is given."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the question. The question asks about the amount of daily exercise needed to stay fit, and the response starts off correctly by suggesting 30 to 60 minutes of walking. However, it then deviates into a confusing narrative about 'fitting sessions' and 'returning from fitting sessions' which is not grounded in the provided data. This constitutes a hallucination as it introduces new, unrelated information that wasn't part of the original content."
+        },
+        "gemini-pro": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing detailed information on how much exercise is needed daily to stay fit. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no counterfactual information or unexplained deviations. The integrity of the original information is maintained without any unwarranted extrapolations."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response provided by the model is strictly aligned with and grounded in the information provided in the input. The question asks about the amount of daily exercise needed to stay fit, and the response accurately provides a general recommendation of 30 minutes of exercise per day. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. The question asks about the amount of daily exercise needed to stay fit, and the response accurately provides a range of 30 minutes to 1 hour of daily exercise. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. The question asks about the amount of daily exercise needed to stay fit, and the response provides a clear answer, suggesting 30 minutes of daily exercise. There are no hallucinations, as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It provides a detailed answer to the question about how much exercise is needed daily to stay fit, without adding, omitting, or distorting any facts. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a direct answer to how much exercise is needed daily to stay fit. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response maintains the integrity of the original information without any unwarranted extrapolations or distortions."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It provides a detailed answer to the question about how much exercise is needed daily to stay fit, and it does not add, omit, or distort any facts. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It provides a clear and direct answer to the question about how much exercise is needed daily to stay fit, without adding, omitting, or distorting any facts. There are no hallucinations present in the response, as it maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question asked. It provides a clear answer to the question about how much exercise is needed daily to stay fit, without adding, omitting, or distorting any facts. It maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it gets a score of 0 for hallucinations."
+        }
+    },
+    {
+        "prompt_id": "4268d0d0-abec-4594-ba88-d7e977e74768",
+        "prompt": "আমার বিনিয়োগের পোর্টফোলিওতে বৈচিত্র্য আনার সুবিধাগুলি কী কী?",
+        "prompt_type": "finance",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "justification": "The response introduces statements that weren't present or implied in the input. The question asks about the benefits of diversifying one's investment portfolio, but the response talks about the benefits of investing in Bangladesh, which is not related to the original question. Furthermore, the response is repetitive, repeating the same sentence four times, which is a distortion of the original content.",
+            "score": 1
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response is completely unrelated to the question. The question asks about the benefits of diversifying an investment portfolio, but the response discusses reasons why a portfolio may not be generating enough leads. This is a clear case of hallucination as the model introduces statements and details that weren't present or implied in the question. The response also contains counterfactual information that directly conflicts with the question content."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately lists the benefits of diversifying an investment portfolio, which is exactly what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response accurately lists the benefits of diversifying an investment portfolio, which is exactly what the question asked for. There are no hallucinations present as all the points mentioned in the response are relevant and factual in relation to the question. The response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the question. The question asks about the benefits of diversifying an investment portfolio, but the response talks about computer-related tasks, typing sounds, mouse quiet, keypad, computer keypad, and investment program interfaces, which are not related to the question. Therefore, the response contains hallucinations and is not grounded in the provided data."
+        },
+        "gemini-pro": {
+            "score": 0,
+            "justification": "The response provided is directly related to the question asked. The question asks about the benefits of diversification in an investment portfolio, and the response accurately provides detailed information about the benefits, including risk reduction, optimization of average returns, long-term stability, and increased probability of achieving financial goals. There are no hallucinations present in the response, as all the information provided is relevant and directly answers the question. There are no added, omitted, or distorted facts, and the response maintains the integrity of the original question without any unwarranted extrapolations."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed list of the benefits of diversifying an investment portfolio. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, the score for hallucinations is 0."
+        },
+        "gpt-35-turbo": {
+            "justification": "The response accurately answers the question about the benefits of diversification in an investment portfolio. It does not introduce any new information that was not implied in the question, nor does it omit or distort any facts. The response is consistent with the input content, maintaining the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately describes the benefits of diversifying an investment portfolio, which is exactly what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response introduces statements that weren't present or implied in the input. The response lists multiple benefits of diversifying an investment portfolio, but after the first two points, the rest are repetitive and identical, which is not grounded in the provided question. This is a clear case of hallucination where the model is generating repetitive and baseless information."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides a detailed explanation of the benefits of diversifying an investment portfolio. There are no hallucinations present as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides a detailed explanation of the benefits of diversifying an investment portfolio. There are no hallucinations present, as all the information provided in the response is relevant to the question and does not introduce any new, unrelated, or counterfactual information. The response maintains the integrity of the original question without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides relevant information about the benefits of diversifying an investment portfolio. There are no hallucinations present, as all the information provided is directly related to the question and does not introduce any new, unrelated, or counterfactual information. The response maintains the integrity of the original question without any unwarranted extrapolations."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed list of benefits of diversifying an investment portfolio. There are no hallucinations present, as all the information provided in the response is directly related to the question and does not introduce any new, unrelated, or counterfactual information. The response maintains the integrity of the original question without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of the benefits of diversifying an investment portfolio. There are no hallucinations present, as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations or distortions."
+        }
+    },
+    {
+        "prompt_id": "261cbd72-5cbd-4079-98e2-93ac5b2df694",
+        "prompt": "ক্রিপ্টোকারেন্সিতে বিনিয়োগের ঝুঁকি এবং সুবিধাগুলি কী কী?",
+        "prompt_type": "finance",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The question asks about the risks and benefits of investing in cryptocurrency, but the response does not provide any specific information about these. Instead, it talks about the general concept of investment and the factors that might influence it, such as one's financial situation and location. This is an unexplained deviation from the provided data, hence the score of 1 for hallucinations."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response does not answer the question about the risks and benefits of investing in cryptocurrency. Instead, it repeats a phrase about the respondent's excitement and willingness to discuss, which is not related to the question. This is a clear case of hallucination, as the response introduces statements that were not present or implied in the input, and demonstrates unexplained deviations not grounded in the provided data."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response accurately lists the risks and benefits of investing in cryptocurrency, which is exactly what the question asked for. There are no hallucinations present, as all the information provided in the response is directly related to the question and does not introduce any new, unrelated, or counterfactual information. The response maintains the integrity of the original question without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response accurately answers the question about the risks and benefits of investing in cryptocurrency. It does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it scores 0 on the hallucinations metric."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the question. The question asks about the risks and benefits of investing in cryptocurrency, but the response talks about the technical aspects of cryptography, such as private and public keys, digital signatures, secure communication, and non-repudiation. These details, while related to the broader topic of cryptocurrency, do not directly address the question about investment risks and benefits. Therefore, the response demonstrates unexplained deviations and interpretations not grounded in the provided question."
+        },
+        "gemini-pro": {
+            "score": 0,
+            "justification": "The response accurately answers the question about the risks and benefits of investing in cryptocurrency. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response accurately answers the question by providing a list of risks and benefits of investing in cryptocurrency. There are no hallucinations present as all the information provided in the response is relevant to the question and does not introduce any new, unrelated, or counterfactual information. The response maintains the integrity of the original question without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 1,
+            "justification": "The response introduces statements that weren't present or implied in the question. The question asks about the risks and benefits of investing in cryptocurrency, but the response does not provide clear information about these aspects. Instead, it introduces vague and unclear statements that do not directly answer the question. Therefore, the response demonstrates unexplained deviations and interpretations not grounded in the provided data, leading to a score of 1 for hallucinations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response accurately answers the question by providing the risks and benefits of investing in cryptocurrency. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it scores 0 on the hallucinations metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response introduces statements that weren't present or implied in the input. The risks of investing in cryptocurrency are correctly listed, but the benefits are repeated and do not provide any specific advantages. This repetition is a hallucination as it introduces details that are not grounded in the provided data."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides a detailed explanation of the risks and benefits of investing in cryptocurrency. There are no hallucinations present as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response accurately and comprehensively answers the question about the risks and benefits of investing in cryptocurrency. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no counterfactual information or unexplained deviations. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, according to the hallucinations metric, the response gets a score of 0."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is well-aligned with the question, providing a detailed explanation of the risks and benefits of investing in cryptocurrency. There are no hallucinations present, as all the information provided in the response is relevant to the question and does not introduce any new, unrelated, or counterfactual information. The response maintains the integrity of the original question without any unwarranted extrapolations."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response accurately answers the question by providing a list of risks and benefits of investing in cryptocurrency. There are no hallucinations present as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, which asks about the risks and benefits of investing in cryptocurrency. The response accurately discusses the volatility of cryptocurrency as a risk and the transparency of the investment process as a benefit. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "ab2d0b80-0423-4016-9d9f-85b749ca3684",
+        "prompt": "আমি অনলাইন প্রতারণা থেকে কীভাবে নিজেকে রক্ষা করব?",
+        "prompt_type": "finance",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 1,
+            "justification": "The response introduces statements that weren't present or implied in the input. The response repeats the same statement multiple times, which is not relevant to the question asked. The question is about how to protect oneself from online fraud, but the response does not provide any useful or relevant information to answer the question. Instead, it talks about creating a secure internet account and searching other researchers in your account, which is not related to the question. Therefore, the response contains hallucinations and is not grounded in the provided data."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response is repetitive and does not provide any useful information or answer to the question asked. It introduces a statement that there are ways to protect oneself from online fraud, but does not elaborate or provide any details, which were not present or implied in the question. This is a clear deviation from the expected response, hence the score of 1."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides relevant information on how to protect oneself from online fraud. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, additions, omissions, or distortions in the response. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides relevant information on how to protect oneself from online fraud. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response maintains the integrity of the original information without any unwarranted extrapolations or distortions. Therefore, the score for hallucinations is 0."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "justification": "The response provided is strictly aligned with the question asked. The question asks for ways to protect oneself from online fraud, and the response provides detailed steps on how to do so, such as installing security software, using secure passwords, and installing a firewall. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "gemini-pro": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides relevant information on how to protect oneself from online fraud. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response maintains the integrity of the original information without any unwarranted extrapolations or distortions. Therefore, a score of 0 is justified."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response provided is strictly aligned with and grounded in the information provided in the question. The question asks for ways to protect oneself from online fraud, and the response accurately provides several methods for doing so. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides relevant information on how to protect oneself from online fraud. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, a score of 0 is given."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides a detailed answer on how to protect oneself from online fraud. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response maintains the integrity of the original information without any unwarranted extrapolations. It does not contain any counterfactual information that directly conflicts with the question. Therefore, the score for hallucinations is 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is directly related to the question and provides a detailed answer on how to protect oneself from online fraud. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response does not contain any counterfactual information that directly conflicts with the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides relevant information on how to protect oneself from online fraud. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, the score for hallucinations is 0."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides relevant information on how to protect oneself from online fraud. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it gets a score of 0 for hallucinations."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response provided is strictly aligned with and grounded in the information provided in the input. The question asks for ways to protect oneself from online fraud, and the response accurately provides several methods for doing so. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing detailed steps on how to protect oneself from online fraud. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it scores 0 on the hallucination metric."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It provides relevant information on how to protect oneself from online fraud, which is exactly what the question asked. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "78b8e28b-c01b-41fd-87d6-eb961074dec7",
+        "prompt": "আমি উপার্জনের একাধিক উৎস কীভাবে তৈরি করব?",
+        "prompt_type": "finance",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The question asks about creating multiple sources of income, but the response talks about gathering ingredients and creating a good 'string' of ingredients, which is not related to the question. Moreover, the response is repetitive and does not provide any useful information. Therefore, the score is 1 as it contains information that directly conflicts with the input content and demonstrates unexplained deviations not grounded in the provided data."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response is not aligned with the question. The question asks about how to create multiple sources of income, but the response is repetitive and does not provide any useful information or answer to the question. It also introduces a statement about transferring ancestral property to wife, which is not related to the question. Therefore, the response contains hallucinations and is not grounded in the input content."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation on how to create multiple sources of income. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response maintains the integrity of the original information without any unwarranted extrapolations or distortions. Therefore, a score of 0 is given."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation on how to create multiple sources of income. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response maintains the integrity of the original information without any unwarranted extrapolations or distortions. Therefore, the score for hallucinations is 0."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation on how to create multiple sources of income. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gemini-pro": {
+            "score": 0,
+            "justification": "The response is completely aligned with the question. The question asks for ways to create multiple sources of income, and the response provides several methods to do so, such as starting an online business or freelancing, turning a hobby into a source of income, exploring various investment opportunities, accepting part-time jobs or gig work, considering buying rental property or Airbnb, and researching new ways to earn money and networking. There are no hallucinations, as all the information provided in the response is directly related to the question and does not introduce any new, unrelated, or counterfactual information."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides a detailed answer on how to create multiple sources of income. It does not introduce any statements, claims, or details that weren't present or implied in the question. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it gets a score of 0 for hallucinations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides relevant information on how to create multiple sources of income. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides relevant information on how to create multiple sources of income. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response maintains the integrity of the original information without any unwarranted extrapolations or distortions."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides a detailed step-by-step guide on how to create multiple sources of income. There are no hallucinations present as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response introduces a repeated statement that wasn't present or implied in the input. The same sentence about finding a place or factory for running a profession or business is repeated multiple times without any additional information or context. This repetition is an unexplained deviation not grounded in the provided data, hence the score of 1 for hallucinations."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides a detailed answer on how to create multiple sources of income. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, the score for hallucinations is 0."
+        },
+        "google/gemma-7b-it": {
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the input. The question asks about creating multiple sources of income, but the response is about cooking, which is not related to the question. Therefore, the response contains counterfactual information that directly conflicts with the input content. It demonstrates unexplained deviations, extrapolations, or interpretations not grounded in the provided data.",
+            "score": 1
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides relevant information on how to create multiple sources of income. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response maintains the integrity of the original question without any unwarranted extrapolations or distortions. Therefore, the score for hallucinations is 0."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides multiple ways to create multiple sources of income, which is exactly what the question asked for. There are no hallucinations present in the response, as all the information provided is relevant and directly related to the question. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "db9fd83d-e22a-4d1a-90e7-5b162ef45b51",
+        "prompt": "মুদ্রাস্ফীতি কীভাবে ক্রয় ক্ষমতাকে প্রভাবিত করে?",
+        "prompt_type": "finance",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 1,
+            "justification": "The response does not answer the question about how inflation affects purchasing power. Instead, it repeatedly states that inflation is an economic event that is part of the economic condition. This is a hallucination as it introduces a statement that was not present or implied in the question. The response also demonstrates an unexplained deviation from the question."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response to the question 'How does inflation affect purchasing power?' is not grounded in the information provided in the input. The response introduces statements that weren't present or implied in the input. It contains repeated phrases that do not make sense in the context of the question. Therefore, it demonstrates unexplained deviations and is not anchored to the input content provided."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately explains how inflation affects purchasing power by increasing the value of currency and the cost of goods, which is exactly what the question asked. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of how inflation affects purchasing power. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no counterfactual information or unexplained deviations. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the question. The question asks about how inflation affects purchasing power, but the response talks about a 'Kazi Paper' in Bangladesh, which is not related to the question. The response also mentions transactions with the Bangladesh Bank, which is not relevant to the question. Therefore, the response contains hallucinations and is not strictly aligned with the information provided in the question."
+        },
+        "gemini-pro": {
+            "score": 0,
+            "justification": "The response accurately answers the question about how inflation affects purchasing power. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response accurately answers the question about how inflation affects purchasing power. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response is strictly aligned with and grounded in the information provided in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any statements, claims, or details that weren't present or implied in the question. It accurately explains how inflation affects purchasing power, which is exactly what the question asked. There are no hallucinations, distortions, or unwarranted extrapolations in the response."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately explains how inflation affects purchasing power, which is exactly what the question asked. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately explains how inflation affects purchasing power, which is exactly what the question asked. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately explains how inflation affects purchasing power, which is exactly what the question asked. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides a detailed explanation of how inflation affects purchasing power. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, the score is 0."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any statements, claims, or details that weren't present or implied in the question. It accurately explains how inflation affects purchasing power, which is exactly what the question asked. There are no hallucinations, as the response does not contain any counterfactual information or unexplained deviations from the question. The integrity of the original information is maintained without any unwarranted extrapolations."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any statements, claims, or details that weren't present or implied in the question. It accurately explains how inflation affects purchasing power, which is exactly what the question asked. There are no hallucinations, as the response does not add, omit, or distort facts that weren't part of the original content. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a clear explanation of how inflation affects purchasing power. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response maintains the integrity of the original information without any unwarranted extrapolations or distortions. Therefore, a score of 0 is justified."
+        }
+    },
+    {
+        "prompt_id": "ab1459aa-1f82-46b9-bee0-e1cc2d7fc6c0",
+        "prompt": "বাঙালি সংস্কৃতিতে রবীন্দ্রসঙ্গীতের গুরুত্ব কতটা? এটি সাহিত্য ও সঙ্গীতকে কীভাবে প্রভাবিত করেছে?",
+        "prompt_type": "culture",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing information about the importance of Rabindra Sangeet in Bengali culture and its influence on literature and music. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the input. The question asks about the importance of Rabindrasangeet in Bengali culture and how it has influenced literature and music. However, the response talks about Rabindranath Tagore's overall contribution to Bengali literature, culture, and art, including his poetry, philosophy, and painting, which were not asked in the question. Therefore, the response contains unexplained deviations and interpretations not grounded in the provided data."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of the importance of Rabindra Sangeet in Bengali culture and its influence on literature and music. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It accurately describes the importance of Rabindra Sangeet in Bengali culture and how it has influenced literature and music, which is exactly what the question asked. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is well-grounded in the information provided in the question. It accurately discusses the importance of Rabindra Sangeet in Bengali culture and how it has influenced literature and music. There are no hallucinations, as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gemini-pro": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of the importance of Rabindra Sangeet in Bengali culture and its influence on literature and music. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of the importance of Rabindra Sangeet in Bengali culture and its influence on literature and music. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It discusses the importance of Rabindra Sangeet in Bengali culture and how it has influenced literature and music, which is exactly what the question asked. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There are no hallucinations present in the response."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any new facts or details that were not present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. However, the response is repetitive, stating the same point about Rabindra Sangeet's role in the development of Bengali literature multiple times. Despite this, there are no hallucinations present in the response."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is well-aligned with the question and does not introduce any hallucinations. It accurately describes the importance of Rabindra Sangeet in Bengali culture and its influence on literature and music, as asked in the question. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It accurately discusses the importance of Rabindra Sangeet in Bengali culture and how it has influenced literature and music, which is exactly what the question asked. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with and grounded in the information provided in the question. It accurately addresses the importance of Rabindra Sangeet in Bengali culture and how it has influenced literature and music, without adding, omitting, or distorting facts. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of the importance of Rabindra Sangeet in Bengali culture and its influence on literature and music. There are no hallucinations present, as all the information provided in the response is relevant to the question and does not introduce any new, unrelated, or counterfactual information. The response maintains the integrity of the original question without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "85b7bebc-665a-4588-858e-e9a45323c8da",
+        "prompt": "দুর্গাপূজার উৎসবের সময় পশ্চিমবঙ্গের লোকেরা কী কী উল্লেখযোগ্য ঐতিহ্য এবং রীতিনীতি অনুসরণ করে?",
+        "prompt_type": "culture",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 1,
+            "justification": "The response introduces statements that weren't present or implied in the input. The question asks about the traditions and rituals followed by the people of West Bengal during the Durga Puja festival. However, the response does not provide any specific details about these traditions and rituals. Instead, it repeats the same vague statement about unveiling traditions and presenting necessary materials for experience and expansion. This is an unexplained deviation and extrapolation not grounded in the provided data, hence the score of 1 for hallucinations."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the input. The question asks about the traditions and rituals followed by the people of West Bengal during the Durga Puja festival. However, the response is in English and not in Bengali as required. Moreover, it includes details about the festival that are not specifically related to the traditions and rituals followed by the people of West Bengal, such as the timing of the festival and the significance of Goddess Durga. This constitutes a hallucination as it deviates from the specific focus of the question."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed list of traditions and rituals followed by the people of West Bengal during the Durga Puja festival. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides relevant information about the traditions and rituals followed by the people of West Bengal during the Durga Puja festival. There are no hallucinations present in the response, as it does not introduce any statements, claims, or details that weren't present or implied in the question. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the question. For instance, the mention of 'Belagao', 'Durga Khela', and 'Madhav Puja' are not traditional practices or rituals associated with Durga Puja in West Bengal. The response also contains repeated phrases, which seem to be a result of a generation error. Therefore, the response demonstrates unexplained deviations and interpretations not grounded in the provided data, leading to a score of 1 for hallucinations."
+        },
+        "gemini-pro": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed list of traditions and rituals followed by the people of West Bengal during the Durga Puja festival. There are no hallucinations present, as all the information provided is relevant and accurate in relation to the question. The response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response accurately describes the traditions and rituals followed by the people of West Bengal during the Durga Puja festival, which is exactly what the question asked for. There are no hallucinations present in the response, as all the information provided is relevant and factual. The response does not introduce any statements, claims, or details that weren't present or implied in the question, and it maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed list of traditions and rituals followed by the people of West Bengal during the Durga Puja festival. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing details about the traditions and practices followed by the people of West Bengal during the Durga Puja festival. It does not introduce any statements, claims, or details that weren't present or implied in the question. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response introduces repetitive statements about women wearing beautiful sarees during the Durga Puja festival, which is a tradition in West Bengal. However, this detail is repeated multiple times without adding any new information or traditions, which can be considered as a hallucination. The response does not provide a variety of traditions and rituals followed during the festival, which was asked in the question. Therefore, the response contains unexplained repetitions not grounded in the provided data."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the input. It contains repeated sentences about people giving each other gifts of yellow or red clothes, which is not a known tradition during Durga Puja in West Bengal. The response also mentions people giving each other food of yellow or red color, which is also not a known tradition. These details are not grounded in the provided data and are considered as hallucinations."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It accurately describes the traditions and rituals followed by the people of West Bengal during the Durga Puja festival, without adding, omitting, or distorting any facts. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response accurately lists the traditions and rituals followed by the people of West Bengal during the Durga Puja festival, as asked in the question. There are no hallucinations present in the response, as all the information provided is relevant and factual. The response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It provides a detailed description of the traditions and rituals followed by the people of West Bengal during the Durga Puja festival, which is exactly what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "a0bd0a94-0fe8-45d5-ab6f-0cd8e682ba47",
+        "prompt": "দীপাবলির সময় পশ্চিমবঙ্গের লোকেরা কী কী অনন্য রীতিনীতি পালন করে?",
+        "prompt_type": "culture",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The question asks about the unique traditions followed by people in West Bengal during Diwali, but the response talks about a social and economic development initiative, which is not related to the question. The response also repeats the same information multiple times, which is a form of hallucination. Therefore, the score is 1."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the input. The question asks about the unique traditions followed by people in West Bengal during Diwali, but the response talks about ways to earn money during Diwali, which is not related to the original question. Therefore, the response contains counterfactual information that directly conflicts with the input content."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides relevant information about the unique rituals followed by the people of West Bengal during Diwali. There are no hallucinations, as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response accurately answers the question about the unique rituals followed by people in West Bengal during Diwali. It mentions Kali Puja, Lakshmi Puja, lighting of lamps, and playing with Sharika, which are all relevant to the question. There are no hallucinations, as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the question. The question asks about the unique customs followed by the people of West Bengal during Diwali, but the response talks about the Depression era and how people coped with economic problems, which is not related to the question. Therefore, the response contains counterfactual information that directly conflicts with the input content."
+        },
+        "gemini-pro": {
+            "score": 0,
+            "justification": "The response accurately answers the question about the unique rituals followed by people in West Bengal during Diwali. It does not introduce any statements, claims, or details that weren't present or implied in the question. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it scores 0 on the hallucination metric."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed description of the unique rituals performed by the people of West Bengal during Diwali. There are no hallucinations present, as all the information provided in the response is relevant and directly related to the question. The response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is consistent with the question asked. It provides information about the unique rituals followed by the people of West Bengal during Diwali, such as lighting lamps outside their homes and decorating their homes with various items. There are no hallucinations present in the response, as it does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question content. Therefore, the score for hallucinations is 0."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response accurately answers the question about the unique traditions followed by the people of West Bengal during Diwali. It does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it scores 0 on the hallucinations metric."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response introduces a repeated phrase 'পূজার পদক্ষেপ' multiple times, which was not present or implied in the question. This repetition does not provide any specific rituals that people of West Bengal follow during Diwali, which was the main focus of the question. Therefore, the response contains hallucinated information that is not grounded in the provided data."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is consistent with the question and does not introduce any hallucinations. It provides information about the traditions followed by the people of West Bengal during Diwali, which is what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response introduces a repeated phrase that wasn't present or implied in the input. The repeated phrase 'মুখে' (face) is a hallucination as it doesn't make sense in the context of the question and it's not a tradition or ritual associated with Diwali in West Bengal. This is an unexplained deviation not grounded in the provided data."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is well-aligned with the question and does not introduce any hallucinations. It accurately describes the unique traditions followed by the people of West Bengal during Diwali, such as lighting lamps, wearing new clothes, spending time with family and friends, and performing Lakshmi Puja. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response accurately describes the unique rituals followed by the people of West Bengal during Diwali, as asked in the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no counterfactual information or unexplained deviations. The response is strictly aligned with and grounded in the information provided in the question."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is well-aligned with the question, providing a detailed description of the unique rituals followed by people in West Bengal during Diwali. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no counterfactual information or unexplained deviations. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "ec1223de-0f31-4434-b612-218ac2f7403b",
+        "prompt": "পশ্চিমবঙ্গের রসগোল্লাকে ভারতীয় সংস্কৃতির অন্যান্য মিষ্টির চেয়ে কোন বিষয়টি আলাদা করে তোলে?",
+        "prompt_type": "culture",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 1,
+            "justification": "The response introduces statements that weren't present or implied in the input. The question asks what sets West Bengal's rasgulla apart from other Indian sweets, but the response does not provide a specific answer. Instead, it repeats the same phrase about the rasgulla being a famous and attractive part of the culture, which does not directly answer the question. This demonstrates an unexplained deviation from the provided data."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the input. The question asks about what sets West Bengal's Rasgulla apart from other Indian sweets, but the response discusses various aspects of Bengali culture, such as cuisine, literature, music, art, and festivals, which are not related to the question. Therefore, the response contains hallucinations and is not grounded in the provided data."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing details about what distinguishes West Bengal's rasgulla from other Indian sweets. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response maintains the integrity of the original information without any unwarranted extrapolations or distortions."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately answers the question about what distinguishes West Bengal's Rasgulla from other Indian sweets, mentioning its unique shape, preparation process, and the use of cottage cheese and syrup. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gemini-pro": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response accurately describes what sets West Bengal's rasgulla apart from other Indian sweets, which is exactly what the question asked for."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately describes what sets West Bengal's rasgulla apart from other Indian sweets, which is exactly what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The integrity of the original information is maintained without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. The response correctly identifies the unique aspect of West Bengal's Rasgulla compared to other Indian sweets, which is its soothing sweet taste made from milk, as asked in the question. Therefore, there are no hallucinations present in the response."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response accurately answers the question about what distinguishes West Bengal's Rasgulla from other Indian sweets, mentioning its unique texture and thinness."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It does not add, omit, or distort any facts that were not part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. It accurately answers the question about what distinguishes West Bengal's rasgulla from other Indian sweets, mentioning its higher sweetness, better taste, and more attractive appearance."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is aligned with the question and does not introduce any hallucinations. It correctly states that the unique aspect of West Bengal's rasgulla is that it is locally made in West Bengal. However, the response is repetitive and could have been more concise. Despite this, it does not introduce any new information or distort the facts provided in the question, hence it scores 0 on the hallucination metric."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It does not add, omit, or distort any facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. It correctly identifies the taste as the distinguishing factor of West Bengal's Rasgulla from other Indian sweets, which is a plausible answer to the question."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately describes what sets West Bengal's rasgulla apart from other Indian sweets, which is what the question asked. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately describes what sets West Bengal's rasgulla apart from other Indian sweets, which is exactly what the question asked. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response accurately describes what sets West Bengal's rasgulla apart from other Indian sweets, which is exactly what the question asked for."
+        }
+    },
+    {
+        "prompt_id": "74ed265f-6d1e-48b7-b449-024dca1bc732",
+        "prompt": "পশ্চিমবঙ্গে উদযাপিত কয়েকটি জনপ্রিয় সাংস্কৃতিক অনুষ্ঠান কী?",
+        "prompt_type": "culture",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The question asks for popular cultural events in West Bengal, but the response does not provide any specific events. Instead, it repeats phrases about cultural events and traditions without providing any concrete examples or details. This demonstrates unexplained deviations and interpretations not grounded in the provided data."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response to the question about popular cultural events in West Bengal is not accurate. The response is repetitive and does not provide any specific cultural events. It seems to be a case of hallucination where the model is generating text that is not grounded in the input content. The response introduces statements that were not present or implied in the input, hence the score of 1."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a list of popular cultural events in West Bengal, as asked. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response accurately lists several popular cultural events in West Bengal, such as Durga Puja, Saraswati Puja, Kali Puja, Dol Jatra, Rath Yatra, Vishwakarma Puja, Jamai Sasthi, Rakhi Bandhan, etc. It also mentions other cultural events like festivals, fairs, plays, music and dance performances. There are no hallucinations present as the response is strictly aligned with the question and does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "justification": "The response introduces several cultural events that are not specifically popular in West Bengal, as asked in the question. The response also includes irrelevant details about Bangladesh's cultural localities, which were not asked for in the question. Therefore, the response contains hallucinations, as it introduces statements and details that weren't present or implied in the input.",
+            "score": 1
+        },
+        "gemini-pro": {
+            "score": 0,
+            "justification": "The response accurately lists several popular cultural events celebrated in West Bengal, such as Durga Puja, Kali Puja, Dol Jatra, Ganga Sagar Mela, and Pushkar Mela. All these events are indeed celebrated in West Bengal and are popular cultural events. The response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response accurately lists several popular cultural events in West Bengal, such as Durga Puja, Kali Puja, Holi, Poila Boishakh, Rabindra Jayanti, Nazrul Jayanti, Eid-ul-Fitr, Eid-ul-Adha, Poush Mela, Nabanna, Gajan, Vaishnav Jamati, Chaitra Sankranti, and Barshabaran. There are no hallucinations present as the response is strictly aligned with and grounded in the information provided in the question. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a list of popular cultural events in West Bengal as asked. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response accurately lists several popular cultural events in West Bengal, as asked in the question. There are no hallucinations present, as all the information provided in the response is directly related to the question and does not introduce any new, unrelated, or counterfactual information. The response maintains the integrity of the original question without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response introduces a hallucination by repeating the same cultural event, 'Kolkata International Art Festival', multiple times. While the response starts off by correctly listing different cultural events in West Bengal, it then repeatedly mentions the same event, which is not accurate or grounded in the input content. This repetition of the same event is an unwarranted deviation from the original information, hence the score of 1."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides a list of popular cultural events in West Bengal, as asked. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it gets a score of 0 for hallucinations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response accurately lists several popular cultural events in West Bengal, such as Purnima, Durga Puja, Kolkata Fashion Week, Kolkata Comic Con, Kolkata Food Festival, and Kolkata Film Festival. These details are directly related to the question asked and do not introduce any hallucinations or factually incorrect information. The response does not add, omit, or distort any facts and maintains the integrity of the original information. Therefore, the score for hallucinations is 0."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response accurately lists several popular cultural events in West Bengal, as asked in the question. There are no hallucinations present, as all the events mentioned are real and popular in West Bengal. The response does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question. The response is strictly aligned with and grounded in the information provided in the question, maintaining the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a list of popular cultural events in West Bengal, as asked. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response accurately lists several popular cultural events in West Bengal, such as Durga Puja, Basant Panchami, Kalkul Purnima, Sonar Keti, and Bidyut Utsav. These details are directly related to the question asked and do not introduce any hallucinations. The response does not add, omit, or distort any facts and maintains the integrity of the original information. Therefore, the score for hallucinations is 0."
+        }
+    },
+    {
+        "prompt_id": "d7e62130-2094-494a-af56-2ad53d145690",
+        "prompt": "পশ্চিমবঙ্গের কাঁথা স্টিচ শাড়িগুলি কীভাবে এত অনন্য এবং এগুলি এই অঞ্চলের সমৃদ্ধ সংস্কৃতি সম্পর্কে কী প্রতিফলিত করে?",
+        "prompt_type": "culture",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 1,
+            "justification": "The response introduces statements that weren't present or implied in the input. The question asks about how the Kantha stitch sarees of West Bengal are unique and what they reflect about the rich culture of the region. However, the response does not provide any specific details about the uniqueness of these sarees or how they reflect the culture of West Bengal. Instead, it repeats the same phrase about the sarees being attractive and a part of the region's beauty, which does not directly answer the question. Therefore, the response demonstrates unexplained deviations and interpretations not grounded in the provided data."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response is repetitive and does not provide any new or relevant information to the question asked. It merely repeats the question without providing any explanation or details about why the Kantha stitch sarees of West Bengal are unique or how they reflect the rich culture of the region. This is a clear case of hallucination as the model's output is not grounded in the information provided in the input and introduces statements that weren't present or implied in the input."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 1,
+            "justification": "The response introduces a statement that wasn't present or implied in the input. The response mentions that the sarees are made on a triangular wooden frame, which is not mentioned or implied in the question. This is a hallucination as it introduces a detail that is not grounded in the provided data."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately explains how the uniqueness of West Bengal's Kantha stitch sarees reflects the rich culture of the region, without adding, omitting, or distorting any facts. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the input. The question asks about the uniqueness of Kantha stitch sarees in West Bengal and how they reflect the rich culture of the region. However, the response talks about Bangladesh and its culture, which is not relevant to the question. The response also contains repeated phrases and nonsensical sentences, indicating hallucinations. Therefore, the score is 1."
+        },
+        "gemini-pro": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately describes how the Kantha stitch sarees of West Bengal are unique and what they reflect about the region's rich culture. The response does not add, omit, or distort any facts that weren't part of the original content. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of how the Kantha stitch sarees of West Bengal are unique and reflect the rich culture of the region. It does not introduce any statements, claims, or details that weren't present or implied in the question. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any statements, claims, or details that weren't present or implied in the question. It does not contain any counterfactual information that directly conflicts with the question content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it does not exhibit any hallucinations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any new facts or details that were not present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There are no hallucinations present in the response, as it does not contain any counterfactual information that directly conflicts with the question content. Therefore, the score for hallucinations is 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is consistent with the question and does not introduce any hallucinations. It does not add, omit, or distort any facts. The response accurately reflects the unique nature of West Bengal's Kantha stitch sarees and how they represent the region's rich culture. However, the response is repetitive, repeating the same sentence multiple times, but this does not affect the hallucination score as it does not introduce any new or counterfactual information."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any new information that wasn't present or implied in the question. It does not contain any counterfactual information that directly conflicts with the question. The response maintains the integrity of the original information without any unwarranted extrapolations. However, the response is repetitive, repeating the same sentence multiple times, but this does not affect the hallucination score as it does not introduce any new or conflicting information."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately describes how the Kantha stitch sarees of West Bengal are unique and reflect the rich culture of the region. It does not add, omit, or distort any facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately describes how Kantha stitch sarees in West Bengal are unique and how they reflect the rich culture of the region. The response does not add, omit, or distort any facts that weren't part of the original content. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "justification": "The response is strictly aligned with and grounded in the information provided in the question. It does not add, omit, or distort facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. It accurately explains how the Kantha stitch sarees of West Bengal are unique and how they reflect the rich culture of the region.",
+            "score": 0
+        }
+    },
+    {
+        "prompt_id": "82c26f94-9707-4b93-b2ce-46120ace1fd2",
+        "prompt": "পশ্চিমবঙ্গের কিছু বিখ্যাত ঐতিহ্যবাহী শিল্পকলা এবং কারুশিল্পগুলি কী কী?",
+        "prompt_type": "culture",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 1,
+            "justification": "The response introduces statements that weren't present or implied in the input. The question asks for specific traditional arts and crafts of West Bengal, but the response does not provide any specific examples. Instead, it repeats the word 'painting' multiple times, which is not aligned with the information provided in the input. This is a clear case of hallucination, as the model is generating content that is not based on the input."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response is in English while the question is in Bengali. This is a clear deviation from the input content. The response also introduces details that were not present or implied in the input, such as the specific types of handicrafts in West Bengal. Therefore, the score is 1 according to the hallucinations metric."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response accurately lists some traditional arts and crafts of West Bengal, as asked in the question. There are no hallucinations present, as all the information provided in the response is directly related to the question and does not introduce any new, unrelated, or counterfactual information. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response accurately lists some of the traditional arts and crafts of West Bengal, such as Kantha Stitching, Shantiniketan's Batik, Bengali Patachitra, Dakshineswar's Bronze Craft, and Bishnupur's Terracotta Craft. There are no hallucinations present in the response, as it does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question. The response is strictly aligned with and grounded in the information provided in the question, maintaining the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the input. The response talks about 'Shorbori Shilpa' and 'Rajpur Shilpa' as traditional arts and crafts of West Bengal, which is not factually correct. Also, the response mentions Bangladesh multiple times, which is not relevant to the question about West Bengal. Therefore, the response contains hallucinations and is not strictly aligned with the information provided in the input."
+        },
+        "gemini-pro": {
+            "justification": "The response provided is strictly aligned with the question asked. The question asks for famous traditional arts and crafts in West Bengal, and the response lists several examples of such arts and crafts, including weaving, idol making for Durga Puja, embroidery, patachitra, brassware, ivory carving, paper craft, pottery, Kanchipuram silk, and Bandhani. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a list of traditional arts and crafts from West Bengal as asked. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response accurately lists some of the traditional arts and crafts of West Bengal, as asked in the question. There are no hallucinations present, as all the information provided in the response is directly related to the question and does not introduce any new, unrelated, or counterfactual information. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response introduces statements, claims, or details that weren't present or implied in the input. The question asks for traditional arts and crafts in West Bengal, and the response starts off correctly by mentioning woodwork in Kolkata and Haldia. However, it then repeatedly mentions 'Bangabandhu Art' institutions, which are not traditional arts or crafts, and also not specific to West Bengal. This is a clear hallucination as it introduces information that is not relevant to the question, hence the score of 1."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response introduces a hallucination by repeatedly mentioning the same craft, 'কাঁচি কাজ' (scissor work), as different points. This is not aligned with the question asking for 'some' famous traditional arts and crafts of West Bengal, implying a variety of different arts and crafts. The response does not provide this variety and instead repeats the same craft multiple times, which is a deviation from the input content."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response introduces a hallucination by repeatedly mentioning 'Kolkata's Sundarban woodwork' as a traditional art and craft of West Bengal. This is not only factually incorrect but also not implied in the question. The response also fails to provide a variety of traditional arts and crafts, which was the main requirement of the question. Therefore, the score is 1 as per the hallucination metric."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed list of traditional arts and crafts in West Bengal. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it scores 0 on the hallucinations metric."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response accurately lists several traditional arts and crafts of West Bengal, as asked in the question. There are no hallucinations present, as all the information provided in the response is factually correct and directly related to the question. The response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is well aligned with the question and does not introduce any hallucinations. It provides information about the traditional arts and crafts of West Bengal, such as various types of wooden and glass masks, utensils, idols, and complete services of glassware and handicrafts, which is exactly what the question asked for. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "8295664f-4765-4e24-ae6a-52b52d14a947",
+        "prompt": "পশ্চিমবঙ্গ কোন ঐতিহ্যবাহী খেলাগুলির জন্য বিখ্যাত?",
+        "prompt_type": "culture",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 1,
+            "justification": "The response introduces a hallucination by repeating the same information multiple times, which was not present in the original question. The repeated information does not add any new or relevant details to the response. Therefore, the response demonstrates an unexplained deviation not grounded in the provided data."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response does not provide any specific traditional games that West Bengal is famous for, which was the main point of the question. Instead, it repeats phrases that do not make sense in the context of the question. This is a clear case of hallucination, as the model is generating content that is not grounded in the input, hence the score of 1."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response accurately lists traditional games that West Bengal is famous for, such as Chati, Gollachut, Kabaddi, Kho-Kho, Lathi Khela, Hadudu, etc. It also mentions social games like Bou Bhat, Phul Tosha, Sarbatm Khela, etc. There are no hallucinations present in the response, as it does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response starts off well by listing traditional games popular in West Bengal, which is relevant to the question. However, it then deviates into unrelated topics such as health services and independence, which are not implied or related to the original question. This constitutes a hallucination, as these details were not present in the input question. Therefore, the score is 1."
+        },
+        "gemini-pro": {
+            "score": 0,
+            "justification": "The response accurately lists traditional games famous in West Bengal, as asked in the question. There are no hallucinations present, as all the games mentioned (Durga Puja Football, Lathi Khela, Kabaddi, Kho-Kho) are indeed traditional and popular in West Bengal. The response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response accurately lists traditional games that West Bengal is famous for, such as 'Gaye Holud', 'Chork Puja', 'Dhani Puja', 'Baishakhi Mela', 'Boat Race', 'Jhulan Yatra', 'Ras Yatra', 'Pat Kheli', 'Dari Bati', 'Unish Pala', and 'Meru-Singha'. There are no hallucinations present as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question. The response is strictly aligned with and grounded in the information provided in the question."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response accurately answers the question about traditional games famous in West Bengal, mentioning cricket, football, and kabaddi. There are no hallucinations present in the response. It does not introduce any statements, claims, or details that weren't present or implied in the input. It also does not contain any counterfactual information that directly conflicts with the input content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a list of traditional games famous in West Bengal, as asked. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response to the question is not informative and does not provide any specific traditional games that West Bengal is famous for. Instead, it repeats the word 'game' multiple times without any context or additional information. This is a clear hallucination as it introduces statements that weren't present or implied in the input and demonstrates unexplained deviations not grounded in the provided data."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 1,
+            "justification": "The response introduces a hallucination by repeating the word 'কুচি' multiple times, which is not a traditional game and was not implied in the question. This is a clear deviation from the input content, hence the score of 1."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response introduces statements that weren't present or implied in the input. The question asks for traditional games famous in West Bengal, but the response lists modern sports like cricket, football, hockey, baseball, badminton, tennis, squash, boxing, wrestling, which are not traditional games. Moreover, the response repeats the same list of sports multiple times, which is a distortion of facts."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response provided is strictly aligned with the information provided in the question. The question asks about traditional games famous in West Bengal, and the response accurately lists and describes several traditional games and activities that are popular in the region. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response accurately lists traditional games famous in West Bengal, as asked in the question. There are no hallucinations present, as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question. The response is strictly aligned with and grounded in the information provided in the question, maintaining the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It lists out various traditional sports that West Bengal is famous for, without adding, omitting, or distorting any facts. It maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it gets a score of 0 for hallucinations."
+        }
+    },
+    {
+        "prompt_id": "d8af18cc-a750-420a-b5d5-f645ba86a31c",
+        "prompt": "পশ্চিমবঙ্গের তাঁত বস্ত্র তৈরিতে কোন নকশা ও প্যাটার্ন ব্যবহার করা হয়?",
+        "prompt_type": "culture",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 1,
+            "justification": "The response introduces a repeated phrase that wasn't present or implied in the question. The repeated phrase 'একটি উপযুক্ত উপাদানের সাথে' does not provide any meaningful information related to the question about the patterns used in the creation of West Bengal's handloom textiles. This repetition can be considered as a hallucination, as it is a linguistically fluent but factually baseless addition to the response."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response introduces statements that weren't present or implied in the input. The question asks about the patterns used in the production of West Bengal's handloom textiles, but the response does not provide any specific information about these patterns. Instead, it repeats phrases about the respondent's excitement and the questioner's efforts, which are not relevant to the question. This is a clear case of hallucination, as the response deviates from the input and introduces irrelevant details."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the information provided in the question. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. Therefore, the score for hallucinations is 0."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing detailed information about the patterns and designs used in the production of handloom textiles in West Bengal. It does not introduce any statements, claims, or details that weren't present or implied in the question. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "score": 1,
+            "justification": "The response introduces statements and details that weren't present or implied in the question. The question asks about the patterns used in the production of handloom textiles in West Bengal, but the response talks about preservation of textiles and uses of Bangladeshi leaf patterns, which is not relevant to the question. The response also contains repetitive phrases and sentences, which can be considered as hallucinations. Therefore, the score is 1."
+        },
+        "gemini-pro": {
+            "justification": "The response accurately answers the question about the types of patterns and designs used in the creation of West Bengal's handloom textiles. It provides a detailed list of various patterns such as flowers and vines, geometric designs, animals and birds, scenes from folklore and epics, and religious symbols. There is no evidence of hallucinations as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations.",
+            "score": 0
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing detailed information about the patterns used in the production of West Bengal's handloom fabrics. It does not introduce any statements, claims, or details that weren't present or implied in the question. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it gets a score of 0 for hallucinations."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing information about the patterns used in the creation of West Bengal's handloom fabrics. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing detailed information about the patterns and designs used in the creation of West Bengal's handloom textiles. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 1,
+            "justification": "The response introduces a hallucination by repeating the same examples of patterns ('Sundarban', 'Kashmir', 'Mohammadpur') multiple times without any context or explanation. This repetition is not grounded in the question and does not provide any additional or relevant information. Therefore, the response contains statements that weren't present or implied in the input, leading to a score of 1."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing detailed information about the patterns used in the creation of West Bengal's handloom fabrics. There is no evidence of added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 1,
+            "justification": "The response introduces a hallucination by repeating the same pattern 'কলকাতা সুতরাং' multiple times, which was not present or implied in the question. This repetition is an unwarranted deviation from the original content of the question, hence the score of 1."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing detailed information about the patterns and designs used in the creation of West Bengal's handloom fabrics. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response maintains the integrity of the original information without any unwarranted extrapolations or distortions. It does not contain any counterfactual information that directly conflicts with the question."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response accurately answers the question about the patterns used in the production of handloom textiles in West Bengal. It does not introduce any statements, claims, or details that weren't present or implied in the question. There are no hallucinations, as the response is strictly aligned with and grounded in the information provided in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It accurately answers the question about the types of designs and patterns used in the production of handloom textiles in West Bengal, stating that various designs and patterns are used, and these depend on the specific preferences and usage of the institution. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        }
+    },
+    {
+        "prompt_id": "6750d0c4-7ca6-46e5-9e3d-33d2b3a72cd1",
+        "prompt": "পশ্চিমবঙ্গের সাহিত্যের ঐতিহ্য কীভাবে ভারতীয় সাহিত্যকে আধুনিক সময়ের সঙ্গে যুক্ত করছে?",
+        "prompt_type": "culture",
+        "language": "bengali",
+        "OdiaGenAI/odiagenAI-bengali-base-model-v1": {
+            "score": 1,
+            "justification": "The response introduces repetitive statements that were not present or implied in the question. It does not provide a clear explanation on how the tradition of West Bengal's literature is connecting Indian literature with modern times, which was the main focus of the question. Instead, it repeats the same phrase multiple times, which is an unwarranted deviation from the original content of the question."
+        },
+        "meta-llama/Llama-2-7b-chat-hf": {
+            "score": 1,
+            "justification": "The response is repetitive and does not provide a clear or coherent answer to the question. It introduces statements that were not present or implied in the input, such as the repeated phrase 'তিনি আছেন ভারতীয় সাহিত্যের ঐতিহ্য আধুনিক সময়ের সঙ্গে আছেন।' This phrase does not make sense in the context of the question and seems to be a hallucination. The response does not explain how the tradition of West Bengal's literature is connecting Indian literature with modern times, which was the main point of the question."
+        },
+        "meta-llama/Meta-Llama-3-8B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any new facts or details that were not present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There are no hallucinations present in the response."
+        },
+        "meta-llama/Meta-Llama-3-70B-Instruct": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of how the tradition of West Bengal's literature is connecting Indian literature with modern times. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it gets a score of 0 for hallucinations."
+        },
+        "mistralai/Mistral-7B-Instruct-v0.2": {
+            "justification": "The response provided is consistent with the question asked. The question asks about how the tradition of literature in West Bengal is connecting Indian literature with modern times. The response explains this by stating that West Bengal's literature has integrated Indian literature into modern times through a unique method, combining traditional and new types of poetry, literature, writings, and scientific topics. There are no hallucinations present in the response, as it does not introduce any statements, claims, or details that weren't present or implied in the question. It also does not contain any counterfactual information that directly conflicts with the question.",
+            "score": 0
+        },
+        "gemini-pro": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of how the tradition of literature in West Bengal is connecting Indian literature with modern times. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it gets a score of 0 for hallucinations."
+        },
+        "gpt-4": {
+            "score": 0,
+            "justification": "The response is strictly aligned with and grounded in the information provided in the question. It does not add, omit, or distort facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations. It accurately describes how West Bengal's literature is connecting with modern times in Indian literature, which is exactly what the question asked for."
+        },
+        "gpt-35-turbo": {
+            "score": 0,
+            "justification": "The response is consistent with the question asked. It provides information on how West Bengal's literature is connecting Indian literature with modern times, mentioning the influence of Hindu revivalist thought and the rise of socialist thought and women's issues after the liberation war. There are no hallucinations, as the response does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "google/gemma-7b-it": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any hallucinations. It provides a detailed explanation of how the tradition of West Bengal's literature is connecting Indian literature with modern times, which is exactly what the question asked. There are no added, omitted, or distorted facts that weren't part of the original content. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaOrca-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any new facts or details that were not present or implied in the question. It does not contain any counterfactual information that directly conflicts with the question. The response maintains the integrity of the original information without any unwarranted extrapolations."
+        },
+        "GenVRadmin/AryaBhatta-GemmaUltra-Merged": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any new facts or details that were not present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There are no hallucinations present in the response."
+        },
+        "Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa-2.0": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and does not introduce any new facts or details that were not present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There are no hallucinations present in the response."
+        },
+        "SamwaadLLM": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question and provides a detailed explanation of how West Bengal's literature is connecting Indian tradition with modern times. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. Therefore, it does not contain any hallucinations."
+        },
+        "GPT4o": {
+            "score": 0,
+            "justification": "The response is strictly aligned with the question, providing a detailed explanation of how the literary tradition of West Bengal is connecting Indian literature with modern times. It does not introduce any statements, claims, or details that weren't present or implied in the question. It maintains the integrity of the original information without any unwarranted extrapolations. There are no hallucinations present in the response."
+        },
+        "GenVRadmin/llama38bGenZ_Vikas-Merged": {
+            "score": 0,
+            "justification": "The response is well-aligned with the question and does not introduce any hallucinations. It accurately addresses how the tradition of West Bengal's literature is connecting with Indian literature in modern times, without adding, omitting, or distorting any facts. The response maintains the integrity of the original question without any unwarranted extrapolations."
+        }
+    }
+]
